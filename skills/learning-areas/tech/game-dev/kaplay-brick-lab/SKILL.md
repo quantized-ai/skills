@@ -3,6 +3,7 @@ name: game-development-basics-with-kaplay
 description: A step by step program to guide the student over the fundamentals of Game Development using JavasScript and Kaplay. The environment required is `Frontend Advanced`.
 type: learning-program
 properties.learning_area: Game Development
+properties.environment: frontend-dev
 ---
 
 # Kaplay Brick Lab coach

@@ -3,6 +3,7 @@ name: machine-learning-with-python-scikit-learn
 description: A hands-on course in supervised machine learning with Python and scikit-learn, covering classification and regression, data cleaning and feature engineering, evaluation metrics, underfitting and overfitting, preprocessing pipelines, cross-validation, and hyperparameter tuning. Learners demonstrate proficiency by building, evaluating, improving, and explaining reproducible machine-learning projects using tabular data. Best for Jupyterlite.
 type: learning-program
 properties.learning_area: Data
+properties.environment: jupyterlite
 ---
 
 # Machine Learning with Python and scikit-learn
