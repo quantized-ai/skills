@@ -1,3 +1,10 @@
+---
+name: sql-course
+description: A hands-on course in read-only SQL for beginners, using SQLite to develop transferable skills for querying relational data. The program covers retrieving, filtering, sorting, and paginating results; joining tables; calculating values; working with text, numbers, dates, and timezones; and producing grouped reports. It emphasizes diagnosing missing-value, precision, and duplicate-row errors, while identifying relevant differences across SQLite, PostgreSQL, and MySQL. AI-guided practice and evidence-based assessments support progression through demonstrated proficiency.
+type: learning-program
+properties.learning_area: SQL
+---
+
 # SQL Querying with SQLite
 
 ## Course goal
