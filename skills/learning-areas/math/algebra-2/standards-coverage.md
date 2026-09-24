@@ -2,7 +2,7 @@
 
 [Curriculum](curriculum.md) · [Official sources and scope](sources-and-scope.md)
 
-The 484 concept objectives retain individual standards mappings. The references below combine standard wording with links to the lesson concepts containing the mapped objectives and assessments. Common Core Appendix A determines the traditional Algebra II pathway; Texas standards supply the additional required content and processes.
+Each concept objective has an individual mapping in the standards.md file beside its lesson. The references below combine standard wording with links to those tables of concepts, learning objectives, and standards. Common Core Appendix A determines the traditional Algebra II pathway; Texas standards supply the additional required content and processes.
 
 ## How to read the evidence
 

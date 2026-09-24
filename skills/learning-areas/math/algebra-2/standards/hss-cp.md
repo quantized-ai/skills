@@ -2,7 +2,7 @@
 
 [Standards index](../standards-coverage.md) · [Curriculum](../curriculum.md)
 
-Source document: **Common Core mathematics standards**. The wording below is the standard reference; objective links open the lesson concept containing the instructional and assessment evidence. Mapping categories describe alignment, not student attainment.
+Source document: **Common Core mathematics standards**. The wording below is the standard reference; lesson links open the companion standards tables containing the mapped concepts and learning objectives. Mapping categories describe alignment, not student attainment.
 
 ## HSS-CP.A.1
 
@@ -12,7 +12,7 @@ Describe events as subsets of a sample space (the set of outcomes) using charact
 
 **Prerequisite review**
 
-- [U17-L04-C01-O1](../units/unit-17-statistical-distributions-and-inference/lesson-4-probability-simulation-and-model-checking/lesson.md#concept-u17-l04-c01-random-trials-and-empirical-frequencies)
+- [Lesson 17.4: Probability simulation and model checking](../units/unit-17-statistical-distributions-and-inference/lesson-4-probability-simulation-and-model-checking/standards.md)
 
 ## HSS-CP.A.2
 
@@ -22,7 +22,7 @@ Understand that two events A and B are independent if the probability of A and B
 
 **Prerequisite review**
 
-- [U17-L04-C01-O1](../units/unit-17-statistical-distributions-and-inference/lesson-4-probability-simulation-and-model-checking/lesson.md#concept-u17-l04-c01-random-trials-and-empirical-frequencies)
+- [Lesson 17.4: Probability simulation and model checking](../units/unit-17-statistical-distributions-and-inference/lesson-4-probability-simulation-and-model-checking/standards.md)
 
 ## HSS-CP.A.4
 
@@ -32,4 +32,4 @@ Construct and interpret two-way frequency tables of data when two categories are
 
 **Prerequisite review**
 
-- [U17-L09-C02-O1](../units/unit-17-statistical-distributions-and-inference/lesson-9-probability-based-decisions/lesson.md#concept-u17-l09-c02-conditional-probabilities-and-decision-tradeoffs)
+- [Lesson 17.9: Probability-based decisions](../units/unit-17-statistical-distributions-and-inference/lesson-9-probability-based-decisions/standards.md)

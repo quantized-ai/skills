@@ -31,4 +31,4 @@ The required course excludes calculus, general matrix algebra, a full conics cou
 - **Prerequisite review** identifies content revisited from earlier study.
 - **Extension** identifies work beyond the cited standard’s explicit bounds. This mapping label alone does not determine whether the combined course requires the work.
 
-Each objective retains its individual mapping. The [standards index](standards-coverage.md) links back to that evidence. Purely symbolic work does not substitute for contextual interpretation where the standard requires it. Mathematical processes are documented in the [practice evidence guide](mathematical-practices.md).
+Each objective retains its individual mapping in the standards.md file beside its lesson. The [standards index](standards-coverage.md) links to those tables. Purely symbolic work does not substitute for contextual interpretation where the standard requires it. Mathematical processes are documented in the [practice evidence guide](mathematical-practices.md).

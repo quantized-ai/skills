@@ -2,7 +2,7 @@
 
 [Standards index](../standards-coverage.md) · [Curriculum](../curriculum.md)
 
-Source document: **Common Core mathematics standards**. The wording below is the standard reference; objective links open the lesson concept containing the instructional and assessment evidence. Mapping categories describe alignment, not student attainment.
+Source document: **Common Core mathematics standards**. The wording below is the standard reference; lesson links open the companion standards tables containing the mapped concepts and learning objectives. Mapping categories describe alignment, not student attainment.
 
 ## HSA-REI.A.1
 
@@ -12,12 +12,12 @@ Explain each step in solving a simple equation as following from the equality of
 
 **Direct**
 
-- [U03-L07-C01-O2](../units/unit-3-polynomial-factorization/lesson-7-factored-equations-and-zeros/lesson.md#concept-u03-l07-c01-the-zero-product-property)
-- [U04-L05-C01-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-5-factoring-and-square-root-methods/lesson.md#concept-u04-l05-c01-selecting-and-using-a-factoring-method)
-- [U04-L06-C02-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-6-completing-the-square/lesson.md#concept-u04-l06-c02-completing-the-square-with-a-nonunit-leading-coefficient)
-- [U04-L08-C02-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-8-complex-quadratic-roots-and-method-choice/lesson.md#concept-u04-l08-c02-choosing-and-comparing-quadratic-methods)
-- [U10-L05-C01-O2](../units/unit-10-exponential-functions/lesson-5-exponential-equations/lesson.md#concept-u10-l05-c01-common-base-equations)
-- [U11-L05-C01-O2](../units/unit-11-logarithms/lesson-5-exponential-and-logarithmic-equations/lesson.md#concept-u11-l05-c01-solving-exponential-equations-with-logarithms)
+- [Lesson 3.7: Factored equations and zeros](../units/unit-3-polynomial-factorization/lesson-7-factored-equations-and-zeros/standards.md)
+- [Lesson 4.5: Factoring and square-root methods](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-5-factoring-and-square-root-methods/standards.md)
+- [Lesson 4.6: Completing the square](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-6-completing-the-square/standards.md)
+- [Lesson 4.8: Complex quadratic roots and method choice](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-8-complex-quadratic-roots-and-method-choice/standards.md)
+- [Lesson 10.5: Exponential equations](../units/unit-10-exponential-functions/lesson-5-exponential-equations/standards.md)
+- [Lesson 11.5: Exponential and logarithmic equations](../units/unit-11-logarithms/lesson-5-exponential-and-logarithmic-equations/standards.md)
 
 ## HSA-REI.A.2
 
@@ -27,16 +27,16 @@ Solve simple rational and radical equations in one variable, and give examples s
 
 **Direct**
 
-- [U08-L04-C01-O1](../units/unit-8-rational-functions-and-equations/lesson-4-rational-equations/lesson.md#concept-u08-l04-c01-clearing-denominators-and-checking-candidates), [U08-L04-C01-O2](../units/unit-8-rational-functions-and-equations/lesson-4-rational-equations/lesson.md#concept-u08-l04-c01-clearing-denominators-and-checking-candidates), [U08-L04-C02-O1](../units/unit-8-rational-functions-and-equations/lesson-4-rational-equations/lesson.md#concept-u08-l04-c02-multiple-solutions-and-graphical-confirmation)
-- [U09-L06-C01-O1](../units/unit-9-radicals-rational-exponents-and-root-functions/lesson-6-radical-equations/lesson.md#concept-u09-l06-c01-square-root-equations-and-extraneous-candidates), [U09-L06-C01-O2](../units/unit-9-radicals-rational-exponents-and-root-functions/lesson-6-radical-equations/lesson.md#concept-u09-l06-c01-square-root-equations-and-extraneous-candidates), [U09-L06-C02-O1](../units/unit-9-radicals-rational-exponents-and-root-functions/lesson-6-radical-equations/lesson.md#concept-u09-l06-c02-two-radicals-and-cube-root-equations), [U09-L06-C02-O2](../units/unit-9-radicals-rational-exponents-and-root-functions/lesson-6-radical-equations/lesson.md#concept-u09-l06-c02-two-radicals-and-cube-root-equations)
+- [Lesson 8.4: Rational equations](../units/unit-8-rational-functions-and-equations/lesson-4-rational-equations/standards.md)
+- [Lesson 9.6: Radical equations](../units/unit-9-radicals-rational-exponents-and-root-functions/lesson-6-radical-equations/standards.md)
 
 **Supporting knowledge**
 
-- [U09-L07-C01-O1](../units/unit-9-radicals-rational-exponents-and-root-functions/lesson-7-rational-power-equations-and-root-formulas/lesson.md#concept-u09-l07-c01-equations-with-rational-powers)
+- [Lesson 9.7: Rational-power equations and root formulas](../units/unit-9-radicals-rational-exponents-and-root-functions/lesson-7-rational-power-equations-and-root-formulas/standards.md)
 
 **Extension**
 
-- [U08-L06-C02-O1](../units/unit-8-rational-functions-and-equations/lesson-6-optional-rational-function-extensions/lesson.md#concept-u08-l06-c02-rational-inequalities--optional-extension)
+- [Lesson 8.6: Optional rational-function extensions](../units/unit-8-rational-functions-and-equations/lesson-6-optional-rational-function-extensions/standards.md)
 
 ## HSA-REI.B.3
 
@@ -46,8 +46,8 @@ Solve linear equations and inequalities in one variable, including equations wit
 
 **Supporting knowledge**
 
-- [U01-L02-C01-O2](../units/unit-1-functions-and-absolute-value/lesson-2-sets-intervals-domain-and-range/lesson.md#concept-u01-l02-c01-representing-sets-of-real-numbers)
-- [U01-L06-C02-O2](../units/unit-1-functions-and-absolute-value/lesson-6-absolute-value-functions-and-equations/lesson.md#concept-u01-l06-c02-absolute-value-equations)
+- [Lesson 1.2: Sets, intervals, domain, and range](../units/unit-1-functions-and-absolute-value/lesson-2-sets-intervals-domain-and-range/standards.md)
+- [Lesson 1.6: Absolute value functions and equations](../units/unit-1-functions-and-absolute-value/lesson-6-absolute-value-functions-and-equations/standards.md)
 
 ## HSA-REI.B.4
 
@@ -65,8 +65,8 @@ Use the method of completing the square to transform any quadratic equation in x
 
 **Direct**
 
-- [U04-L06-C01-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-6-completing-the-square/lesson.md#concept-u04-l06-c01-completing-the-square-when-the-leading-coefficient-is-one), [U04-L06-C02-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-6-completing-the-square/lesson.md#concept-u04-l06-c02-completing-the-square-with-a-nonunit-leading-coefficient)
-- [U04-L07-C01-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-7-the-quadratic-formula-and-discriminant/lesson.md#concept-u04-l07-c01-deriving-and-applying-the-quadratic-formula)
+- [Lesson 4.6: Completing the square](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-6-completing-the-square/standards.md)
+- [Lesson 4.7: The quadratic formula and discriminant](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-7-the-quadratic-formula-and-discriminant/standards.md)
 
 ## HSA-REI.B.4b
 
@@ -76,21 +76,21 @@ Solve quadratic equations by inspection (e.g., for x^(2) = 49), taking square ro
 
 **Direct**
 
-- [U03-L07-C01-O1](../units/unit-3-polynomial-factorization/lesson-7-factored-equations-and-zeros/lesson.md#concept-u03-l07-c01-the-zero-product-property), [U03-L07-C02-O1](../units/unit-3-polynomial-factorization/lesson-7-factored-equations-and-zeros/lesson.md#concept-u03-l07-c02-connecting-zeros-factors-and-polynomial-equations)
-- [U04-L05-C01-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-5-factoring-and-square-root-methods/lesson.md#concept-u04-l05-c01-selecting-and-using-a-factoring-method), [U04-L05-C01-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-5-factoring-and-square-root-methods/lesson.md#concept-u04-l05-c01-selecting-and-using-a-factoring-method), [U04-L05-C02-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-5-factoring-and-square-root-methods/lesson.md#concept-u04-l05-c02-the-square-root-property), [U04-L05-C02-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-5-factoring-and-square-root-methods/lesson.md#concept-u04-l05-c02-the-square-root-property)
-- [U04-L06-C01-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-6-completing-the-square/lesson.md#concept-u04-l06-c01-completing-the-square-when-the-leading-coefficient-is-one), [U04-L06-C02-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-6-completing-the-square/lesson.md#concept-u04-l06-c02-completing-the-square-with-a-nonunit-leading-coefficient)
-- [U04-L07-C01-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-7-the-quadratic-formula-and-discriminant/lesson.md#concept-u04-l07-c01-deriving-and-applying-the-quadratic-formula), [U04-L07-C02-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-7-the-quadratic-formula-and-discriminant/lesson.md#concept-u04-l07-c02-the-discriminant-and-root-classification)
-- [U04-L08-C01-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-8-complex-quadratic-roots-and-method-choice/lesson.md#concept-u04-l08-c01-solving-quadratics-with-complex-roots), [U04-L08-C02-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-8-complex-quadratic-roots-and-method-choice/lesson.md#concept-u04-l08-c02-choosing-and-comparing-quadratic-methods), [U04-L08-C02-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-8-complex-quadratic-roots-and-method-choice/lesson.md#concept-u04-l08-c02-choosing-and-comparing-quadratic-methods)
-- [U05-L02-C02-O2](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-2-converting-forms-and-locating-zeros/lesson.md#concept-u05-l02-c02-zeros-and-the-discriminant-on-a-real-graph)
+- [Lesson 3.7: Factored equations and zeros](../units/unit-3-polynomial-factorization/lesson-7-factored-equations-and-zeros/standards.md)
+- [Lesson 4.5: Factoring and square-root methods](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-5-factoring-and-square-root-methods/standards.md)
+- [Lesson 4.6: Completing the square](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-6-completing-the-square/standards.md)
+- [Lesson 4.7: The quadratic formula and discriminant](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-7-the-quadratic-formula-and-discriminant/standards.md)
+- [Lesson 4.8: Complex quadratic roots and method choice](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-8-complex-quadratic-roots-and-method-choice/standards.md)
+- [Lesson 5.2: Converting forms and locating zeros](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-2-converting-forms-and-locating-zeros/standards.md)
 
 **Prerequisite review**
 
-- [U09-L01-C01-O2](../units/unit-9-radicals-rational-exponents-and-root-functions/lesson-1-root-definitions-and-principal-values/lesson.md#concept-u09-l01-c01-even-and-odd-nth-roots)
+- [Lesson 9.1: Root definitions and principal values](../units/unit-9-radicals-rational-exponents-and-root-functions/lesson-1-root-definitions-and-principal-values/standards.md)
 
 **Supporting knowledge**
 
-- [U04-L07-C02-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-7-the-quadratic-formula-and-discriminant/lesson.md#concept-u04-l07-c02-the-discriminant-and-root-classification)
-- [U05-L08-C01-O1](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-8-quadratic-inequalities/lesson.md#concept-u05-l08-c01-quadratic-inequalities-with-two-real-zeros)
+- [Lesson 4.7: The quadratic formula and discriminant](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-7-the-quadratic-formula-and-discriminant/standards.md)
+- [Lesson 5.8: Quadratic inequalities](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-8-quadratic-inequalities/standards.md)
 
 ## HSA-REI.C.5
 
@@ -100,11 +100,11 @@ Prove that, given a system of two equations in two variables, replacing one equa
 
 **Direct**
 
-- [U13-L01-C01-O2](../units/unit-13-systems-and-graphical-solutions/lesson-1-solution-sets-and-equivalent-systems/lesson.md#concept-u13-l01-c01-simultaneous-solutions-and-reversible-elimination)
+- [Lesson 13.1: Solution sets and equivalent systems](../units/unit-13-systems-and-graphical-solutions/lesson-1-solution-sets-and-equivalent-systems/standards.md)
 
 **Extension**
 
-- [U13-L02-C02-O1](../units/unit-13-systems-and-graphical-solutions/lesson-2-three-variable-linear-systems/lesson.md#concept-u13-l02-c02-gaussian-elimination-and-back-substitution)
+- [Lesson 13.2: Three-variable linear systems](../units/unit-13-systems-and-graphical-solutions/lesson-2-three-variable-linear-systems/standards.md)
 
 ## HSA-REI.C.6
 
@@ -114,11 +114,11 @@ Solve systems of linear equations exactly and approximately (e.g., with graphs),
 
 **Prerequisite review**
 
-- [U13-L01-C01-O1](../units/unit-13-systems-and-graphical-solutions/lesson-1-solution-sets-and-equivalent-systems/lesson.md#concept-u13-l01-c01-simultaneous-solutions-and-reversible-elimination), [U13-L01-C02-O1](../units/unit-13-systems-and-graphical-solutions/lesson-1-solution-sets-and-equivalent-systems/lesson.md#concept-u13-l01-c02-substitution-and-elimination-in-two-variables), [U13-L01-C02-O2](../units/unit-13-systems-and-graphical-solutions/lesson-1-solution-sets-and-equivalent-systems/lesson.md#concept-u13-l01-c02-substitution-and-elimination-in-two-variables)
+- [Lesson 13.1: Solution sets and equivalent systems](../units/unit-13-systems-and-graphical-solutions/lesson-1-solution-sets-and-equivalent-systems/standards.md)
 
 **Extension**
 
-- [U13-L02-C01-O2](../units/unit-13-systems-and-graphical-solutions/lesson-2-three-variable-linear-systems/lesson.md#concept-u13-l02-c01-formulation-and-substitution)
+- [Lesson 13.2: Three-variable linear systems](../units/unit-13-systems-and-graphical-solutions/lesson-2-three-variable-linear-systems/standards.md)
 
 ## HSA-REI.C.7
 
@@ -128,7 +128,7 @@ Solve a simple system consisting of a linear equation and a quadratic equation i
 
 **Direct**
 
-- [U13-L04-C02-O1](../units/unit-13-systems-and-graphical-solutions/lesson-4-linear-quadratic-systems/lesson.md#concept-u13-l04-c02-algebraic-solutions-and-intersection-counts), [U13-L04-C02-O2](../units/unit-13-systems-and-graphical-solutions/lesson-4-linear-quadratic-systems/lesson.md#concept-u13-l04-c02-algebraic-solutions-and-intersection-counts)
+- [Lesson 13.4: Linear–quadratic systems](../units/unit-13-systems-and-graphical-solutions/lesson-4-linear-quadratic-systems/standards.md)
 
 ## HSA-REI.C.8 (+)
 
@@ -138,7 +138,7 @@ Solve a simple system consisting of a linear equation and a quadratic equation i
 
 **Supporting knowledge**
 
-- [U13-L03-C01-O1](../units/unit-13-systems-and-graphical-solutions/lesson-3-matrix-representation-and-solution-classification/lesson.md#concept-u13-l03-c01-augmented-matrices-and-technology)
+- [Lesson 13.3: Matrix representation and solution classification](../units/unit-13-systems-and-graphical-solutions/lesson-3-matrix-representation-and-solution-classification/standards.md)
 
 ## HSA-REI.D.11
 
@@ -148,9 +148,9 @@ Explain why the x-coordinates of the points where the graphs of the equations y 
 
 **Direct**
 
-- [U08-L04-C02-O2](../units/unit-8-rational-functions-and-equations/lesson-4-rational-equations/lesson.md#concept-u08-l04-c02-multiple-solutions-and-graphical-confirmation)
-- [U10-L05-C02-O1](../units/unit-10-exponential-functions/lesson-5-exponential-equations/lesson.md#concept-u10-l05-c02-graphical-and-numerical-solutions), [U10-L05-C02-O2](../units/unit-10-exponential-functions/lesson-5-exponential-equations/lesson.md#concept-u10-l05-c02-graphical-and-numerical-solutions)
-- [U13-L05-C01-O1](../units/unit-13-systems-and-graphical-solutions/lesson-5-nonlinear-systems-and-numerical-intersections/lesson.md#concept-u13-l05-c01-equations-as-intersections-and-successive-approximations), [U13-L05-C01-O2](../units/unit-13-systems-and-graphical-solutions/lesson-5-nonlinear-systems-and-numerical-intersections/lesson.md#concept-u13-l05-c01-equations-as-intersections-and-successive-approximations), [U13-L05-C02-O1](../units/unit-13-systems-and-graphical-solutions/lesson-5-nonlinear-systems-and-numerical-intersections/lesson.md#concept-u13-l05-c02-quadraticquadratic-systems), [U13-L05-C02-O2](../units/unit-13-systems-and-graphical-solutions/lesson-5-nonlinear-systems-and-numerical-intersections/lesson.md#concept-u13-l05-c02-quadraticquadratic-systems)
+- [Lesson 8.4: Rational equations](../units/unit-8-rational-functions-and-equations/lesson-4-rational-equations/standards.md)
+- [Lesson 10.5: Exponential equations](../units/unit-10-exponential-functions/lesson-5-exponential-equations/standards.md)
+- [Lesson 13.5: Nonlinear systems and numerical intersections](../units/unit-13-systems-and-graphical-solutions/lesson-5-nonlinear-systems-and-numerical-intersections/standards.md)
 
 ## HSA-REI.D.12
 
@@ -160,8 +160,8 @@ Graph the solutions to a linear inequality in two variables as a half-plane (exc
 
 **Direct**
 
-- [U13-L06-C02-O1](../units/unit-13-systems-and-graphical-solutions/lesson-6-linear-inequalities-and-feasible-regions/lesson.md#concept-u13-l06-c02-intersections-of-half-planes)
+- [Lesson 13.6: Linear inequalities and feasible regions](../units/unit-13-systems-and-graphical-solutions/lesson-6-linear-inequalities-and-feasible-regions/standards.md)
 
 **Prerequisite review**
 
-- [U13-L06-C01-O1](../units/unit-13-systems-and-graphical-solutions/lesson-6-linear-inequalities-and-feasible-regions/lesson.md#concept-u13-l06-c01-boundary-lines-and-half-planes), [U13-L06-C01-O2](../units/unit-13-systems-and-graphical-solutions/lesson-6-linear-inequalities-and-feasible-regions/lesson.md#concept-u13-l06-c01-boundary-lines-and-half-planes)
+- [Lesson 13.6: Linear inequalities and feasible regions](../units/unit-13-systems-and-graphical-solutions/lesson-6-linear-inequalities-and-feasible-regions/standards.md)

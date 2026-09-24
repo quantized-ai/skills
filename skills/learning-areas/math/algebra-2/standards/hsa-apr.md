@@ -2,7 +2,7 @@
 
 [Standards index](../standards-coverage.md) · [Curriculum](../curriculum.md)
 
-Source document: **Common Core mathematics standards**. The wording below is the standard reference; objective links open the lesson concept containing the instructional and assessment evidence. Mapping categories describe alignment, not student attainment.
+Source document: **Common Core mathematics standards**. The wording below is the standard reference; lesson links open the companion standards tables containing the mapped concepts and learning objectives. Mapping categories describe alignment, not student attainment.
 
 ## HSA-APR.A.1
 
@@ -12,20 +12,20 @@ Understand that polynomials form a system analogous to the integers, namely, the
 
 **Direct**
 
-- [U02-L02-C01-O2](../units/unit-2-polynomial-arithmetic/lesson-2-classification-and-degree/lesson.md#concept-u02-l02-c01-monomials-binomials-and-trinomials)
-- [U02-L04-C01-O1](../units/unit-2-polynomial-arithmetic/lesson-4-addition-and-subtraction/lesson.md#concept-u02-l04-c01-adding-polynomials-and-closure), [U02-L04-C01-O2](../units/unit-2-polynomial-arithmetic/lesson-4-addition-and-subtraction/lesson.md#concept-u02-l04-c01-adding-polynomials-and-closure), [U02-L04-C02-O1](../units/unit-2-polynomial-arithmetic/lesson-4-addition-and-subtraction/lesson.md#concept-u02-l04-c02-subtracting-polynomials-and-additive-inverses), [U02-L04-C02-O2](../units/unit-2-polynomial-arithmetic/lesson-4-addition-and-subtraction/lesson.md#concept-u02-l04-c02-subtracting-polynomials-and-additive-inverses)
-- [U02-L05-C01-O1](../units/unit-2-polynomial-arithmetic/lesson-5-distributive-multiplication/lesson.md#concept-u02-l05-c01-multiplying-monomials-and-distributing-a-monomial), [U02-L05-C01-O2](../units/unit-2-polynomial-arithmetic/lesson-5-distributive-multiplication/lesson.md#concept-u02-l05-c01-multiplying-monomials-and-distributing-a-monomial), [U02-L05-C02-O1](../units/unit-2-polynomial-arithmetic/lesson-5-distributive-multiplication/lesson.md#concept-u02-l05-c02-multiplying-binomials-and-general-polynomials), [U02-L05-C02-O2](../units/unit-2-polynomial-arithmetic/lesson-5-distributive-multiplication/lesson.md#concept-u02-l05-c02-multiplying-binomials-and-general-polynomials)
-- [U02-L06-C01-O1](../units/unit-2-polynomial-arithmetic/lesson-6-special-products/lesson.md#concept-u02-l06-c01-squares-of-binomials), [U02-L06-C02-O1](../units/unit-2-polynomial-arithmetic/lesson-6-special-products/lesson.md#concept-u02-l06-c02-products-of-conjugate-binomials)
+- [Lesson 2.2: Classification and degree](../units/unit-2-polynomial-arithmetic/lesson-2-classification-and-degree/standards.md)
+- [Lesson 2.4: Addition and subtraction](../units/unit-2-polynomial-arithmetic/lesson-4-addition-and-subtraction/standards.md)
+- [Lesson 2.5: Distributive multiplication](../units/unit-2-polynomial-arithmetic/lesson-5-distributive-multiplication/standards.md)
+- [Lesson 2.6: Special products](../units/unit-2-polynomial-arithmetic/lesson-6-special-products/standards.md)
 
 **Prerequisite review**
 
-- [U03-L03-C02-O2](../units/unit-3-polynomial-factorization/lesson-3-factoring-quadratic-trinomials/lesson.md#concept-u03-l03-c02-nonmonic-quadratic-trinomials)
+- [Lesson 3.3: Factoring quadratic trinomials](../units/unit-3-polynomial-factorization/lesson-3-factoring-quadratic-trinomials/standards.md)
 
 **Supporting knowledge**
 
-- [U02-L01-C01-O1](../units/unit-2-polynomial-arithmetic/lesson-1-definition-and-term-structure/lesson.md#concept-u02-l01-c01-what-is-a-polynomial), [U02-L01-C01-O2](../units/unit-2-polynomial-arithmetic/lesson-1-definition-and-term-structure/lesson.md#concept-u02-l01-c01-what-is-a-polynomial)
-- [U02-L02-C01-O1](../units/unit-2-polynomial-arithmetic/lesson-2-classification-and-degree/lesson.md#concept-u02-l02-c01-monomials-binomials-and-trinomials), [U02-L02-C02-O1](../units/unit-2-polynomial-arithmetic/lesson-2-classification-and-degree/lesson.md#concept-u02-l02-c02-degree-leading-term-and-leading-coefficient), [U02-L02-C02-O2](../units/unit-2-polynomial-arithmetic/lesson-2-classification-and-degree/lesson.md#concept-u02-l02-c02-degree-leading-term-and-leading-coefficient)
-- [U02-L03-C01-O1](../units/unit-2-polynomial-arithmetic/lesson-3-standard-form-and-evaluation/lesson.md#concept-u02-l03-c01-writing-a-polynomial-in-standard-form), [U02-L03-C01-O2](../units/unit-2-polynomial-arithmetic/lesson-3-standard-form-and-evaluation/lesson.md#concept-u02-l03-c01-writing-a-polynomial-in-standard-form)
+- [Lesson 2.1: Definition and term structure](../units/unit-2-polynomial-arithmetic/lesson-1-definition-and-term-structure/standards.md)
+- [Lesson 2.2: Classification and degree](../units/unit-2-polynomial-arithmetic/lesson-2-classification-and-degree/standards.md)
+- [Lesson 2.3: Standard form and evaluation](../units/unit-2-polynomial-arithmetic/lesson-3-standard-form-and-evaluation/standards.md)
 
 ## HSA-APR.B.2
 
@@ -35,12 +35,12 @@ Know and apply the Remainder Theorem: For a polynomial p(x) and a number a, the 
 
 **Direct**
 
-- [U06-L03-C01-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-3-remainders-and-factors/lesson.md#concept-u06-l03-c01-the-remainder-theorem), [U06-L03-C01-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-3-remainders-and-factors/lesson.md#concept-u06-l03-c01-the-remainder-theorem), [U06-L03-C02-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-3-remainders-and-factors/lesson.md#concept-u06-l03-c02-the-factor-theorem), [U06-L03-C02-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-3-remainders-and-factors/lesson.md#concept-u06-l03-c02-the-factor-theorem)
-- [U06-L04-C01-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-4-finding-and-solving-higher-degree-factors/lesson.md#concept-u06-l04-c01-the-rational-root-theorem-as-a-search-method), [U06-L04-C02-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-4-finding-and-solving-higher-degree-factors/lesson.md#concept-u06-l04-c02-solving-cubic-and-quartic-equations-by-degree-reduction)
+- [Lesson 6.3: Remainders and factors](../units/unit-6-polynomial-division-equations-and-graphs/lesson-3-remainders-and-factors/standards.md)
+- [Lesson 6.4: Finding and solving higher-degree factors](../units/unit-6-polynomial-division-equations-and-graphs/lesson-4-finding-and-solving-higher-degree-factors/standards.md)
 
 **Supporting knowledge**
 
-- [U06-L04-C01-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-4-finding-and-solving-higher-degree-factors/lesson.md#concept-u06-l04-c01-the-rational-root-theorem-as-a-search-method)
+- [Lesson 6.4: Finding and solving higher-degree factors](../units/unit-6-polynomial-division-equations-and-graphs/lesson-4-finding-and-solving-higher-degree-factors/standards.md)
 
 ## HSA-APR.B.3
 
@@ -50,16 +50,16 @@ Identify zeros of polynomials when suitable factorizations are available, and us
 
 **Direct**
 
-- [U03-L07-C01-O1](../units/unit-3-polynomial-factorization/lesson-7-factored-equations-and-zeros/lesson.md#concept-u03-l07-c01-the-zero-product-property), [U03-L07-C02-O1](../units/unit-3-polynomial-factorization/lesson-7-factored-equations-and-zeros/lesson.md#concept-u03-l07-c02-connecting-zeros-factors-and-polynomial-equations), [U03-L07-C02-O2](../units/unit-3-polynomial-factorization/lesson-7-factored-equations-and-zeros/lesson.md#concept-u03-l07-c02-connecting-zeros-factors-and-polynomial-equations)
-- [U06-L04-C02-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-4-finding-and-solving-higher-degree-factors/lesson.md#concept-u06-l04-c02-solving-cubic-and-quartic-equations-by-degree-reduction)
-- [U06-L05-C01-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-5-multiplicity-and-the-fundamental-theorem/lesson.md#concept-u06-l05-c01-multiplicity-of-zeros), [U06-L05-C01-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-5-multiplicity-and-the-fundamental-theorem/lesson.md#concept-u06-l05-c01-multiplicity-of-zeros)
-- [U06-L07-C02-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-7-end-behavior-and-sign-intervals/lesson.md#concept-u06-l07-c02-positive-and-negative-intervals-of-polynomials)
-- [U06-L08-C01-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-8-graph-synthesis-and-cubic-transformations/lesson.md#concept-u06-l08-c01-sketching-a-polynomial-graph-from-factors)
+- [Lesson 3.7: Factored equations and zeros](../units/unit-3-polynomial-factorization/lesson-7-factored-equations-and-zeros/standards.md)
+- [Lesson 6.4: Finding and solving higher-degree factors](../units/unit-6-polynomial-division-equations-and-graphs/lesson-4-finding-and-solving-higher-degree-factors/standards.md)
+- [Lesson 6.5: Multiplicity and the Fundamental Theorem](../units/unit-6-polynomial-division-equations-and-graphs/lesson-5-multiplicity-and-the-fundamental-theorem/standards.md)
+- [Lesson 6.7: End behavior and sign intervals](../units/unit-6-polynomial-division-equations-and-graphs/lesson-7-end-behavior-and-sign-intervals/standards.md)
+- [Lesson 6.8: Graph synthesis and cubic transformations](../units/unit-6-polynomial-division-equations-and-graphs/lesson-8-graph-synthesis-and-cubic-transformations/standards.md)
 
 **Supporting knowledge**
 
-- [U06-L06-C02-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-6-conjugate-roots-and-polynomial-construction/lesson.md#concept-u06-l06-c02-constructing-a-polynomial-from-zeros-and-scale), [U06-L06-C02-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-6-conjugate-roots-and-polynomial-construction/lesson.md#concept-u06-l06-c02-constructing-a-polynomial-from-zeros-and-scale)
-- [U06-L07-C02-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-7-end-behavior-and-sign-intervals/lesson.md#concept-u06-l07-c02-positive-and-negative-intervals-of-polynomials)
+- [Lesson 6.6: Conjugate roots and polynomial construction](../units/unit-6-polynomial-division-equations-and-graphs/lesson-6-conjugate-roots-and-polynomial-construction/standards.md)
+- [Lesson 6.7: End behavior and sign intervals](../units/unit-6-polynomial-division-equations-and-graphs/lesson-7-end-behavior-and-sign-intervals/standards.md)
 
 ## HSA-APR.C.4
 
@@ -69,15 +69,15 @@ Prove polynomial identities and use them to describe numerical relationships. Fo
 
 **Direct**
 
-- [U02-L06-C01-O2](../units/unit-2-polynomial-arithmetic/lesson-6-special-products/lesson.md#concept-u02-l06-c01-squares-of-binomials), [U02-L06-C02-O2](../units/unit-2-polynomial-arithmetic/lesson-6-special-products/lesson.md#concept-u02-l06-c02-products-of-conjugate-binomials)
-- [U02-L07-C01-O1](../units/unit-2-polynomial-arithmetic/lesson-7-polynomial-identities-and-equivalence/lesson.md#concept-u02-l07-c01-proving-and-disproving-polynomial-identities), [U02-L07-C02-O1](../units/unit-2-polynomial-arithmetic/lesson-7-polynomial-identities-and-equivalence/lesson.md#concept-u02-l07-c02-identities-and-numerical-relationships), [U02-L07-C02-O2](../units/unit-2-polynomial-arithmetic/lesson-7-polynomial-identities-and-equivalence/lesson.md#concept-u02-l07-c02-identities-and-numerical-relationships)
-- [U03-L05-C01-O2](../units/unit-3-polynomial-factorization/lesson-5-cube-structures/lesson.md#concept-u03-l05-c01-differences-of-cubes)
+- [Lesson 2.6: Special products](../units/unit-2-polynomial-arithmetic/lesson-6-special-products/standards.md)
+- [Lesson 2.7: Polynomial identities and equivalence](../units/unit-2-polynomial-arithmetic/lesson-7-polynomial-identities-and-equivalence/standards.md)
+- [Lesson 3.5: Cube structures](../units/unit-3-polynomial-factorization/lesson-5-cube-structures/standards.md)
 
 **Supporting knowledge**
 
-- [U02-L03-C02-O2](../units/unit-2-polynomial-arithmetic/lesson-3-standard-form-and-evaluation/lesson.md#concept-u02-l03-c02-evaluating-polynomial-expressions)
-- [U02-L07-C01-O2](../units/unit-2-polynomial-arithmetic/lesson-7-polynomial-identities-and-equivalence/lesson.md#concept-u02-l07-c01-proving-and-disproving-polynomial-identities)
-- [U06-L09-C01-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-9-binomial-coefficients-and-expansion/lesson.md#concept-u06-l09-c01-pascals-triangle-and-binomial-coefficients)
+- [Lesson 2.3: Standard form and evaluation](../units/unit-2-polynomial-arithmetic/lesson-3-standard-form-and-evaluation/standards.md)
+- [Lesson 2.7: Polynomial identities and equivalence](../units/unit-2-polynomial-arithmetic/lesson-7-polynomial-identities-and-equivalence/standards.md)
+- [Lesson 6.9: Binomial coefficients and expansion](../units/unit-6-polynomial-division-equations-and-graphs/lesson-9-binomial-coefficients-and-expansion/standards.md)
 
 ## HSA-APR.C.5 (+)
 
@@ -87,7 +87,7 @@ Prove polynomial identities and use them to describe numerical relationships. Fo
 
 **Direct**
 
-- [U06-L09-C01-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-9-binomial-coefficients-and-expansion/lesson.md#concept-u06-l09-c01-pascals-triangle-and-binomial-coefficients), [U06-L09-C01-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-9-binomial-coefficients-and-expansion/lesson.md#concept-u06-l09-c01-pascals-triangle-and-binomial-coefficients), [U06-L09-C02-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-9-binomial-coefficients-and-expansion/lesson.md#concept-u06-l09-c02-the-binomial-theorem-and-selected-coefficients), [U06-L09-C02-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-9-binomial-coefficients-and-expansion/lesson.md#concept-u06-l09-c02-the-binomial-theorem-and-selected-coefficients)
+- [Lesson 6.9: Binomial coefficients and expansion](../units/unit-6-polynomial-division-equations-and-graphs/lesson-9-binomial-coefficients-and-expansion/standards.md)
 
 ## HSA-APR.D.6
 
@@ -97,16 +97,16 @@ Rewrite simple rational expressions in different forms; write ^(a(x))/b(x) in th
 
 **Direct**
 
-- [U06-L01-C01-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-1-the-division-algorithm-and-linear-long-division/lesson.md#concept-u06-l01-c01-quotient-remainder-and-division-identity), [U06-L01-C01-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-1-the-division-algorithm-and-linear-long-division/lesson.md#concept-u06-l01-c01-quotient-remainder-and-division-identity), [U06-L01-C02-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-1-the-division-algorithm-and-linear-long-division/lesson.md#concept-u06-l01-c02-long-division-by-a-linear-polynomial), [U06-L01-C02-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-1-the-division-algorithm-and-linear-long-division/lesson.md#concept-u06-l01-c02-long-division-by-a-linear-polynomial)
-- [U06-L02-C01-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-2-quadratic-divisors-and-synthetic-division/lesson.md#concept-u06-l02-c01-long-division-by-a-quadratic-polynomial), [U06-L02-C01-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-2-quadratic-divisors-and-synthetic-division/lesson.md#concept-u06-l02-c01-long-division-by-a-quadratic-polynomial)
-- [U07-L06-C01-O1](../units/unit-7-rational-expressions/lesson-6-structure-and-closure/lesson.md#concept-u07-l06-c01-quotient-plus-remainder-forms), [U07-L06-C01-O2](../units/unit-7-rational-expressions/lesson-6-structure-and-closure/lesson.md#concept-u07-l06-c01-quotient-plus-remainder-forms)
-- [U08-L03-C01-O2](../units/unit-8-rational-functions-and-equations/lesson-3-end-behavior-domain-and-range/lesson.md#concept-u08-l03-c01-horizontal-asymptotes-and-end-behavior)
-- [U08-L06-C01-O1](../units/unit-8-rational-functions-and-equations/lesson-6-optional-rational-function-extensions/lesson.md#concept-u08-l06-c01-slant-asymptotes--optional-extension)
+- [Lesson 6.1: The division algorithm and linear long division](../units/unit-6-polynomial-division-equations-and-graphs/lesson-1-the-division-algorithm-and-linear-long-division/standards.md)
+- [Lesson 6.2: Quadratic divisors and synthetic division](../units/unit-6-polynomial-division-equations-and-graphs/lesson-2-quadratic-divisors-and-synthetic-division/standards.md)
+- [Lesson 7.6: Structure and closure](../units/unit-7-rational-expressions/lesson-6-structure-and-closure/standards.md)
+- [Lesson 8.3: End behavior, domain, and range](../units/unit-8-rational-functions-and-equations/lesson-3-end-behavior-domain-and-range/standards.md)
+- [Lesson 8.6: Optional rational-function extensions](../units/unit-8-rational-functions-and-equations/lesson-6-optional-rational-function-extensions/standards.md)
 
 **Supporting knowledge**
 
-- [U02-L03-C01-O2](../units/unit-2-polynomial-arithmetic/lesson-3-standard-form-and-evaluation/lesson.md#concept-u02-l03-c01-writing-a-polynomial-in-standard-form)
-- [U06-L02-C02-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-2-quadratic-divisors-and-synthetic-division/lesson.md#concept-u06-l02-c02-synthetic-division-by-x-c), [U06-L02-C02-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-2-quadratic-divisors-and-synthetic-division/lesson.md#concept-u06-l02-c02-synthetic-division-by-x-c)
+- [Lesson 2.3: Standard form and evaluation](../units/unit-2-polynomial-arithmetic/lesson-3-standard-form-and-evaluation/standards.md)
+- [Lesson 6.2: Quadratic divisors and synthetic division](../units/unit-6-polynomial-division-equations-and-graphs/lesson-2-quadratic-divisors-and-synthetic-division/standards.md)
 
 ## HSA-APR.D.7 (+)
 
@@ -116,12 +116,12 @@ Rewrite simple rational expressions in different forms; write ^(a(x))/b(x) in th
 
 **Direct**
 
-- [U07-L02-C01-O1](../units/unit-7-rational-expressions/lesson-2-simplification-by-factoring/lesson.md#concept-u07-l02-c01-canceling-factors-not-terms), [U07-L02-C02-O1](../units/unit-7-rational-expressions/lesson-2-simplification-by-factoring/lesson.md#concept-u07-l02-c02-opposite-factors-and-signs)
-- [U07-L03-C01-O1](../units/unit-7-rational-expressions/lesson-3-products-and-quotients/lesson.md#concept-u07-l03-c01-multiplication-of-rational-expressions), [U07-L03-C02-O1](../units/unit-7-rational-expressions/lesson-3-products-and-quotients/lesson.md#concept-u07-l03-c02-division-and-nonzero-divisors)
-- [U07-L04-C01-O1](../units/unit-7-rational-expressions/lesson-4-addition-and-subtraction/lesson.md#concept-u07-l04-c01-common-denominators), [U07-L04-C01-O2](../units/unit-7-rational-expressions/lesson-4-addition-and-subtraction/lesson.md#concept-u07-l04-c01-common-denominators), [U07-L04-C02-O1](../units/unit-7-rational-expressions/lesson-4-addition-and-subtraction/lesson.md#concept-u07-l04-c02-least-common-denominators), [U07-L04-C02-O2](../units/unit-7-rational-expressions/lesson-4-addition-and-subtraction/lesson.md#concept-u07-l04-c02-least-common-denominators)
-- [U07-L05-C01-O1](../units/unit-7-rational-expressions/lesson-5-complex-rational-expressions/lesson.md#concept-u07-l05-c01-complex-fractions-by-division), [U07-L05-C02-O1](../units/unit-7-rational-expressions/lesson-5-complex-rational-expressions/lesson.md#concept-u07-l05-c02-complex-fractions-by-clearing-inner-denominators)
-- [U07-L06-C02-O1](../units/unit-7-rational-expressions/lesson-6-structure-and-closure/lesson.md#concept-u07-l06-c02-closure-and-rational-number-analogies), [U07-L06-C02-O2](../units/unit-7-rational-expressions/lesson-6-structure-and-closure/lesson.md#concept-u07-l06-c02-closure-and-rational-number-analogies)
+- [Lesson 7.2: Simplification by factoring](../units/unit-7-rational-expressions/lesson-2-simplification-by-factoring/standards.md)
+- [Lesson 7.3: Products and quotients](../units/unit-7-rational-expressions/lesson-3-products-and-quotients/standards.md)
+- [Lesson 7.4: Addition and subtraction](../units/unit-7-rational-expressions/lesson-4-addition-and-subtraction/standards.md)
+- [Lesson 7.5: Complex rational expressions](../units/unit-7-rational-expressions/lesson-5-complex-rational-expressions/standards.md)
+- [Lesson 7.6: Structure and closure](../units/unit-7-rational-expressions/lesson-6-structure-and-closure/standards.md)
 
 **Supporting knowledge**
 
-- [U07-L01-C01-O1](../units/unit-7-rational-expressions/lesson-1-definitions-and-restrictions/lesson.md#concept-u07-l01-c01-rational-expressions-and-allowed-inputs)
+- [Lesson 7.1: Definitions and restrictions](../units/unit-7-rational-expressions/lesson-1-definitions-and-restrictions/standards.md)

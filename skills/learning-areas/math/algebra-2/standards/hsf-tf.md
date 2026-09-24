@@ -2,7 +2,7 @@
 
 [Standards index](../standards-coverage.md) · [Curriculum](../curriculum.md)
 
-Source document: **Common Core mathematics standards**. The wording below is the standard reference; objective links open the lesson concept containing the instructional and assessment evidence. Mapping categories describe alignment, not student attainment.
+Source document: **Common Core mathematics standards**. The wording below is the standard reference; lesson links open the companion standards tables containing the mapped concepts and learning objectives. Mapping categories describe alignment, not student attainment.
 
 ## HSF-TF.A.1
 
@@ -12,11 +12,11 @@ Understand radian measure of an angle as the length of the arc on the unit circl
 
 **Direct**
 
-- [U15-L01-C01-O1](../units/unit-15-trigonometric-functions/lesson-1-radian-measure/lesson.md#concept-u15-l01-c01-directed-angles-and-arc-length), [U15-L01-C01-O2](../units/unit-15-trigonometric-functions/lesson-1-radian-measure/lesson.md#concept-u15-l01-c01-directed-angles-and-arc-length)
+- [Lesson 15.1: Radian measure](../units/unit-15-trigonometric-functions/lesson-1-radian-measure/standards.md)
 
 **Supporting knowledge**
 
-- [U15-L01-C02-O1](../units/unit-15-trigonometric-functions/lesson-1-radian-measure/lesson.md#concept-u15-l01-c02-degree-conversion-and-coterminal-angles)
+- [Lesson 15.1: Radian measure](../units/unit-15-trigonometric-functions/lesson-1-radian-measure/standards.md)
 
 ## HSF-TF.A.2
 
@@ -26,13 +26,13 @@ Explain how the unit circle in the coordinate plane enables the extension of tri
 
 **Direct**
 
-- [U15-L01-C02-O2](../units/unit-15-trigonometric-functions/lesson-1-radian-measure/lesson.md#concept-u15-l01-c02-degree-conversion-and-coterminal-angles)
-- [U15-L02-C01-O1](../units/unit-15-trigonometric-functions/lesson-2-unit-circle-definitions/lesson.md#concept-u15-l02-c01-sine-cosine-and-tangent-as-coordinates), [U15-L02-C01-O2](../units/unit-15-trigonometric-functions/lesson-2-unit-circle-definitions/lesson.md#concept-u15-l02-c01-sine-cosine-and-tangent-as-coordinates), [U15-L02-C02-O1](../units/unit-15-trigonometric-functions/lesson-2-unit-circle-definitions/lesson.md#concept-u15-l02-c02-quadrant-signs-periodicity-and-symmetry)
-- [U15-L05-C01-O1](../units/unit-15-trigonometric-functions/lesson-5-parent-trigonometric-graphs/lesson.md#concept-u15-l05-c01-sine-and-cosine-graphs), [U15-L05-C02-O1](../units/unit-15-trigonometric-functions/lesson-5-parent-trigonometric-graphs/lesson.md#concept-u15-l05-c02-tangent-graph-and-asymptotes)
+- [Lesson 15.1: Radian measure](../units/unit-15-trigonometric-functions/lesson-1-radian-measure/standards.md)
+- [Lesson 15.2: Unit-circle definitions](../units/unit-15-trigonometric-functions/lesson-2-unit-circle-definitions/standards.md)
+- [Lesson 15.5: Parent trigonometric graphs](../units/unit-15-trigonometric-functions/lesson-5-parent-trigonometric-graphs/standards.md)
 
 **Supporting knowledge**
 
-- [U15-L01-C01-O2](../units/unit-15-trigonometric-functions/lesson-1-radian-measure/lesson.md#concept-u15-l01-c01-directed-angles-and-arc-length)
+- [Lesson 15.1: Radian measure](../units/unit-15-trigonometric-functions/lesson-1-radian-measure/standards.md)
 
 ## HSF-TF.A.3 (+)
 
@@ -42,7 +42,7 @@ Explain how the unit circle in the coordinate plane enables the extension of tri
 
 **Direct**
 
-- [U15-L03-C01-O1](../units/unit-15-trigonometric-functions/lesson-3-exact-special-angle-values/lesson.md#concept-u15-l03-c01-special-triangles), [U15-L03-C01-O2](../units/unit-15-trigonometric-functions/lesson-3-exact-special-angle-values/lesson.md#concept-u15-l03-c01-special-triangles), [U15-L03-C02-O1](../units/unit-15-trigonometric-functions/lesson-3-exact-special-angle-values/lesson.md#concept-u15-l03-c02-reference-angles-and-reflected-coordinates), [U15-L03-C02-O2](../units/unit-15-trigonometric-functions/lesson-3-exact-special-angle-values/lesson.md#concept-u15-l03-c02-reference-angles-and-reflected-coordinates)
+- [Lesson 15.3: Exact special-angle values](../units/unit-15-trigonometric-functions/lesson-3-exact-special-angle-values/standards.md)
 
 ## HSF-TF.A.4 (+)
 
@@ -52,8 +52,8 @@ Explain how the unit circle in the coordinate plane enables the extension of tri
 
 **Direct**
 
-- [U15-L02-C02-O1](../units/unit-15-trigonometric-functions/lesson-2-unit-circle-definitions/lesson.md#concept-u15-l02-c02-quadrant-signs-periodicity-and-symmetry), [U15-L02-C02-O2](../units/unit-15-trigonometric-functions/lesson-2-unit-circle-definitions/lesson.md#concept-u15-l02-c02-quadrant-signs-periodicity-and-symmetry)
-- [U15-L05-C02-O2](../units/unit-15-trigonometric-functions/lesson-5-parent-trigonometric-graphs/lesson.md#concept-u15-l05-c02-tangent-graph-and-asymptotes)
+- [Lesson 15.2: Unit-circle definitions](../units/unit-15-trigonometric-functions/lesson-2-unit-circle-definitions/standards.md)
+- [Lesson 15.5: Parent trigonometric graphs](../units/unit-15-trigonometric-functions/lesson-5-parent-trigonometric-graphs/standards.md)
 
 ## HSF-TF.B.5
 
@@ -63,8 +63,8 @@ Choose trigonometric functions to model periodic phenomena with specified amplit
 
 **Direct**
 
-- [U15-L06-C01-O1](../units/unit-15-trigonometric-functions/lesson-6-sinusoidal-transformations/lesson.md#concept-u15-l06-c01-amplitude-midline-period-and-frequency), [U15-L06-C01-O2](../units/unit-15-trigonometric-functions/lesson-6-sinusoidal-transformations/lesson.md#concept-u15-l06-c01-amplitude-midline-period-and-frequency), [U15-L06-C02-O2](../units/unit-15-trigonometric-functions/lesson-6-sinusoidal-transformations/lesson.md#concept-u15-l06-c02-phase-shift-and-transformed-graphs)
-- [U15-L07-C01-O1](../units/unit-15-trigonometric-functions/lesson-7-periodic-function-models/lesson.md#concept-u15-l07-c01-parameter-estimation-from-periodic-data), [U15-L07-C01-O2](../units/unit-15-trigonometric-functions/lesson-7-periodic-function-models/lesson.md#concept-u15-l07-c01-parameter-estimation-from-periodic-data), [U15-L07-C02-O1](../units/unit-15-trigonometric-functions/lesson-7-periodic-function-models/lesson.md#concept-u15-l07-c02-model-checking-and-limitations), [U15-L07-C02-O2](../units/unit-15-trigonometric-functions/lesson-7-periodic-function-models/lesson.md#concept-u15-l07-c02-model-checking-and-limitations)
+- [Lesson 15.6: Sinusoidal transformations](../units/unit-15-trigonometric-functions/lesson-6-sinusoidal-transformations/standards.md)
+- [Lesson 15.7: Periodic function models](../units/unit-15-trigonometric-functions/lesson-7-periodic-function-models/standards.md)
 
 ## HSF-TF.C.8
 
@@ -74,4 +74,4 @@ Prove the Pythagorean identity sin^(2)(θ) + cos^(2)(θ) = 1 and use it to find 
 
 **Direct**
 
-- [U15-L04-C01-O1](../units/unit-15-trigonometric-functions/lesson-4-pythagorean-identity/lesson.md#concept-u15-l04-c01-proof-and-algebraic-use-of-the-identity), [U15-L04-C01-O2](../units/unit-15-trigonometric-functions/lesson-4-pythagorean-identity/lesson.md#concept-u15-l04-c01-proof-and-algebraic-use-of-the-identity), [U15-L04-C02-O1](../units/unit-15-trigonometric-functions/lesson-4-pythagorean-identity/lesson.md#concept-u15-l04-c02-recovering-ratios-with-quadrant-information), [U15-L04-C02-O2](../units/unit-15-trigonometric-functions/lesson-4-pythagorean-identity/lesson.md#concept-u15-l04-c02-recovering-ratios-with-quadrant-information)
+- [Lesson 15.4: Pythagorean identity](../units/unit-15-trigonometric-functions/lesson-4-pythagorean-identity/standards.md)

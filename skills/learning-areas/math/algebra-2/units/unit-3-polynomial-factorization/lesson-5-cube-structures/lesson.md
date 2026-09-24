@@ -1,114 +1,27 @@
 # Lesson 3.5: Cube structures
 
-[Unit 3: Polynomial factorization](../unit.md) · [Algebra 2](../../../curriculum.md)
-
-Factor sums and differences of cubes and justify the sign patterns by multiplication. Compare cube structure with square structure without transferring identities between them.
+Factor sums and differences of cubes and justify their sign patterns by multiplication. Distinguish cube identities from square identities and keep any extracted common factor.
 
 ## Learning objectives
 
-- Factor differences of cubes.
-- Factor sums of cubes after extracting common factors.
-- Prove the cube patterns through cancellation.
+- Extract common factors and factor differences and sums of cubes.
+- Verify cube identities through cancellation of intermediate terms.
+- Distinguish cube factorizations from perfect-square and sum-of-squares claims.
 
 ## Learning outcome
 
-The student can choose and verify the appropriate cube factorization, including its linear and quadratic parts.
+Select and verify a cube factorization with the correct signs, coefficients, and retained common factor.
 
 ## Proficiency criteria
 
-To demonstrate proficiency, the student must independently satisfy all of the following criteria.
-
-- Identify complete cube roots of variable terms and coefficients.
-- Select the correct binomial sign and corresponding quadratic signs.
-- Show why the intermediate powers cancel in the expanded product.
-- Explain why a similar-looking square expression does not satisfy the cube identity.
+- Identify complete cube roots of coefficients and variable terms in the permitted coefficient set.
+- Extract and retain a common factor when present.
+- Match the binomial sign with the required quadratic expression and show cross-term cancellation.
+- Explain why the cube quadratic is not a binomial square and why the same identity cannot be applied to a sum of squares.
 
 ## Concepts
 
-### Concept U03-L05-C01: Differences of cubes
-
-**Content**
-
-$A^3-B^3=(A-B)(A^2+AB+B^2)$; cube roots of terms; checking signs.
-
-**Learning objectives**
-
-- **U03-L05-C01-O1:** Factor a difference of cubes into linear and quadratic factors.
-  - Standards: CCSS HSA-SSE.A.2 (direct); TEKS 2A.7(E) (direct for degree three or four).
-- **U03-L05-C01-O2:** Justify the cube identity by multiplying and observing cancellation.
-  - Standards: CCSS HSA-APR.C.4 (direct); TEKS 2A.7(E) (direct).
-
-**Proficiency criteria**
-
-To demonstrate proficiency, the student must independently satisfy all of the following criteria.
-
-- Identify the complete cube roots of both terms, including numerical coefficients.
-- Use the correct difference factor and the quadratic with its required signs and coefficients.
-- Verify the identity by explaining the cancellation of intermediate powers after multiplication.
-
-**Explanation**
-
-A difference of cubes has a difference as its first factor and three terms joined by plus signs in the second: $A^3-B^3=(A-B)(A^2+AB+B^2)$. The second factor is not $(A+B)^2$ because its middle coefficient is $1$, not $2$. Identify the complete cube roots first, including numerical coefficients. Extract a GCF before using the pattern.
-
-**Worked examples**
-
-$8x^3-27=(2x)^3-3^3=(2x-3)(4x^2+6x+9)$. Expanding gives $8x^3+12x^2+18x-12x^2-18x-27=8x^3-27$.
-
-**Exercises**
-
-1. Factor $x^3-64$.
-   - Answer and reasoning: $(x-4)(x^2+4x+16)$.
-2. Factor $2x^3-16$.
-   - Answer and reasoning: $2(x-2)(x^2+2x+4)$.
-
-**Assessment**
-
-Independent prompt: Factor $27x^3-1$ and verify the cancellation of its $x^2$ and $x$ terms.
-
-Expected answer: $(3x-1)(9x^2+3x+1)$; cross terms $9x^2-9x^2$ and $3x-3x$ cancel.
-
-Scoring (4 points): 2 points for factors; 2 points for cancellation verification. Assesses **U03-L05-C01-O1** and **U03-L05-C01-O2**.
-
-### Concept U03-L05-C02: Sums of cubes
-
-**Content**
-
-$A^3+B^3=(A+B)(A^2-AB+B^2)$; alternating middle sign; sums of squares versus cubes.
-
-**Learning objectives**
-
-- **U03-L05-C02-O1:** Factor sums of cubes correctly, including a common factor first.
-  - Standards: CCSS HSA-SSE.A.2 (direct); TEKS 2A.7(E) (direct for degree three or four).
-- **U03-L05-C02-O2:** Explain why a sum of cubes factors although a sum of two real squares does not have a real linear-factor identity.
-  - Standards: CCSS HSA-SSE.A.2 (direct); TEKS 2A.7(E) (direct for degree three or four).
-
-**Proficiency criteria**
-
-To demonstrate proficiency, the student must independently satisfy all of the following criteria.
-
-- Extract a common factor before recognizing the sum-of-cubes structure.
-- Match the sum factor with the quadratic whose middle term has the opposite sign.
-- Explain why a cube identity cannot be transferred unchanged to a sum of squares and verify the product.
-
-**Explanation**
-
-For a sum of cubes, the binomial is a sum and the quadratic has a negative middle term: $A^3+B^3=(A+B)(A^2-AB+B^2)$. The cube identity follows from distribution and cross-term cancellation. Do not transfer it to squares: $A^2+B^2$ is a different structure. A nonzero real cubic always has at least one real zero, and this pattern explicitly exposes one.
-
-**Worked examples**
-
-$16x^3+54=2(8x^3+27)=2(2x+3)(4x^2-6x+9)$. Multiplying the last two factors cancels the square and linear cross terms, leaving $8x^3+27$.
-
-**Exercises**
-
-1. Factor $x^3+125$.
-   - Answer and reasoning: $(x+5)(x^2-5x+25)$.
-2. Factor $64x^3+1$.
-   - Answer and reasoning: $(4x+1)(16x^2-4x+1)$.
-
-**Assessment**
-
-Independent prompt: Factor $3x^3+24$ completely over the rationals and explain why replacing $x^3$ by $x^2$ would invalidate the same pattern.
-
-Expected answer: $3(x+2)(x^2-2x+4)$; the identity requires cubes, and $(x+2)(x^2-2x+4)$ has degree three.
-
-Scoring (4 points): 2 points for complete factors; 2 points for structural explanation. Assesses **U03-L05-C02-O1** and **U03-L05-C02-O2**.
+| Concept Title | Content | Learning Objectives | Proficiency criteria |
+| --- | --- | --- | --- |
+| **Differences of cubes** | $A^3-B^3=(A-B)(A^2+AB+B^2)$. Extract a GCF before identifying the complete cube expressions; use rational coefficients unless otherwise specified. The second factor has middle coefficient $1$, not the $2$ in $(A+B)^2$. Multiplication cancels the mixed terms. The factors are linear and quadratic in the cube-root expressions; their degrees in the original variable depend on those expressions. | Extract any common factor and factor a difference of cubes using the complete cube-root expressions and correct quadratic coefficients. Justify the difference-of-cubes identity by multiplication and cancellation, distinguishing its quadratic factor from a binomial square. | Retain any extracted GCF and identify both complete cube roots. Construct the difference factor and its three-term companion with correct signs and coefficients. Expand to show cancellation and explain why replacing the companion with a binomial square is invalid. |
+| **Sums of cubes** | $A^3+B^3=(A+B)(A^2-AB+B^2)$. The binomial sum pairs with a negative mixed term and positive square terms; multiplication cancels the mixed terms. Extract and retain a GCF before applying the identity. No corresponding identity factors the general sum $A^2+B^2$ into real linear forms in $A,B$; special choices of $A,B$ may nevertheless give a factorable expression. | Extract common factors, factor sums of cubes with the correct signs, and verify the complete product. Explain why the sum-of-cubes identity does not apply to a sum of squares, without claiming every sum of polynomial squares is irreducible. | Retain common factors and match the binomial sum with its correctly signed quadratic companion. Verify the product and cancellation. Identify the cube condition that fails for a square expression and distinguish the absence of a general identity from irreducibility of a particular polynomial. |

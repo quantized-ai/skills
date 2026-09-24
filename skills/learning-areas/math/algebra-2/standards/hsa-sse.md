@@ -2,7 +2,7 @@
 
 [Standards index](../standards-coverage.md) · [Curriculum](../curriculum.md)
 
-Source document: **Common Core mathematics standards**. The wording below is the standard reference; objective links open the lesson concept containing the instructional and assessment evidence. Mapping categories describe alignment, not student attainment.
+Source document: **Common Core mathematics standards**. The wording below is the standard reference; lesson links open the companion standards tables containing the mapped concepts and learning objectives. Mapping categories describe alignment, not student attainment.
 
 ## HSA-SSE.A.1
 
@@ -20,11 +20,11 @@ Interpret parts of an expression, such as terms, factors, and coefficients.
 
 **Direct**
 
-- [U02-L01-C03-O1](../units/unit-2-polynomial-arithmetic/lesson-1-definition-and-term-structure/lesson.md#concept-u02-l01-c03-interpreting-quantities-from-polynomial-structure)
+- [Lesson 2.1: Definition and term structure](../units/unit-2-polynomial-arithmetic/lesson-1-definition-and-term-structure/standards.md)
 
 **Supporting knowledge**
 
-- [U02-L01-C02-O1](../units/unit-2-polynomial-arithmetic/lesson-1-definition-and-term-structure/lesson.md#concept-u02-l01-c02-terms-coefficients-constants-and-factors), [U02-L01-C02-O2](../units/unit-2-polynomial-arithmetic/lesson-1-definition-and-term-structure/lesson.md#concept-u02-l01-c02-terms-coefficients-constants-and-factors)
+- [Lesson 2.1: Definition and term structure](../units/unit-2-polynomial-arithmetic/lesson-1-definition-and-term-structure/standards.md)
 
 ## HSA-SSE.A.1b
 
@@ -34,11 +34,11 @@ Interpret complicated expressions by viewing one or more of their parts as a sin
 
 **Direct**
 
-- [U02-L01-C03-O2](../units/unit-2-polynomial-arithmetic/lesson-1-definition-and-term-structure/lesson.md#concept-u02-l01-c03-interpreting-quantities-from-polynomial-structure)
+- [Lesson 2.1: Definition and term structure](../units/unit-2-polynomial-arithmetic/lesson-1-definition-and-term-structure/standards.md)
 
 **Supporting knowledge**
 
-- [U02-L01-C02-O2](../units/unit-2-polynomial-arithmetic/lesson-1-definition-and-term-structure/lesson.md#concept-u02-l01-c02-terms-coefficients-constants-and-factors)
+- [Lesson 2.1: Definition and term structure](../units/unit-2-polynomial-arithmetic/lesson-1-definition-and-term-structure/standards.md)
 
 ## HSA-SSE.A.2
 
@@ -48,23 +48,23 @@ Use the structure of an expression to identify ways to rewrite it. For example, 
 
 **Direct**
 
-- [U03-L01-C01-O1](../units/unit-3-polynomial-factorization/lesson-1-factoring-and-greatest-common-factors/lesson.md#concept-u03-l01-c01-factoring-as-reversing-distribution), [U03-L01-C01-O2](../units/unit-3-polynomial-factorization/lesson-1-factoring-and-greatest-common-factors/lesson.md#concept-u03-l01-c01-factoring-as-reversing-distribution), [U03-L01-C02-O1](../units/unit-3-polynomial-factorization/lesson-1-factoring-and-greatest-common-factors/lesson.md#concept-u03-l01-c02-extracting-a-greatest-common-monomial-factor), [U03-L01-C02-O2](../units/unit-3-polynomial-factorization/lesson-1-factoring-and-greatest-common-factors/lesson.md#concept-u03-l01-c02-extracting-a-greatest-common-monomial-factor)
-- [U03-L02-C01-O1](../units/unit-3-polynomial-factorization/lesson-2-common-binomial-factors-and-grouping/lesson.md#concept-u03-l02-c01-factoring-a-repeated-polynomial-expression), [U03-L02-C01-O2](../units/unit-3-polynomial-factorization/lesson-2-common-binomial-factors-and-grouping/lesson.md#concept-u03-l02-c01-factoring-a-repeated-polynomial-expression), [U03-L02-C02-O1](../units/unit-3-polynomial-factorization/lesson-2-common-binomial-factors-and-grouping/lesson.md#concept-u03-l02-c02-factoring-by-grouping), [U03-L02-C02-O2](../units/unit-3-polynomial-factorization/lesson-2-common-binomial-factors-and-grouping/lesson.md#concept-u03-l02-c02-factoring-by-grouping)
-- [U03-L03-C02-O2](../units/unit-3-polynomial-factorization/lesson-3-factoring-quadratic-trinomials/lesson.md#concept-u03-l03-c02-nonmonic-quadratic-trinomials)
-- [U03-L04-C01-O1](../units/unit-3-polynomial-factorization/lesson-4-square-structures/lesson.md#concept-u03-l04-c01-factoring-differences-of-squares), [U03-L04-C01-O2](../units/unit-3-polynomial-factorization/lesson-4-square-structures/lesson.md#concept-u03-l04-c01-factoring-differences-of-squares), [U03-L04-C02-O1](../units/unit-3-polynomial-factorization/lesson-4-square-structures/lesson.md#concept-u03-l04-c02-perfect-square-trinomials), [U03-L04-C02-O2](../units/unit-3-polynomial-factorization/lesson-4-square-structures/lesson.md#concept-u03-l04-c02-perfect-square-trinomials)
-- [U03-L05-C01-O1](../units/unit-3-polynomial-factorization/lesson-5-cube-structures/lesson.md#concept-u03-l05-c01-differences-of-cubes), [U03-L05-C02-O1](../units/unit-3-polynomial-factorization/lesson-5-cube-structures/lesson.md#concept-u03-l05-c02-sums-of-cubes), [U03-L05-C02-O2](../units/unit-3-polynomial-factorization/lesson-5-cube-structures/lesson.md#concept-u03-l05-c02-sums-of-cubes)
-- [U03-L06-C01-O1](../units/unit-3-polynomial-factorization/lesson-6-substitution-and-a-complete-strategy/lesson.md#concept-u03-l06-c01-quadratic-structure-in-higher-powers), [U03-L06-C01-O2](../units/unit-3-polynomial-factorization/lesson-6-substitution-and-a-complete-strategy/lesson.md#concept-u03-l06-c01-quadratic-structure-in-higher-powers), [U03-L06-C02-O1](../units/unit-3-polynomial-factorization/lesson-6-substitution-and-a-complete-strategy/lesson.md#concept-u03-l06-c02-selecting-a-factoring-strategy), [U03-L06-C02-O2](../units/unit-3-polynomial-factorization/lesson-6-substitution-and-a-complete-strategy/lesson.md#concept-u03-l06-c02-selecting-a-factoring-strategy)
-- [U07-L01-C02-O1](../units/unit-7-rational-expressions/lesson-1-definitions-and-restrictions/lesson.md#concept-u07-l01-c02-original-domains-and-equivalent-formulas)
-- [U07-L02-C01-O2](../units/unit-7-rational-expressions/lesson-2-simplification-by-factoring/lesson.md#concept-u07-l02-c01-canceling-factors-not-terms), [U07-L02-C02-O2](../units/unit-7-rational-expressions/lesson-2-simplification-by-factoring/lesson.md#concept-u07-l02-c02-opposite-factors-and-signs)
-- [U07-L05-C02-O2](../units/unit-7-rational-expressions/lesson-5-complex-rational-expressions/lesson.md#concept-u07-l05-c02-complex-fractions-by-clearing-inner-denominators)
+- [Lesson 3.1: Factoring and greatest common factors](../units/unit-3-polynomial-factorization/lesson-1-factoring-and-greatest-common-factors/standards.md)
+- [Lesson 3.2: Common binomial factors and grouping](../units/unit-3-polynomial-factorization/lesson-2-common-binomial-factors-and-grouping/standards.md)
+- [Lesson 3.3: Factoring quadratic trinomials](../units/unit-3-polynomial-factorization/lesson-3-factoring-quadratic-trinomials/standards.md)
+- [Lesson 3.4: Square structures](../units/unit-3-polynomial-factorization/lesson-4-square-structures/standards.md)
+- [Lesson 3.5: Cube structures](../units/unit-3-polynomial-factorization/lesson-5-cube-structures/standards.md)
+- [Lesson 3.6: Substitution and a complete strategy](../units/unit-3-polynomial-factorization/lesson-6-substitution-and-a-complete-strategy/standards.md)
+- [Lesson 7.1: Definitions and restrictions](../units/unit-7-rational-expressions/lesson-1-definitions-and-restrictions/standards.md)
+- [Lesson 7.2: Simplification by factoring](../units/unit-7-rational-expressions/lesson-2-simplification-by-factoring/standards.md)
+- [Lesson 7.5: Complex rational expressions](../units/unit-7-rational-expressions/lesson-5-complex-rational-expressions/standards.md)
 
 **Prerequisite review**
 
-- [U03-L03-C01-O1](../units/unit-3-polynomial-factorization/lesson-3-factoring-quadratic-trinomials/lesson.md#concept-u03-l03-c01-monic-quadratic-trinomials), [U03-L03-C01-O2](../units/unit-3-polynomial-factorization/lesson-3-factoring-quadratic-trinomials/lesson.md#concept-u03-l03-c01-monic-quadratic-trinomials), [U03-L03-C02-O1](../units/unit-3-polynomial-factorization/lesson-3-factoring-quadratic-trinomials/lesson.md#concept-u03-l03-c02-nonmonic-quadratic-trinomials)
+- [Lesson 3.3: Factoring quadratic trinomials](../units/unit-3-polynomial-factorization/lesson-3-factoring-quadratic-trinomials/standards.md)
 
 **Supporting knowledge**
 
-- [U02-L01-C02-O2](../units/unit-2-polynomial-arithmetic/lesson-1-definition-and-term-structure/lesson.md#concept-u02-l01-c02-terms-coefficients-constants-and-factors)
+- [Lesson 2.1: Definition and term structure](../units/unit-2-polynomial-arithmetic/lesson-1-definition-and-term-structure/standards.md)
 
 ## HSA-SSE.B.3
 
@@ -82,8 +82,8 @@ Factor a quadratic expression to reveal the zeros of the function it defines.
 
 **Direct**
 
-- [U05-L01-C01-O1](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-1-three-forms-of-a-quadratic-function/lesson.md#concept-u05-l01-c01-standard-form-and-factored-form)
-- [U05-L04-C02-O1](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-4-constructing-quadratics-from-attributes/lesson.md#concept-u05-l04-c02-real-zeros-and-an-additional-point)
+- [Lesson 5.1: Three forms of a quadratic function](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-1-three-forms-of-a-quadratic-function/standards.md)
+- [Lesson 5.4: Constructing quadratics from attributes](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-4-constructing-quadratics-from-attributes/standards.md)
 
 ## HSA-SSE.B.3b
 
@@ -93,8 +93,8 @@ Complete the square in a quadratic expression to reveal the maximum or minimum v
 
 **Direct**
 
-- [U05-L01-C02-O1](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-1-three-forms-of-a-quadratic-function/lesson.md#concept-u05-l01-c02-vertex-form-axis-and-range)
-- [U05-L02-C01-O1](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-2-converting-forms-and-locating-zeros/lesson.md#concept-u05-l02-c01-converting-standard-form-to-vertex-form)
+- [Lesson 5.1: Three forms of a quadratic function](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-1-three-forms-of-a-quadratic-function/standards.md)
+- [Lesson 5.2: Converting forms and locating zeros](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-2-converting-forms-and-locating-zeros/standards.md)
 
 ## HSA-SSE.B.4
 
@@ -104,9 +104,9 @@ Derive the formula for the sum of a finite geometric series (when the common rat
 
 **Direct**
 
-- [U14-L05-C02-O1](../units/unit-14-sequences-and-series/lesson-5-finite-sums/lesson.md#concept-u14-l05-c02-derivation-of-finite-geometric-sums), [U14-L05-C02-O2](../units/unit-14-sequences-and-series/lesson-5-finite-sums/lesson.md#concept-u14-l05-c02-derivation-of-finite-geometric-sums)
-- [U14-L06-C01-O1](../units/unit-14-sequences-and-series/lesson-6-finite-geometric-models/lesson.md#concept-u14-l06-c01-totals-from-repeated-proportional-change), [U14-L06-C01-O2](../units/unit-14-sequences-and-series/lesson-6-finite-geometric-models/lesson.md#concept-u14-l06-c01-totals-from-repeated-proportional-change), [U14-L06-C02-O1](../units/unit-14-sequences-and-series/lesson-6-finite-geometric-models/lesson.md#concept-u14-l06-c02-repeated-deposits-and-accumulation-timing), [U14-L06-C02-O2](../units/unit-14-sequences-and-series/lesson-6-finite-geometric-models/lesson.md#concept-u14-l06-c02-repeated-deposits-and-accumulation-timing)
+- [Lesson 14.5: Finite sums](../units/unit-14-sequences-and-series/lesson-5-finite-sums/standards.md)
+- [Lesson 14.6: Finite geometric models](../units/unit-14-sequences-and-series/lesson-6-finite-geometric-models/standards.md)
 
 **Supporting knowledge**
 
-- [U14-L05-C01-O1](../units/unit-14-sequences-and-series/lesson-5-finite-sums/lesson.md#concept-u14-l05-c01-sigma-notation-and-arithmetic-sums), [U14-L05-C01-O2](../units/unit-14-sequences-and-series/lesson-5-finite-sums/lesson.md#concept-u14-l05-c01-sigma-notation-and-arithmetic-sums)
+- [Lesson 14.5: Finite sums](../units/unit-14-sequences-and-series/lesson-5-finite-sums/standards.md)

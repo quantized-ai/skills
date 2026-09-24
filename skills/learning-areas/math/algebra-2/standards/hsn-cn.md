@@ -2,7 +2,7 @@
 
 [Standards index](../standards-coverage.md) · [Curriculum](../curriculum.md)
 
-Source document: **Common Core mathematics standards**. The wording below is the standard reference; objective links open the lesson concept containing the instructional and assessment evidence. Mapping categories describe alignment, not student attainment.
+Source document: **Common Core mathematics standards**. The wording below is the standard reference; lesson links open the companion standards tables containing the mapped concepts and learning objectives. Mapping categories describe alignment, not student attainment.
 
 ## HSN-CN.A.1
 
@@ -12,8 +12,8 @@ Know there is a complex number i such that i^(2) = –1, and every complex numbe
 
 **Direct**
 
-- [U04-L01-C01-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-1-the-imaginary-unit-and-complex-form/lesson.md#concept-u04-l01-c01-the-imaginary-unit-and-negative-square-roots), [U04-L01-C01-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-1-the-imaginary-unit-and-complex-form/lesson.md#concept-u04-l01-c01-the-imaginary-unit-and-negative-square-roots), [U04-L01-C02-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-1-the-imaginary-unit-and-complex-form/lesson.md#concept-u04-l01-c02-real-and-imaginary-parts-of-a-complex-number), [U04-L01-C02-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-1-the-imaginary-unit-and-complex-form/lesson.md#concept-u04-l01-c02-real-and-imaginary-parts-of-a-complex-number)
-- [U04-L02-C01-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-2-powers-and-additive-arithmetic/lesson.md#concept-u04-l02-c01-integer-powers-of-i)
+- [Lesson 4.1: The imaginary unit and complex form](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-1-the-imaginary-unit-and-complex-form/standards.md)
+- [Lesson 4.2: Powers and additive arithmetic](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-2-powers-and-additive-arithmetic/standards.md)
 
 ## HSN-CN.A.2
 
@@ -23,8 +23,8 @@ Use the relation i^(2) = –1 and the commutative, associative, and distributive
 
 **Direct**
 
-- [U04-L02-C01-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-2-powers-and-additive-arithmetic/lesson.md#concept-u04-l02-c01-integer-powers-of-i), [U04-L02-C02-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-2-powers-and-additive-arithmetic/lesson.md#concept-u04-l02-c02-adding-and-subtracting-complex-numbers), [U04-L02-C02-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-2-powers-and-additive-arithmetic/lesson.md#concept-u04-l02-c02-adding-and-subtracting-complex-numbers)
-- [U04-L03-C01-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-3-multiplication-and-conjugates/lesson.md#concept-u04-l03-c01-multiplying-complex-numbers), [U04-L03-C01-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-3-multiplication-and-conjugates/lesson.md#concept-u04-l03-c01-multiplying-complex-numbers), [U04-L03-C02-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-3-multiplication-and-conjugates/lesson.md#concept-u04-l03-c02-conjugate-products-and-complex-factorization)
+- [Lesson 4.2: Powers and additive arithmetic](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-2-powers-and-additive-arithmetic/standards.md)
+- [Lesson 4.3: Multiplication and conjugates](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-3-multiplication-and-conjugates/standards.md)
 
 ## HSN-CN.A.3 (+)
 
@@ -34,11 +34,11 @@ Use the relation i^(2) = –1 and the commutative, associative, and distributive
 
 **Direct**
 
-- [U04-L03-C02-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-3-multiplication-and-conjugates/lesson.md#concept-u04-l03-c02-conjugate-products-and-complex-factorization)
+- [Lesson 4.3: Multiplication and conjugates](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-3-multiplication-and-conjugates/standards.md)
 
 **Extension**
 
-- [U04-L04-C01-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-4-optional-complex-number-extensions/lesson.md#concept-u04-l04-c01-dividing-complex-numbers--optional-extension), [U04-L04-C01-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-4-optional-complex-number-extensions/lesson.md#concept-u04-l04-c01-dividing-complex-numbers--optional-extension)
+- [Lesson 4.4: Optional complex-number extensions](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-4-optional-complex-number-extensions/standards.md)
 
 ## HSN-CN.B.4 (+)
 
@@ -48,7 +48,7 @@ Use the relation i^(2) = –1 and the commutative, associative, and distributive
 
 **Extension**
 
-- [U04-L04-C02-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-4-optional-complex-number-extensions/lesson.md#concept-u04-l04-c02-the-rectangular-complex-plane--optional-extension)
+- [Lesson 4.4: Optional complex-number extensions](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-4-optional-complex-number-extensions/standards.md)
 
 ## HSN-CN.B.5 (+)
 
@@ -58,7 +58,7 @@ Use the relation i^(2) = –1 and the commutative, associative, and distributive
 
 **Extension**
 
-- [U04-L04-C02-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-4-optional-complex-number-extensions/lesson.md#concept-u04-l04-c02-the-rectangular-complex-plane--optional-extension)
+- [Lesson 4.4: Optional complex-number extensions](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-4-optional-complex-number-extensions/standards.md)
 
 ## HSN-CN.C.7
 
@@ -68,14 +68,14 @@ Solve quadratic equations with real coefficients that have complex solutions.
 
 **Direct**
 
-- [U04-L01-C01-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-1-the-imaginary-unit-and-complex-form/lesson.md#concept-u04-l01-c01-the-imaginary-unit-and-negative-square-roots)
-- [U04-L05-C02-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-5-factoring-and-square-root-methods/lesson.md#concept-u04-l05-c02-the-square-root-property)
-- [U04-L08-C01-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-8-complex-quadratic-roots-and-method-choice/lesson.md#concept-u04-l08-c01-solving-quadratics-with-complex-roots), [U04-L08-C01-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-8-complex-quadratic-roots-and-method-choice/lesson.md#concept-u04-l08-c01-solving-quadratics-with-complex-roots)
-- [U06-L04-C02-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-4-finding-and-solving-higher-degree-factors/lesson.md#concept-u06-l04-c02-solving-cubic-and-quartic-equations-by-degree-reduction)
+- [Lesson 4.1: The imaginary unit and complex form](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-1-the-imaginary-unit-and-complex-form/standards.md)
+- [Lesson 4.5: Factoring and square-root methods](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-5-factoring-and-square-root-methods/standards.md)
+- [Lesson 4.8: Complex quadratic roots and method choice](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-8-complex-quadratic-roots-and-method-choice/standards.md)
+- [Lesson 6.4: Finding and solving higher-degree factors](../units/unit-6-polynomial-division-equations-and-graphs/lesson-4-finding-and-solving-higher-degree-factors/standards.md)
 
 **Supporting knowledge**
 
-- [U04-L07-C02-O1](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-7-the-quadratic-formula-and-discriminant/lesson.md#concept-u04-l07-c02-the-discriminant-and-root-classification)
+- [Lesson 4.7: The quadratic formula and discriminant](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-7-the-quadratic-formula-and-discriminant/standards.md)
 
 ## HSN-CN.C.8 (+)
 
@@ -85,12 +85,12 @@ Solve quadratic equations with real coefficients that have complex solutions.
 
 **Direct**
 
-- [U04-L03-C02-O2](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-3-multiplication-and-conjugates/lesson.md#concept-u04-l03-c02-conjugate-products-and-complex-factorization)
-- [U06-L06-C01-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-6-conjugate-roots-and-polynomial-construction/lesson.md#concept-u06-l06-c01-conjugate-roots-of-real-coefficient-polynomials), [U06-L06-C02-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-6-conjugate-roots-and-polynomial-construction/lesson.md#concept-u06-l06-c02-constructing-a-polynomial-from-zeros-and-scale)
+- [Lesson 4.3: Multiplication and conjugates](../units/unit-4-complex-numbers-and-quadratic-equations/lesson-3-multiplication-and-conjugates/standards.md)
+- [Lesson 6.6: Conjugate roots and polynomial construction](../units/unit-6-polynomial-division-equations-and-graphs/lesson-6-conjugate-roots-and-polynomial-construction/standards.md)
 
 **Supporting knowledge**
 
-- [U06-L06-C01-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-6-conjugate-roots-and-polynomial-construction/lesson.md#concept-u06-l06-c01-conjugate-roots-of-real-coefficient-polynomials)
+- [Lesson 6.6: Conjugate roots and polynomial construction](../units/unit-6-polynomial-division-equations-and-graphs/lesson-6-conjugate-roots-and-polynomial-construction/standards.md)
 
 ## HSN-CN.C.9 (+)
 
@@ -100,9 +100,9 @@ Solve quadratic equations with real coefficients that have complex solutions.
 
 **Direct**
 
-- [U06-L05-C02-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-5-multiplicity-and-the-fundamental-theorem/lesson.md#concept-u06-l05-c02-the-fundamental-theorem-of-algebra), [U06-L05-C02-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-5-multiplicity-and-the-fundamental-theorem/lesson.md#concept-u06-l05-c02-the-fundamental-theorem-of-algebra)
+- [Lesson 6.5: Multiplicity and the Fundamental Theorem](../units/unit-6-polynomial-division-equations-and-graphs/lesson-5-multiplicity-and-the-fundamental-theorem/standards.md)
 
 **Supporting knowledge**
 
-- [U06-L04-C02-O2](../units/unit-6-polynomial-division-equations-and-graphs/lesson-4-finding-and-solving-higher-degree-factors/lesson.md#concept-u06-l04-c02-solving-cubic-and-quartic-equations-by-degree-reduction)
-- [U06-L06-C01-O1](../units/unit-6-polynomial-division-equations-and-graphs/lesson-6-conjugate-roots-and-polynomial-construction/lesson.md#concept-u06-l06-c01-conjugate-roots-of-real-coefficient-polynomials)
+- [Lesson 6.4: Finding and solving higher-degree factors](../units/unit-6-polynomial-division-equations-and-graphs/lesson-4-finding-and-solving-higher-degree-factors/standards.md)
+- [Lesson 6.6: Conjugate roots and polynomial construction](../units/unit-6-polynomial-division-equations-and-graphs/lesson-6-conjugate-roots-and-polynomial-construction/standards.md)

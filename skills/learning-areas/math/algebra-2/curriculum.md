@@ -1,10 +1,10 @@
 # Algebra 2
 
-Algebra 2 develops symbolic reasoning, function analysis, mathematical modeling, and statistical inference. The course contains 17 units and 120 topic-based lessons. Each lesson is the complete teaching document for its concepts; the unit pages summarize and organize those lessons.
+Algebra 2 develops symbolic reasoning, function analysis, mathematical modeling, and statistical inference. The course contains 17 units and 120 topic-based lessons. Each lesson defines its concepts, learning objectives, and proficiency criteria; the unit pages summarize and organize those lessons.
 
 ## Main learning objectives
 
-The following outcomes are derived from the unit objectives. Detailed objectives, standards mappings, and proficiency criteria appear in the lessons.
+The following outcomes are derived from the unit objectives. Detailed objectives and proficiency criteria appear in the lessons. Standards mappings are recorded in a standards.md file beside each lesson.
 
 - Represent and compare functions using formulas, tables, graphs, domains, and rates of change; explain transformations and inverse relationships. Units 1 and 5–12.
 
@@ -56,8 +56,8 @@ The following outcomes are derived from the unit objectives. Detailed objectives
 
 ## Learning and evaluation
 
-Begin with the [entry diagnostic](entry-diagnostic.md). Within each lesson, use the concept explanations, worked examples, and answered practice before collecting independent evidence against the proficiency criteria. Unit assessments and [course assessments](assessments.md) check transfer across topics.
+Use each lesson’s concept content and learning objectives to develop instructional materials and exercises. Evaluate mastery against the corresponding concept and lesson proficiency criteria.
 
 ## Standards and course guidance
 
-The standards basis is **Common Core Appendix A**, **Texas standards**, and **Common Core mathematics standards**. Consult [standards coverage](standards-coverage.md) for objective links, [scope and source roles](sources-and-scope.md) for course boundaries, and [teaching guidance](teaching-guide.md) for pacing and assessment conventions.
+The standards basis is **Common Core Appendix A**, **Texas standards**, and **Common Core mathematics standards**. Consult [standards coverage](standards-coverage.md) for objective mappings and [scope and source roles](sources-and-scope.md) for course boundaries.

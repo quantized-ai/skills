@@ -1,7 +1,5 @@
 # Lesson 16.1: Quantities and formulas
 
-[Unit 16: Function models and regression](../unit.md) · [Algebra 2](../../../curriculum.md)
-
 Quantitative modeling begins with precisely defined variables and compatible units. Rearranging formulas then isolates quantities without losing restrictions or introducing unjustified precision.
 
 ## Learning objectives
@@ -16,8 +14,6 @@ The student can express and rearrange a quantitative relationship with consisten
 
 ## Proficiency criteria
 
-To demonstrate proficiency, the student must independently satisfy all of the following criteria.
-
 - Define variables and coefficient units so the equation and labeled graph describe the same quantities.
 - Convert units consistently and separate internal calculation precision from final reporting precision.
 - Isolate the requested quantity with justified algebra, including any required factorization.
@@ -25,80 +21,7 @@ To demonstrate proficiency, the student must independently satisfy all of the fo
 
 ## Concepts
 
-### Concept U16-L01-C01: Variable definitions, units, and scales
-
-**Content**
-
-Independent/dependent quantities; units in parameters; graph labels; appropriate precision.
-
-**Learning objectives**
-
-- **U16-L01-C01-O1:** Define quantities and use units consistently in a model and labeled graph.
-  - Standards: CCSS HSN-Q.A.1 (direct); CCSS HSN-Q.A.2 (direct); CCSS HSA-CED.A.2 (direct).
-- **U16-L01-C01-O2:** Choose a reporting precision consistent with the data and context.
-  - Standards: CCSS HSN-Q.A.3 (direct).
-
-**Proficiency criteria**
-
-- Define each quantity and its units before building an equation or labeling a graph.
-- Convert input or output units consistently and verify coefficient units through dimensional reasoning.
-- Choose readable axis scales and final reporting precision consistent with the measurement context while retaining calculation precision.
-
-**Explanation**
-
-Define what each variable measures before manipulating equations. Units help detect incompatible additions and identify coefficient meanings. Axis scales must show the data without concealing important changes. Calculator output contains more digits than measured data usually justify; retain digits for calculations but report a sensible final precision.
-
-**Worked examples**
-
-1. In $d=60t$, let $d$ be kilometers and $t$ hours; 60 has units km/h. If $t$ is in minutes, use $d=t$, since $60/60=1$ km/min.
-2. A model predicts 12.347 cm from measurements recorded to the nearest tenth of a centimeter. Report about 12.3 cm, and label the prediction as modeled rather than an exact measurement.
-
-**Exercises**
-
-1. Interpret coefficients in $C(n)=15+2.5n$, with $C$ dollars and $n$ items. **Answer:** Fixed cost $15, variable cost $2.50/item.
-2. A graph uses time in seconds horizontally and height in meters vertically. Give slope units. **Answer:** m/s.
-
-**Assessment**
-
-A measured speed is 12 m/s and time is recorded in minutes. Define and graph a distance formula, then report its prediction at 1.3 minutes to the nearest meter. **Expected:** $d(t)=720t$ meters; axes minutes/meters with origin and $(1,720)$; $d(1.3)=936$ m. **Rubric (4):** conversion, variables, and labeled graph (2, O1); calculation and whole-meter precision (2, O2).
-
-Objective coverage: **U16-L01-C01-O1**, **U16-L01-C01-O2**.
-
-### Concept U16-L01-C02: Rearranging literal formulas
-
-**Content**
-
-Isolating a variable; parentheses and denominators; nonzero restrictions; roots in physical domains.
-
-**Learning objectives**
-
-- **U16-L01-C02-O1:** Rearrange a multivariable formula to isolate a specified quantity.
-  - Standards: CCSS HSA-CED.A.4 (direct).
-- **U16-L01-C02-O2:** State restrictions introduced by division or roots and select contextually valid solutions.
-  - Standards: CCSS HSA-CED.A.4 (direct); CCSS HSA-CED.A.3 (direct).
-
-**Proficiency criteria**
-
-- Isolate the requested variable by justified equality operations, including factoring when the variable appears in multiple terms.
-- Record every nonzero-divisor and real-root condition introduced by the rearrangement.
-- Distinguish exceptional parameter cases and select any root branch required by the original quantity’s domain.
-
-**Explanation**
-
-Treat other symbols as known quantities and use the same equality operations as for numerical equations. Factor when the desired variable occurs more than once. Division requires a nonzero divisor. Squared variables produce two algebraic branches unless a domain, such as nonnegative length, selects one.
-
-**Worked examples**
-
-1. From $A=2\pi r^2+2\pi rh$, subtract $2\pi r^2$ and divide by $2\pi r$: $h=(A-2\pi r^2)/(2\pi r)$ for $r\ne0$.
-2. From $V=\pi r^2h$ with $V\ge0,h>0$, $r^2=V/(\pi h)$. A radius is nonnegative, so $r=\sqrt{V/(\pi h)}$, not the negative branch.
-
-**Exercises**
-
-1. Solve $P=2l+2w$ for $w$. **Answer:** $w=P/2-l$.
-2. Solve $y=ax+b$ for $x$. **Answer:** $x=(y-b)/a$ for $a\ne0$; when $a=0$ the equation either has every $x$ if $y=b$, or none.
-
-**Assessment**
-
-Solve $q=mx+nx$ for $x$ and explain the case $m+n=0$. **Expected:** $x=q/(m+n)$ if $m+n\ne0$; if $m+n=0$, all $x$ satisfy the equation when $q=0$, otherwise none do. **Rubric (4):** factoring and isolation (2, O1); restriction and exceptional cases (2, O2).
-
-Objective coverage: **U16-L01-C02-O1**, **U16-L01-C02-O2**.
+| Concept Title | Content | Learning Objectives | Proficiency criteria |
+| --- | --- | --- | --- |
+| **Variable definitions, units, and scales** | Variables identify independent and dependent quantities and their units; coefficient units make the equation dimensionally consistent. Added quantities require compatible units. Graph axes identify quantities, units, and readable scales. Unit conversion changes numerical coefficients when needed. Retain calculation precision; choose final reporting precision from the measurements and context. | Define modeled quantities, convert units consistently, and choose dimensionally valid coefficients and labeled graph scales. Choose reporting precision consistent with the data and context while retaining calculation precision. | Define each variable and its units; verify coefficient units and compatible additions. Convert units without changing the modeled relationship; label axes with quantities, units, and suitable scales. Retain precision during calculations and justify the precision of reported results. |
+| **Rearranging literal formulas** | Isolate a specified variable through equivalent equality operations, factoring when it occurs in multiple terms. Division requires a nonzero divisor; real even roots require nonnegative radicands. A squared unknown can yield two branches, subject to the original domain. Parameter values that make a divisor zero must be resolved in the original equation and may produce no solution or all permitted values. | Rearrange a multivariable formula to isolate a specified quantity, including factoring repeated occurrences of that quantity. State division and real-root conditions, resolve exceptional parameter cases, and select solutions allowed by the original domain. | Isolate the requested variable using justified equality operations and factorization where required. State every nonzero-divisor and real-root condition; resolve excluded parameter cases in the original equation. Retain all algebraically valid branches and select only those permitted by the modeled quantity. |

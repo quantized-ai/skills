@@ -2,7 +2,7 @@
 
 [Standards index](../standards-coverage.md) · [Curriculum](../curriculum.md)
 
-Source document: **Common Core mathematics standards**. The wording below is the standard reference; objective links open the lesson concept containing the instructional and assessment evidence. Mapping categories describe alignment, not student attainment.
+Source document: **Common Core mathematics standards**. The wording below is the standard reference; lesson links open the companion standards tables containing the mapped concepts and learning objectives. Mapping categories describe alignment, not student attainment.
 
 ## HSG-SRT.C.6
 
@@ -12,4 +12,4 @@ Understand that by similarity, side ratios in right triangles are properties of 
 
 **Prerequisite review**
 
-- [U15-L02-C01-O1](../units/unit-15-trigonometric-functions/lesson-2-unit-circle-definitions/lesson.md#concept-u15-l02-c01-sine-cosine-and-tangent-as-coordinates)
+- [Lesson 15.2: Unit-circle definitions](../units/unit-15-trigonometric-functions/lesson-2-unit-circle-definitions/standards.md)

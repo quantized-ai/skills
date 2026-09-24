@@ -2,7 +2,7 @@
 
 [Standards index](../standards-coverage.md) · [Curriculum](../curriculum.md)
 
-Source document: **Common Core mathematics standards**. The wording below is the standard reference; objective links open the lesson concept containing the instructional and assessment evidence. Mapping categories describe alignment, not student attainment.
+Source document: **Common Core mathematics standards**. The wording below is the standard reference; lesson links open the companion standards tables containing the mapped concepts and learning objectives. Mapping categories describe alignment, not student attainment.
 
 ## HSN-Q.A.1
 
@@ -12,10 +12,10 @@ Use units as a way to understand problems and to guide the solution of multi-ste
 
 **Direct**
 
-- [U10-L04-C01-O1](../units/unit-10-exponential-functions/lesson-4-time-units-and-the-base-e/lesson.md#concept-u10-l04-c01-equivalent-forms-and-time-scales)
-- [U11-L05-C01-O2](../units/unit-11-logarithms/lesson-5-exponential-and-logarithmic-equations/lesson.md#concept-u11-l05-c01-solving-exponential-equations-with-logarithms)
-- [U16-L01-C01-O1](../units/unit-16-function-models-and-regression/lesson-1-quantities-and-formulas/lesson.md#concept-u16-l01-c01-variable-definitions-units-and-scales)
-- [U16-L04-C02-O2](../units/unit-16-function-models-and-regression/lesson-4-arithmetic-combinations-of-models/lesson.md#concept-u16-l04-c02-products-quotients-and-compatible-quantities)
+- [Lesson 10.4: Time units and the base e](../units/unit-10-exponential-functions/lesson-4-time-units-and-the-base-e/standards.md)
+- [Lesson 11.5: Exponential and logarithmic equations](../units/unit-11-logarithms/lesson-5-exponential-and-logarithmic-equations/standards.md)
+- [Lesson 16.1: Quantities and formulas](../units/unit-16-function-models-and-regression/lesson-1-quantities-and-formulas/standards.md)
+- [Lesson 16.4: Arithmetic combinations of models](../units/unit-16-function-models-and-regression/lesson-4-arithmetic-combinations-of-models/standards.md)
 
 ## HSN-Q.A.2
 
@@ -25,7 +25,7 @@ Define appropriate quantities for the purpose of descriptive modeling.
 
 **Direct**
 
-- [U16-L01-C01-O1](../units/unit-16-function-models-and-regression/lesson-1-quantities-and-formulas/lesson.md#concept-u16-l01-c01-variable-definitions-units-and-scales)
+- [Lesson 16.1: Quantities and formulas](../units/unit-16-function-models-and-regression/lesson-1-quantities-and-formulas/standards.md)
 
 ## HSN-Q.A.3
 
@@ -35,6 +35,6 @@ Choose a level of accuracy appropriate to limitations on measurement when report
 
 **Direct**
 
-- [U10-L05-C02-O2](../units/unit-10-exponential-functions/lesson-5-exponential-equations/lesson.md#concept-u10-l05-c02-graphical-and-numerical-solutions)
-- [U11-L06-C02-O2](../units/unit-11-logarithms/lesson-6-duration-and-reasonableness/lesson.md#concept-u11-l06-c02-formulating-and-validating-logarithmic-solutions)
-- [U16-L01-C01-O2](../units/unit-16-function-models-and-regression/lesson-1-quantities-and-formulas/lesson.md#concept-u16-l01-c01-variable-definitions-units-and-scales)
+- [Lesson 10.5: Exponential equations](../units/unit-10-exponential-functions/lesson-5-exponential-equations/standards.md)
+- [Lesson 11.6: Duration and reasonableness](../units/unit-11-logarithms/lesson-6-duration-and-reasonableness/standards.md)
+- [Lesson 16.1: Quantities and formulas](../units/unit-16-function-models-and-regression/lesson-1-quantities-and-formulas/standards.md)

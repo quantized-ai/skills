@@ -2,7 +2,7 @@
 
 [Standards index](../standards-coverage.md) · [Curriculum](../curriculum.md)
 
-Source document: **Common Core mathematics standards**. The wording below is the standard reference; objective links open the lesson concept containing the instructional and assessment evidence. Mapping categories describe alignment, not student attainment.
+Source document: **Common Core mathematics standards**. The wording below is the standard reference; lesson links open the companion standards tables containing the mapped concepts and learning objectives. Mapping categories describe alignment, not student attainment.
 
 ## HSG-GPE.A.2
 
@@ -12,5 +12,5 @@ Derive the equation of a parabola given a focus and directrix.
 
 **Direct**
 
-- [U05-L06-C01-O1](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-6-focus-directrix-and-vertical-parabolas/lesson.md#concept-u05-l06-c01-a-parabola-as-an-equidistance-locus), [U05-L06-C01-O2](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-6-focus-directrix-and-vertical-parabolas/lesson.md#concept-u05-l06-c01-a-parabola-as-an-equidistance-locus), [U05-L06-C02-O1](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-6-focus-directrix-and-vertical-parabolas/lesson.md#concept-u05-l06-c02-converting-between-vertex-form-and-focal-attributes), [U05-L06-C02-O2](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-6-focus-directrix-and-vertical-parabolas/lesson.md#concept-u05-l06-c02-converting-between-vertex-form-and-focal-attributes)
-- [U05-L07-C01-O1](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-7-horizontal-parabolas-and-general-equations/lesson.md#concept-u05-l07-c01-horizontal-focusdirectrix-equations), [U05-L07-C02-O1](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-7-horizontal-parabolas-and-general-equations/lesson.md#concept-u05-l07-c02-recovering-parabola-attributes-by-square-completion), [U05-L07-C02-O2](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-7-horizontal-parabolas-and-general-equations/lesson.md#concept-u05-l07-c02-recovering-parabola-attributes-by-square-completion)
+- [Lesson 5.6: Focus, directrix, and vertical parabolas](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-6-focus-directrix-and-vertical-parabolas/standards.md)
+- [Lesson 5.7: Horizontal parabolas and general equations](../units/unit-5-quadratic-functions-inequalities-and-parabolas/lesson-7-horizontal-parabolas-and-general-equations/standards.md)

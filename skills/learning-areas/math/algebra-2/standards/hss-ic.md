@@ -2,7 +2,7 @@
 
 [Standards index](../standards-coverage.md) · [Curriculum](../curriculum.md)
 
-Source document: **Common Core mathematics standards**. The wording below is the standard reference; objective links open the lesson concept containing the instructional and assessment evidence. Mapping categories describe alignment, not student attainment.
+Source document: **Common Core mathematics standards**. The wording below is the standard reference; lesson links open the companion standards tables containing the mapped concepts and learning objectives. Mapping categories describe alignment, not student attainment.
 
 ## HSS-IC.A.1
 
@@ -12,9 +12,9 @@ Understand statistics as a process for making inferences about population parame
 
 **Direct**
 
-- [U17-L03-C01-O1](../units/unit-17-statistical-distributions-and-inference/lesson-3-populations-samples-and-study-design/lesson.md#concept-u17-l03-c01-parameters-statistics-and-random-samples), [U17-L03-C01-O2](../units/unit-17-statistical-distributions-and-inference/lesson-3-populations-samples-and-study-design/lesson.md#concept-u17-l03-c01-parameters-statistics-and-random-samples)
-- [U17-L05-C01-O1](../units/unit-17-statistical-distributions-and-inference/lesson-5-sampling-distributions-of-means/lesson.md#concept-u17-l05-c01-repeated-sample-mean-variability)
-- [U17-L06-C01-O1](../units/unit-17-statistical-distributions-and-inference/lesson-6-sampling-distributions-of-proportions/lesson.md#concept-u17-l06-c01-sample-proportions-and-sampling-variation)
+- [Lesson 17.3: Populations, samples, and study design](../units/unit-17-statistical-distributions-and-inference/lesson-3-populations-samples-and-study-design/standards.md)
+- [Lesson 17.5: Sampling distributions of means](../units/unit-17-statistical-distributions-and-inference/lesson-5-sampling-distributions-of-means/standards.md)
+- [Lesson 17.6: Sampling distributions of proportions](../units/unit-17-statistical-distributions-and-inference/lesson-6-sampling-distributions-of-proportions/standards.md)
 
 ## HSS-IC.A.2
 
@@ -24,11 +24,11 @@ Decide if a specified model is consistent with results from a given data-generat
 
 **Direct**
 
-- [U17-L04-C02-O1](../units/unit-17-statistical-distributions-and-inference/lesson-4-probability-simulation-and-model-checking/lesson.md#concept-u17-l04-c02-consistency-of-a-chance-model-with-observations), [U17-L04-C02-O2](../units/unit-17-statistical-distributions-and-inference/lesson-4-probability-simulation-and-model-checking/lesson.md#concept-u17-l04-c02-consistency-of-a-chance-model-with-observations)
+- [Lesson 17.4: Probability simulation and model checking](../units/unit-17-statistical-distributions-and-inference/lesson-4-probability-simulation-and-model-checking/standards.md)
 
 **Supporting knowledge**
 
-- [U17-L04-C01-O1](../units/unit-17-statistical-distributions-and-inference/lesson-4-probability-simulation-and-model-checking/lesson.md#concept-u17-l04-c01-random-trials-and-empirical-frequencies), [U17-L04-C01-O2](../units/unit-17-statistical-distributions-and-inference/lesson-4-probability-simulation-and-model-checking/lesson.md#concept-u17-l04-c01-random-trials-and-empirical-frequencies)
+- [Lesson 17.4: Probability simulation and model checking](../units/unit-17-statistical-distributions-and-inference/lesson-4-probability-simulation-and-model-checking/standards.md)
 
 ## HSS-IC.B.3
 
@@ -38,8 +38,8 @@ Recognize the purposes of and differences among sample surveys, experiments, and
 
 **Direct**
 
-- [U17-L03-C02-O1](../units/unit-17-statistical-distributions-and-inference/lesson-3-populations-samples-and-study-design/lesson.md#concept-u17-l03-c02-surveys-observational-studies-and-experiments), [U17-L03-C02-O2](../units/unit-17-statistical-distributions-and-inference/lesson-3-populations-samples-and-study-design/lesson.md#concept-u17-l03-c02-surveys-observational-studies-and-experiments), [U17-L03-C03-O1](../units/unit-17-statistical-distributions-and-inference/lesson-3-populations-samples-and-study-design/lesson.md#concept-u17-l03-c03-bias-confounding-and-design-repair), [U17-L03-C03-O2](../units/unit-17-statistical-distributions-and-inference/lesson-3-populations-samples-and-study-design/lesson.md#concept-u17-l03-c03-bias-confounding-and-design-repair)
-- [U17-L07-C02-O2](../units/unit-17-statistical-distributions-and-inference/lesson-7-randomized-treatment-comparisons/lesson.md#concept-u17-l07-c02-significance-practical-size-and-causal-scope)
+- [Lesson 17.3: Populations, samples, and study design](../units/unit-17-statistical-distributions-and-inference/lesson-3-populations-samples-and-study-design/standards.md)
+- [Lesson 17.7: Randomized treatment comparisons](../units/unit-17-statistical-distributions-and-inference/lesson-7-randomized-treatment-comparisons/standards.md)
 
 ## HSS-IC.B.4
 
@@ -49,8 +49,8 @@ Use data from a sample survey to estimate a population mean or proportion; devel
 
 **Direct**
 
-- [U17-L05-C01-O1](../units/unit-17-statistical-distributions-and-inference/lesson-5-sampling-distributions-of-means/lesson.md#concept-u17-l05-c01-repeated-sample-mean-variability), [U17-L05-C01-O2](../units/unit-17-statistical-distributions-and-inference/lesson-5-sampling-distributions-of-means/lesson.md#concept-u17-l05-c01-repeated-sample-mean-variability), [U17-L05-C02-O1](../units/unit-17-statistical-distributions-and-inference/lesson-5-sampling-distributions-of-means/lesson.md#concept-u17-l05-c02-simulation-based-margin-of-error-for-a-mean), [U17-L05-C02-O2](../units/unit-17-statistical-distributions-and-inference/lesson-5-sampling-distributions-of-means/lesson.md#concept-u17-l05-c02-simulation-based-margin-of-error-for-a-mean)
-- [U17-L06-C01-O1](../units/unit-17-statistical-distributions-and-inference/lesson-6-sampling-distributions-of-proportions/lesson.md#concept-u17-l06-c01-sample-proportions-and-sampling-variation), [U17-L06-C01-O2](../units/unit-17-statistical-distributions-and-inference/lesson-6-sampling-distributions-of-proportions/lesson.md#concept-u17-l06-c01-sample-proportions-and-sampling-variation), [U17-L06-C02-O1](../units/unit-17-statistical-distributions-and-inference/lesson-6-sampling-distributions-of-proportions/lesson.md#concept-u17-l06-c02-simulation-based-margin-of-error-for-a-proportion), [U17-L06-C02-O2](../units/unit-17-statistical-distributions-and-inference/lesson-6-sampling-distributions-of-proportions/lesson.md#concept-u17-l06-c02-simulation-based-margin-of-error-for-a-proportion)
+- [Lesson 17.5: Sampling distributions of means](../units/unit-17-statistical-distributions-and-inference/lesson-5-sampling-distributions-of-means/standards.md)
+- [Lesson 17.6: Sampling distributions of proportions](../units/unit-17-statistical-distributions-and-inference/lesson-6-sampling-distributions-of-proportions/standards.md)
 
 ## HSS-IC.B.5
 
@@ -60,7 +60,7 @@ Use data from a randomized experiment to compare two treatments; use simulations
 
 **Direct**
 
-- [U17-L07-C01-O1](../units/unit-17-statistical-distributions-and-inference/lesson-7-randomized-treatment-comparisons/lesson.md#concept-u17-l07-c01-randomization-distributions-under-no-effect), [U17-L07-C01-O2](../units/unit-17-statistical-distributions-and-inference/lesson-7-randomized-treatment-comparisons/lesson.md#concept-u17-l07-c01-randomization-distributions-under-no-effect), [U17-L07-C02-O1](../units/unit-17-statistical-distributions-and-inference/lesson-7-randomized-treatment-comparisons/lesson.md#concept-u17-l07-c02-significance-practical-size-and-causal-scope), [U17-L07-C02-O2](../units/unit-17-statistical-distributions-and-inference/lesson-7-randomized-treatment-comparisons/lesson.md#concept-u17-l07-c02-significance-practical-size-and-causal-scope)
+- [Lesson 17.7: Randomized treatment comparisons](../units/unit-17-statistical-distributions-and-inference/lesson-7-randomized-treatment-comparisons/standards.md)
 
 ## HSS-IC.B.6
 
@@ -70,8 +70,8 @@ Evaluate reports based on data.
 
 **Direct**
 
-- [U17-L03-C03-O1](../units/unit-17-statistical-distributions-and-inference/lesson-3-populations-samples-and-study-design/lesson.md#concept-u17-l03-c03-bias-confounding-and-design-repair), [U17-L03-C03-O2](../units/unit-17-statistical-distributions-and-inference/lesson-3-populations-samples-and-study-design/lesson.md#concept-u17-l03-c03-bias-confounding-and-design-repair)
-- [U17-L05-C02-O2](../units/unit-17-statistical-distributions-and-inference/lesson-5-sampling-distributions-of-means/lesson.md#concept-u17-l05-c02-simulation-based-margin-of-error-for-a-mean)
-- [U17-L06-C02-O2](../units/unit-17-statistical-distributions-and-inference/lesson-6-sampling-distributions-of-proportions/lesson.md#concept-u17-l06-c02-simulation-based-margin-of-error-for-a-proportion)
-- [U17-L07-C02-O2](../units/unit-17-statistical-distributions-and-inference/lesson-7-randomized-treatment-comparisons/lesson.md#concept-u17-l07-c02-significance-practical-size-and-causal-scope)
-- [U17-L08-C01-O1](../units/unit-17-statistical-distributions-and-inference/lesson-8-evaluation-of-statistical-reports/lesson.md#concept-u17-l08-c01-claims-evidence-and-uncertainty), [U17-L08-C01-O2](../units/unit-17-statistical-distributions-and-inference/lesson-8-evaluation-of-statistical-reports/lesson.md#concept-u17-l08-c01-claims-evidence-and-uncertainty)
+- [Lesson 17.3: Populations, samples, and study design](../units/unit-17-statistical-distributions-and-inference/lesson-3-populations-samples-and-study-design/standards.md)
+- [Lesson 17.5: Sampling distributions of means](../units/unit-17-statistical-distributions-and-inference/lesson-5-sampling-distributions-of-means/standards.md)
+- [Lesson 17.6: Sampling distributions of proportions](../units/unit-17-statistical-distributions-and-inference/lesson-6-sampling-distributions-of-proportions/standards.md)
+- [Lesson 17.7: Randomized treatment comparisons](../units/unit-17-statistical-distributions-and-inference/lesson-7-randomized-treatment-comparisons/standards.md)
+- [Lesson 17.8: Evaluation of statistical reports](../units/unit-17-statistical-distributions-and-inference/lesson-8-evaluation-of-statistical-reports/standards.md)

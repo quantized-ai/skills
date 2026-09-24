@@ -2,7 +2,7 @@
 
 [Standards index](../standards-coverage.md) · [Curriculum](../curriculum.md)
 
-Source document: **Common Core mathematics standards**. The wording below is the standard reference; objective links open the lesson concept containing the instructional and assessment evidence. Mapping categories describe alignment, not student attainment.
+Source document: **Common Core mathematics standards**. The wording below is the standard reference; lesson links open the companion standards tables containing the mapped concepts and learning objectives. Mapping categories describe alignment, not student attainment.
 
 ## HSS-ID.A.1
 
@@ -12,7 +12,7 @@ Represent data with plots on the real number line (dot plots, histograms, and bo
 
 **Prerequisite review**
 
-- [U17-L01-C01-O1](../units/unit-17-statistical-distributions-and-inference/lesson-1-data-distributions-and-summaries/lesson.md#concept-u17-l01-c01-shape-center-and-appropriate-summaries)
+- [Lesson 17.1: Data distributions and summaries](../units/unit-17-statistical-distributions-and-inference/lesson-1-data-distributions-and-summaries/standards.md)
 
 ## HSS-ID.A.2
 
@@ -22,11 +22,11 @@ Use statistics appropriate to the shape of the data distribution to compare cent
 
 **Prerequisite review**
 
-- [U17-L01-C02-O2](../units/unit-17-statistical-distributions-and-inference/lesson-1-data-distributions-and-summaries/lesson.md#concept-u17-l01-c02-mean-standard-deviation-and-units)
+- [Lesson 17.1: Data distributions and summaries](../units/unit-17-statistical-distributions-and-inference/lesson-1-data-distributions-and-summaries/standards.md)
 
 **Supporting knowledge**
 
-- [U17-L01-C01-O2](../units/unit-17-statistical-distributions-and-inference/lesson-1-data-distributions-and-summaries/lesson.md#concept-u17-l01-c01-shape-center-and-appropriate-summaries), [U17-L01-C02-O1](../units/unit-17-statistical-distributions-and-inference/lesson-1-data-distributions-and-summaries/lesson.md#concept-u17-l01-c02-mean-standard-deviation-and-units)
+- [Lesson 17.1: Data distributions and summaries](../units/unit-17-statistical-distributions-and-inference/lesson-1-data-distributions-and-summaries/standards.md)
 
 ## HSS-ID.A.3
 
@@ -36,7 +36,7 @@ Interpret differences in shape, center, and spread in the context of the data se
 
 **Prerequisite review**
 
-- [U17-L01-C01-O1](../units/unit-17-statistical-distributions-and-inference/lesson-1-data-distributions-and-summaries/lesson.md#concept-u17-l01-c01-shape-center-and-appropriate-summaries)
+- [Lesson 17.1: Data distributions and summaries](../units/unit-17-statistical-distributions-and-inference/lesson-1-data-distributions-and-summaries/standards.md)
 
 ## HSS-ID.A.4
 
@@ -46,11 +46,11 @@ Use the mean and standard deviation of a data set to fit it to a normal distribu
 
 **Direct**
 
-- [U17-L02-C01-O1](../units/unit-17-statistical-distributions-and-inference/lesson-2-normal-distribution-models/lesson.md#concept-u17-l02-c01-normal-shape-and-model-appropriateness), [U17-L02-C01-O2](../units/unit-17-statistical-distributions-and-inference/lesson-2-normal-distribution-models/lesson.md#concept-u17-l02-c01-normal-shape-and-model-appropriateness), [U17-L02-C02-O1](../units/unit-17-statistical-distributions-and-inference/lesson-2-normal-distribution-models/lesson.md#concept-u17-l02-c02-standard-scores-and-normal-areas), [U17-L02-C02-O2](../units/unit-17-statistical-distributions-and-inference/lesson-2-normal-distribution-models/lesson.md#concept-u17-l02-c02-standard-scores-and-normal-areas)
+- [Lesson 17.2: Normal distribution models](../units/unit-17-statistical-distributions-and-inference/lesson-2-normal-distribution-models/standards.md)
 
 **Supporting knowledge**
 
-- [U17-L01-C01-O2](../units/unit-17-statistical-distributions-and-inference/lesson-1-data-distributions-and-summaries/lesson.md#concept-u17-l01-c01-shape-center-and-appropriate-summaries), [U17-L01-C02-O1](../units/unit-17-statistical-distributions-and-inference/lesson-1-data-distributions-and-summaries/lesson.md#concept-u17-l01-c02-mean-standard-deviation-and-units), [U17-L01-C02-O2](../units/unit-17-statistical-distributions-and-inference/lesson-1-data-distributions-and-summaries/lesson.md#concept-u17-l01-c02-mean-standard-deviation-and-units)
+- [Lesson 17.1: Data distributions and summaries](../units/unit-17-statistical-distributions-and-inference/lesson-1-data-distributions-and-summaries/standards.md)
 
 ## HSS-ID.B.6
 
@@ -68,9 +68,9 @@ Fit a function to the data; use functions fitted to data to solve problems in th
 
 **Direct**
 
-- [U16-L03-C01-O1](../units/unit-16-function-models-and-regression/lesson-3-function-family-selection/lesson.md#concept-u16-l03-c01-differences-ratios-shape-and-context)
-- [U16-L06-C02-O1](../units/unit-16-function-models-and-regression/lesson-6-quadratic-and-exponential-regression/lesson.md#concept-u16-l06-c02-exponential-fitting-and-fitting-scale)
-- [U16-L08-C01-O1](../units/unit-16-function-models-and-regression/lesson-8-prediction-and-model-revision/lesson.md#concept-u16-l08-c01-interpolation-extrapolation-and-uncertainty)
+- [Lesson 16.3: Function-family selection](../units/unit-16-function-models-and-regression/lesson-3-function-family-selection/standards.md)
+- [Lesson 16.6: Quadratic and exponential regression](../units/unit-16-function-models-and-regression/lesson-6-quadratic-and-exponential-regression/standards.md)
+- [Lesson 16.8: Prediction and model revision](../units/unit-16-function-models-and-regression/lesson-8-prediction-and-model-revision/standards.md)
 
 ## HSS-ID.B.6b
 
@@ -80,8 +80,8 @@ Informally assess the fit of a function by plotting and analyzing residuals.
 
 **Direct**
 
-- [U16-L05-C01-O1](../units/unit-16-function-models-and-regression/lesson-5-regression-foundations-and-linear-fitting/lesson.md#concept-u16-l05-c01-data-entry-residuals-and-least-squares), [U16-L05-C01-O2](../units/unit-16-function-models-and-regression/lesson-5-regression-foundations-and-linear-fitting/lesson.md#concept-u16-l05-c01-data-entry-residuals-and-least-squares)
-- [U16-L07-C02-O1](../units/unit-16-function-models-and-regression/lesson-7-square-root-fitting-and-residual-analysis/lesson.md#concept-u16-l07-c02-residual-patterns-and-model-adequacy), [U16-L07-C02-O2](../units/unit-16-function-models-and-regression/lesson-7-square-root-fitting-and-residual-analysis/lesson.md#concept-u16-l07-c02-residual-patterns-and-model-adequacy)
+- [Lesson 16.5: Regression foundations and linear fitting](../units/unit-16-function-models-and-regression/lesson-5-regression-foundations-and-linear-fitting/standards.md)
+- [Lesson 16.7: Square-root fitting and residual analysis](../units/unit-16-function-models-and-regression/lesson-7-square-root-fitting-and-residual-analysis/standards.md)
 
 ## HSS-ID.B.6c
 
@@ -91,7 +91,7 @@ Fit a linear function for a scatter plot that suggests a linear association.
 
 **Direct**
 
-- [U16-L05-C02-O1](../units/unit-16-function-models-and-regression/lesson-5-regression-foundations-and-linear-fitting/lesson.md#concept-u16-l05-c02-linear-regression-and-coefficient-interpretation)
+- [Lesson 16.5: Regression foundations and linear fitting](../units/unit-16-function-models-and-regression/lesson-5-regression-foundations-and-linear-fitting/standards.md)
 
 ## HSS-ID.C.7
 
@@ -101,7 +101,7 @@ Interpret the slope (rate of change) and the intercept (constant term) of a line
 
 **Direct**
 
-- [U16-L05-C02-O2](../units/unit-16-function-models-and-regression/lesson-5-regression-foundations-and-linear-fitting/lesson.md#concept-u16-l05-c02-linear-regression-and-coefficient-interpretation)
+- [Lesson 16.5: Regression foundations and linear fitting](../units/unit-16-function-models-and-regression/lesson-5-regression-foundations-and-linear-fitting/standards.md)
 
 ## HSS-ID.C.9
 
@@ -111,4 +111,4 @@ Distinguish between correlation and causation.
 
 **Prerequisite review**
 
-- [U17-L03-C02-O2](../units/unit-17-statistical-distributions-and-inference/lesson-3-populations-samples-and-study-design/lesson.md#concept-u17-l03-c02-surveys-observational-studies-and-experiments)
+- [Lesson 17.3: Populations, samples, and study design](../units/unit-17-statistical-distributions-and-inference/lesson-3-populations-samples-and-study-design/standards.md)
