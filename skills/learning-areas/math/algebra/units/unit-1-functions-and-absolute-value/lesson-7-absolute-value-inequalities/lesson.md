@@ -1,25 +1,110 @@
-# Lesson 1.7: Absolute value inequalities
+---
+lesson_id: ALG-U01-L07
+unit_id: ALG-U01
+title: Absolute value inequalities
+prerequisites:
+  - ALG-U01-L02
+  - ALG-U01-L06
+---
 
-Absolute value inequalities describe points inside or outside a distance interval. Logical connectors, exceptional bounds, and endpoint inclusion determine the complete solution set.
+# Absolute value inequalities
 
-## Learning objectives
+## Outcome
 
-- Solve absolute value linear inequalities, including zero and negative isolated bounds.
-- Justify complete solution sets using distance, logical connectors, and correct endpoints.
+The student can solve an absolute-value linear inequality and justify its complete solution set as an interior or exterior distance condition.
 
-## Learning outcome
+## Scope
 
-By the end of this lesson, you should be able to derive the complete real solution set of an absolute value linear inequality and explain its interval structure.
+### Teach
 
-## Proficiency criteria
+- Isolation of an absolute-value expression in an inequality.
+- Inequality reversal under multiplication or division by a negative number.
+- Interior conditions as intersections.
+- Exterior conditions as unions.
+- Strict and inclusive endpoints.
+- Zero and negative isolated bounds.
+- Equivalent inequality, interval, and set descriptions.
 
-- Isolate the absolute value with valid inequality operations, reversing the comparison whenever division or multiplication by a negative quantity requires it.
-- Determine the consequence of a negative or zero isolated bound from nonnegativity before using a two-case rule.
-- Use an intersection for an interior distance condition and a union for an exterior condition, distinguishing strict from inclusive comparisons.
-- Give an equivalent interval or set description with all allowed components and no inadmissible endpoints.
+### Defer
 
-## Concepts
+- Nonlinear expressions inside absolute value.
+- Systems of absolute-value inequalities.
+- Optimization.
+- Inequalities requiring numerical approximation.
 
-| Concept Title | Content | Learning Objectives | Proficiency criteria |
-| --- | --- | --- | --- |
-| **Interior and exterior distance intervals** | For $c>0$, $\lvert u\rvert<c$ means $-c<u<c$; $\lvert u\rvert>c$ means $u<-c$ or $u>c$. Inclusive comparisons retain the finite boundary values. Isolate absolute value first, reversing inequality direction when multiplying or dividing by a negative number. For $c<0$, upper-bound comparisons have no solutions and lower-bound comparisons hold for every defined $u$. For $c=0$, $\lvert u\rvert<0$ is impossible, $\lvert u\rvert\le0$ requires $u=0$, $\lvert u\rvert>0$ requires $u\ne0$, and $\lvert u\rvert\ge0$ always holds. | Solve absolute value linear inequalities and represent their complete solution sets with correct interval endpoints. Justify interior intersections, exterior unions, and nonpositive-bound cases using distance and nonnegativity. | Isolate absolute value using equivalence-preserving operations and required sign reversal. Resolve negative and zero bounds before applying positive-bound rules. Use conjunction for interior conditions and disjunction for exterior conditions. State every allowed interval or singleton with correct endpoint inclusion and justify the result through distance. |
+## Agent workflow
+
+Use distance meaning to establish the logic before teaching symbolic case rules. Ask the student to predict whether the result is interior, exterior, empty, a singleton, or all real numbers before solving. During practice, diagnose isolation, sign reversal, connector, and endpoint errors separately. Assessment must use fresh tasks and require justification, not only interval answers.
+
+## Criteria
+
+### ALG-U01-L07-C01: Solve and justify absolute-value inequalities
+
+#### Knowledge
+
+For (c>0):
+
+\[
+|u|<c \iff -c<u<c,
+\]
+
+and
+
+\[
+|u|>c \iff u<-c\text{ or }u>c.
+\]
+
+Inclusive comparisons include the finite boundary values. The absolute value must be isolated first, and the comparison reverses whenever an isolation step multiplies or divides by a negative number.
+
+Nonpositive isolated bounds must be resolved using (|u|\ge0):
+
+- If (c<0), (|u|<c) and (|u|\le c) have no solutions, while (|u|>c) and (|u|\ge c) hold for every defined (u).
+- (|u|<0) is impossible.
+- (|u|\le0) requires (u=0).
+- (|u|>0) requires (u\ne0).
+- (|u|\ge0) holds for every defined (u).
+
+An interior distance condition uses an intersection; an exterior condition uses a union.
+
+#### Learn
+
+- Interpret upper distance bounds as points inside a central interval and lower bounds as points outside it.
+- Connect strict and inclusive comparisons to excluded and included boundary points.
+- Isolate the absolute value while tracking any required reversal.
+- Handle negative and zero bounds from nonnegativity before considering a two-case rule.
+- Translate the result into equivalent interval notation.
+
+#### Practice
+
+Generate inequalities requiring no isolation, addition or subtraction, division by a positive number, and division by a negative number. Include all four comparison symbols and positive, zero, and negative isolated bounds. Ask for both a logical compound inequality and interval or set notation.
+
+When an answer is wrong, identify whether the root cause is a missed comparison reversal, inappropriate positive-bound rule, incorrect `and`/`or` connector, or endpoint membership.
+
+#### Assess
+
+Use fresh tasks requiring:
+
+- a strict interior solution;
+- an inclusive exterior solution;
+- isolation involving a negative coefficient and comparison reversal;
+- one zero-bound case;
+- one negative-bound case; and
+- equivalent interval notation with all components and correct endpoints.
+
+Do not include the conversion rules in the prompt.
+
+#### Mastery evidence
+
+The student isolates by equivalence-preserving operations, handles nonpositive bounds before branching, uses intersection for interior and union for exterior conditions, and reports every allowed component with correct boundary membership.
+
+#### Misconceptions
+
+- **Always split into two linear inequalities:** Applying the (c>0) rule when (c\le0).
+- **Always use `and`:** Treating an exterior region as an intersection.
+- **Always use `or`:** Treating an interior region as a union.
+- **No reversal during isolation:** Dividing by a negative value without reversing the comparison.
+- **Strictness disappears:** Including boundary points for (<) or (>), or excluding them for (\le) or (\ge).
+
+## Lesson completion
+
+Mark `ALG-U01-L07` complete only when the criterion has independent evidence across positive, zero, and negative bounds and both interior and exterior conditions.

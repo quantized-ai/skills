@@ -1,26 +1,141 @@
-# Lesson 1.6: Absolute value functions and equations
+---
+lesson_id: ALG-U01-L06
+unit_id: ALG-U01
+title: Absolute value functions and equations
+prerequisites:
+  - ALG-U01-L02
+  - ALG-U01-L04
+---
 
-Absolute value connects distance, a two-branch graph, and equations with separate sign cases. Transformations explain the graph’s vertex, slopes, domain, and range.
+# Absolute value functions and equations
 
-## Learning objectives
+## Outcome
 
-- Interpret distance and graph transformed absolute value functions with their key attributes.
-- Formulate exact-distance equations and solve them with complete sign cases and verified solution counts.
+The student can connect absolute value to distance, analyze transformed absolute-value graphs, and solve exact-distance equations with complete verified cases.
 
-## Learning outcome
+## Scope
 
-By the end of this lesson, you should be able to connect an absolute value graph or equation to a distance condition and justify its outputs or solutions.
+### Teach
 
-## Proficiency criteria
+- Absolute value as distance from zero.
+- The two-branch piecewise definition.
+- Transformed absolute-value graphs.
+- Vertex, branch slopes, intercepts, domain, and range.
+- Exact-distance equations.
+- Two, one, and no-solution cases after isolation.
+- Verification in the original equation.
 
-- Use the nonnegativity of absolute value to explain its piecewise rule and the shape of its graph.
-- Determine the vertex, branch slopes, intercepts, domain, and range for nonzero inside and outside multipliers, including why an inside reflection can be hidden.
-- Translate a distance condition into an equation with the correct center and distance.
-- Isolate the absolute value before branching, distinguish positive, zero, and negative isolated bounds, and verify every candidate in the original equation.
+### Defer
 
-## Concepts
+- Absolute-value inequalities.
+- Equations with nonlinear expressions inside absolute value.
+- Optimization applications.
+- General piecewise-function construction beyond the absolute-value rule.
 
-| Concept Title | Content | Learning Objectives | Proficiency criteria |
-| --- | --- | --- | --- |
-| **Absolute value as distance and a piecewise rule** | Absolute value is nonnegative distance from zero: $\lvert x\rvert=x$ for $x\ge0$ and $\lvert x\rvert=-x$ for $x<0$. For real $a,b\ne0$, $a\lvert b(x-h)\rvert+k=a\lvert b\rvert\lvert x-h\rvert+k$ has vertex $(h,k)$, left slope $-a\lvert b\rvert$, right slope $a\lvert b\rvert$, and domain $\mathbb R$. Its range is $[k,\infty)$ for $a>0$ or $(-\infty,k]$ for $a<0$. Negating $b$ leaves the graph unchanged; intercepts follow from zero inputs or outputs. | Explain absolute value as distance and graph its transformed functions with vertex, slopes, intercepts, domain, and range. Explain the effects of nonzero inside and outside multipliers and translations on an absolute value graph. | State compatible distance and branch definitions. Graph both branches and identify the vertex, slopes, intercepts, and attained range endpoint. Apply outside signs correctly. Explain reciprocal horizontal scaling, vertical scaling, translations, and the inside reflection concealed by symmetry. |
-| **Absolute value equations** | An exact distance $d\ge0$ from a center $h$ is expressed by $\lvert x-h\rvert=d$. After isolating absolute value, $\lvert ax+b\rvert=c$ with $a\ne0$ has two distinct real solutions when $c>0$, one when $c=0$, and none when $c<0$. Positive bounds produce $ax+b=c$ or $ax+b=-c$; the zero case gives one equation. Candidates must satisfy the original equation. | Formulate an absolute value linear equation from an exact-distance condition. Solve absolute value linear equations by isolating the absolute value, resolving sign cases, and verifying candidates and solution counts. | Use the correct center and nonnegative distance in a contextual equation. Isolate absolute value before branching. Solve every permitted sign case, avoiding duplicate zero-case solutions. Verify candidates in the original equation and justify two, one, or no solutions. |
+## Agent workflow
+
+Connect symbolic rules to distance before introducing case procedures. Diagnose graphing and equation-solving criteria separately. During practice, require the student to predict solution count or graph shape before computing when that prediction exposes understanding. Assess with fresh tasks and no hints; verification in the original equation is required evidence, not an optional check.
+
+## Criteria
+
+### ALG-U01-L06-C01: Interpret and graph absolute-value functions
+
+#### Knowledge
+
+Absolute value is nonnegative distance from zero:
+
+\[
+|x|=\begin{cases}
+x,&x\ge0,\\
+-x,&x<0.
+\end{cases}
+\]
+
+For real (a,b\ne0),
+
+\[
+g(x)=a|b(x-h)|+k=a|b||x-h|+k.
+\]
+
+Its vertex is ((h,k)), its left branch slope is (-a|b|), and its right branch slope is (a|b|). Its domain is all real numbers. Its range is ([k,\infty)) when (a>0) and (( -\infty,k]) when (a<0). Negating (b) does not change the graph because the parent function is even. Intercepts are found by setting the appropriate coordinate equal to zero.
+
+#### Learn
+
+- Derive the two branches from distance and nonnegativity.
+- Connect the two linear branches to the V-shaped graph.
+- Use transformation reasoning to determine vertex, slopes, opening direction, and range.
+- Explain why the sign of the inside multiplier is visually concealed.
+- Determine intercepts from inputs or outputs equal to zero.
+
+#### Practice
+
+Generate formula-to-graph-description and graph-feature-to-formula tasks. Vary (a), (b), (h), and (k), including negative outside multipliers and inside multipliers with equal magnitude but opposite signs. Include cases with zero, one, or two horizontal intercepts.
+
+#### Assess
+
+Require the student to analyze a fresh transformed absolute-value function by giving:
+
+- vertex and opening direction;
+- both branch slopes;
+- domain and range;
+- all intercepts; and
+- an explanation of the effects of the inside and outside multipliers, including the concealed inside reflection.
+
+#### Mastery evidence
+
+The student connects distance, piecewise rule, and graph; identifies every requested feature; uses the attained range endpoint; and correctly treats (b) through (|b|).
+
+#### Misconceptions
+
+- **Absolute value can be negative:** Drawing outputs below the vertex when (a>0).
+- **Inside multiplier controls opening direction:** Ignoring that the outside sign determines upward or downward opening.
+- **Inside reflection changes the graph:** Failing to account for the even symmetry of absolute value.
+- **Vertex is an excluded boundary:** Using an open range endpoint at (k).
+
+### ALG-U01-L06-C02: Formulate and solve absolute-value equations
+
+#### Knowledge
+
+An exact distance (d\ge0) from a center (h) is represented by
+
+\[
+|x-h|=d.
+\]
+
+After the absolute value is isolated, (|ax+b|=c), with (a\ne0), has two distinct real solutions when (c>0), one solution when (c=0), and no solution when (c<0). For (c>0), solve (ax+b=c) and (ax+b=-c). For (c=0), solve one equation rather than duplicating the same case. Every candidate must be checked in the original equation.
+
+#### Learn
+
+- Translate verbal exact-distance conditions using the correct center and nonnegative distance.
+- Isolate the absolute-value expression before creating sign cases.
+- Predict the number of solutions from nonnegativity.
+- Explain the special zero case and verify candidates in the original equation.
+
+#### Practice
+
+Use contextual distance statements and algebraic equations requiring one or more isolation steps. Include positive, zero, and negative isolated values and an equation where an outside negative coefficient requires careful isolation. Ask for a predicted solution count before case solving.
+
+#### Assess
+
+Require fresh tasks covering:
+
+- construction of an equation from an exact-distance context;
+- a positive isolated bound with two sign cases;
+- a zero isolated bound;
+- a negative isolated bound; and
+- substitution checks in the original equations.
+
+#### Mastery evidence
+
+The student constructs the correct distance equation, isolates before branching, handles all three bound cases, solves every permitted case, avoids duplicate zero-case solutions, and verifies all candidates.
+
+#### Misconceptions
+
+- **Center has the same inside sign:** Writing (|x+h|) for distance from (h).
+- **Always create two cases:** Producing false or duplicate cases when the isolated value is nonpositive.
+- **Branch before isolating:** Applying sign cases to an equation that still has outside operations.
+- **Verification is unnecessary:** Retaining candidates that fail the original equation after an invalid manipulation or arithmetic error.
+
+## Lesson completion
+
+Mark `ALG-U01-L06` complete only when both graph analysis and equation solving have independent assessment evidence.
