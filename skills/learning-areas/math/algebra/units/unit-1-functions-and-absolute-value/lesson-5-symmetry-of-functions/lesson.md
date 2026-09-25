@@ -1,13 +1,9 @@
----
-lesson_id: ALG-U01-L05
-unit_id: ALG-U01
-title: Symmetry of functions
-prerequisites:
-  - ALG-U01-L01
-  - ALG-U01-L02
----
-
 # Symmetry of functions
+
+## Prerequisites
+
+- [Relations and function notation](../lesson-1-relations-and-function-notation/lesson.md)
+- [Sets, intervals, domain, and range](../lesson-2-sets-intervals-domain-and-range/lesson.md)
 
 ## Outcome
 
@@ -36,7 +32,7 @@ Begin with domain symmetry, not algebraic substitution. Teach algebraic, tabular
 
 ## Criteria
 
-### ALG-U01-L05-C01: Classify functions by even and odd symmetry
+### Classify functions by even and odd symmetry
 
 #### Knowledge
 
@@ -84,4 +80,4 @@ The student checks the domain, substitutes and simplifies correctly, selects amo
 
 ## Lesson completion
 
-Mark `ALG-U01-L05` complete only when the single criterion has independent evidence across algebraic and nonalgebraic representations.
+Mark this lesson complete only when the criterion has independent evidence across algebraic and nonalgebraic representations.

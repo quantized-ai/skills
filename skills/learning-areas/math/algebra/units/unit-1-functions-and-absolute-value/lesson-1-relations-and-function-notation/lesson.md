@@ -1,10 +1,3 @@
----
-lesson_id: ALG-U01-L01
-unit_id: ALG-U01
-title: Relations and function notation
-prerequisites: []
----
-
 # Relations and function notation
 
 ## Outcome
@@ -40,7 +33,7 @@ The student can decide whether a relation is a function, identify its domain and
 
 ## Criteria
 
-### ALG-U01-L01-C01: Classify relations and identify domain and range
+### Classify relations and identify domain and range
 
 #### Knowledge
 
@@ -83,7 +76,7 @@ The student correctly classifies every required representation, identifies the d
 - **Finite sets contain their gaps:** The student turns a finite domain or range into a continuous interval.
 - **Horizontal-line test:** The student uses horizontal rather than vertical lines to test whether a graph is a function of (x).
 
-### ALG-U01-L01-C02: Evaluate and interpret function notation
+### Evaluate and interpret function notation
 
 #### Knowledge
 
@@ -126,4 +119,4 @@ The student substitutes the complete input into every occurrence, simplifies cor
 
 ## Lesson completion
 
-Mark `ALG-U01-L01` complete only when both criteria have independent assessment evidence. Report which criterion needs more work rather than assigning a single undifferentiated lesson score.
+Mark this lesson complete only when both criteria have independent assessment evidence. Report which criterion needs more work rather than assigning a single undifferentiated lesson score.

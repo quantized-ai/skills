@@ -1,12 +1,8 @@
----
-lesson_id: ALG-U01-L02
-unit_id: ALG-U01
-title: Sets, intervals, domain, and range
-prerequisites:
-  - ALG-U01-L01
----
-
 # Sets, intervals, domain, and range
+
+## Prerequisite
+
+[Relations and function notation](../lesson-1-relations-and-function-notation/lesson.md)
 
 ## Outcome
 
@@ -36,7 +32,7 @@ Diagnose each criterion before instruction. Teach only missing ideas, then move 
 
 ## Criteria
 
-### ALG-U01-L02-C01: Represent and combine real sets
+### Represent and combine real sets
 
 #### Knowledge
 
@@ -74,7 +70,7 @@ Every representation has identical membership, all finite endpoints are handled 
 - **Intersection means combine everything:** Retaining values present in only one set.
 - **Filling finite gaps:** Replacing a finite set with the interval between its least and greatest values.
 
-### ALG-U01-L02-C02: Determine domain and range
+### Determine domain and range
 
 #### Knowledge
 
@@ -117,4 +113,4 @@ The student identifies allowed inputs first, reports only attained outputs, hand
 
 ## Lesson completion
 
-Mark `ALG-U01-L02` complete only when both criteria have independent assessment evidence. Preserve criterion-level results for later prerequisite checks.
+Mark this lesson complete only when both criteria have independent assessment evidence. Preserve criterion-level results for later prerequisite checks.

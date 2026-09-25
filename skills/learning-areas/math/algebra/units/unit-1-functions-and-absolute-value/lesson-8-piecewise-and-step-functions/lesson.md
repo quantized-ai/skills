@@ -1,13 +1,9 @@
----
-lesson_id: ALG-U01-L08
-unit_id: ALG-U01
-title: Piecewise and step functions
-prerequisites:
-  - ALG-U01-L01
-  - ALG-U01-L02
----
-
 # Piecewise and step functions
+
+## Prerequisites
+
+- [Relations and function notation](../lesson-1-relations-and-function-notation/lesson.md)
+- [Sets, intervals, domain, and range](../lesson-2-sets-intervals-domain-and-range/lesson.md)
 
 ## Outcome
 
@@ -38,7 +34,7 @@ Require branch selection before substitution. Treat evaluation, graphing, and co
 
 ## Criteria
 
-### ALG-U01-L08-C01: Evaluate and graph piecewise functions
+### Evaluate and graph piecewise functions
 
 #### Knowledge
 
@@ -78,7 +74,7 @@ The student selects branches before evaluating, handles boundaries consistently 
 - **Any overlap breaks the function:** Rejecting overlaps whose formulas agree on shared inputs.
 - **Range connects graph pieces:** Filling output gaps between attained branch values.
 
-### ALG-U01-L08-C02: Evaluate and construct step functions
+### Evaluate and construct step functions
 
 #### Knowledge
 
@@ -121,4 +117,4 @@ The student applies the greatest-integer definition rather than truncation, hand
 
 ## Lesson completion
 
-Mark `ALG-U01-L08` complete only when both criteria have independent assessment evidence, including exact-boundary and negative-input cases.
+Mark this lesson complete only when both criteria have independent assessment evidence, including exact-boundary and negative-input cases.

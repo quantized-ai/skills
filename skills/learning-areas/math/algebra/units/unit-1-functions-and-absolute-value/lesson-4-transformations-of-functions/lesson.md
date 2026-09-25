@@ -1,14 +1,10 @@
----
-lesson_id: ALG-U01-L04
-unit_id: ALG-U01
-title: Transformations of functions
-prerequisites:
-  - ALG-U01-L01
-  - ALG-U01-L02
-  - ALG-U01-L03
----
-
 # Transformations of functions
+
+## Prerequisites
+
+- [Relations and function notation](../lesson-1-relations-and-function-notation/lesson.md)
+- [Sets, intervals, domain, and range](../lesson-2-sets-intervals-domain-and-range/lesson.md)
+- [Features and change in functions](../lesson-3-features-and-change-in-functions/lesson.md)
 
 ## Outcome
 
@@ -38,7 +34,7 @@ Require the student to predict a mapping before plotting. Use technology only to
 
 ## Criteria
 
-### ALG-U01-L04-C01: Apply translations
+### Apply translations
 
 #### Knowledge
 
@@ -75,7 +71,7 @@ The student derives rather than guesses the horizontal direction, maps both coor
 - **Only outputs move:** Applying the vertical change but ignoring the horizontal change.
 - **Any similar feature corresponds:** Inferring parameters from unrelated points.
 
-### ALG-U01-L04-C02: Apply reflections and scale factors
+### Apply reflections and scale factors
 
 #### Knowledge
 
@@ -115,7 +111,7 @@ The student divides input coordinates by the inside multiplier, multiplies outpu
 - **Zero uses the same mapping:** Dividing by zero or treating a collapsed graph as invertible.
 - **No visible change means no transformation:** Ignoring symmetry that conceals a reflection.
 
-### ALG-U01-L04-C03: Apply and verify combined transformations
+### Apply and verify combined transformations
 
 #### Knowledge
 
@@ -169,4 +165,4 @@ The student performs the full mapping consistently, preserves set membership, ex
 
 ## Lesson completion
 
-Mark `ALG-U01-L04` complete only when all three criteria have independent assessment evidence, including an algebraic derivation and a verification task.
+Mark this lesson complete only when all three criteria have independent assessment evidence, including an algebraic derivation and a verification task.

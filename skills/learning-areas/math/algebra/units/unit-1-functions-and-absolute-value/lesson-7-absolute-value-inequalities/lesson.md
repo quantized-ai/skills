@@ -1,13 +1,9 @@
----
-lesson_id: ALG-U01-L07
-unit_id: ALG-U01
-title: Absolute value inequalities
-prerequisites:
-  - ALG-U01-L02
-  - ALG-U01-L06
----
-
 # Absolute value inequalities
+
+## Prerequisites
+
+- [Sets, intervals, domain, and range](../lesson-2-sets-intervals-domain-and-range/lesson.md)
+- [Absolute value functions and equations](../lesson-6-absolute-value-functions-and-equations/lesson.md)
 
 ## Outcome
 
@@ -38,7 +34,7 @@ Use distance meaning to establish the logic before teaching symbolic case rules.
 
 ## Criteria
 
-### ALG-U01-L07-C01: Solve and justify absolute-value inequalities
+### Solve and justify absolute-value inequalities
 
 #### Knowledge
 
@@ -107,4 +103,4 @@ The student isolates by equivalence-preserving operations, handles nonpositive b
 
 ## Lesson completion
 
-Mark `ALG-U01-L07` complete only when the criterion has independent evidence across positive, zero, and negative bounds and both interior and exterior conditions.
+Mark this lesson complete only when the criterion has independent evidence across positive, zero, and negative bounds and both interior and exterior conditions.

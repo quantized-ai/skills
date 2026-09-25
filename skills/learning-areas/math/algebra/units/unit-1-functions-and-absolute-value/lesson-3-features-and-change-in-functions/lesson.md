@@ -1,13 +1,9 @@
----
-lesson_id: ALG-U01-L03
-unit_id: ALG-U01
-title: Features and change in functions
-prerequisites:
-  - ALG-U01-L01
-  - ALG-U01-L02
----
-
 # Features and change in functions
+
+## Prerequisites
+
+- [Relations and function notation](../lesson-1-relations-and-function-notation/lesson.md)
+- [Sets, intervals, domain, and range](../lesson-2-sets-intervals-domain-and-range/lesson.md)
 
 ## Outcome
 
@@ -37,7 +33,7 @@ Diagnose criteria separately. Teach the missing distinction or procedure, then u
 
 ## Criteria
 
-### ALG-U01-L03-C01: Describe function features
+### Describe function features
 
 #### Knowledge
 
@@ -81,7 +77,7 @@ The student consistently distinguishes zeros from intercepts, sign from monotoni
 - **Highest visible nearby point is absolute:** Failing to compare the entire stated domain.
 - **Endpoint cannot be an extremum:** Ignoring valid one-sided comparisons.
 
-### ALG-U01-L03-C02: Compute and interpret average rate of change
+### Compute and interpret average rate of change
 
 #### Knowledge
 
@@ -127,4 +123,4 @@ The student uses corresponding endpoint differences in a consistent order, compu
 
 ## Lesson completion
 
-Mark `ALG-U01-L03` complete only when both criteria have independent assessment evidence, including interpretation rather than calculation alone.
+Mark this lesson complete only when both criteria have independent assessment evidence, including interpretation rather than calculation alone.

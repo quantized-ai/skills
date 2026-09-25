@@ -1,13 +1,9 @@
----
-lesson_id: ALG-U01-L06
-unit_id: ALG-U01
-title: Absolute value functions and equations
-prerequisites:
-  - ALG-U01-L02
-  - ALG-U01-L04
----
-
 # Absolute value functions and equations
+
+## Prerequisites
+
+- [Sets, intervals, domain, and range](../lesson-2-sets-intervals-domain-and-range/lesson.md)
+- [Transformations of functions](../lesson-4-transformations-of-functions/lesson.md)
 
 ## Outcome
 
@@ -38,7 +34,7 @@ Connect symbolic rules to distance before introducing case procedures. Diagnose 
 
 ## Criteria
 
-### ALG-U01-L06-C01: Interpret and graph absolute-value functions
+### Interpret and graph absolute-value functions
 
 #### Knowledge
 
@@ -92,7 +88,7 @@ The student connects distance, piecewise rule, and graph; identifies every reque
 - **Inside reflection changes the graph:** Failing to account for the even symmetry of absolute value.
 - **Vertex is an excluded boundary:** Using an open range endpoint at (k).
 
-### ALG-U01-L06-C02: Formulate and solve absolute-value equations
+### Formulate and solve absolute-value equations
 
 #### Knowledge
 
@@ -138,4 +134,4 @@ The student constructs the correct distance equation, isolates before branching,
 
 ## Lesson completion
 
-Mark `ALG-U01-L06` complete only when both graph analysis and equation solving have independent assessment evidence.
+Mark this lesson complete only when both graph analysis and equation solving have independent assessment evidence.
