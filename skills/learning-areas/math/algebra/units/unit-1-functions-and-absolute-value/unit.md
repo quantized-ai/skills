@@ -2,6 +2,16 @@
 
 Function notation, domains, and graph attributes connect transformations, absolute-value conditions, and piecewise definitions.
 
+## Use by an AI agent
+
+These eight lessons are agent-facing references for teaching, practice, and self-assessment. Start with the [agent guide](agent-guide.md), then load the selected lesson and its [assessment-bank section](assessment.md). The guide defines mode behavior, prerequisite routing, task checks, and criterion-level evidence; lesson calibration examples ground explanations and error diagnosis. Preserve the mathematical scope and use fresh tasks to establish independent understanding.
+
+Every assessment request uses freshly generated questions under the [question-generation specification](question-generation.md). The fixed assessment bank is an internal reference for coverage and answer validation. Vary the questions while preserving the targeted skill and appropriate difficulty; use available exposure history to avoid repetition.
+
+Completion is based on evidence for all 15 lesson criteria, including their required cases, rather than a unit-wide percentage. A partial self-assessment should report only its covered criteria. See [agent evaluation scenarios](agent-evaluation.md) for reviewing tutor behavior.
+
+Instruction draws on the IES/What Works Clearinghouse algebra teaching guidance and Mathematics Assessment Project teacher resources, with mathematical checks against selected OpenStax sections. The [teaching source record](teaching-sources.md) identifies the resources actually consulted, their roles and evidence limits, and the changes made in each lesson. All embedded tasks and AI delivery rules are locally authored.
+
 ## Main learning objectives
 
 - Classify relations and identify their domain and range. Evaluate function notation and interpret quantities, units, and domain conditions.
