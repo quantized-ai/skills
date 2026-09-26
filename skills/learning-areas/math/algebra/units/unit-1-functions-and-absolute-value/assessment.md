@@ -1,14 +1,14 @@
 # Unit 1 assessment calibration bank (agent-only)
 
-Read the [agent guide](agent-guide.md), [question-generation specification](question-generation.md), and selected [lesson](unit.md#lessons) first. Each heading below matches a lesson criterion. These fixed prompts and keys are internal examples for calibrating generated questions. Generate a fresh question for every assessment request; do not serve this bank as a recurring quiz. Present only the new question, one manageable part at a time, and retain its checked key privately until feedback is appropriate.
+Read the [agent guide](agent-guide.md), [question-generation specification](question-generation.md), and both selected lesson files from the [skill entry point](SKILL.md#lessons) first. Each heading below matches a tutor section, which identifies the authoritative curriculum concept. These fixed prompts and keys are internal examples for calibrating generated questions. Generate a fresh question for every assessment request; do not serve this bank as a recurring quiz. Present only the new question, one manageable part at a time, and retain its checked key privately until feedback is appropriate.
 
-Tasks A and B illustrate different evidence opportunities, not two test forms to alternate. Use the lesson's Assess checklist to track coverage when generating tasks. Parts of one task do not automatically count as independent transfer. Exposed items must be replaced by verified fresh tasks with a changed representation or reasoning demand. Accept equivalent exact answers and valid methods. Grade reasoning, restrictions, and completeness along with results using the shared rubric. No calculator is necessary except actual plotting where specified. A graph description is an accessible alternative for drawing tasks; it does not replace required technology verification.
+Tasks A and B illustrate different evidence opportunities, not two test forms to alternate. Use the tutor's Assess checklist to track coverage when generating tasks. Parts of one task do not automatically count as independent transfer. Exposed items must be replaced by verified fresh tasks with a changed representation or reasoning demand. Accept equivalent exact answers and valid methods. Grade reasoning, restrictions, and completeness along with results using the shared rubric. No calculator is necessary except actual plotting where specified. A graph description is an accessible alternative for drawing tasks; it does not replace required technology verification.
 
-The [teacher-resource record](teaching-sources.md) explains the instructional basis and its limits. These prompts and keys are locally authored. Use a lesson's reasoning task for feedback and revision during learning or practice; generate independent assessment questions separately. If the student explicitly requests a bank example, explain it and record its exposure. A before/after improvement on the same task is evidence of revision, not two independent successes. At the end, invite the student to identify one idea they can now explain and one they want to revisit, then compare that reflection with their work.
+The [teacher-resource record](teaching-sources.md) explains the instructional basis and its limits. These prompts and keys are locally authored. Use a tutor file's reasoning task for feedback and revision during learning or practice; generate independent assessment questions separately. If the student explicitly requests a bank example, explain it and record its exposure. A before/after improvement on the same task is evidence of revision, not two independent successes. At the end, invite the student to identify one idea they can now explain and one they want to revisit, then compare that reflection with their work.
 
 ## Classify relations and identify domain and range
 
-Lesson 1.1: [criterion](lesson-1-relations-and-function-notation/lesson.md#classify-relations-and-identify-domain-and-range).
+Lesson 1.1: [tutor coverage](lesson-1-relations-and-function-notation/tutor.md#classify-relations-and-identify-domain-and-range).
 
 **A — Prompt:** A complete table lists the pairs $(-2,5),(0,5),(4,-1)$. Does it define a function? Give its domain and range with a reason. Now add $(0,7)$: explain exactly what changes.
 
@@ -20,7 +20,7 @@ Lesson 1.1: [criterion](lesson-1-relations-and-function-notation/lesson.md#class
 
 ## Evaluate and interpret function notation
 
-Lesson 1.1: [criterion](lesson-1-relations-and-function-notation/lesson.md#evaluate-and-interpret-function-notation).
+Lesson 1.1: [tutor coverage](lesson-1-relations-and-function-notation/tutor.md#evaluate-and-interpret-function-notation).
 
 **A — Prompt:** For $f(x)=2x^2+x$ with domain all real numbers except $1$, find $f(-2)$ and simplify $f(t-1)$. State when the latter is defined. Is $f(1)$ defined?
 
@@ -32,7 +32,7 @@ Lesson 1.1: [criterion](lesson-1-relations-and-function-notation/lesson.md#evalu
 
 ## Represent and combine real sets
 
-Lesson 1.2: [criterion](lesson-2-sets-intervals-domain-and-range/lesson.md#represent-and-combine-real-sets).
+Lesson 1.2: [tutor coverage](lesson-2-sets-intervals-domain-and-range/tutor.md#represent-and-combine-real-sets).
 
 **A — Prompt:** Express $-3<x\le2$ and $x\ge4$ in interval and set-builder notation. For $A=(-3,2]$ and $B=[4,\infty)$, find $A\cup B$ and $A\cap B$. Does $\{-3,2\}$ equal $[-3,2]$? Explain.
 
@@ -44,7 +44,7 @@ Lesson 1.2: [criterion](lesson-2-sets-intervals-domain-and-range/lesson.md#repre
 
 ## Determine domain and range
 
-Lesson 1.2: [criterion](lesson-2-sets-intervals-domain-and-range/lesson.md#determine-domain-and-range).
+Lesson 1.2: [tutor coverage](lesson-2-sets-intervals-domain-and-range/tutor.md#determine-domain-and-range).
 
 **A — Prompt:** Give domain and range for each complete representation: (i) table $(-2,4),(0,0),(2,4)$; (ii) the entire graph formed by straight segments through $(-2,3),(0,-1),(3,2)$, with the first endpoint open and every other point included; (iii) $f(x)=x^2$ for $x\in(-2,1]$.
 
@@ -56,7 +56,7 @@ Lesson 1.2: [criterion](lesson-2-sets-intervals-domain-and-range/lesson.md#deter
 
 ## Describe function features
 
-Lesson 1.3: [criterion](lesson-3-features-and-change-in-functions/lesson.md#describe-function-features).
+Lesson 1.3: [tutor coverage](lesson-3-features-and-change-in-functions/tutor.md#describe-function-features).
 
 **A — Prompt:** The entire graph joins $(-3,-2),(-1,2),(1,-2),(3,2)$ by straight segments, including both endpoints. State zeros, both kinds of intercepts, positive and negative regions, increasing and decreasing intervals, and local and absolute extrema with their input locations. Use one-sided comparisons at domain endpoints.
 
@@ -68,7 +68,7 @@ Lesson 1.3: [criterion](lesson-3-features-and-change-in-functions/lesson.md#desc
 
 ## Compute and interpret average rate of change
 
-Lesson 1.3: [criterion](lesson-3-features-and-change-in-functions/lesson.md#compute-and-interpret-average-rate-of-change).
+Lesson 1.3: [tutor coverage](lesson-3-features-and-change-in-functions/tutor.md#compute-and-interpret-average-rate-of-change).
 
 **A — Prompt:** A complete record gives a tank's volumes at times 1, 3, and 6 minutes as 20, 30, and 10 liters. Find the average rate from 1 to 6 minutes and interpret its sign and units. Does it establish that volume decreased throughout?
 
@@ -80,7 +80,7 @@ Lesson 1.3: [criterion](lesson-3-features-and-change-in-functions/lesson.md#comp
 
 ## Apply translations
 
-Lesson 1.4: [criterion](lesson-4-transformations-of-functions/lesson.md#apply-translations).
+Lesson 1.4: [tutor coverage](lesson-4-transformations-of-functions/tutor.md#apply-translations).
 
 **A — Prompt:** For $g(x)=f(x+4)-3$, derive how an arbitrary point on $f$ moves, then map $(-2,5)$ and $(3,-1)$.
 
@@ -92,7 +92,7 @@ Lesson 1.4: [criterion](lesson-4-transformations-of-functions/lesson.md#apply-tr
 
 ## Apply reflections and scale factors
 
-Lesson 1.4: [criterion](lesson-4-transformations-of-functions/lesson.md#apply-reflections-and-scale-factors).
+Lesson 1.4: [tutor coverage](lesson-4-transformations-of-functions/tutor.md#apply-reflections-and-scale-factors).
 
 **A — Prompt:** The complete graph of $f$ consists of the three points $(-2,1),(0,3),(4,-1)$. Map it for $g(x)=2f(-x/2)$ and $h(x)=-f(2x)/2$. For each, give horizontal and vertical scale factors and any reflections.
 
@@ -100,11 +100,11 @@ Lesson 1.4: [criterion](lesson-4-transformations-of-functions/lesson.md#apply-re
 
 **B — Prompt:** Let $f$ have domain $[1,3]$. Describe the domain and values of $0f(x)$ and $2f(0x)$. A different function $p$ has domain $\mathbb R$ and is even: explain why $p(-x)$ has the same graph as $p(x)$ although the input transformation is a reflection.
 
-**Key:** $0f(x)$ is zero on $[1,3]$ and undefined outside it. $2f(0x)$ is undefined for every real input because $f(0)$ is undefined. For even $p$, the identity $p(-x)=p(x)$ hides the reflected change of input. Do not use the nonzero coordinate mapping when $b=0$.
+**Key:** $0f(x)$ is zero on $[1,3]$ and undefined outside it. $2f(0x)$ is undefined for every real input because $f(0)$ is undefined. For even $p$, the identity $p(-x)=p(x)$ hides the reflected change of input. For $0f(x)$, $a=0$ and $b=1$, so the mapping $(u,v)\mapsto(u,0)$ remains valid on the original domain; loss of plane-map invertibility does not invalidate these graph images. Do not use the coordinate mapping when $b=0$.
 
 ## Apply and verify combined transformations
 
-Lesson 1.4: [criterion](lesson-4-transformations-of-functions/lesson.md#apply-and-verify-combined-transformations).
+Lesson 1.4: [tutor coverage](lesson-4-transformations-of-functions/tutor.md#apply-and-verify-combined-transformations).
 
 **A — Prompt:** Let $f(x)=x+1$ on $[-1,3)$. For $g(x)=-3f(2x+4)+2$, factor the inside expression, derive the point mapping, and give the domain, range, and images of the two endpoint locations with their inclusion. Predict the image of $(0,1)$, then check it with an actual graphing tool. Vary only the outside multiplier from $-3$ to $-1$ and compare the predicted and plotted position of that corresponding point.
 
@@ -116,7 +116,7 @@ Lesson 1.4: [criterion](lesson-4-transformations-of-functions/lesson.md#apply-an
 
 ## Classify functions by even and odd symmetry
 
-Lesson 1.5: [criterion](lesson-5-symmetry-of-functions/lesson.md#classify-functions-by-even-and-odd-symmetry).
+Lesson 1.5: [tutor coverage](lesson-5-symmetry-of-functions/tutor.md#classify-functions-by-even-and-odd-symmetry).
 
 **A — Prompt:** Classify each as even, odd, both, or neither and justify: $f(x)=x^2+2$ on $\mathbb R$; $g(x)=x^3-2x$ on $\mathbb R$; $h(x)=x^2$ on $[-1,3]$; $z(x)=0$ on $\{-2,0,2\}$. State the corresponding graph symmetries where they apply.
 
@@ -128,7 +128,7 @@ Lesson 1.5: [criterion](lesson-5-symmetry-of-functions/lesson.md#classify-functi
 
 ## Interpret and graph absolute-value functions
 
-Lesson 1.6: [criterion](lesson-6-absolute-value-functions-and-equations/lesson.md#interpret-and-graph-absolute-value-functions).
+Lesson 1.6: [tutor coverage](lesson-6-absolute-value-functions-and-equations/tutor.md#interpret-and-graph-absolute-value-functions).
 
 **A — Prompt:** For $g(x)=\tfrac12|-4(x+2)|-6$, describe the graph, vertex, both branch slopes, domain, range, and all intercepts. Explain what changes if the inside multiplier becomes $4$, or if the outside multiplier changes from $1/2$ to $-1/2$.
 
@@ -140,7 +140,7 @@ Lesson 1.6: [criterion](lesson-6-absolute-value-functions-and-equations/lesson.m
 
 ## Formulate and solve absolute-value equations
 
-Lesson 1.6: [criterion](lesson-6-absolute-value-functions-and-equations/lesson.md#formulate-and-solve-absolute-value-equations).
+Lesson 1.6: [tutor coverage](lesson-6-absolute-value-functions-and-equations/tutor.md#formulate-and-solve-absolute-value-equations).
 
 **A — Prompt:** Solve over $\mathbb R$ and justify the number of distinct solutions: $7-3|2x+1|=-8$; $2|x-4|+1=1$; $|3x-2|+5=2$. Check any solutions in their original equations.
 
@@ -152,7 +152,7 @@ Lesson 1.6: [criterion](lesson-6-absolute-value-functions-and-equations/lesson.m
 
 ## Solve and justify absolute-value inequalities
 
-Lesson 1.7: [criterion](lesson-7-absolute-value-inequalities/lesson.md#solve-and-justify-absolute-value-inequalities).
+Lesson 1.7: [tutor coverage](lesson-7-absolute-value-inequalities/tutor.md#solve-and-justify-absolute-value-inequalities).
 
 **A — Prompt:** Solve over $\mathbb R$, give equivalent inequalities and interval or set notation, and justify boundary membership: $|2x-1|<5$; $|x+3|\ge2$; $4-2|x-1|>0$. Explain whether the components of each answer are joined by “and” or “or.”
 
@@ -164,7 +164,7 @@ Lesson 1.7: [criterion](lesson-7-absolute-value-inequalities/lesson.md#solve-and
 
 ## Evaluate and graph piecewise functions
 
-Lesson 1.8: [criterion](lesson-8-piecewise-and-step-functions/lesson.md#evaluate-and-graph-piecewise-functions).
+Lesson 1.8: [tutor coverage](lesson-8-piecewise-and-step-functions/tutor.md#evaluate-and-graph-piecewise-functions).
 
 **A — Prompt:** Let $p(x)=x+2$ for $-2\le x<0$, $p(x)=3$ for $0\le x\le1$, and $p(x)=x-1$ for $2<x\le4$. Find $p(-1),p(1/2),p(3)$ and evaluate or explain undefined values at $-2,0,1,2,4$. Give domain, range, and a graph or precise graph description.
 
@@ -176,7 +176,7 @@ Lesson 1.8: [criterion](lesson-8-piecewise-and-step-functions/lesson.md#evaluate
 
 ## Evaluate and construct step functions
 
-Lesson 1.8: [criterion](lesson-8-piecewise-and-step-functions/lesson.md#evaluate-and-construct-step-functions).
+Lesson 1.8: [tutor coverage](lesson-8-piecewise-and-step-functions/tutor.md#evaluate-and-construct-step-functions).
 
 **A — Prompt:** Find $\lfloor-2.3\rfloor$, $\lfloor-2\rfloor$, and $\lfloor1.8\rfloor$. Describe the graph of $y=\lfloor x\rfloor$ restricted to $[-2,1)$, including every segment, endpoint, domain, and range.
 

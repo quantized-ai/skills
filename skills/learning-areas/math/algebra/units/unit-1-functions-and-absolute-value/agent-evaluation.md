@@ -1,6 +1,6 @@
 # Unit 1 agent evaluation scenarios
 
-These scenarios evaluate the tutor's behavior, not the student's proficiency. Load the [agent guide](agent-guide.md), the relevant [lesson](unit.md#lessons), and its [assessment key](assessment.md). Run each scenario in a fresh conversation unless a sequence is explicitly specified. Record the prompt, agent response, loaded files, and pass/fail evidence. This document defines expected behavior; its presence does not mean a live agent has passed these checks.
+These scenarios evaluate the tutor's behavior, not the student's proficiency. Load the [agent guide](agent-guide.md), both relevant lesson files from the [skill entry point](SKILL.md#lessons), and the [assessment key](assessment.md). Run each scenario in a fresh conversation unless a sequence is explicitly specified. Record the prompt, agent response, loaded files, and pass/fail evidence. This document defines expected behavior; its presence does not mean a live agent has passed these checks.
 
 ## Mathematical grounding
 
@@ -12,6 +12,7 @@ These scenarios evaluate the tutor's behavior, not the student's proficiency. Lo
 | “A zero average rate proves the function is constant.” | Explain equal endpoint outputs and give a verified nonconstant counterexample. | Confusing a secant slope with all interior behavior. |
 | “For $g(x)=f(2x-6)$, shift right 6.” | Factor $2(x-3)$ and derive $x=3+u/2$. | Reading the horizontal shift before factoring. |
 | “If $f$ has domain $[1,3]$, then $0f(x)=0$ for every real x.” | Preserve domain $[1,3]$; distinguish an undefined expression from a zero value. | Canceling or multiplying away a domain restriction. |
+| “If $a=0$ and $b=2$, the point mapping for $af(bx)$ is unavailable.” | Explain that $(u,v)\mapsto(u/2,0)$ is valid; if the parent domain is $[1,3]$, the image domain is $[1/2,3/2]$. Only $b=0$ prevents this coordinate mapping. | Confusing loss of invertibility with an undefined forward mapping. |
 | “$x^2$ on $[0,3]$ is even.” | Check domain symmetry and classify as neither under the lesson's definition. | Testing only the formula. |
 | “Three sampled pairs agree with odd symmetry. That proves it.” | Distinguish samples from a complete finite domain; matching samples do not prove the full identity. | Claiming global proof from finite observations. |
 | “Absolute value is never negative, so $-\vert x\vert +2$ cannot be negative.” | Separate the nonnegative distance from the transformed output; use $x=3$ to get $-1$. | Applying the sign of the parent to every transformed output. |
@@ -68,8 +69,16 @@ Apply the [generation specification](question-generation.md). Compare exact prom
 | A new conversation has no exposure history. | Generate fresh questions while making no guarantee about unknown prior sessions. Replace a reported repeat. | Promising global uniqueness or defaulting to a fixed bank question. |
 | A student explicitly requests repetition of a familiar example. | Provide it as review and avoid counting it as new independent evidence. | Refusing useful review or treating it as a fresh assessment. |
 
+## Curriculum and tutor loading
+
+| Request or condition | Expected behavior | Failure to catch |
+| --- | --- | --- |
+| Student requests Lesson 1.4 directly through the skill. | Load the shared guide, Lesson 1.4 `lesson.md`, and its `tutor.md`; load generation guidance for an assessment. | Reading only the curriculum and inventing delivery rules, or reading only the tutor and missing definitions. |
+| A tutor checklist or example appears to conflict with the curriculum. | Recompute from the curriculum definitions and resolve the discrepancy before teaching or grading; do not introduce a new objective from an example. | Treating a worked example as a competing source of scope or proficiency. |
+| Student resumes with evidence recorded under a former lesson criterion heading. | Use the tutor section’s curriculum reference to associate that evidence with the exact Concept Title; retain its independent/assisted status. | Losing prior evidence solely because the delivery material moved files. |
+
 ## Review method and limits
 
-Before deployment, run these scenarios against each intended tutor model and retrieval setup. Repeat the hint, exposure, pause, and handoff sequences across multiple turns. Inspect whether the agent actually loaded the shared guide and criterion, and whether its evidence record matches the conversation. A failed mathematical or independence check needs correction and a rerun of the affected scenarios before relying on its mastery report.
+Before deployment, run these scenarios against each intended tutor model and retrieval setup. Repeat the hint, exposure, pause, and handoff sequences across multiple turns. Inspect whether the agent actually loaded the shared guide, curriculum concept, and companion tutor guidance, and whether its evidence record matches the conversation. A failed mathematical or independence check needs correction and a rerun of the affected scenarios before relying on its mastery report.
 
 Structural link checks and recalculation of answer keys can validate these files. They do not measure student learning, reliable retrieval, consistent agent behavior, or long-term retention. Those require observed agent sessions and learner evaluation. Keep the broader curriculum's existing standards mappings distinct from these local behavioral checks.

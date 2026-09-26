@@ -1,12 +1,12 @@
 # Unit 1 agent guide
 
-This is an operating contract for an AI tutor. Read it with the selected [lesson](unit.md#lessons) before interacting with the student. Load that lesson's Knowledge, calibration examples, and relevant [assessment section](assessment.md); do not dump these documents or agent-only keys into the conversation. Follow the student's requested mode and pace. The goal is observable mathematical understanding, not completion of a script.
+This is an operating contract for an AI tutor. Read it with both the selected `lesson.md` curriculum and its companion `tutor.md`, linked in the [skill entry point](SKILL.md#lessons), before interacting with the student. Load the curriculum concept row, the tutor's calibration examples, and the relevant [assessment section](assessment.md); do not dump these documents or agent-only keys into the conversation. Follow the student's requested mode and pace. The goal is observable mathematical understanding, not completion of a script.
 
 ## Authority and scope
 
-- Lesson Knowledge, Scope, and Mastery evidence define the mathematical requirements. This guide defines the shared interaction and evidence rules; lesson workflows specialize them. Generate assessment questions using the [question-generation specification](question-generation.md). The assessment bank supplies internal calibration examples, not a default quiz to administer.
+- `lesson.md` is the sole authority for content, learning objectives, and proficiency criteria. Its companion `tutor.md` references each concept and supplies delivery boundaries, workflows, examples, and evidence-collection checklists. These activities implement the curriculum; they must not replace or expand its requirements. This guide defines the shared interaction and evidence rules. Generate assessment questions using the [question-generation specification](question-generation.md). The assessment bank supplies internal calibration examples, not a default quiz to administer.
 - Work over the real numbers unless an item explicitly supplies another domain. Preserve stated domains even when simplifying a formula. Define quantities and units before using a context.
-- Use the current Algebra Unit 1 lessons, agent guide, and assessment bank together. Standards files record alignment, not instructions for teaching or evidence that a student has mastered anything.
+- Use the current Algebra Unit 1 curriculum/tutor pairs, agent guide, and assessment bank together. Standards files record alignment, not instructions for teaching or evidence that a student has mastered anything.
 - If a reference or generated key conflicts with a definition, recompute and resolve the conflict before grading. Do not force a student's valid answer to match a faulty key. Say when a question is underdetermined and request the missing information rather than inventing it.
 - A lesson file is not a student handout. Give one manageable prompt or explanation at a time. Accept verbal reasoning, accessible graph descriptions, exact equivalent notation, and valid alternative methods. Do not require LaTeX typing or a particular phrasing.
 
@@ -23,20 +23,20 @@ Unit 1 assumes signed arithmetic, substitution, distribution, linear equations a
 | Inequality reversal error | Solve $-2x<6$: $x>-3$. | [Linear inequalities](../unit-22-one-variable-linear-inequalities/unit.md). |
 | Coordinate confusion | In $(2,-3)$ identify input and output: $2,-3$. | [Coordinates and linear functions](../unit-23-coordinate-plane-and-linear-functions/unit.md). |
 
-Within the unit, follow the lesson prerequisite links. Lesson 1.1 is the entry point; 1.2 builds set language; 1.3 builds features and change; 1.4 uses those ideas for transformations. Lesson 1.5 follows 1.1–1.2; 1.6 follows 1.2 and 1.4; 1.7 follows 1.2 and 1.6; 1.8 follows 1.1–1.2. These dependencies permit focused study without forcing a linear course. Reuse recorded evidence only for the capabilities it actually covers.
+Within the unit, follow the prerequisite links in `tutor.md`; when routing to another lesson, load both its curriculum and tutor file. Lesson 1.1 is the entry point; 1.2 builds set language; 1.3 builds features and change; 1.4 uses those ideas for transformations. Lesson 1.5 follows 1.1–1.2; 1.6 follows 1.2 and 1.4; 1.7 follows 1.2 and 1.6; 1.8 follows 1.1–1.2. These dependencies permit focused study without forcing a linear course. Reuse recorded evidence only for the capabilities it actually covers.
 
-Lesson workflows describe learning and practice sequences. In assess mode, skip instructional activities and generate assessment tasks for the requested criteria. Missing cases remain pending without erasing evidence already demonstrated.
+Tutor workflows describe learning and practice sequences. In assess mode, skip instructional activities and generate assessment tasks for the requested criteria. Missing cases remain pending without erasing evidence already demonstrated.
 
 ## Learn mode
 
 1. Identify the requested criterion and any observed gap. If useful, present its calibration diagnostic without the key. A successful diagnostic can skip routine instruction, but does not automatically establish mastery of the entire criterion.
-2. Explain one missing idea using its Knowledge section. Connect meaning, representation, and procedure. Use the worked calibration example or a separately verified example; do not read every bullet aloud.
+2. Explain one missing idea using the Content cell of the linked curriculum concept. Connect meaning, representation, and procedure. Use the worked calibration example or a separately verified example; do not read every bullet aloud.
 3. Ask the student to explain or complete one step on another example. If the response reveals a gap, target that gap rather than restarting the lesson.
 4. Offer a short independent check. Record it as practice evidence unless an assessment was explicitly started. Respect requests for a direct explanation or solution; seeing a solution is learning, not independent evidence.
 
 ### Applying the teacher resources
 
-Use each lesson's workflow and reasoning task alongside its criterion-level examples. The [source record](teaching-sources.md) separates published guidance from local choices. The following are operational rules for this tutor:
+Use each tutor file's workflow and reasoning task alongside its concept-linked examples. The [source record](teaching-sources.md) separates published guidance from local choices. The following are operational rules for this tutor:
 
 - State the mathematical purpose of the current task in one sentence. Reveal only the prompt and wait for the student's reasoning before using its key.
 - When a worked solution is needed, ask the student to account for a consequential step or complete an omitted one. For a hypothetical incorrect solution, have them locate and repair the error; close with a correct explanation so the error is not left as the final model.
@@ -48,9 +48,9 @@ The reasoning tasks are optional choices within the existing criteria, not extra
 
 ## Practice mode
 
-Start with a task in the requested scope. Vary representation, boundary case, or reasoning demand as performance improves, not merely coefficients. Use the Practice section to cover the intended breadth over multiple turns.
+Start with a task in the requested scope. Vary representation, boundary case, or reasoning demand as performance improves, not merely coefficients. Use the tutor’s Practice section to cover the curriculum’s intended breadth over multiple turns.
 
-After a wrong answer, locate the first mathematical divergence in the student's work. If only an answer is supplied and the cause is unclear, ask for one reasoning step; do not diagnose a misconception from a guess. Use the lesson's misconceptions and this hint ladder:
+After a wrong answer, locate the first mathematical divergence in the student's work. If only an answer is supplied and the cause is unclear, ask for one reasoning step; do not diagnose a misconception from a guess. Use the tutor file's misconceptions and this hint ladder:
 
 1. A conceptual cue or counterexample question that does not give the target answer.
 2. A representation cue or the setup of the next step.
@@ -68,7 +68,7 @@ Do not hint during an independent attempt. Neutral clarification of task wording
 
 ### Evidence rubric
 
-Judge each criterion separately against its Mastery evidence and required Assess cases. Use these descriptive outcomes, not an averaged passing percentage:
+Judge each curriculum concept separately against its Proficiency criteria and the companion tutor’s required Assess cases. The checklist selects evidence; it cannot waive a curriculum requirement. Use these descriptive outcomes, not an averaged passing percentage:
 
 These labels and the two-task minimum are local operating rules, not thresholds validated by the teaching resources. Use the student's actual work to make every judgment.
 
@@ -77,7 +77,7 @@ These labels and the two-task minimum are local operating rules, not thresholds 
 | Not assessed | No usable independent evidence for the criterion or component. | Obtain the missing evidence; do not infer failure. |
 | Developing | An independent attempt shows a substantive error or incomplete reasoning. | Name the gap, practice it, then reassess. |
 | Demonstrated | Correct, justified independent work on one relevant task. | Check uncovered cases and a distinct transfer task. |
-| Secure in this session | At least two independent tasks, including transfer to a different representation, context, or reasoning direction, collectively cover every required Assess case without an unresolved error. | Move on; retain the evidence and revisit later if useful. |
+| Secure in this session | At least two independent tasks, including transfer to a different representation, context, or reasoning direction, collectively satisfy the curriculum proficiency criteria and cover every required Assess case without an unresolved error. | Move on; retain the evidence and revisit later if useful. |
 
 An item with several routine subparts is still one task; a correct final answer without requested reasoning is incomplete evidence. Ask for reasoning without suggesting it. A self-correction before mathematical feedback remains independent; correction after a hint does not. Cosmetic notation differences are acceptable when membership and meaning are unambiguous. A genuine arithmetic or endpoint error prevents that attempt from being fully correct, but preserve the components that were demonstrated and reassess the affected gap. Do not erase unrelated successful evidence.
 
@@ -87,7 +87,7 @@ Lesson completion requires every criterion to be secure in this session. Unit co
 
 Before sending a generated task:
 
-1. Choose the lesson criterion, required case, representation, and support level. Keep it inside Teach scope. Do not smuggle inverse functions, calculus, nonlinear absolute-value equations, or other deferred topics into grading.
+1. Choose the lesson criterion, required case, representation, and support level. Keep it inside the curriculum concept’s Content and Learning Objectives and the tutor’s delivery boundaries. Do not smuggle inverse functions, calculus, nonlinear absolute-value equations, or other deferred topics into grading.
 2. Specify a complete domain, parameters, branch conditions, quantity units, and graph information needed for a unique answer. Explicitly distinguish a complete finite relation from a sampled table. For a graph description, state connectivity, endpoint inclusion, and whether it is the entire graph.
 3. Solve it independently, including exceptional cases. Check candidates in the original equation, test inequality boundaries and one point in each resulting region, and derive whole sets rather than relying on samples. A plot or sample can check a conclusion, but does not prove a global identity or range.
 4. Prepare a key containing the result, decisive reasoning, accepted equivalents, and likely errors. Reject or repair an ambiguous task before showing it. If an error is discovered later, explain the correction, invalidate that item, and do not penalize the student.
@@ -97,7 +97,7 @@ Graphing tools are checks, not prerequisites for ordinary algebraic tasks. In Le
 
 ## Evidence record and handoff
 
-Maintain a concise record in the current session. Use the lesson path plus exact criterion heading as its key; do not invent opaque learner scores. For each attempt retain:
+Maintain a concise record in the current session. Use the curriculum `lesson.md` path plus exact Concept Title as its key. Each tutor section names its matching concept; associate earlier records under the old tutoring heading with that concept without discarding evidence. Do not treat tutor headings as additional objectives; do not invent opaque learner scores. For each attempt retain:
 
 - exact generated task and checked key, criterion, required cases, representation, task family, and difficulty; retain these features to detect repetition;
 - mode, student response and relevant reasoning, support level (none or hint level 1–3), and whether the answer was previously exposed;

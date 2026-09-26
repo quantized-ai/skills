@@ -49,18 +49,18 @@ Apply precise definitions when a reference uses a simplified explanation or a di
 
 ## Lesson application map
 
-The following are local implementations, not publisher lesson titles or endorsements. Each lesson links to this record and embeds its own teaching decisions and agent-only key.
+The following are local implementations, not publisher lesson titles or endorsements. Each companion `tutor.md` links to this record and contains its teaching decisions and agent-only keys. Curriculum content, objectives, and proficiency remain in `lesson.md`; standards mappings use those exact objectives.
 
 | Lesson | Teaching change | Observable evidence |
 | --- | --- | --- |
-| [1.1](lesson-1-relations-and-function-notation/lesson.md#reasoning-task-for-learning-and-practice) | Match finite rules, tables, and plotted points; repair a negative-input simplification error. | Student names the conflicting input or justifies every match. |
-| [1.2](lesson-2-sets-intervals-domain-and-range/lesson.md#reasoning-task-for-learning-and-practice) | Keep a formula fixed while changing its domain; use a witness input for an attained output. | Student explains why a proposed range endpoint belongs or does not belong. |
-| [1.3](lesson-3-features-and-change-in-functions/lesson.md#reasoning-task-for-learning-and-practice) | Compare records with the same endpoint rate but different interior behavior. | Student separates net change, sign, and monotonicity without inventing interpolation. |
-| [1.4](lesson-4-transformations-of-functions/lesson.md#reasoning-task-for-learning-and-practice) | Compare coordinate reasoning with an incorrect sequence of graph moves. | Student finds the first disagreement and verifies the corrected point in the original rule. |
-| [1.5](lesson-5-symmetry-of-functions/lesson.md#reasoning-task-for-learning-and-practice) | Change one table value or domain member and reconsider the claim. | Student distinguishes an identity on a whole domain from a sampled pattern. |
-| [1.6](lesson-6-absolute-value-functions-and-equations/lesson.md#reasoning-task-for-learning-and-practice) | Connect one equation to distance, case equations, and graph intersections. | Student explains why the methods give the same complete solution set. |
-| [1.7](lesson-7-absolute-value-inequalities/lesson.md#reasoning-task-for-learning-and-practice) | Compare proposed solution sets using a counterexample, then justify the complete set. | Student repairs the connector and explains endpoints. |
-| [1.8](lesson-8-piecewise-and-step-functions/lesson.md#reasoning-task-for-learning-and-practice) | Construct and challenge branch conditions at a contextual threshold. | Student resolves boundary membership and tests the rule on both sides. |
+| [1.1](lesson-1-relations-and-function-notation/tutor.md#reasoning-task-for-learning-and-practice) | Match finite rules, tables, and plotted points; repair a negative-input simplification error. | Student names the conflicting input or justifies every match. |
+| [1.2](lesson-2-sets-intervals-domain-and-range/tutor.md#reasoning-task-for-learning-and-practice) | Keep a formula fixed while changing its domain; use a witness input for an attained output. | Student explains why a proposed range endpoint belongs or does not belong. |
+| [1.3](lesson-3-features-and-change-in-functions/tutor.md#reasoning-task-for-learning-and-practice) | Compare records with the same endpoint rate but different interior behavior. | Student separates net change, sign, and monotonicity without inventing interpolation. |
+| [1.4](lesson-4-transformations-of-functions/tutor.md#reasoning-task-for-learning-and-practice) | Compare coordinate reasoning with an incorrect sequence of graph moves. | Student finds the first disagreement and verifies the corrected point in the original rule. |
+| [1.5](lesson-5-symmetry-of-functions/tutor.md#reasoning-task-for-learning-and-practice) | Change one table value or domain member and reconsider the claim. | Student distinguishes an identity on a whole domain from a sampled pattern. |
+| [1.6](lesson-6-absolute-value-functions-and-equations/tutor.md#reasoning-task-for-learning-and-practice) | Connect one equation to distance, case equations, and graph intersections. | Student explains why the methods give the same complete solution set. |
+| [1.7](lesson-7-absolute-value-inequalities/tutor.md#reasoning-task-for-learning-and-practice) | Compare proposed solution sets using a counterexample, then justify the complete set. | Student repairs the connector and explains endpoints. |
+| [1.8](lesson-8-piecewise-and-step-functions/tutor.md#reasoning-task-for-learning-and-practice) | Construct and challenge branch conditions at a contextual threshold. | Student resolves boundary membership and tests the rule on both sides. |
 
 ## Local assessment decisions
 
