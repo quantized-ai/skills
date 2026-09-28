@@ -67,7 +67,7 @@ If at least is treated as exactly, enumerate the included k values. If a binomia
 
 Generate fresh questions without showing the method or key. Use this explicit coverage checklist; a single worked example does not cover every case:
 
-- Check fixed count, binary classification, constant probability, and independence; distinguish exact counts from cumulative events and preserve endpoint cases.
+- Check fixed count, binary classification, constant probability, and independence; distinguish exact counts from cumulative events and preserve endpoint cases. Generate repeated binomial simulations and compare observed frequencies with theoretical probabilities, accounting for finite-run variation.
 
 **Task range to sample:** Include exact/cumulative events, n=0 and p=0 or 1 interpreted directly; compare actual simulated frequencies without fabricating a run.
 
@@ -106,11 +106,17 @@ If a fixed-trial binomial count is used, ask what stops the process. If a finite
 
 Generate fresh questions without showing the method or key. Use this explicit coverage checklist; a single worked example does not cover every case:
 
-- State the counting convention, distinguish waiting time from a fixed-trial success count, and interpret tail events and the unbounded range.
+- State the counting convention, distinguish waiting time from a fixed-trial success count, and interpret tail events and the unbounded range. Generate repeated first-success simulations and compare the observed waiting-time distribution with the geometric model without treating a finite observed maximum as a support bound.
 
 **Task range to sample:** Compare trial-count and failures-count conventions, tails and p=1; for p=0 first success never occurs, outside the stated finite-mean model.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Derive the event before choosing the formula
+
+With four independent trials and $p=1/2$, one particular pattern with two successes has probability $(1/2)^4=1/16$. There are $\binom42=6$ such patterns, so $P(X=2)=3/8$. For first success on trial 3, the only relevant prefix is FFS, with probability $(1/2)^3=1/8$; later trials are not part of the waiting-time outcome. For $T>3$, the prefix is FFF, also $1/8$, but it describes a different event.
+
+If the learner multiplies geometric probability by a combination count, ask whether success can occupy any position before the stopping trial. Then supply the required prefix; finally multiply its first two failure probabilities and leave the success factor. Fade by supplying only the stopping rule, then require model selection independently. For actual simulations record the trial generator, number of repetitions, observed frequencies, and comparison with exact values. If runs are capped, retain waits exceeding the cap as censored rather than dropping them; a cap must not silently alter the geometric model.
 
 ## Lesson completion
 

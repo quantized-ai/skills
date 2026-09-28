@@ -44,3 +44,14 @@ Each row distinguishes ways to vary a task from the mathematical evidence that m
 Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
 
 If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable linear division | $(x^2+1)/(x-1)$ has $q=x+1,r=2$; $(x^2+3)/(x+1)$ has $q=x-1,r=4$. | Two quotient steps, missing linear term, nonzero constant remainder; retain quotient restrictions. |
+| Increased demand | $x^4+1$ divided by $x^2+1$ gives $q=x^2-1,r=2$. | Adds degree-four alignment and a quadratic-divisor stopping condition. |
+| Selected-coefficient transfer | Coefficient of $x^3$ in $(2x-1)^5$ is $80$; coefficient of $x^4$ in $(x^2+3)^4$ is $54$. | The second changes the exponent equation and should be identified as additional reasoning, not merely a comparable numerical variant. |
+| Boundary | $(x-1)^2(x+2)\le0$ gives $(-\infty,-2]\cup\{1\}$. | Includes an isolated qualifying zero, which a routine crossing-only inequality omits. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

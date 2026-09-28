@@ -98,6 +98,12 @@ Require stated family, sufficient independent data, verified parameters, remaini
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $x^{2/3}=4$, let $u=\sqrt[3]x$, allowed for every real $x$. Then $u^2=4$ gives $u=\pm2$, and cubing restores $x=\pm8$. Both original values equal $4$. A principal reciprocal power would select only one branch.
+
+Cue “Can the underlying cube root be negative?”; set up $u^2=4$; then supply $u=\pm2$, leaving restoration and checks. Fade with $x^{2/3}=9$ (key $\pm27$). For a model in the stated family with endpoint $(1,2)$ and point $(5,8)$, shifts give $a\sqrt{x-1}+2$ and substitution gives $8=2a+2$, hence $a=3$. Target $11$ gives $x=10$; target $1$ is outside the range. The required technology check of additional table values remains separate from this symbolic construction and cannot be inferred from it.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

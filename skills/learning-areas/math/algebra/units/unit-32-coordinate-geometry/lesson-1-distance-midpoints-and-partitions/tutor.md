@@ -42,7 +42,7 @@ Curriculum reference: **Distance and midpoint formulas** in [lesson.md](lesson.m
 - **Diagnostic key:** No: average coordinates, giving (−2,3).
 - **Worked-example prompt:** For A=(-4,2), B=(2,10), derive distance and midpoint and verify bisection.
 - **Worked model and reasoning:** Difference vector $(6,8)$ gives distance $10$ by Pythagoras. Midpoint $(-1,6)$ averages each coordinate; its distances to A and B are both 5.
-- **First hint:** Build the horizontal and vertical legs between the endpoints.
+- **First hint:** How could horizontal and vertical displacements determine the straight-line distance?
 
 #### Learn
 
@@ -107,6 +107,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Use directed one- and two-dimensional segments, reversed endpoints and ratios; keep internal fractions strictly between zero and one.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**A ratio of parts is not a fraction of the whole.** From $A=(-2,1)$ to $B=(8,6)$, a point with $AP:PB=2:3$ uses fraction $2/5$, so $P=A+\tfrac25(10,5)=(2,3)$. Vectors AP=(4,2) and PB=(6,3) have lengths $2\sqrt5$ and $3\sqrt5$, confirming both internal position and the ratio. Weighting A by 2 and B by 3 instead would locate the 3/5 point.
+
+If the learner uses $t=2/3$, ask whether the denominator counts the whole segment or only PB. Next draw five equal ratio parts; then identify the first two from A and leave the coordinate calculation. Fade to $AP:PB=3:2$ on the same endpoints (P=(4,4)), then change endpoints for independent reassessment. Midpoint reasoning is the equal-part case; equal endpoint distances alone do not establish betweenness without location on the segment.
 
 ## Lesson completion
 

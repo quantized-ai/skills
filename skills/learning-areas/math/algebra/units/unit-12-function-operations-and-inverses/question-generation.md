@@ -38,3 +38,13 @@ Each row distinguishes ways to vary a task from the mathematical evidence that m
 Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
 
 If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable linear inverses | $3x-7$ inverts to $(x+7)/3$; $4x+5$ to $(x-5)/4$. | Two operation reversals on full real domains. |
+| Increased demand | $(x+1)/(x-2)$ inverts to $(2x+1)/(x-1)$. | Requires collecting a repeated unknown and exchanging exclusions, not just reversing two linear operations. |
+| Branch transfer | $(x-2)^2+1$ on $x\le2$ inverts to $2-\sqrt{x-1}$ on $x\ge1$. | Restricting instead to $[2,4]$ changes inverse sign and domain to $2+\sqrt{x-1}$ on $[1,5]$. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

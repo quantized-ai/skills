@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $5-2(x+1)=x-6$ becomes 3−2x=x−6, so9=3x and x=3. Substituting original sides gives −3 each. Keeping signs through distribution matters more than choosing which side receives x.
 
-**Misconception response and hint ladder:** If−2(x+1) becomes −2x+1, ask which terms the factor reaches; next write −2x−2. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If−2(x+1) becomes −2x+1, ask which terms the factor reaches; next write −2x−2.
 
 **Practice progression:** Variables both sides → parentheses → signed/fractional coefficients and alternative routes. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $2(x+3)=2x+6$ reduces 6=6, true for every allowed x. In contrast 2(x+3)=2x+7 reduces 6=7, never true. Cancellation removes the variable; it does not automatically mean x=0.
 
-**Misconception response and hint ladder:** If x=0 is inferred after cancellation, ask whether x=10 satisfies the original identity; next compare 0x=0 and 0x=1. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If x=0 is inferred after cancellation, ask whether x=10 satisfies the original identity; next compare 0x=0 and 0x=1.
 
 **Practice progression:** Unique equation → identity/contradiction → construct one of each. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Generate unique, identity and contradiction cases deliberately; include negative distribution and solutions that are noninteger.
+
+## Decision rehearsal and fading
+
+**Read the remaining statement after cancellation.** Compare $3(x-2)=3x-6$ and $3(x-2)=3x-5$. Distribution and subtraction of $3x$ yield $-6=-6$ and $-6=-5$. Thus the first holds for every permitted real input and the second for none; neither statement says $x=0$. For $3(x-2)=2x-5$, the unequal variable coefficients instead leave $x=1$.
+
+If the learner writes “no $x$, so no solutions,” ask whether the remaining statement is true. Next show just the two constant statements and ask them to classify each; then substitute an arbitrary symbol $t$ in the identity to expose its generality. Fade by giving $4(x+2)=4x+c$ and asking which value of $c$ makes an identity (8) and which values give no solution (all other real $c$). This last task adds parameter reasoning; do not use it as an unnoticed routine retake.
 
 ## Evidence, feedback and handoff
 

@@ -98,6 +98,12 @@ Assess both identities, explicit input sets, admissible intermediate outputs and
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $f(x)=(x-2)^2+1$ restricted to $x\le2$, solve $y-1=(x-2)^2$. The domain forces $x-2\le0$, selecting $x=2-\sqrt{y-1}$. Hence inverse domain is $[1,\infty)$ and inverse range $(-\infty,2]$. Check $g(f(x))=2-|x-2|=x$ on $x\le2$, and $f(g(y))=y$ for $y\ge1$.
+
+If the learner selects plus, cue “Which sign returns an input on the chosen side of the vertex?”; then write $x-2\le0$ beside the square equation; next choose $x-2=-\sqrt{y-1}$, leaving restoration and both checks. Fade by switching the original branch to $x\ge2$, then narrow it to $[2,4]$ (inverse $2+\sqrt{y-1}$ on $[1,5]$). The narrower range must survive inversion.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

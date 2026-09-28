@@ -44,7 +44,7 @@ Curriculum reference: **Density and uniform models** in [lesson.md](lesson.md#co
 - **Diagnostic key:** Yes; on a support of length 0.2 its total area is one.
 - **Worked-example prompt:** X is uniform on [2,7]. Find P(1<X<4), the density height, and P(X=3).
 - **Worked model and reasoning:** Intersect with support to get length 2, so probability 2/5. Density is 1/5 and point probability is 0. A single allowed point can have zero probability without being excluded from the support.
-- **First hint:** Trim the requested interval to the distribution's support.
+- **First hint:** Which requested values can this distribution actually produce?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Vary lower/upper/two-sided areas and quantiles; use verified normal tools/tables, state approximation and never confuse variance with standard deviation.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Work backward from a shaded tail
+
+For a normal model with mean 50 and standard deviation 8, an upper-tail probability of 0.025 means lower-tail cumulative probability 0.975. Using the standard normal quantile $z\approx1.959964$ gives $x=50+8z\approx65.68$. Entering 0.025 as a lower-tail quantile instead gives $34.32$, the opposite tail. The sign and location relative to the mean provide a useful check before accepting calculator output.
+
+If the learner reports 34.32, ask which side of the mean contains the highest 2.5%. Then supply the complement $1-0.025$; finally write $x=50+8z$ and leave substitution. Fade with a lower-tail target and only a shaded sketch, then require the sketch and tool setup independently. A supplied quantile can support arithmetic practice, but numerical-tool evidence requires an actual table lookup or tool result. The calculation is conditional on the normal model; it does not establish suitability for heavily skewed or tightly bounded data.
 
 ## Lesson completion
 

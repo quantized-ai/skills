@@ -98,6 +98,12 @@ Assess magnitudes, justified signs, consistency checks and all recovered ratios.
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+With $\sin\theta=3/5$ in quadrant II, the circle identity gives $\cos^2\theta=1-9/25=16/25$. This establishes magnitude $4/5$; the negative horizontal coordinate selects $\cos\theta=-4/5$, then $\tan\theta=-3/4$. Check both the squares' sum and the original quadrant.
+
+Cue “Which part of the information selects the sign after taking the square root?”; next write $\cos\theta=\pm4/5$ beside quadrant II; then mark horizontal coordinates negative, leaving choice and tangent. Fade with $\sin\theta=5/13$ in quadrant II (cosine $-12/13$, tangent $-5/12$). For a tangent-only given value, use $y=tx$ in $x^2+y^2=1$; this derives magnitude without inventing a triangle with incompatible signs. Reject a supplied sine outside $[-1,1]$ before proceeding.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

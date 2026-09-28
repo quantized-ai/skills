@@ -73,3 +73,9 @@ Use genuinely noisy data, repeated input values, changed units, and an input wit
 Track each named concept, the case/representation observed, the student's actual reasoning, correctness and assistance. A number without the required units, condition, explanation, proof or actual artifact supports only the demonstrated portion. Accept equivalent valid methods; recompute unexpected answers before judging them. A faulty generated task is removed from the record and replaced without penalty.
 
 Use the shared guide's session evidence labels. Before declaring this lesson secure, check every required method/case, include independent transfer and keep observed construction/tool execution separate from a described plan. Report demonstrated strengths, helped attempts, remaining cases and one concrete next task. The local evidence rule is not a validated retention measure. See [private calibration bank](../assessment.md) and [sources and limits](../teaching-sources.md).
+
+## Decision model and graduated practice
+
+For data $(0,1),(1,3),(2,2)$, means are $\bar x=1,\bar y=2$. The slope numerator is $(-1)(-1)+0(1)+1(0)=1$ and denominator $1+0+1=2$, giving $b=1/2,a=3/2$. Predictions $1.5,2,2.5$ yield residuals $-0.5,1,-0.5$ and SSE $0.25+1+0.25=1.5$. Their zero sum does not mean all errors vanished; squares retain magnitude instead of canceling signs.
+
+If a learner uses predicted minus observed, cue “Which sign should indicate underprediction?”; set up $e=3-2$ for the middle observation; then identify it as positive, leaving the others and SSE. Fade by supplying coefficients but withholding residuals. An actual fitted line and scatter plot must still be obtained for technology proficiency; these hand calculations independently verify expected output but are not evidence of a tool run.

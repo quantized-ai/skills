@@ -80,3 +80,9 @@ Preserve group sizes and observed outcomes while shuffling labels under the spec
 Track each named concept, the case/representation observed, the student's actual reasoning, correctness and assistance. A number without the required units, condition, explanation, proof or actual artifact supports only the demonstrated portion. Accept equivalent valid methods; recompute unexpected answers before judging them. A faulty generated task is removed from the record and replaced without penalty.
 
 Use the shared guide's session evidence labels. Before declaring this lesson secure, check every required method/case, include independent transfer and keep observed construction/tool execution separate from a described plan. Report demonstrated strengths, helped attempts, remaining cases and one concrete next task. The local evidence rule is not a validated retention measure. See [private calibration bank](../assessment.md) and [sources and limits](../teaching-sources.md).
+
+## Decision model and graduated practice
+
+Under a sharp no-effect model, take four fixed outcomes $2,4,6,8$ with exactly two participants assigned treatment uniformly from the six possible pairs. Treatment-minus-control differences are $-4,-2,0,0,2,4$ for treatment pairs $(2,4),(2,6),(2,8),(4,6),(4,8),(6,8)$. An observed difference $4$ has exact two-sided tail $P(|D|\ge4)=2/6=1/3$, including the negative extreme and ties. This is exact enumeration, not simulated output.
+
+Cue “Which allocations could the original design actually produce?”; next list the six treatment pairs with fixed group sizes; then calculate the first difference, leaving the other five. Fade by changing outcomes while preserving the design. For matched pairs, unrestricted selection of any two would be invalid: reassignment must follow the within-pair mechanism. The tail is conditional on the no-effect model; it is not its probability of being true or evidence that every individual benefits.

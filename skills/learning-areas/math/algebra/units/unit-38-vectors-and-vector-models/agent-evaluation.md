@@ -90,3 +90,10 @@ For u=⟨3,4⟩ and v=⟨1,0⟩, a student calls 3 the vector projection. Distin
 ## Unseen teaching test
 
 Select one concept diagnostic, answer with the exact misconception its feedback section targets, and request a hint. Check that the tutor first isolates that misconception, gives the relevant conceptual cue and permits revision. Then switch to assessment: the corrected example is exposed, so require a new representation or reasoning direction from the practice progression. For a proof or tool-dependent concept, submit a correct number without the required argument/artifact and verify that the tutor preserves partial success but leaves that component pending. Record the actual dialogue; these written checks are not a claim that an independent live evaluation has already passed.
+
+## Specific response boundaries
+
+- On the oblique projection task above, submit $4/\sqrt5$ and ask if it is the requested vector. Expect scalar-component credit and a distinction from $\langle8/5,4/5\rangle$, not an assertion that all mathematics is wrong.
+- Provide the correct vector alone to a prompt requesting residual orthogonality. Expect a neutral request for the missing check. Provide a valid derivation via $(\mathbf u-c\mathbf v)\cdot\mathbf v=0$ and expect acceptance.
+- Give $\langle6,8\rangle$ as a magnitude-10 vector opposite $\langle-3,4\rangle$. Expect separate length/orientation judgment and a common-scalar cue before the corrected vector is supplied. A revision after supplying $c=-2$ must remain assisted.
+- Submit a component sum and claim that it proves both required geometric constructions were made. Expect those representations to remain pending until actual diagrams or accessible constructed equivalents are supplied.

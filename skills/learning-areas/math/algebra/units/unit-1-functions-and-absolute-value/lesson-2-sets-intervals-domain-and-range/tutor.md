@@ -50,7 +50,7 @@ Curriculum reference: **Representing sets of real numbers** in the [concept tabl
 - **Diagnostic prompt:** Give $[-2,1]\cap[1,4)$ and explain whether its result is empty.
 - **Key:** $\{1\}$, because both sets contain $1$ and share no other values. Accept $[1,1]$ as equivalent singleton notation.
 - **Worked model:** Let $A=(-\infty,2)$ and $B=[-1,5]$. Membership in either gives $A\cup B=(-\infty,5]$; membership in both gives $A\cap B=[-1,2)$. The finite set $\{-1,2\}$ contains neither $0$ nor any unlisted value.
-- **First hint:** “Test the boundary value in each original set.” For connector errors ask whether membership in one set is enough.
+- **First cue:** “Does the boundary belong to either set, both sets, or neither?” **Setup if needed:** Test it in the two original membership conditions. For connector errors ask whether membership in one set is enough.
 - **Generation check:** Test each finite endpoint in the originals; use parentheses at infinity. Empty, singleton, finite, and interval answers must retain their actual membership.
 
 #### Learn
@@ -125,6 +125,12 @@ Require independent work on:
 - **Same-shape assumption:** Giving the range the same interval or discreteness as the domain without evaluating outputs.
 - **Hole automatically removes an output:** Ignoring another input that attains the same output.
 - **Context is always continuous:** Allowing fractional values for a count.
+
+## Decision model and graduated practice
+
+Model $x^2$ on $(-2,1]$ by asking which allowed inputs produce the extrema. Input $0$ attains $0$. Output $4$ would require $x=\pm2$, neither allowed, so the range is $[0,4)$. Every intermediate output has a negative square-root input in $(-2,0]$; this explains the whole interval, not only its endpoints.
+
+If the learner reports $(0,1]$, cue “Which axis lists outputs?”; then set up an input/output table at $-1,0,1$; only next work $f(-1)=1,f(0)=0$. Leave the upper bound and its inclusion for the learner. If they already have $[0,4]$, ask only for a witness attaining $4$. Fade with domain $[-2,1)$ and let them decide which endpoint now changes (range $[0,4]$). For sets, compare $(-2,1]\cap[1,3)=\{1\}$ with their union $(-2,3)$: the same boundary belongs to both, while intersection requires both memberships.
 
 ## Lesson completion
 

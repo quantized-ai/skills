@@ -29,3 +29,13 @@ State the idealization, measured versus exact quantities, scale, units and feasi
 | [35.2 Composite density models](lesson-2-area-and-volume-density/tutor.md#composite-density-models) | Vary sizes and densities, include volume mixtures without assuming additive volumes unless stated, and distinguish local from overall density. |
 | [35.3 Feasible geometric designs](lesson-3-geometric-design-constraints/tutor.md#feasible-geometric-designs) | Include aspect ratios, clearances and tolerances; intersect every algebraic inequality with positivity and physical constraints. |
 | [35.3 Design comparison and optimization](lesson-3-geometric-design-constraints/tutor.md#design-comparison-and-optimization) | Compare finite design alternatives and continuous families; include objective units, feasible endpoints and sensitivity to constraints. Label a numerical best as limited to the search unless justified globally. |
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Three-sided rectangular fence of 20 m: max area 50 at depth 5, length 10. | Same variable definitions, positive-domain constraint and completed-square proof. |
+| Intended comparable retry | Three-sided rectangular fence of 24 m: max area 72 at depth 6, length 12. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Add depth at most 4 to the 24 m design: best feasible area 64 at depth 4, length 16. The unconstrained optimum is excluded, so a boundary argument is now needed. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

@@ -98,6 +98,12 @@ Assess nonconstancy, legal equation steps, inverse formula, original/inverse dom
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Invert $f(x)=(x+1)/(x-2)$ by solving $y(x-2)=x+1$ on $x\ne2$. Collecting the original input gives $x(y-1)=2y+1$, hence $x=(2y+1)/(y-1)$ with $y\ne1$. Thus $f^{-1}(x)=(2x+1)/(x-1)$; original domain excludes $2$, range excludes $1$, and the inverse exchanges them. At $y=1$, the equation would say $-2=1$, proving the missing output.
+
+Cue “Can every occurrence of the original input be collected on one side?”; set up $yx-x=2y+1$; then factor $x(y-1)$, leaving division and exclusions. Fade on $f(x)=(x+2)/(x-1)$ (key inverse $(x+2)/(x-1)$, both sets exclude $1$). For linear inverses, use the same reversal logic: undo addition before multiplication.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

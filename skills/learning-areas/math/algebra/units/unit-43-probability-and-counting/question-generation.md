@@ -34,3 +34,14 @@ Define the chance mechanism and sample space before counting. Equal counts imply
 | [43.4 Multiplication along dependent stages](lesson-4-addition-and-multiplication-of-probabilities/tutor.md#multiplication-along-dependent-stages) | Include dependent trees, replacement, zero branches and complementary events; multiply within paths and add disjoint paths. |
 | [43.5 Fair random selection](lesson-5-fair-allocation-and-probability-based-choices/tutor.md#fair-random-selection) | Include equal/proportional allocation and rejection schemes; state independent uniform draws and distinguish almost-sure termination from a finite bound. |
 | [43.5 Base rates and decision consequences](lesson-5-fair-allocation-and-probability-based-choices/tutor.md#base-rates-and-decision-consequences) | Use nonmedical screening contexts, vary base rates and explicit costs, and require sensitivity rather than a universal decision recommendation. |
+
+## Demand anchors
+
+| Role | Checked task/key | Demand |
+| --- | --- | --- |
+| Routine dependent stages | One of each from 3 red and 2 blue, two draws without replacement: $3/5$. | Two disjoint ordered paths, updated denominators. |
+| Comparable intended retake | One of each from 2 red and 3 blue under the same mechanism: $3/5$. | Same path count and arithmetic; use additional fresh counts for assessment after exposure. |
+| Higher demand | Exactly two red in three draws from 3 red and 2 blue: $\binom32\binom21/\binom53=3/5$. | Same final number but more stages or a new combination setup; equal answers do not establish equal demand. |
+| Interpretation transfer | A flag has detection rate 90%, defect prevalence 2%, false-positive rate 5%: flagged defect probability $18/67$. | Reversed conditioning and base rates; calculation alone does not select an action without stated costs. |
+
+For the synthetic cost task, keeping a flag costs $L$ only if defective and discarding costs $C$ regardless of state. The threshold is posterior $C/L$ when $L>0$. Change one supplied cost or rate at a time for a controlled sensitivity task; do not invent observational data or claim a universal decision.

@@ -82,7 +82,7 @@ Compute each monomial's total degree by adding its variable exponents, then sele
 
 #### Respond to student reasoning
 
-**First hint:** Add exponents within a monomial, then compare surviving terms.
+**First cue:** What does the total degree count in one monomial? **Setup if needed:** Add its variable exponents, then compare degrees of the surviving terms.
 
 If the largest individual exponent is reported for x²y³, ask how many variable factors the monomial contains. If cancellation is ignored, collect before ranking. If zero is called degree zero, compare it with the nonzero constant 7.
 
@@ -97,6 +97,12 @@ Progress from one variable to multivariable total degree, then leading cancellat
 Require total degrees, one-variable leading information after collection, and a constant/zero contrast. A multivariable leading-term question must provide an ordering or be identified as underspecified.
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
+
+## Decision model and graduated practice
+
+For $2x^3+5x-2x^3+7$, collect the cubic terms first: $(2-2)x^3+5x+7=5x+7$. It is a degree-one binomial, because degree and term count concern the surviving expression. Compare $5x^7$, a degree-seven monomial: fewer terms do not mean lower degree. In $3x^2y^4-xy+6$, total term degrees are $6,2,0$; the total degree is $6$, without choosing a multivariable leading order.
+
+If a learner reports degree $3$, cue “Which coefficients survive collection?”; set up $(2-2)x^3+5x+7$; then work the cancellation, leaving classification. Fade with $4x^2-x-4x^2$ (key monomial $-x$, degree $1$, leading coefficient $-1$). Follow with $4x^2-4x^2$: zero has no nonzero terms and undefined degree here. Do not infer a misunderstanding of degree solely from an unexplained answer before seeing collection.
 
 ## Completion and handoff
 

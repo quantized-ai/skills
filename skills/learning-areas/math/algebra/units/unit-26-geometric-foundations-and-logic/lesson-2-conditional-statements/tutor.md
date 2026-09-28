@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** 'A midpoint divides a segment into two congruent parts' follows its definition. 'Two points determine a line' is an assumed incidence postulate in this system. A vertical-angle claim needs proof from angle relationships, not a label that declares it true.
 
-**Misconception response and hint ladder:** If a definition is defended by many measurements, ask whether it assigns meaning or asserts a discovered relationship; next contrast midpoint definition with a theorem about midpoints. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If a definition is defended by many measurements, ask whether it assigns meaning or asserts a discovered relationship; next contrast midpoint definition with a theorem about midpoints.
 
 **Practice progression:** Classify authority → identify unsupported step → choose suitable evidence. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For integer n, 'n divisible by4 implies n even' is true; converse fails at n=6. The inverse 'not divisible by4 implies not even' also fails at6. The contrapositive is equivalent to the original; biconditional would need both directions.
 
-**Misconception response and hint ladder:** If converse and contrapositive are confused, ask whether both clauses were negated; next write p,q and the four symbolic forms. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If converse and contrapositive are confused, ask whether both clauses were negated; next write p,q and the four symbolic forms.
 
 **Practice progression:** Conditional forms → counterexample to converse → establish/reject biconditional. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -66,7 +66,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** 'Every positive integer n satisfies n²>n' fails at n=1 because 1=1. n=0 would not be admissible because positivity excludes it. A valid counterexample must meet every premise, even when an excluded value also breaks the conclusion.
 
-**Misconception response and hint ladder:** If an excluded example is used, ask whether it belongs to the domain; next repair the candidate rather than accept an irrelevant failure. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If an excluded example is used, ask whether it belongs to the domain; next repair the candidate rather than accept an irrelevant failure.
 
 **Practice progression:** Find counterexample → test admissibility → revise a false universal claim. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -85,6 +85,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include universally quantified claims, one valid counterexample, definitions/postulates/conjectures/theorems and insufficient observational evidence; retain all hypotheses when constructing a counterexample.
+
+## Decision rehearsal and fading
+
+**A counterexample must pass the hypothesis.** For “If a quadrilateral has equal diagonals, then it is a rectangle,” take the cyclically ordered vertices $A=(-2,0)$, $B=(2,0)$, $C=(1,2)$, $D=(-1,2)$. Both diagonals have squared length 13, but adjacent sides AB and BC are not perpendicular, so it is not a rectangle. This single admissible quadrilateral refutes the universal claim; a triangle would not, because it fails the hypothesis.
+
+If the learner supplies a nonrectangle with unequal diagonals, cue “Does your example meet the if-part?” Next separate the hypothesis and conclusion into two checks; work $AC^2=3^2+2^2=13$ and ask them to check BD and the angle condition. Fade to the simpler claim “Every rhombus is a square,” asking for a fully specified nonsquare rhombus and an explanation of which conclusion fails. Do not infer a converse from a true forward statement.
 
 ## Evidence, feedback and handoff
 

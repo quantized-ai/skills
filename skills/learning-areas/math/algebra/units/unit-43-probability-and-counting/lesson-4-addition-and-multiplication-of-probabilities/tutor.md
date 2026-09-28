@@ -83,7 +83,7 @@ Curriculum reference: **Multiplication along dependent stages** in [lesson.md](l
 - **Diagnostic key:** Usually not; both available red count and total count change.
 - **Worked-example prompt:** A bag has 3 red and 2 blue tokens. Two are drawn without replacement. Find the probability of one of each in any order.
 - **Worked model and reasoning:** Red-blue gives $(3/5)(2/4)=3/10$; blue-red gives $(2/5)(3/4)=3/10$. Disjoint paths add to 3/5. Replacing would change branch denominators and the answer.
-- **First hint:** Update the bag after the first draw before assigning the second probability.
+- **First hint:** How does the first draw change the possible second outcomes?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include dependent trees, replacement, zero branches and complementary events; multiply within paths and add disjoint paths.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Check a tree against an unordered count
+
+With 3 red and 2 blue tokens drawn twice without replacement, the four color-path probabilities are RR $=3/10$, RB $=3/10$, BR $=3/10$, BB $=1/10$, summing to 1. Exactly one red combines RB and BR, giving $3/5$. An independent count gives $\binom31\binom21/\binom52=6/10=3/5$. The two methods use different elementary outcome conventions consistently.
+
+If the learner gives $3/10$, ask whether “one of each in any order” includes a blue first draw. Then supply the two relevant path labels; finally compute one path and leave the second plus the disjoint sum. If both paths appear but the second denominator is 5, cue the changed bag size instead. Fade with one first-stage branch supplied and the rest to construct, then remove the tree scaffold. Accept a valid complementary or combination solution when the task assesses the probability; require an actual tree separately if that representation was requested.
 
 ## Lesson completion
 

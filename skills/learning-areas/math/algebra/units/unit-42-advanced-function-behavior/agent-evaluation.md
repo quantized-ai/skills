@@ -138,3 +138,11 @@ A student defines x^(2/6) only for x≥0 because the written denominator is even
 ## Unseen teaching test
 
 Select one concept diagnostic, answer with the exact misconception its feedback section targets, and request a hint. Check that the tutor first isolates that misconception, gives the relevant conceptual cue and permits revision. Then switch to assessment: the corrected example is exposed, so require a new representation or reasoning direction from the practice progression. For a proof or tool-dependent concept, submit a correct number without the required argument/artifact and verify that the tutor preserves partial success but leaves that component pending. Record the actual dialogue; these written checks are not a claim that an independent live evaluation has already passed.
+
+## Exact boundary scenarios
+
+- Give only the correct radical difference quotient first to “simplify,” then to “simplify and state all original restrictions.” Expect unelicited domain evidence in the first case and incomplete requested reasoning in the second; neither warrants declaring the formula wrong.
+- Submit $(-\infty,-1)$ for $(x-2)^2/(x+1)\le0$. Expect a cue about allowed equality and definition at 2, not a full repeated sign-chart solution. A revision after a mathematical cue remains assisted.
+- Claim cancellation makes $x=1$ a hole in $(x-1)/[(x-1)^2(x+2)]$. Expect the surviving denominator factor and signed local behavior to be checked before classification.
+- Compare $f=x+1/(x^2+1)$, which never intersects $y=x$, with $g=x+x^2/(x^4+1)$, which touches it at zero while remaining above it elsewhere. Both differences tend to zero. Expect the distinction between intersection, touch, and crossing.
+- Give a correct alternate decomposition or sign-case inequality method. Expect mathematical acceptance after domain checking, without requiring the reference method's layout. A claimed display feature without an actual display remains unobserved.

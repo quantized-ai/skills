@@ -34,3 +34,14 @@ These original keyed probes combine or stress concepts. They are calibration ref
 **Prompt:** Two equal-speed vectors point in exactly opposite directions. What resultant direction should be reported?
 
 **Key and required reasoning:** Resultant is the zero vector: magnitude zero, no unique direction. A calculator angle for numerical roundoff is not a meaningful direction.
+
+## Annotated evidence decisions
+
+| Learner response | Calibration |
+| --- | --- |
+| For projection of $\langle1,2\rangle$ onto $\langle2,1\rangle$, gives $\langle8/5,4/5\rangle$ only when a residual check was requested. | Correct projection, incomplete verification. Request the residual and its dot product without supplying the setup. |
+| Derives $c=4/5$ from perpendicularity instead of quoting the projection formula. | Valid alternative reasoning; credit both direction and orthogonality when shown. |
+| Gives $4/\sqrt5$ as the vector projection. | Correct signed scalar component, wrong mathematical type for the requested vector. Preserve scalar evidence and request the distinction. |
+| Computes a correct sum in components but provides no requested tip-to-tail or parallelogram construction. | Component evidence is demonstrated; both geometric methods remain unassessed or incomplete if explicitly requested. |
+| Corrects the projection after the tutor supplies $4-5c=0$. | Assisted coefficient calculation; obtain a fresh independent setup before claiming projection-method proficiency. |
+| Reports a tiny nonzero resultant and arbitrary angle for theoretically equal opposite vectors. | Check exact cancellation before accepting an angle; numerical residue does not supply a meaningful direction. |

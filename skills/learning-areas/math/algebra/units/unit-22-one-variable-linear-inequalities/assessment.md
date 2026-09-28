@@ -46,3 +46,17 @@ The examples above remain private calibration. Generate a new task for each sele
 | 22.3 — Contextual bounds and integer choices | At least/at most; nonnegative quantities; explicit minimum-use assumptions; feasible rounding; original contextual verification. | [Teaching plan](lesson-3-compound-inequalities-and-contextual-constraints/tutor.md#contextual-bounds-and-integer-choices) |
 
 Record the task fingerprint, exact case, observed reasoning, assistance and status. Award only the demonstrated component; list remaining cases by name. Use an explanation/error-analysis or reversed representation for transfer, and separately observe any required graph, construction, fit or simulation.
+
+## Annotated learner responses
+
+**Calibration prompt:** Solve $8+3n<23$ for nonnegative integer ticket count n. For the reasoning version, add: “Form the continuous bound and check the last feasible and first excluded integer.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “$n\in\{0,1,2,3,4\}$.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “$n\in\{0,1,2,3,4\}$.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| $n<5$, so the largest count is 5. | Algebra is correct; strict integer feasibility is developing. Five gives equality, which is excluded. |
+| Four tickets cost 20 and five cost 23; cost increases by 3 per ticket, so exactly 0 through 4 work. | Valid monotonicity and endpoint reasoning for this count problem. |
+| Tutor supplies $n<5$; learner then gives “$n\in\{0,1,2,3,4\}$.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

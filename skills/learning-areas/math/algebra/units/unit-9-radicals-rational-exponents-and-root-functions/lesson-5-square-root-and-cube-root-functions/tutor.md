@@ -98,6 +98,12 @@ Assess all-real behavior, center, monotonic direction, point correspondence and 
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $g(x)=-2\sqrt{3-x}+1$, set the radicand to zero for endpoint $(3,1)$. Requiring $3-x\ge0$ gives $x\le3$; nonnegative square-root outputs followed by multiplication by $-2$ give $y\le1$. Parent points $(0,0),(1,1),(4,2)$ map to $(3,1),(2,-1),(-1,-3)$, showing increase as input increases toward $3$.
+
+Cue “Which inputs keep the radicand nonnegative?”; then set up $3-x\ge0$; next subtract $3$, leaving the negative-division decision. Fade with $2\sqrt{x+1}-3$ (endpoint $(-1,-3)$, domain $x\ge-1$, range $y\ge-3$). Contrast $2\sqrt[3]{x-4}-1$: odd roots admit all real inputs and outputs, with center $(4,-1)$ rather than an endpoint.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

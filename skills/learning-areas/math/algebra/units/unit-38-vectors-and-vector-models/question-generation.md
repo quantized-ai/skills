@@ -33,3 +33,12 @@ Choose axes, reference frame, angle and bearing conventions before resolving com
 | [38.4 Velocity, force, and bearing models](lesson-4-vector-models-dot-products-and-projections/tutor.md#velocity-force-and-bearing-models) | Include force equilibria, wind corrections and relative velocities; define bearings and add vectors only in compatible frames/units. |
 | [38.4 Dot product and angles](lesson-4-vector-models-dot-products-and-projections/tutor.md#dot-product-and-angles) | Include acute/obtuse angles, parallel vectors and zero; allow tiny rounding clamping only after confirming valid exact data. |
 | [38.4 Projection and work](lesson-4-vector-models-dot-products-and-projections/tutor.md#projection-and-work) | Include negative work, oblique projections and zero displacement; retain the nonzero target-vector condition. |
+
+## Demand anchors
+
+| Role | Checked task and result | Demand distinction |
+| --- | --- | --- |
+| Routine oblique projection | Project $\langle1,2\rangle$ onto $\langle2,1\rangle$: $\langle8/5,4/5\rangle$; residual $\langle-3/5,6/5\rangle$. | Nonunit target, simple fractions, perpendicular-residual check. |
+| Comparable intended retake | Project $\langle2,1\rangle$ onto $\langle1,2\rangle$: $\langle4/5,8/5\rangle$; residual $\langle6/5,-3/5\rangle$. | Same operations and denominator; choose fresh data beyond these exposed anchors for learners. |
+| Additional demand | Determine a boat's water-relative heading so its ground velocity is due north in an eastward current. | Adds a reference-frame model and solving an unknown component; supply speed/current values that permit the requested heading. It is not a projection retake. |
+| Representation transfer | Draw both diagonals of the parallelogram for $\langle2,1\rangle$, $\langle-1,2\rangle$ and label their directions. | Sum $\langle1,3\rangle$ versus directed difference $\langle3,-1\rangle$; requires actual construction. |

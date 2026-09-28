@@ -56,7 +56,7 @@ Restrict a quadratic to one monotone branch; compare increasing and decreasing e
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Exchange the complete domain and range, including endpoints.
+**First conceptual cue:** Which values can enter the process when it runs backward?
 
 If only formulas are swapped while domains stay fixed, write the mapping arrows D→R and R→D. If an extremum name is copied, identify the inverse's input and output coordinates and compare all allowed outputs.
 
@@ -175,6 +175,17 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Inverse versus composition, units, meaningful domains and representation checks.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+Use a decreasing function with an excluded endpoint to prevent mechanical extrema swapping. Let \(f(x)=5-x\) on \([1,4)\). Its range is \((1,4]\), maximum 4 is attained at 1, and it has no attained minimum. The inverse formula is also \(5-x\), but its domain is \((1,4]\) and range \([1,4)\); it attains minimum 1 at input 4 and has no attained maximum. Reflecting a point swaps coordinates, not the labels “maximum” and “minimum.” For the inverse, test which outputs are actually allowed.
+
+For the complete finite function \(\{(1,4),(2,7),(3,9)\}\), every pair must reverse and the inverse must include \((9,3)\). If these are merely samples of a continuous function, the same reversal checks the samples but cannot prove an inverse everywhere. Conversely, a single mismatched reversed pair can refute the claim at that point.
+
+If inverse domains are unchanged, cue “Which values can enter the process when it runs backward?” Next draw \(D\to R\) and leave \(R\to D\) for the learner; only then fill exchanged endpoint sets. Fade with \(f(x)=x^2\) on \([1,3)\): inverse \(\sqrt x\) has domain \([1,9)\), range \([1,3)\), attained minimum 1 and no maximum.
+
+In \(d(t)=3t\) metres for \(t\ge0\), followed by \(c(d)=2d+5\), composition gives currency \(6t+5\). If the fee model is valid only for \(0\le d\le12\), the composition's time domain becomes \([0,4]\). The inverse distance model instead returns seconds \(t=d/3\). Have the learner follow units and the intermediate domain before manipulating notation.
 
 ## Lesson completion
 

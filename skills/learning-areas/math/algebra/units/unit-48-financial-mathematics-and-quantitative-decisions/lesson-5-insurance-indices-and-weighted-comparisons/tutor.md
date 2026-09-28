@@ -56,7 +56,7 @@ Work no-loss, below-deductible, middle and above-cap cases; add an explicit excl
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Apply the payout cap after the deductible and then add the premium.
+**First conceptual cue:** How much of this loss can the insurer actually pay under the stated coverage?
 
 If premium is counted as part of the deductible, ask whether the contract says so. If lower expected cost is called lower risk in every outcome, identify a scenario where uncovered loss is much larger.
 
@@ -125,6 +125,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Weighted calculation, reference scales/periods, missing weight information and ranking sensitivity.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+For the stated policy, derive personal cost by conservation of the loss: insurer payout plus uncovered loss equals total loss. **Conceptual cue:** “How much of this loss can the insurer actually pay?” **Setup:** separate eligible amount \(\max(L-200,0)\), payout cap 1000, and premium 100. **Worked step:** at \(L=1500\), eligible loss is 1300 but payout is only 1000; ask the learner to finish uncovered loss and total cost. **Fade:** have the learner calculate \(L=100\) and \(L=800\) without the intermediate labels (private costs 200 and 300). With probabilities 0.9 for no loss and 0.1 for loss 1500, expected insured cost is 150, but the severe scenario still costs 600. Expectation is not a cap.
+
+For weights, connect the mean \((3\cdot80+50)/4\) to the four equally weighted entries 80, 80, 80, 50. Then remove that list and use fractional priorities. To model a genuine ranking reversal, compare A scores (80,50) with B scores (60,70), on the same two scales. Weights (3,1) give A 72.5 and B 62.5; weights (1,3) give A 57.5 and B 67.5. Ask which preference changed rather than calling one ranking intrinsically correct. If scales differ, normalization must be specified before arithmetic.
 
 ## Lesson completion
 

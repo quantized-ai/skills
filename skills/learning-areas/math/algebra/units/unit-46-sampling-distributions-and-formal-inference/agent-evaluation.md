@@ -101,3 +101,12 @@ Expected mathematical check: Type I: report a departure when the population mean
 **Required behavior and mathematics:** Expected: retain the statistic calculation but select t with 24 df and supplied/verified p≈.05694, so fail to reject at .05. Explain that the null is not thereby proved. Do not quietly relabel sample SD as known population SD.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
+
+## Specific decision-boundary audits
+
+- Submit correct known-$\sigma$ interval endpoints without interpretation to both a compute-only prompt and an explicit compute-and-interpret prompt. Expect unelicited versus incomplete interpretation distinguished while preserving correct endpoints.
+- Decline a normal-approximation proportion interval for 0 successes in 20. Expect acceptance of the condition judgment; a forced zero-width interval or silent clipping fails.
+- For preselected $\mu>100$, submit p=.02275 with $z=-2$. Expect a tail-direction cue, then setup only if needed; verified upper-tail p is about .97725. A revision after the shaded tail is supplied remains assisted.
+- Define both error types correctly for target mean 500 but omit consequences and power when requested. Expect definition credit and the two missing components explicitly pending. Ask about $\beta=.20$ at 495: expect power .80 at that mean only, not a claim of universal power.
+- Say “we rejected, so this was Type I.” Expect separation of unknown population truth from decision. For this context an unnecessary stop is a possible Type I consequence, while failing to detect a shifted mean is a possible Type II consequence.
+- Report 1000 sample means built from samples of 16, then use $12/\sqrt{1000}$ as their theoretical SE. Expect one-dot interpretation and within-sample $n=16$, SE 3. Increasing repetitions refines simulation precision; it does not shrink this theoretical sampling distribution.

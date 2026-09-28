@@ -202,3 +202,14 @@ The A/B examples above illustrate selected cases. The following checklist identi
 | [Uniqueness and degenerate three-point data](lesson-5-three-point-construction/tutor.md#uniqueness-and-degenerate-three-point-data) | Assess distinct-input reasoning, degree degeneration, redundancy versus contradiction and honest uniqueness claims. Counting supplied points alone is not a valid sufficiency argument. |
 | [Quadratic inequalities with two real zeros](lesson-6-quadratic-inequalities/tutor.md#quadratic-inequalities-with-two-real-zeros) | Require all interval signs, correct inclusion, an exact solution set and original-expression checks. Solving the associated equation only establishes boundaries, not the inequality solution. |
 | [Repeated-root and no-real-root inequalities](lesson-6-quadratic-inequalities/tutor.md#repeated-root-and-no-real-root-inequalities) | Assess repeated-root and no-real-root reasoning, all possible set types, equality points and stated number system. A global sign argument is valid without an unnecessarily elaborate table. |
+
+## Annotated response calibration
+
+| Prompt and actual response | Evidence and next action |
+| --- | --- |
+| Convert $2x^2-8x+3$ to vertex form: “$2(x-2)^2-5$.” | Correct form; if completing-square steps were requested, those steps remain incomplete evidence. Do not call the expression wrong. |
+| Solve $(x-1)(x+3)>0$ using factor signs instead of a graph: “positive outside $-3,1$, hence $(-\infty,-3)\cup(1,\infty)$.” | Valid sign argument, including strict boundaries. A graph is unnecessary unless the task specifically assesses graph construction. |
+| Construct through $(0,1),(1,4),(2,9)$: “$c=1,a+b=3$.” | Two correct equations, incomplete use of data and solution. Preserve setup evidence, ask for the unused condition. |
+| After the tutor gives $7=4a-1$ for vertex $(2,-1)$ through $(0,7)$, learner finds $a=2$. | Assisted construction setup; scale solving succeeds. Later require a fresh independent choice of form and substitution. |
+
+Correct answers without explanation establish results only. If reasoning was never requested, collect it neutrally; if explicitly requested but omitted, record incomplete required evidence. Self-correction before mathematical feedback stays independent; completion after a mathematical cue is assisted.

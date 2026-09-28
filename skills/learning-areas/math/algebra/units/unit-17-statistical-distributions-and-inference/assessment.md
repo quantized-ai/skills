@@ -118,3 +118,16 @@ The examples above remain private calibration. Generate a new task for each sele
 | 17.9 — Conditional probabilities and decision tradeoffs | Correct denominators; base rates; reversed conditionals; zero-conditioning case; consequences and uncertainty; no uniquely optimal choice without criteria. | [Teaching plan](lesson-9-probability-based-decisions/tutor.md#conditional-probabilities-and-decision-tradeoffs) |
 
 Record the task fingerprint, exact case, observed reasoning, assistance and status. Award only the demonstrated component; list remaining cases by name. Use an explanation/error-analysis or reversed representation for transfer, and separately observe any required graph, construction, fit or simulation.
+
+## Annotated response calibration
+
+| Prompt and actual response | Evidence and next action |
+| --- | --- |
+| Sample SD for $2,4,6$: “2.” | Correct sample value; denominator convention and units remain unelicited if not requested. If explicitly required, collect the missing explanation. |
+| Enumerate all six fixed-size allocations of outcomes $2,4,6,8$ and obtain two-sided tail $1/3$. | Valid exact randomization calculation, not a simulation run. Credit the reasoning; actual simulation capability remains separate if requested. |
+| From supplied 6 of 200 extreme repetitions: “0.03 probability that the fair model is true.” | Correct frequency, reversed conditional interpretation. Preserve arithmetic and correct what is being conditioned on. |
+| For supplied margin $0.07$ around $0.60$: “$[0.53,0.67]$, covering 95% of individual outcomes.” | Correct interval, wrong target. It concerns uncertainty for a population proportion under an approximate procedure, not individual binary outcomes. |
+| After the tutor supplies the flagged total 27, learner obtains conditional proportion $9/27=1/3$. | Assisted denominator identification; fraction simplification is correct. Reassess the conditioning-group choice with a fresh table. |
+| All successes give plug-in margin zero: “the population proportion is known to be one.” | Degenerate simulation does not support certainty. Ask which possible population outcomes the fitted model cannot generate; do not award precision evidence from its zero width. |
+
+Correct answers without explanation establish results only. If reasoning was never requested, collect it neutrally; if explicitly requested but omitted, record incomplete required evidence. Self-correction before mathematical feedback stays independent; completion after a mathematical cue is assisted.

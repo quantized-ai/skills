@@ -98,6 +98,12 @@ Require both domains, valid isolation, full square expansion, every original che
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $\sqrt{x+2}=x$, require $x\ge0$ since the left side is a principal root. Squaring gives $x+2=x^2$, so candidates are $2,-1$. At $2$ both sides are $2$; at $-1$ the radical exists but equals $1$, not $-1$. Rejection is due to unequal signs, not an undefined radical.
+
+Cue “What sign must the unsquared right side have?”; next write $x\ge0$ beside $x^2-x-2=0$; then check the rejected candidate explicitly, leaving the valid check. Fade with $\sqrt{x+6}=x$ (key $3$, rejecting $-2$). For $\sqrt{x+5}-\sqrt x=1$, isolate the first root and square to $x+5=x+1+2\sqrt x$, retaining the cross term; this gives $x=4$. Cubing $\sqrt[3]{2x-1}=-3$ is instead reversible over the reals and gives $-13$.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

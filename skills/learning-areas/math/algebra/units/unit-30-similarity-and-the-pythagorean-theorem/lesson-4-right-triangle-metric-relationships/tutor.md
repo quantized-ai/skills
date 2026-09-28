@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Here c=13; leg adjacent 4 satisfies a²=13·4=52, so a=2√13; other leg b=3√13. Altitude h=6 follows h²=4·9. Similarity of the two small right triangles and original yields the three geometric-mean relations, each with a different correspondence.
 
-**Misconception response and hint ladder:** If h²=cp is used, ask whether h is a leg of the original triangle; next match corresponding hypotenuses and legs. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If h²=cp is used, ask whether h is a leg of the original triangle; next match corresponding hypotenuses and legs.
 
 **Practice progression:** Find h/leg → reverse segment problem → derive all three relationships. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A right triangle with legs 5 and 12 has hypotenuse 13. For the converse, construct a right triangle with legs 5,12; its hypotenuse is13 by the theorem. Any triangle with sides 5,12,13 is congruent by SSS, hence has the corresponding right angle. This separates theorem from converse.
 
-**Misconception response and hint ladder:** If the longest side is put among legs, ask which side is opposite 90°; next compare squared magnitudes. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If the longest side is put among legs, ask which side is opposite 90°; next compare squared magnitudes.
 
 **Practice progression:** Missing side → converse classification → proof and scaled triples. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -66,7 +66,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** An equilateral triangle of side 10 bisected by an altitude gives right triangles with hypotenuse 10 and short leg 5; other leg √(100−25)=5√3. Angles are 30°,60°,90°, so ratios 1:√3:2 correspond in that order to opposite angles.
 
-**Misconception response and hint ladder:** If the √3 leg is assigned opposite 30°, ask which angle faces the shortest side; next label the equilateral half. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If the √3 leg is assigned opposite 30°, ask which angle faces the shortest side; next label the equilateral half.
 
 **Practice progression:** Given short leg → given hypotenuse/long leg → derive ratios and compare families. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -85,6 +85,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Require correctly ordered similar triangles, exact converse conditions with the longest side, scaled integer triples, and derivations of both special ratios; do not accept rounded equality as proof of a right angle.
+
+## Decision rehearsal and fading
+
+**Match each geometric mean to its triangle.** Let ABC be right at C, and D the foot of the altitude on hypotenuse AB, with $AD=2$, $DB=8$. Then $AB=10$, $CD=\sqrt{2\cdot8}=4$, $AC=\sqrt{10\cdot2}=2\sqrt5$, and $BC=\sqrt{10\cdot8}=4\sqrt5$. Check $AC^2+BC^2=20+80=100=AB^2$; taking negative roots would not describe lengths.
+
+If the learner gives CD=10, ask whether the altitude is a piece of the hypotenuse or a perpendicular segment. Next identify the two smaller right triangles and their correspondence; then set $CD/AD=DB/CD$ and leave the product equation. Fade to $AD=3$, $DB=12$ (altitude 6, legs $3\sqrt5,6\sqrt5$). The numeric check supports calculation; a required Pythagorean proof still needs the general similarity equations and their sum.
 
 ## Evidence, feedback and handoff
 

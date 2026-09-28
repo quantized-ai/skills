@@ -79,3 +79,17 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 Use the unit-specific evidence requirements and lesson routing in [agent-guide.md](agent-guide.md#evidence-specific-to-this-unit), then select missing cases from each relevant tutor’s Assessment case checklist. The separate diagnostics, lesson reasoning activities and supplemental worked comparisons are additional private calibration material; they are not unseen test items once discussed. Track the actual case and representation covered, and report remaining cases explicitly.
 
 A learner can correctly reject an invalid model or unsupported conclusion without supplying a numerical answer. Conversely, a correct number does not establish an omitted justification, practical execution or completeness claim. Use the unit’s [adversarial scenario](agent-evaluation.md#adversarial-transfer-scenario) to check this distinction before treating a generated item as a reliable assessment.
+
+## Annotated learner-response calibration
+
+Separate model choice, feasible construction, algorithm fidelity and optimality. Record assistance at the stage it occurs.
+
+| Learner response | Judgment and next action |
+| --- | --- |
+| “A–B–A is not a trail,” with no specified parallel-edge convention. | The task lacks enough edge-identity information. Clarify it before grading; do not infer a wrong route definition from ambiguous data. |
+| “Two disconnected triangles have an Euler circuit since every degree is even.” | Parity is correct; required connectivity is missing. Credit parity and address why one continuous route cannot cover both edge components. |
+| On the weighted pendant-edge example, learner obtains inspection cost 19 and supplies the route but no reason it is minimum. | Feasibility and cost may be demonstrated. Optimality evidence is missing until a lower-bound or exhaustive comparison argument is supplied. |
+| Learner presents a correct tour differing from the prescribed nearest-neighbor trace. | Credit feasibility and correct cost; named-algorithm execution is not established. Compare the first differing greedy decision before marking the whole tour wrong. |
+| A different minimum spanning tree is obtained through valid choices among tied weights. | Accept it after checking connectivity, acyclicity, cost and tie rules actually specified; a tie convention is required only when the task fixes one. |
+| “The project takes 9 on one processor” for A=3, B=5, C=4 after both. | Nine is the unlimited-resource critical-path value, not the one-processor makespan. Preserve the path calculation and repair the resource claim; one processor requires 12 here. |
+| The tutor supplies the odd-vertex pair, and the learner constructs the correct inspection route. | Supported route construction is usable practice; independent pairing/minimality evidence is still missing. Reassess on fresh data. |

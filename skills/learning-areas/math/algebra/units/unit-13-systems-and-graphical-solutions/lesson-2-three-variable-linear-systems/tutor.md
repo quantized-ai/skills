@@ -82,7 +82,7 @@ Eliminate one variable from two rows while retaining a pivot equation, then elim
 
 #### Respond to student reasoning
 
-**First hint:** Which equation should be solved first in triangular form?
+**Elimination cue, before triangular form:** Which variable can a reversible row combination remove? **Back-substitution cue, once triangular:** Which equation now has only one unknown?
 
 If updated rows are mixed with old ones, rewrite the current system after each operation. If a zero pivot causes abandonment, inspect other rows for a swap. If back-substitution skips a variable, start from the bottom determined equation.
 
@@ -97,6 +97,12 @@ Use a nontriangular unique system, a pivot-swap case, then dependent/inconsisten
 Assess forward elimination, correct current-row use, valid pivot handling, back-substitution, solution classification and substitution into all originals. A triangular starting example alone does not demonstrate elimination.
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
+
+## Decision model and graduated practice
+
+In the existing elimination model, retaining $R_1$ and obtaining $y-z=-1,-2y+z=-1$ makes the next choice visible: twice the first new equation added to the second cancels $y$, yielding $-z=-3$. Then $z=3$, $y=2$, and $x=1$. Each operation applies to the current entire row, including its constant; using the old row after replacement produces a different calculation.
+
+Cue “Which multiple cancels the next variable using the current rows?”; set up $(-2y+z)+2(y-z)=-1+2(-1)$; then simplify only the left side to $-z$, leaving the constant and back-substitution. Fade by providing a different triangular system $x+y+z=9,y+z=5,z=2$ (key $(4,3,2)$), then return to an unassisted nontriangular system. Triangular practice tests recovery; it does not independently demonstrate forward elimination.
 
 ## Completion and handoff
 

@@ -41,13 +41,13 @@ Curriculum reference: **Plane sections of a double cone** in [lesson.md](lesson.
 - **Diagnostic prompt:** Must every tilted plane through a cone create an ellipse?
 - **Diagnostic key:** No; its relation to generating lines and whether it reaches both nappes determine the section.
 - **Worked-example prompt:** A plane intersects one nappe of a double cone, is not parallel to a generating line, and cuts every generator of that nappe. What nondegenerate section is possible? Contrast apex cases.
-- **Worked model and reasoning:** A closed ellipse (circle for a plane perpendicular to the axis). Parallel to a generator gives a parabola; intersecting both nappes gives a hyperbola. Through the apex, sections may be a point, a line, or two intersecting lines depending on orientation.
+- **Worked model and reasoning:** A closed ellipse (circle for a plane perpendicular to the axis). Parallel to exactly one generator direction in a non-apex plane gives a parabola; intersecting both nappes gives a hyperbola. Through the apex, sections may be a point, a line, or two intersecting lines depending on orientation.
 - **First hint:** Ask whether the section is bounded and whether it reaches one or both nappes.
 
 #### Learn
 
 - Draw the double cone and mark the cutting plane as an actual plane.
-- Vary orientation while distinguishing closed one-nappe, generator-parallel and two-nappe intersections.
+- Vary orientation while distinguishing closed one-nappe, exactly-one-generator-parallel and two-nappe intersections.
 - Move the plane through the apex separately to classify point, line or intersecting-line degeneracies.
 - A circle is the perpendicular-axis special case of an ellipse.
 
@@ -108,6 +108,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include impossible, degenerate and nondegenerate loci and focus-directrix parabola descriptions; retain sum/difference parameter restrictions.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Test boundary loci before assigning a family
+
+With foci $(-3,0),(3,0)$, a distance sum of 6 gives the entire segment joining them: points on it have distances $x+3$ and $3-x$. A sum below 6 is impossible, while a sum above 6 gives a nondegenerate ellipse. An absolute difference of 0 gives the perpendicular bisector $x=0$; a difference of 6 gives the two outer rays $x\le-3$ or $x\ge3$ on the focal axis. Thus the strict nondegeneracy inequalities are consequential.
+
+If a learner calls the sum-6 locus an ellipse, ask where equality occurs in the triangle inequality. Then supply a point $(x,0)$ between the foci; finally write its two distances, leaving their sum and locus description. Fade by changing focal separation and asking the learner to classify an equality case without the distances supplied. For cone cuts, “parallel to a generator” must include the single-direction condition; a non-apex plane that reaches both nappes gives a hyperbola even if it is parallel to some generators.
 
 ## Lesson completion
 

@@ -38,3 +38,13 @@ Each row distinguishes ways to vary a task from the mathematical evidence that m
 Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
 
 If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable log equations | $\ln(x-1)+\ln(x+1)=\ln8$ gives $3$; $\ln(x-2)+\ln(x+2)=\ln5$ gives $3$. | Two argument conditions, quadratic candidates $\pm3$, one valid root in each. |
+| Increased demand | $3\cdot2^{2t-1}=15$ gives $(1+\ln5/\ln2)/2$. | Adds outside scaling and a shifted nonunit exponent; not equivalent to evaluating one recognizable logarithm. |
+| Interpretation transfer | $100\cdot2^n\ge600$ first qualifies at $3$; $100\cdot2^n>800$ first qualifies at $4$. | Requires integer schedule, threshold direction, and neighboring checks rather than rounding a continuous answer. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

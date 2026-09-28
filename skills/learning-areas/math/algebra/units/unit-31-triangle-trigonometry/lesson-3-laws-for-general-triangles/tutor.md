@@ -46,12 +46,12 @@ Curriculum reference: **Obtuse angles and triangle area** in [lesson.md](lesson.
 - **Diagnostic key:** No: sine of a triangle angle is positive; cosine may be negative.
 - **Worked-example prompt:** Two sides of a triangle are 6 and 10 with included angle 120 degrees. Derive its area using an altitude.
 - **Worked model and reasoning:** Area $=\tfrac12(6)(10)\sin120^\circ=15\sqrt3$. An auxiliary right triangle outside the triangle has height $6\sin60^\circ=3\sqrt3$ over base 10; obtuse sine is positive and cosine negative.
-- **First hint:** An obtuse triangle can require extending the base to draw the altitude.
+- **First hint:** Where can the perpendicular height lie when a base angle is obtuse?
 
 #### Learn
 
 - Place one side on a horizontal base.
-- For an acute angle the altitude lands on the base; for an obtuse angle extend it.
+- When both base angles are acute the altitude foot lies on the base segment; when a base angle is obtuse, extend the base line.
 - Show h=b sinC using the supplement when needed, then substitute into base-times-height/2.
 - Contrast sine's positive height with cosine's signed horizontal projection.
 
@@ -85,7 +85,7 @@ Curriculum reference: **Law of Sines** in [lesson.md](lesson.md#concepts). Its c
 - **Diagnostic key:** No; side a is opposite A, so use a/sin A.
 - **Worked-example prompt:** For triangle ABC, let A=30 degrees, B=45 degrees, and opposite side a=7. Find C, b, and c and explain the Law of Sines.
 - **Worked model and reasoning:** $C=105^\circ$, $b=7\sqrt2$, $c=7(\sqrt6+\sqrt2)/2$. An altitude gives $h=b\sin A=a\sin B$, hence $a/\sin A=b/\sin B$; choosing another altitude gives the third ratio. For obtuse angles use an extended base.
-- **First hint:** Match each side to its opposite angle, not a neighboring angle.
+- **First hint:** Which angle faces the side whose length you are using?
 
 #### Learn
 
@@ -124,7 +124,7 @@ Curriculum reference: **Law of Cosines** in [lesson.md](lesson.md#concepts). Its
 - **Diagnostic key:** c²=a²+b² because cos90°=0.
 - **Worked-example prompt:** Two triangle sides have lengths 4 and 7 and included angle 60 degrees. Find the opposite side and justify the cosine term.
 - **Worked model and reasoning:** $c^2=4^2+7^2-2(4)(7)\cos60^\circ=37$, so $c=\sqrt{37}$. Place one side on the x-axis: squared coordinate differences give $(7-4\cos C)^2+(4\sin C)^2$, yielding the formula for acute or obtuse C.
-- **First hint:** Resolve one side into parallel and perpendicular components.
+- **First hint:** How does the horizontal projection change when the included angle becomes obtuse?
 
 #### Learn
 
@@ -152,6 +152,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Alternate SAS and SSS, check triangle inequalities and arccos input range, and require a coordinate derivation.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**An obtuse angle changes the projection sign.** With adjacent sides 3 and 5 and included angle $120^\circ$, place vertices $O=(0,0)$, $A=(5,0)$, $B=(3\cos120^\circ,3\sin120^\circ)=(-3/2,3\sqrt3/2)$. The foot of B's altitude lies left of O. Distance gives $AB^2=(13/2)^2+(3\sqrt3/2)^2=49$, so AB=7; area is $5(3\sqrt3/2)/2=15\sqrt3/4$. Negative horizontal projection does not mean negative height or area.
+
+If the cross term is subtracted as a positive quantity, cue “Which side of O contains the projection?” Next give the coordinates before simplifying; then evaluate cosine only and leave the distance calculation. Fade to adjacent sides 4 and 6 with included $120^\circ$ (opposite side $2\sqrt{19}$, area $6\sqrt3$). A numerical example checks the law; a proof must retain a variable angle and justify the expansion for both acute and obtuse cases.
 
 ## Lesson completion
 

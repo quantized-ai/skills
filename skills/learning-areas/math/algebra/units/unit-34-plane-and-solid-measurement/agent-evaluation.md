@@ -106,3 +106,14 @@ A cylinder's radius triples and height is divided by nine. Someone calls this a 
 ## Unseen teaching test
 
 Select one concept diagnostic, answer with the exact misconception its feedback section targets, and request a hint. Check that the tutor first isolates that misconception, gives the relevant conceptual cue and permits revision. Then switch to assessment: the corrected example is exposed, so require a new representation or reasoning direction from the practice progression. For a proof or tool-dependent concept, submit a correct number without the required argument/artifact and verify that the tutor preserves partial success but leaves that component pending. Record the actual dialogue; these written checks are not a claim that an independent live evaluation has already passed.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| My radius3, height5 open-top cylinder area is48π because $2πrh+2πr^2$. | Credit lateral area, remove the nonexistent top, and report39π for base plus exterior wall. Do not confuse this with volume45π. |
+| Two solids have equal height and equal base area, so Cavalieri proves their volumes equal. | Reject the insufficient hypothesis; require equal areas at every corresponding height. A cone and cylinder with the same base/height refute the claim. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

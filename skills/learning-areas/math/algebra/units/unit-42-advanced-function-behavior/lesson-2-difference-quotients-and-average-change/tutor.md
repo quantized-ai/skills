@@ -44,7 +44,7 @@ Curriculum reference: **Symbolic difference quotients** in [lesson.md](lesson.md
 - **Diagnostic key:** No; its definition still excludes zero increment.
 - **Worked-example prompt:** Find the difference quotient for f(x)=1/x.
 - **Worked model and reasoning:** $[1/(x+h)-1/x]/h=-1/[x(x+h)]$, with h≠0,x≠0,x+h≠0. Cancellation of h does not make the original quotient defined at h=0. For a radical, conjugation may simplify while both endpoint domains remain required.
-- **First hint:** Combine the two fractions before cancelling h.
+- **First hint:** What output change does the numerator represent, and which inputs must exist?
 
 #### Learn
 
@@ -82,7 +82,7 @@ Curriculum reference: **Secant slopes and interval rates** in [lesson.md](lesson
 - **Diagnostic key:** No; it is 4 m/s.
 - **Worked-example prompt:** A position is s(t)=t²+2t meters, with t in seconds. Find the average velocity from t=1 to t=4 and compare reversing endpoint order.
 - **Worked model and reasoning:** Values 3 and 24 give $(24-3)/(4-1)=7$ m/s. Reversing both differences gives the same 7; reversing only one changes the sign incorrectly. It is an interval average, not the output 24.
-- **First hint:** Write the two ordered coordinate pairs before forming the slope.
+- **First hint:** Is this quotient a change per unit input or merely an output value?
 
 #### Learn
 
@@ -110,6 +110,16 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include formulas, tables and graphs, variable increments and signed rates; distinguish secant average from an instantaneous claim.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Explain why the conjugate step is allowed
+
+For $f(x)=\sqrt x$, the quotient starts with $h\ne0$, $x\ge0$, $x+h\ge0$. Multiplying by the conjugate gives
+
+$\displaystyle \frac{\sqrt{x+h}-\sqrt x}{h}=\frac{h}{h(\sqrt{x+h}+\sqrt x)}=\frac1{\sqrt{x+h}+\sqrt x}.$
+
+The conjugate denominator cannot be zero on this domain: that would force $x=x+h=0$, hence $h=0$. Cancellation still does not permit zero increment. At $x=0,h=4$ the average rate is $1/2$, agreeing with $(2-0)/4$.
+
+If the learner combines radicals as $\sqrt h$, ask whether $\sqrt9-\sqrt4$ equals $\sqrt5$. Then cue the difference-of-squares product; supply the conjugate only at setup level; finally show the numerator $h$ and leave cancellation and restrictions. Fade with the conjugate supplied for a shifted square root, then remove it on the next task.
 
 ## Lesson completion
 

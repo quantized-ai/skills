@@ -98,6 +98,12 @@ Require correct conjugates, cancellation reasoning, the zero exception and recon
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $(2+3i)(1-4i)$, show all products $2-8i+3i-12i^2$. The last term is $+12$, so collection gives $14-5i$. This step explains why an imaginary-times-imaginary product contributes to the real part. For conjugates $(2+3i)(2-3i)$, the cross terms cancel and $4-9i^2=13$.
+
+If the learner gives $-10-5i$, cue “Which product contains $i^2$?”; set up $2-5i-12i^2$; then replace only $i^2$ by $-1$, leaving sign simplification. Fade on $(1+2i)^2=1+4i+4i^2$ (key $-3+4i$). Connect $x^2+9=(x-3i)(x+3i)$ by the same calculation: complex zeros $\pm3i$ are not real-plane intercepts. For $x^2+0$, the zero root is instead real and repeated.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

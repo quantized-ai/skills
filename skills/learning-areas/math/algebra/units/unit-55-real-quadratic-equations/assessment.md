@@ -79,3 +79,19 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 Use the unit-specific evidence requirements and lesson routing in [agent-guide.md](agent-guide.md#evidence-specific-to-this-unit), then select missing cases from each relevant tutor’s Assessment case checklist. The separate diagnostics, lesson reasoning activities and supplemental worked comparisons are additional private calibration material; they are not unseen test items once discussed. Track the actual case and representation covered, and report remaining cases explicitly.
 
 A learner can correctly reject an invalid model or unsupported conclusion without supplying a numerical answer. Conversely, a correct number does not establish an omitted justification, practical execution or completeness claim. Use the unit’s [adversarial scenario](agent-evaluation.md#adversarial-transfer-scenario) to check this distinction before treating a generated item as a reliable assessment.
+
+## Annotated learner-response calibration
+
+Use these as calibration, not undisclosed scored items after teaching them.
+
+| Learner response | Credit and next evidence |
+| --- | --- |
+| For \(x^2=4x\): “Divide by \(x\); \(x=4\).” | One correct root; incomplete set because division excluded zero. Ask about the divisor, then seek a fresh independent factorization. |
+| For \((2x-3)^2=7\): “\(x=(3+\sqrt7)/2\).” | Correct positive branch, missing the negative branch. Diagnose inversion of a square, not linear isolation. |
+| “\(2x^2+4x-1=2(x+1)^2-2\).” | Square structure identified; compensation wrong. Expansion gives constant 0 instead of -1; correct final constant is -3. |
+| Correct roots by the quadratic formula on an explicit square-completion task. | Credit the solved equation. The requested method evidence is missing, so elicit it without calling the roots wrong. |
+| “\(D=4\), so \(x^2-2\sqrt2x+1=0\) has rational roots.” | Discriminant correct, classification invalid without rational coefficients. Roots are \(\sqrt2\pm1\). |
+| Garden width “8, because negative lengths become positive.” | Reject this contextual repair: 8 does not satisfy the original equation. Retain algebraic roots 5,-8 and filter by \(w>0\). |
+| “At \(k=0\), \(kx^2+2x-4=0\) has \(x=2\).” | Correct recognition of a linear special case; no quadratic formula is needed. |
+
+A bare correct answer is sufficient for an answer-only item. When reasoning was explicitly requested, missing reasoning remains unverified; do not infer a misconception without a diagnostic follow-up. Answers obtained after a supplied setup or worked step count as assisted evidence.

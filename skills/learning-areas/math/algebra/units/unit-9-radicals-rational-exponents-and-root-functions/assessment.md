@@ -234,3 +234,15 @@ The A/B examples above illustrate selected cases. The following checklist identi
 | [Two radicals and cube-root equations](lesson-6-radical-equations/tutor.md#two-radicals-and-cube-root-equations) | Require both domains, valid isolation, full square expansion, every original check and reversible-cubing reasoning. Never validate candidates only in an intermediate squared equation. |
 | [Equations with rational powers](lesson-7-rational-power-equations-and-root-formulas/tutor.md#equations-with-rational-powers) | Assess reduced-exponent domains, all admissible branches, nonzero constraints and exact original verification. Do not apply unrestricted exponent reciprocity as a universal equation-solving rule. |
 | [Formulating square-root equations from tables](lesson-7-rational-power-equations-and-root-formulas/tutor.md#formulating-square-root-equations-from-tables) | Require stated family, sufficient independent data, verified parameters, remaining-data checks, domain/range and original target checks. Collect the required actual technology table/graph and interpretation; if unavailable, preserve symbolic evidence and mark that component pending. A finite fit supports a model but does not prove unique real-world behavior. |
+
+## Annotated response calibration
+
+| Prompt and actual response | Evidence and next action |
+| --- | --- |
+| Simplify $\sqrt{72x^2}$ for real $x$: “$6\lvert x\rvert\sqrt2$.” | Correct value; a requested sign justification still needs an explanation. Ask neutrally why the absolute value appears. |
+| Solve $x^{2/3}=4$ by signed cube-root substitution, yielding $\pm8$ and checking both. | Valid complete method; no need to use a principal reciprocal power, which would lose a branch. |
+| Solve $\sqrt{x+2}=x$: “candidates $2,-1$.” | Squared equation solved correctly, original checks and rejection incomplete. Do not call both candidates solutions. |
+| After the tutor supplies $u^2=4$, learner restores $x=\pm8$. | Assisted substitution setup with successful branch restoration; collect a fresh independent setup later. |
+| Rationalize $1/(\sqrt x+1)$: “$(\sqrt x-1)/(x-1)$ for $x\ge0$.” | Correct on $x\ne1$ but incomplete as a whole-domain replacement. Retain or separately supply original value $1/2$ at $1$. |
+
+Correct answers without explanation establish results only. If reasoning was never requested, collect it neutrally; if explicitly requested but omitted, record incomplete required evidence. Self-correction before mathematical feedback stays independent; completion after a mathematical cue is assisted.

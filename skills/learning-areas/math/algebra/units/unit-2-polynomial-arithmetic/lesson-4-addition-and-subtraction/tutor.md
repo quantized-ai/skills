@@ -98,6 +98,14 @@ Assess full sign distribution, like-term collection, operand-order reasoning, cl
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Work subtraction as addition of a complete inverse:
+$(2x^2-3x+1)-(x^2+4x-6)=2x^2-3x+1-x^2-4x+6=x^2-7x+7$.
+The outside minus applies to all three terms, including the negative constant. Verify by adding the result to the subtrahend: $(x^2-7x+7)+(x^2+4x-6)=2x^2-3x+1$. This reverse check tests every coefficient.
+
+If a learner gives $x^2+x-5$, ask for the line after removing parentheses. Cue “Which whole expression is being negated?”; then set up $2x^2-3x+1+[-1(x^2+4x-6)]$; next work only $-(x^2+4x-6)=-x^2-4x+6$, leaving collection. Fade by supplying that inverse line for a second problem, then remove it. For addition, $(x^2+2x)+(-x^2+3)=2x+3$ remains a polynomial even though degree drops; closure does not promise unchanged degree.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

@@ -56,7 +56,7 @@ Calculate A from K and starting population; recover r from a second exact observ
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Express K/y-1 before solving for the exponential.
+**First conceptual cue:** What value does the model approach, and which observation sets its starting level?
 
 If capacity is read as intercept, evaluate at zero. If a logistic is modeled as exponential plus constant, compare both long-run limits and the changing growth pattern.
 
@@ -126,6 +126,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Piecewise thresholds and periodic parameters, mechanism-based validation, residuals and extrapolation.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+For logistic parameters, begin with the roles of the data: known capacity 100 and initial value 20 fix \(1+A=5\), hence \(A=4\); the later value 50 fixes how quickly the gap closes. **Conceptual cue:** “Which supplied observation describes the starting value, and which describes the limiting capacity?” **Setup:** write \(20=100/(1+A)\) before introducing the exponential equation. **Worked step:** at time 2 the denominator must equal 2, so \(4e^{-2r}=1\); leave the logarithm and substitution check to the learner. If K is not supplied, these two observations alone do not identify all three parameters. Do not hide that uncertainty behind a fitted-looking formula.
+
+For the threshold model, ask the learner to compare the charge at 2 hours with just beyond 2 before simplifying either branch. For the tide \(3+\cos(\pi t/6)\), verify a maximum at 0, midline at 3 h, minimum at 6 h, and return to maximum at 12 h. **Faded transfer:** move the first maximum to 2 h while preserving the other parameters; a valid model is \(3+\cos(\pi(t-2)/6)\). Require the phase explanation and unit conversion, not one preferred trigonometric form; an equivalent sine expression is valid.
 
 ## Lesson completion
 

@@ -98,6 +98,12 @@ Assess both factor-zero implications, correct signs, parameter solution and inde
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Explain remainder evaluation from $p(x)=(x-c)q(x)+r$: at $x=c$ the unknown quotient is multiplied by zero, leaving exactly $p(c)=r$. For $p=x^3+2x-1$ and divisor $x+2$, $c=-2$, giving remainder $-13$. For $p=x^2+kx+3$ and required factor $x+1$, zero remainder gives $1-k+3=0$, so $k=4$ and $(x+1)(x+3)$ verifies the factor.
+
+If the learner evaluates at $+1$, cue “At what input is the divisor zero?”; then set up $x+1=0$; next show $p(-1)=1-k+3$, leaving the coefficient equation. Fade with $x^2+kx+6$ divisible by $x-2$ (key $k=-5$). Evaluation at one point determines a constant remainder for a linear divisor, not all coefficients of a possible linear remainder for a quadratic divisor.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

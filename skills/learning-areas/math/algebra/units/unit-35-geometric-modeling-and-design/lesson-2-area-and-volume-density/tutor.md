@@ -83,7 +83,7 @@ Curriculum reference: **Composite density models** in [lesson.md](lesson.md#conc
 - **Diagnostic key:** No; both quantity and geometric measure increase, leaving density unchanged.
 - **Worked-example prompt:** Two patches have areas 30 and 70 m² and densities 4 and 9 plants/m². Find total plants and mean density.
 - **Worked model and reasoning:** Total $30(4)+70(9)=750$ plants; overall density $750/100=7.5$ plants/m². The unweighted mean 6.5 ignores unequal areas.
-- **First hint:** Compute each patch's count before averaging.
+- **First hint:** Do the two patches represent equal amounts of area?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Vary sizes and densities, include volume mixtures without assuming additive volumes unless stated, and distinguish local from overall density.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**Average density is weighted by geometric measure.** Two disjoint regions have volumes 2 and 6 $\text{m}^3$, with uniform mass densities 300 and 700 $\text{kg/m}^3$. Masses are 600 and 4200 kg; total mass 4800 kg over $8\text{ m}^3$ gives average density 600 $\text{kg/m}^3$. The simple mean 500 would apply to equal-volume regions, which these are not.
+
+If the learner averages the two density values, ask what each density multiplies to produce mass. Next organize volume, density, and mass columns; then work the smaller region's mass and leave the larger and total. Fade to volumes 3 and 1 with densities 200 and 600 (average 300 $\text{kg/m}^3$). Accept a weighted-mean expression as an alternative to separate mass calculations if units and weights are explicit. The average summarizes the total; it does not make either local density 600.
 
 ## Lesson completion
 

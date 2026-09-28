@@ -107,7 +107,7 @@ Value a finite constant stream and its infinite extension; shift the first payme
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Write the first discounted payment before identifying the ratio.
+**First conceptual cue:** At what date does the first payment occur relative to the valuation date?
 
 If d/i is used without timing, ask for the first discounted term. If a negative denominator is accepted as a price for a divergent positive stream, inspect its actual partial sums.
 
@@ -126,6 +126,17 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Finite sums versus limits, timing, discount ratio, convergence and zero-stream exceptions.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+Use a repeating decimal with a prefix and a leading zero in its block: \(0.1\overline{03}=0.1030303\ldots\). The prefix is \(1/10\), the first tail contribution is \(3/1000\), and the two-digit block repeats with ratio \(1/100\). Thus its value is \(1/10+(3/1000)/(1-1/100)=1/10+1/330=17/165\). Using \(3/100\) instead of \(3/1000\) moves the nonzero digit one place left and changes the decimal. Verify by place value or by \(100x-x=10.2\), not by a short rounded display alone.
+
+For a ball dropped 2 m and rebounding to half its previous height, the total modeled travel is the initial drop plus both directions of every rebound: \(2+2(1+1/2+\cdots)=6\) m. The model's infinite sequence idealizes continual rebounds; a stated stopping height or fixed number of rebounds requires a finite total.
+
+Use only the fictional supplied rates. A constant year-end payment 100 discounted at 5% has first discounted contribution \(100/1.05\), ratio \(1/1.05\), and infinite time-zero value 2000. A time-zero payment adds separately. For payments growing 2%, the first remains \(100/1.05\), while the ratio becomes \(1.02/1.05\); the value is \(100/(.05-.02)\). At \(i=-.02,g=-.05\), a growing-stream formula still converges because \(.95/.98<1\), giving the same \(100/.03\). By contrast, constant positive payments with \(i=-.02\) diverge. Test the discounted ratio, not just the sign of either rate.
+
+For a timing error, cue “At what date does the first payment occur?” Next supply a blank timeline; then work only its first discounted term. Fade with year-end payment 60 at 10%: two-payment value \(12600/121\approx104.13\), infinite value 600. Ask why these totals answer different questions.
 
 ## Lesson completion
 

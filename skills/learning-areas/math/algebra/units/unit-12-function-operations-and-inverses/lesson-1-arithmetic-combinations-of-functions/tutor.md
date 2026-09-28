@@ -98,6 +98,12 @@ Assess ordered quotient, both original domains, complete divisor-zero exclusions
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $f(x)=\sqrt x$ and $g(x)=1/(x-1)$, evaluate both at the same input before addition. Domain requires $x\ge0$ and $x\ne1$, giving $[0,1)\cup(1,\infty)$. At $4$, $(f+g)(4)=2+1/3=7/3$; the product is $2/3$, a different operation. For $f-g$, subtraction negates the whole second output.
+
+Cue “Are both original outputs available here?”; next list the two domain conditions; then solve one, leaving intersection. Fade by replacing $g$ with $-\sqrt x$: the sum is zero only on $[0,\infty)$. For a quotient with $g=\sqrt x$, zero must also be excluded, even though both functions may exist there. A canceled denominator or zero result cannot expand the domain of the original combination.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Residuals in x order 2,0,−2,0,2 show curvature despite total 2 being small relative to values; inspect a residual plot with zero reference. A patternless-looking finite plot supports adequacy locally but cannot guarantee future predictions.
 
-**Misconception response and hint ladder:** If positive residual means overprediction, ask which number is larger; next write 9−7 explicitly. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If positive residual means overprediction, ask which number is larger; next write 9−7 explicitly.
 
 **Practice progression:** Residual signs → residual plot → compare adequacy and extrapolation limits. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For x=−1,0,1 and y=1,0,1, mean x=0 and mean y=2/3. Cross-products sum −1/3+0+1/3=0, so r=0 although y=x² exactly. Both variables vary; a constant variable would make r undefined.
 
-**Misconception response and hint ladder:** If r is interpreted as units per x, ask whether changing units changes correlation; next contrast slope's units with r's bound. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If r is interpreted as units per x, ask whether changing units changes correlation; next contrast slope's units with r's bound.
 
 **Practice progression:** Positive/negative r → same r/different slope → nonlinear/constant/outlier cases. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -66,7 +66,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Students choosing tutoring score differently from nonparticipants. Prior attainment, motivation or selection could explain part of the association; a randomized assignment with sound implementation would strengthen causal inference. A plausible mechanism alone does not settle it.
 
-**Misconception response and hint ladder:** If correlation magnitude is offered as proof of cause, ask whether group assignment was controlled; next draw a common-cause explanation. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If correlation magnitude is offered as proof of cause, ask whether group assignment was controlled; next draw a common-cause explanation.
 
 **Practice progression:** Name alternatives → compare observational/experimental designs → rewrite causal overclaim. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -85,6 +85,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include curved patterns with small r, influential outliers, constant-variable undefined r and contexts with plausible alternative explanations; inspect residual patterns, not only a summary coefficient.
+
+## Decision rehearsal and fading
+
+**Zero linear correlation is a qualified statement.** Points $(-2,4),(-1,1),(0,0),(1,1),(2,4)$ follow $y=x^2$ exactly. Mean x is zero, and opposite x-values cancel in the covariance sum; both variables vary, so Pearson $r=0$ is defined despite the strong curved pattern. With y constant instead, r is undefined because its denominator has zero variation.
+
+If the learner says “r=0 proves no relationship,” cue “What shape do the plotted pairs make?” Next pair the symmetric points; then show one cancelling covariance pair and let them explain the limitation. For a residual sign error, use the actual observation 8 and prediction 6: $e=8-6=2$, so the model underpredicts. Fade to observed 5 and predicted 7 (residual $-2$, overprediction), and separately ask what study-design evidence would be needed before a tutoring/score association could support a causal claim.
 
 ## Evidence, feedback and handoff
 

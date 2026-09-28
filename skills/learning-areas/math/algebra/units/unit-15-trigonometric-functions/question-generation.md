@@ -40,3 +40,14 @@ Each row distinguishes ways to vary a task from the mathematical evidence that m
 Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
 
 If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable exact values | At $5\pi/6$: $(\cos,\sin)=(-\sqrt3/2,1/2)$; at $7\pi/6$: $(-\sqrt3/2,-1/2)$. | Same reference triangle, changed quadrant signs. |
+| Increased demand | $-13\pi/6$ has representative $11\pi/6$ in $[0,2\pi)$ and coordinates $(\sqrt3/2,-1/2)$. | Adds negative multi-turn reduction before reference-angle evaluation. |
+| Graph construction | $2\sin(3x-\pi)+1$ has shift $\pi/3$, period $2\pi/3$, range $[-1,3]$. | Recovering a formula from consecutive peaks reverses the direction and may have multiple equivalent phase forms. |
+| Model transfer | Maximum $9$, minimum $1$, consecutive peaks $2,8$: $5+4\cos[(\pi/3)(t-2)]$. | Adds parameter meaning, units and phase choice; residual checking requires additional observations. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

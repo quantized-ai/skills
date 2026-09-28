@@ -98,6 +98,16 @@ Assess cube recognition, signed companion, retained factors and expansion. Disti
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Work the six products once:
+$(x-2)(x^2+2x+4)=x^3+2x^2+4x-2x^2-4x-8=x^3-8$.
+The two mixed pairs cancel; using $(x+2)^2$ as the companion would double the cross coefficient and prevent cancellation. Fade by supplying $(x+3)(x^2+\square x+9)$ and asking which coefficient eliminates the $x^2$ terms. The answer $-3$ also cancels the $x$ terms, leaving $x^3+27$.
+
+For $16x^3+2$, extract $2$, identify cube roots $2x,1$, and form $2(2x+1)(4x^2-2x+1)$. To justify rational completion using the earlier split method, coefficients splitting $-2$ would have product $4$. Possible integer pair sums are $5,4,-5,-4$, never $-2$; this primitive integer quadratic has no rational linear factor. The discriminant $-12$ is an internal alternative check, not a required new learner method.
+
+When the companion sign is wrong, first cue “Which mixed terms must cancel?”; next set up $(2x+1)(4x^2+kx+1)$; then show its $x^2$ coefficient is $2k+4$, leaving $k=-2$ and the remaining verification to the learner. If cube roots are the actual obstacle, address them first.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

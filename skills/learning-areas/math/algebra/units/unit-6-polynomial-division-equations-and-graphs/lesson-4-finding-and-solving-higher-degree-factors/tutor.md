@@ -98,6 +98,12 @@ Require justified degree reduction, every residual solution, restored variables,
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $p=x^3-2x^2+x-2$, candidate integer roots divide $2$. Testing $p(2)=8-8+2-2=0$ certifies one root; division leaves $x^2+1$. Solving that factor over the complex numbers gives $i,-i$, so $2,i,-i$ is the complete set. Reconstruction $(x-2)(x^2+1)$ and the degree-three count check completeness; the candidate list itself supplies no roots.
+
+Cue a learner who stops at $2$ with “What degree remains after removing one linear factor?”; then supply $(x-2)q(x)=p(x)$; only next provide $q=x^2+1$, leaving its roots. Fade on $x^3-x^2+4x-4=(x-1)(x^2+4)$ (keys $1,\pm2i$), initially supplying the verified root $1$. Label that root discovery assisted even if the remaining division is independent. Later remove the supplied factor on a fresh task.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

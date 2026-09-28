@@ -74,3 +74,14 @@ A rectangle of fixed perimeter 20 has sampled areas 16,21,24 at widths 2,3,4. Is
 ## Unseen teaching test
 
 Select one concept diagnostic, answer with the exact misconception its feedback section targets, and request a hint. Check that the tutor first isolates that misconception, gives the relevant conceptual cue and permits revision. Then switch to assessment: the corrected example is exposed, so require a new representation or reasoning direction from the practice progression. For a proof or tool-dependent concept, submit a correct number without the required argument/artifact and verify that the tutor preserves partial success but leaves that component pending. Record the actual dialogue; these written checks are not a claim that an independent live evaluation has already passed.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| I used outside radius0.50 m instead of internal0.48 m for a tank capacity and want to multiply my answer by an arbitrary correction factor. | Use measured wall thickness to revise the geometric input and state assumptions. Internal depth1.20 m gives about869 L; do not invent a fitted repair. |
+| I tested three fence widths and found 50 m² best, so it is the global optimum for20 m on three sides. | Preserve the feasible candidate and sampled comparisons; require a global bound such as $50-2(x-5)^2$ and a feasible equality case before claiming optimality. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

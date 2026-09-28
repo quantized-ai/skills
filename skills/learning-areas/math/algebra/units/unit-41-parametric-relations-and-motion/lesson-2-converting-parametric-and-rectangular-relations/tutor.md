@@ -44,7 +44,7 @@ Curriculum reference: **Parameter elimination** in [lesson.md](lesson.md#concept
 - **Diagnostic key:** No; add y≥0 to preserve the upper branch.
 - **Worked-example prompt:** Eliminate t from x=t², y=t+1 for -2≤t≤1 without adding points.
 - **Worked model and reasoning:** t=y-1 gives $x=(y-1)^2$ with $-1\le y\le2$. Equivalently y=1±√x only with branch-specific restrictions; the unrestricted parabola is too large.
-- **First hint:** Carry the original interval through the recovered expression for t.
+- **First hint:** Could the rectangular equation include a point no allowed parameter reaches?
 
 #### Learn
 
@@ -83,7 +83,7 @@ Curriculum reference: **Constructing parametrizations** in [lesson.md](lesson.md
 - **Diagnostic key:** No; the entire line is traced unless t is restricted.
 - **Worked-example prompt:** Parametrize the segment from (-2,3) to (4,-1) including endpoints, then reverse its traversal.
 - **Worked model and reasoning:** $(x,y)=(-2+6t,3-4t)$ for 0≤t≤1; reverse $(4-6t,-1+4t)$ on the same interval. Substitution covers every convex combination once. A standard full-circle parametrization uses sine and cosine with a stated tracing interval; other verified parametrizations are valid.
-- **First hint:** Use start point plus t times the endpoint displacement.
+- **First hint:** How can one fraction of the endpoint displacement locate a point on the segment?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include line segments, circles and rectangular relations, with both surjectivity onto the target set and exclusion of unwanted branches.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Recover the parameter to prove no points were added
+
+From $x=t^2$, $y=t+1$, $-2\le t\le1$, substitution gives $x=(y-1)^2$ with $-1\le y\le2$. Conversely, any point satisfying those two conditions has $t=y-1\in[-2,1]$ and recovers both coordinates. In square-root form, the lower branch is $y=1-\sqrt x$ for $0\le x\le4$; the upper branch is $y=1+\sqrt x$ only for $0\le x\le1$. A shared $0\le x\le4$ restriction on both branches introduces points.
+
+If the learner adds $(4,3)$, ask which allowed $t$ produces its $y$ coordinate. Then supply $t=y-1$; finally compute $t=2$ and leave its admissibility judgment. Fade by supplying the eliminated equation but withholding coordinate bounds; later ask for elimination and a reverse parameter check. Accept either the implicit restricted relation or correctly restricted separate branches.
 
 ## Lesson completion
 

@@ -61,3 +61,15 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 Use the unit-specific evidence requirements and lesson routing in [agent-guide.md](agent-guide.md#evidence-specific-to-this-unit), then select missing cases from each relevant tutor’s Assessment case checklist. The separate diagnostics, lesson reasoning activities and supplemental worked comparisons are additional private calibration material; they are not unseen test items once discussed. Track the actual case and representation covered, and report remaining cases explicitly.
 
 A learner can correctly reject an invalid model or unsupported conclusion without supplying a numerical answer. Conversely, a correct number does not establish an omitted justification, practical execution or completeness claim. Use the unit’s [adversarial scenario](agent-evaluation.md#adversarial-transfer-scenario) to check this distinction before treating a generated item as a reliable assessment.
+
+## Annotated reporting and design calibration
+
+| Learner response | Judgment and follow-up |
+| --- | --- |
+| Correctly calls a 10-per-grade sample stratified but supplies no requested random selection procedure. | Classification correct; implementation evidence incomplete. Ask how individuals are chosen within each grade. |
+| Uses a justified SRS instead of stratification for a task allowing any representative design. | Accept the valid alternative. If a stratified design was specifically requested, that method still needs evidence. |
+| Reports 15 minutes by pooling equal samples from grades of sizes 100 and 300 with means 10 and 20. | Arithmetic is correct for the pooled sample; it is not the intended school-mean estimate, 17.5, under the stated stratified design. |
+| Writes a full collection protocol but supplies no actual collected records. | Design may be demonstrated; execution and analysis of actual collection remain pending. Do not synthesize responses and label them real. |
+| Changes 48 to 6 treatment replicates after the tutor identifies trays as assigned units. | Correct assisted unit/replication repair. Reassess assignment level in a fresh context. |
+| Gives 80% versus 30% and stops, when asked for a report with scope and limitations. | Computation correct; requested reporting is incomplete. Ask for design-based scope without supplying a causal conclusion. |
+| Gives a carefully qualified written report but no oral explanation. | Writing evidence counts; oral communication remains unobserved until actually delivered. |

@@ -83,7 +83,7 @@ Curriculum reference: **Nonuniform dimensional changes** in [lesson.md](lesson.m
 - **Diagnostic key:** No; their radius is unchanged.
 - **Worked-example prompt:** A cylinder's radius doubles while its height halves. Compare volume, lateral area and base area with the original.
 - **Worked model and reasoning:** Volume factor $2^2/2=2$; lateral factor $2/2=1$; each base area factor 4. Total area does not have one universal factor because it combines differently scaled parts.
-- **First hint:** Substitute the changed dimensions into each full formula.
+- **First hint:** Which parts of the measurement depend on the dimension that stayed fixed?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Vary dimensions independently and request before/after perimeter, area, surface and volume ratios; do not apply uniform scaling to distortion.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**Nonuniform change scales the terms differently.** A right cylinder starts with radius 2 and height 6. Its total area is $2\pi(2)(6)+2\pi(2^2)=32\pi$ and volume $24\pi$. Double only its height: area becomes $48\pi+8\pi=56\pi$, a factor $7/4$, while volume doubles to $48\pi$. Bases have not changed, so neither the similarity square rule nor “all area doubles” applies.
+
+If the learner claims area factor 4, ask which dimension stayed fixed. Next split the formula into lateral area and two bases; then evaluate the unchanged base term and leave the new wall area. Fade by doubling only radius with height fixed (area $80\pi$, factor $5/2$; volume $96\pi$, factor 4). Contrast a uniform doubling, which would multiply every length, area, and volume by 2,4,8 respectively.
 
 ## Lesson completion
 

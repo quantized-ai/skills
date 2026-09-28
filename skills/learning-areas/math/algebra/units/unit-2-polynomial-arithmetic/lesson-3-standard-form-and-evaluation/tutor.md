@@ -98,6 +98,12 @@ Assess complete substitution, operation order, equivalence reasoning and a permi
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $p(x)=5+3x^3-x+2x$, combine the linear coefficients and order: $3x^3+x+5$. The coefficient list from degree $3$ to $0$ is $(3,0,1,5)$; the zero preserves the missing $x^2$ position. Evaluate $p(-2)=3(-8)-2+5=-21$, with the same value from the original expression $5-24+2-4$.
+
+If a learner lists $(3,1,5)$, cue “Which power belongs to each position?”; next write headings $x^3,x^2,x,1$; then place the $0$ under $x^2$, leaving reconstruction. Fade with the list $(2,0,-3,0)$ from degree $3$ to $0$: the polynomial is $2x^3-3x$, with zero constant. A matching numerical evaluation checks an instance; the algebraic collection justifies equivalence for every input. Preserve correct substitution when a later arithmetic slip changes the final value.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

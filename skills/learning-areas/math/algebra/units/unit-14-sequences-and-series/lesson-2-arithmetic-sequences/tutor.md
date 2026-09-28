@@ -98,6 +98,12 @@ Assess explicit rule, initial value, recurrence bound and agreement on the state
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Given arithmetic $a_3=10,a_7=22$, four increments account for a total rise of $12$, so $d=3$. Anchor at known index $3$: $a_n=10+3(n-3)=3n+1$ on the declared integer domain. Check $a_3=10,a_7=22$. If the sequence begins at $n=1$, its first term is $4$, not the constant $1$ in the expanded rule.
+
+Cue “How many steps separate the indices?”; set up $22=10+(7-3)d$; then work $12=4d$, leaving the rule. Fade with $a_2=7,a_5=16$ (same difference $3$, rule $3n+1$), but treat that exposed comparison as practice rather than a fresh retake. For independent work change both anchoring and data, and ask to convert to a recurrence with the correct starting index.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

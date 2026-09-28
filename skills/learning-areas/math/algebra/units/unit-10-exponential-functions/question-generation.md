@@ -38,3 +38,13 @@ Each row distinguishes ways to vary a task from the mathematical evidence that m
 Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
 
 If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable construction | $(1,6),(3,24)$ gives $3\cdot2^x$; $(1,12),(3,108)$ gives $4\cdot3^x$. | Two-unit ratio, positive square root, then coefficient recovery. |
+| Added demand | Rewrite $7\cdot3^{t/2}$ from hours to minutes: $7\cdot3^{m/120}$. | Requires unit conversion and period interpretation, not merely exponent evaluation. |
+| Numerical boundary | A bracket $[1.54,1.56]$ straddles rounding boundary $1.55$. | Opposite signs bracket a root but do not alone support one-decimal rounding; refine using actual evaluations. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

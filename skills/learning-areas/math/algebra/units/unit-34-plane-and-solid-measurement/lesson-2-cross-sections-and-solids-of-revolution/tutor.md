@@ -44,7 +44,7 @@ Curriculum reference: **Cross-sections** in [lesson.md](lesson.md#concepts). Its
 - **Diagnostic key:** 1/2, and its area ratio is 1/4.
 - **Worked-example prompt:** A sphere of radius 10 is cut by a plane 6 units from its center. What is the cross-section?
 - **Worked model and reasoning:** A circle of radius $\sqrt{100-36}=8$ and area $64\pi$. At distance 10 it becomes one point; greater distance gives no intersection.
-- **First hint:** Connect the center, nearest plane point and a section boundary point.
+- **First hint:** How does moving the slicing plane away from the center change the section radius?
 
 #### Learn
 
@@ -83,7 +83,7 @@ Curriculum reference: **Solids of revolution** in [lesson.md](lesson.md#concepts
 - **Diagnostic key:** It describes the sphere surface; rotating the filled half-disk generates the solid ball.
 - **Worked-example prompt:** Rotate the filled rectangle 2≤x≤5, 0≤y≤4 about the y-axis. Identify the solid and its dimensions.
 - **Worked model and reasoning:** A hollow cylinder of height 4, outer radius 5, inner radius 2. Its volume is $\pi(25-4)4=84\pi$; rotating only the boundary would describe surfaces, not the filled material.
-- **First hint:** Track the nearest and farthest distances to the axis.
+- **First hint:** Does the rotating region ever reach the axis, or must a hole remain?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Rotate rectangles, right triangles and semicircular regions about named axes; include offset axes and cavities.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**Track distance from the actual rotation axis.** Rotate the filled rectangle $2\le x\le5$, $0\le y\le4$ about the y-axis. Its nearest and farthest radii are 2 and 5, so the solid is a hollow cylinder with height 4; cross-sections perpendicular to the axis are annuli. Its material volume is $\pi(25-4)4=84\pi$. The axis lies outside the rectangle, so the central hole is not filled.
+
+If the learner uses radius 3, ask whether width equals distance to the axis here. Next draw the horizontal segment from the axis to each vertical edge; then label inner radius 2 and leave the outer radius and cross-section. Fade to rotating $1\le x\le4$, $0\le y\le3$ (radii 1,4; volume $45\pi$). Rotating only the boundary describes surfaces; explicitly specify the filled region when asking for a solid.
 
 ## Lesson completion
 

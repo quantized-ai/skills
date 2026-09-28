@@ -137,3 +137,19 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 Use the unit-specific evidence requirements and lesson routing in [agent-guide.md](agent-guide.md#evidence-specific-to-this-unit), then select missing cases from each relevant tutor’s Assessment case checklist. The separate diagnostics, lesson reasoning activities and supplemental worked comparisons are additional private calibration material; they are not unseen test items once discussed. Track the actual case and representation covered, and report remaining cases explicitly.
 
 A learner can correctly reject an invalid model or unsupported conclusion without supplying a numerical answer. Conversely, a correct number does not establish an omitted justification, practical execution or completeness claim. Use the unit’s [adversarial scenario](agent-evaluation.md#adversarial-transfer-scenario) to check this distinction before treating a generated item as a reliable assessment.
+
+## Annotated learner-response calibration
+
+| Learner response | Credit and next evidence |
+| --- | --- |
+| Fits \((x^2+3)/2\) to three rows and calls it the only unrestricted function. | Correct quadratic candidate; uniqueness requires the declared family/degree bound. A vanishing-factor addition preserves finite samples. |
+| Uses ratio 4 as the one-unit base for inputs 2,5,8 and outputs 3,12,48. | Ratio found correctly per three-unit step; the candidate is \(3\cdot4^{(x-2)/3}\). |
+| Adds \(f(1)=4\) and \(g(2)=5\) to obtain \((f+g)(1)=9\). | Input alignment fails; \(g(1)\) is needed and cannot be invented from missing table data. |
+| For \((x^4+1)/(x^2-1)\), gives \(x^2+1\) and fills values at \(\pm1\). | Polynomial quotient correct; remainder fraction \(2/(x^2-1)\) and original exclusions missing. |
+| Factors \(2x^3-6x^2\) as \(x^2(x-3)\). | Roots and multiplicities identified; scale 2 lost. A nonzero test or expansion reveals the mismatch. |
+| For \(5-x\) on \([1,4)\), assigns the same domain to its inverse because the formula is unchanged. | Formula correct; inverse domain is \((1,4]\). Reassess attained extrema from the exchanged sets. |
+| Claims a finite sampled plot proves two functions are inverse everywhere. | Sample agreement is partial evidence; seek exact domain/composition or a complete specified graph relation. |
+| Finds only \(t=1\) for \(4-(t-2)^2=3\) on \([0,4]\). | One valid solution; missing symmetric branch \(t=3\). |
+| Gives 1.2595 for \(t^3=2\) with the verified bracket \([1.259,1.260]\). | Supported input error at most .0005; evaluate any separate output tolerance independently. |
+
+A correct answer without explanation satisfies an answer-only prompt. If the task asked for a graph, argument or representation, record that evidence separately instead of assuming it from the number. Preserve actual support level and replace exposed examples before assessing independently.

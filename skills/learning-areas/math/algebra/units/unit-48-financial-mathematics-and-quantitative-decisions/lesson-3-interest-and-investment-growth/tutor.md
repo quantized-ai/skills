@@ -108,7 +108,7 @@ Evaluate ordinary and due timelines with three deposits; include i=0 and changed
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Draw the three payment dates and count how long each earns interest.
+**First conceptual cue:** Do all the deposits earn interest for the same length of time?
 
 If the last deposit gets an extra period, count arrows from its date to valuation. If a model return becomes a guarantee, ask which contract clause makes it certain and retain uncertainty when none does.
 
@@ -125,6 +125,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Payment timeline, ordinary/due annuities, zero-rate exception and risk/liquidity/fee comparisons.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+For compound interest, derive the periodic multiplier from one period rather than supply an exponent without meaning: 12% nominal annually compounded monthly gives \(1+0.12/12=1.01\), used 12 times in one year. **Conceptual cue:** “Is the rate quoted per year or per posting period?” **Setup:** put rate per period and number of periods in separate timeline columns. **Worked step:** 1000 becomes 1010 after month one; let the learner form month two from 1010. This distinguishes compounding from adding the same 10 repeatedly. A calculator answer alone does not establish the time-unit choice.
+
+For ordinary deposits, write a contribution row for each of the three year-end deposits: at the final date the values are \(100(1.1)^2\), \(100(1.1)\), and 100. Ask which row changes if a payment is made one period earlier. **Faded completion:** show only the exponents 2, 1, 0 and let the learner place amounts and sum; then remove the exponent scaffold for a different number of payments. At zero rate use a direct total, not division by zero in the closed formula. A beginning-of-period timeline multiplies every contribution by 1.1; changing only one term does not shift the whole annuity.
 
 ## Lesson completion
 

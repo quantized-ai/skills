@@ -46,7 +46,7 @@ Curriculum reference: **Entrywise matrix arithmetic** in [lesson.md](lesson.md#c
 - **Diagnostic key:** No; it remains 2×3 and every entry is scaled.
 - **Worked-example prompt:** Compute 3A-B for A=[[1,-2],[0,4]], B=[[2,1],[-3,5]].
 - **Worked model and reasoning:** Result [[1,-7],[3,7]]. A 2-by-2 plus a 2-by-3 is undefined; scalar multiplication never changes dimensions.
-- **First hint:** Apply the scalar to every entry before subtracting corresponding entries.
+- **First hint:** What does scaling the whole array do to an off-diagonal entry?
 
 #### Learn
 
@@ -85,7 +85,7 @@ Curriculum reference: **Row-column multiplication** in [lesson.md](lesson.md#con
 - **Diagnostic key:** AB is 2×4; BA is undefined because 4≠2.
 - **Worked-example prompt:** Multiply A=[[1,2,0],[-1,3,4]] by B=[[2,1],[0,-2],[5,3]].
 - **Worked model and reasoning:** AB=[[2,-3],[18,5]], a 2-by-2 matrix. For example (2,2) is $(-1)(1)+3(-2)+4(3)=5$. BA is also defined but is 3-by-3 and need not match.
-- **First hint:** Match an entire row of the first matrix with a column of the second.
+- **First hint:** Which intermediate categories contribute to this one output entry?
 
 #### Learn
 
@@ -152,6 +152,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include resource-use and network path products with explicit intermediate labels; reject dimensionally compatible but semantically misaligned data.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## A product entry is a sum over matching categories
+
+For two days' quantities $Q=\begin{pmatrix}2&3&1\\0&4&2\end{pmatrix}$ and unit prices $p=\begin{pmatrix}5\\2\\7\end{pmatrix}$, the product has shape $(2\times3)(3\times1)=2\times1$. Day 1 revenue is $2(5)+3(2)+1(7)=23$; Day 2 is $0(5)+4(2)+2(7)=22$. Each term has currency units and the sum ranges over products; the output retains only the day index.
+
+If the learner supplies three separate products without summing, cue “What single amount is requested for this day?” → supply the row-column pairing → calculate the first two terms and leave the last term and total. If they instead reverse the product, check dimensions before arithmetic. Fade by supplying only the output shape for a new quantities-price task, then require both construction and explanation of the shared index. A correct entrywise array is not the required matrix product.
 
 ## Lesson completion
 

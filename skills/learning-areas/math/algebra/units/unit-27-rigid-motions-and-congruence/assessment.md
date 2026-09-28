@@ -59,3 +59,17 @@ The examples above remain private calibration. Generate a new task for each sele
 | 27.4 — AAS, hypotenuse-leg, and corresponding parts | Right-angle premise; hypotenuse identification; criterion before CPCTC; AAS reasoning; reject AAA/SSA as general congruence tests. | [Teaching plan](lesson-4-triangle-congruence-criteria/tutor.md#aas-hypotenuse-leg-and-corresponding-parts) |
 
 Record the task fingerprint, exact case, observed reasoning, assistance and status. Award only the demonstrated component; list remaining cases by name. Use an explanation/error-analysis or reversed representation for transfer, and separately observe any required graph, construction, fit or simulation.
+
+## Annotated learner responses
+
+**Calibration prompt:** Rotate $(5,2)$ clockwise $90^\circ$ about $(2,1)$. For the reasoning version, add: “Explain recentering, directed rotation, and restoration of the center.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “$(3,-2)$.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “$(3,-2)$.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| “Use $(y,-x)$, giving $(2,-5)$.” | The rule is correct only for an origin-centered turn; the supplied center was ignored. |
+| “From the center, go 3 right and 1 up; clockwise makes 1 right and 3 down, hence $(3,-2)$.” | Valid geometric displacement argument without a symbolic matrix. |
+| Tutor supplies The recentered vector $(3,1)$ and rotated vector $(1,-3)$; learner then gives “$(3,-2)$.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

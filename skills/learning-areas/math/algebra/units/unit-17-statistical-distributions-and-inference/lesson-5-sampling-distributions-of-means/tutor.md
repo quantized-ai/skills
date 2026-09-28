@@ -80,3 +80,9 @@ Separate individual spread from sampling spread; vary sample size and sample des
 Track each named concept, the case/representation observed, the student's actual reasoning, correctness and assistance. A number without the required units, condition, explanation, proof or actual artifact supports only the demonstrated portion. Accept equivalent valid methods; recompute unexpected answers before judging them. A faulty generated task is removed from the record and replaced without penalty.
 
 Use the shared guide's session evidence labels. Before declaring this lesson secure, check every required method/case, include independent transfer and keep observed construction/tool execution separate from a described plan. Report demonstrated strengths, helped attempts, remaining cases and one concrete next task. The local evidence rule is not a validated retention measure. See [private calibration bank](../assessment.md) and [sources and limits](../teaching-sources.md).
+
+## Decision model and graduated practice
+
+In a toy population with equally likely values $0,2$, two independent draws with replacement produce ordered samples $(0,0),(0,2),(2,0),(2,2)$. Their means are $0,1,1,2$, with probabilities $1/4,1/2,1/4$. Individual SD is $1$, while the means have variance $1/2$ and SD $1/\sqrt2$. Each plotted point in the sampling distribution represents a whole sample mean, not one individual.
+
+Cue “What statistic is recorded after each complete sample?”; next list the four ordered pairs; then calculate the first mean only, leaving the rest. Fade with a different two-value population. For empirical resampling from $4,6,8$, a valid size-three sample is $4,4,8$, mean $16/3$ and absolute error $|16/3-6|=2/3$. A single resample does not define a margin: repeat under the justified design, record the percentile convention, and interpret the interval as approximate procedure coverage for a mean. Actual execution remains separate evidence.

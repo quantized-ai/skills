@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $3^{-2}=1/3^2=1/9$ because $3^2·3^{-2}=3^0=1$. For nonzero a, a⁰=1; zero to a negative power is undefined. Parentheses determine whether the sign is part of the base.
 
-**Misconception response and hint ladder:** If a negative exponent means a negative result, ask what reciprocal cancels a positive power; next multiply the candidate by the positive power. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If a negative exponent means a negative result, ask what reciprocal cancels a positive power; next multiply the candidate by the positive power.
 
 **Practice progression:** Positive powers → signs and parentheses → zero/negative exponents with exclusions. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $4+2(7−3)^2/8=4+2·16/8=8$. Grouping first, then powers, then multiplication/division left to right, then addition. A fraction bar groups the entire numerator and denominator.
 
-**Misconception response and hint ladder:** If multiplication always precedes division, ask which operations share priority; next rewrite 18÷3×2 as(18÷3)×2. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If multiplication always precedes division, ask which operations share priority; next rewrite 18÷3×2 as(18÷3)×2.
 
 **Practice progression:** Grouping → equal-precedence operations → nested fractions/powers and error analysis. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Vary nested grouping, zero and negative exponents with nonzero bases, fraction bars, left-to-right equal-precedence operations and undefined cases such as $0^{-1}$; avoid prescribing a value for $0^0$ here.
+
+## Decision rehearsal and fading
+
+**Locate the base and grouping first.** Compare $(-2)^{-2}=1/[(-2)^2]=1/4$ with $-2^{-2}=-(1/2^2)=-1/4$. The reciprocal comes from the exponent; parentheses decide whether the leading negative belongs to the base. In $12\div3\times2$, the leftmost equal-precedence operation gives $4\times2=8$, whereas $12/(3\times2)=2$ has a different grouping.
+
+If the learner gets $-4$ for $(-2)^{-2}$, ask for the base and what a negative exponent requires before naming an error. Cue “What must multiply $(-2)^2$ to give 1?”; setup $(-2)^{-2}=1/\square$; worked step $(-2)^2=4$, then let them finish. If they already have $1/4$, ask for a multiplication check rather than restarting. Fade to comparing $(-3)^{-2}$ and $-3^{-2}$ (keys $1/9,-1/9$), with the scope of each sign explained.
 
 ## Evidence, feedback and handoff
 

@@ -90,3 +90,17 @@ Required coverage: Both orientations, best-rank blocks, strict ordinal assumptio
 **Check before release:** Enumerate unilateral best responses for Nash; for mixed zero-sum strategies compare all pure opposing responses, probabilities and endpoints. For move trees construct both four-switch loops through return, work backward using the current mover’s terminal-payoff comparison, then apply initiation/preemption. For cyclic classification separately inspect the scheduled departure mover in both orientations.
 
 A second pass must target the likely failure above, not simply repeat the same arithmetic. Retain the checked result, decisive assumption and accepted equivalent responses before exposing the task.
+
+## Task demand anchors
+
+Preserve payoff type and requested solution concept on retakes; changing from pure responses to mixing or move-tree anticipation changes the task substantially.
+
+| Demand | Checked anchor |
+| --- | --- |
+| Routine pure analysis | Row matrix [[2,4],[1,3]] has row-minimum/column-maximum equality 2 at the top-left saddle. |
+| Comparable intended variant | [[3,5],[2,4]] shifts every payoff by 1, preserving pure choices and moving value to 3. Useful for verification, not transfer by itself. |
+| Added mixed demand | [[4,0],[1,3]] has no saddle; independent indifference equations give row (1/3,2/3), column (1/2,1/2), value 2. |
+| Added completeness demand | Rows (4,0,1),(0,4,1) require the entire flat optimal interval [1/4,3/4] when the task asks for all mixes. |
+| Transfer | Give a correct-looking strategy with mislabeled probability ownership or an invalid equilibrium justification and ask for a repaired guarantee against every opponent response. |
+
+For ordinal move tasks preserve the initial cell, both initiators and explicit termination/two-sidedness conventions. A new story with the same matrix and supplied branch trace is exposed practice, not evidence of independently modeling a conflict. No expected-value arithmetic may be demanded from ranks alone.

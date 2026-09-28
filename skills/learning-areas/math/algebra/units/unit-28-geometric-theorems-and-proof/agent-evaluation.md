@@ -88,3 +88,14 @@ These are manual evaluation specifications, not results of completed student ses
 **Required mathematical response:** Equality collapses the triangle; strict inequality is required. For polygon angles, separately require regularity before dividing a sum into equal parts.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-5-polygon-angles-and-triangle-inequalities](lesson-5-polygon-angles-and-triangle-inequalities/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| A quadrilateral with cyclic vertices (-3,0),(3,0),(1,2),(-1,2) has equal diagonals, so it is a rectangle. | Confirm equal squared diagonal lengths 20, but reject the missing parallelogram premise; unequal opposite sides 6 and 2 refute it. |
+| I proved the midsegment theorem on the triangle (0,0),(8,0),(2,6). | Credit the instance calculation; request general parameters and nondegeneracy before recording a class-wide proof. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

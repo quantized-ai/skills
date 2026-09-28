@@ -80,3 +80,9 @@ Vary success definitions, denominators and proportions near boundaries; state si
 Track each named concept, the case/representation observed, the student's actual reasoning, correctness and assistance. A number without the required units, condition, explanation, proof or actual artifact supports only the demonstrated portion. Accept equivalent valid methods; recompute unexpected answers before judging them. A faulty generated task is removed from the record and replaced without penalty.
 
 Use the shared guide's session evidence labels. Before declaring this lesson secure, check every required method/case, include independent transfer and keep observed construction/tool execution separate from a described plan. Report demonstrated strengths, helped attempts, remaining cases and one concrete next task. The local evidence rule is not a validated retention measure. See [private calibration bank](../assessment.md) and [sources and limits](../teaching-sources.md).
+
+## Decision model and graduated practice
+
+With $120$ successes out of $200$, $\hat p=0.60$. A plug-in simulation uses success probability $0.60$ and $200$ draws per repetition, recording one proportion each time. A supplied absolute-error percentile $0.07$ gives $[0.53,0.67]$, or $60\%\pm7$ percentage points. The margin is not $7\%$ of $0.60$.
+
+Cue “Does one simulated result record a count or a proportion?”; next set up $\hat p^*=X^*/200$ and $|\hat p^*-0.60|$; then calculate a hypothetical count $130$ as proportion $0.65$ and error $0.05$, leaving the next repetition. Fade by supplying a short collection of simulated errors for a stated percentile convention. At all-success data, fitted $p=1$ allows no simulated failures: zero spread reveals a degenerate approximation, not certainty about the population. Increasing repetitions of that same model cannot reveal outcomes it assigns probability zero.

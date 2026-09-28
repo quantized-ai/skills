@@ -46,7 +46,7 @@ Curriculum reference: **Determinants and inverse existence** in [lesson.md](less
 - **Diagnostic key:** No; every nonzero determinant permits a two-sided inverse for a square matrix.
 - **Worked-example prompt:** Find and verify the inverse of A=[[2,1],[5,3]].
 - **Worked model and reasoning:** Determinant 1; inverse [[3,-1],[-5,2]]. Both AA⁻¹ and A⁻¹A give identity. A zero determinant would mean no inverse; nonsquare matrices have no two-sided inverse.
-- **First hint:** Compute the determinant before dividing by it.
+- **First hint:** What would prevent this transformation from having a two-sided inverse?
 
 #### Learn
 
@@ -85,7 +85,7 @@ Curriculum reference: **Systems as matrix equations** in [lesson.md](lesson.md#c
 - **Diagnostic key:** No; the compatible operation is A⁻¹b on the left.
 - **Worked-example prompt:** Solve 2x+y=8 and 5x+3y=21 as a matrix equation.
 - **Worked model and reasoning:** With A=[[2,1],[5,3]] and b=[[8],[21]], inverse multiplication gives x=3,y=2. Substitution gives 8 and 21 respectively; entry order must match the chosen variable vector.
-- **First hint:** Write the coefficients in the same variable order in both rows.
+- **First hint:** What unknown does each column represent?
 
 #### Learn
 
@@ -124,7 +124,7 @@ Curriculum reference: **Technology and singular systems** in [lesson.md](lesson.
 - **Diagnostic key:** No; the augmented constants decide consistency.
 - **Worked-example prompt:** Analyze x+y+z=6, x-y+z=2, x+y-z=0, then replace the last row by twice the first with right side 13.
 - **Worked model and reasoning:** Original solution (1,2,3), verified in all three equations; determinant of its coefficient matrix is 4, so it is invertible. Replacement yields $2x+2y+2z=13$ contradicting first row doubled (=12), hence no solution. With right side 12 the replacement leaves one free parameter.
-- **First hint:** Compare each dependent coefficient row with its right-hand side.
+- **First hint:** Do the stated constants obey the same dependence as the coefficients?
 
 #### Learn
 
@@ -176,6 +176,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Construct contextual three-variable systems and use available technology to compute/verify inverses; use row reasoning for singular systems, never an invented inverse or fake tool result.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Check the inverse and the solution separately
+
+For $A=\begin{pmatrix}2&1\\1&1\end{pmatrix}$, $\det A=1$, so $A^{-1}=\begin{pmatrix}1&-1\\-1&2\end{pmatrix}$. With $b=(7,4)^T$, multiplication gives $(x,y)=(3,1)$, and substitution gives $2(3)+1=7$, $3+1=4$. Checking $AA^{-1}=I$ validates the inverse; checking the original equations also detects an incorrectly entered $b$ or reordered variables.
+
+If the learner returns $(1,3)$, ask which variable each output row names before diagnosing algebra. For a stalled inverse, cue “What must multiplying your proposed inverse by $A$ produce?” → supply the determinant and numerator pattern → show one product entry, leaving both full checks. Fade with a supplied inverse but an unsupplied contextual $b$, then require the whole setup independently. Preserve the existing three-variable technology task: hand-solving an equivalent system does not demonstrate actual tool use, although its algebra remains valid evidence.
 
 ## Lesson completion
 

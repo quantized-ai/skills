@@ -56,7 +56,7 @@ Estimate targets in quadratic models with two branches; compare a reciprocal tar
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Use the model's range before searching for inputs.
+**First conceptual cue:** Can this model attain the target output on its allowed domain?
 
 If the first found input is called the only one, inspect other branches. If a table never lists the target exactly, use bracketing/attributes rather than conclude no solution.
 
@@ -108,7 +108,7 @@ Solve a linear break-even model and a quadratic area/motion model; compare symbo
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Translate area and physical width before choosing a solving method.
+**First conceptual cue:** Which two dimensions produce the stated area, and what widths are physically possible?
 
 If an equation is solved before defining the question, reconstruct which output or equality was intended. If approximate graph values disagree slightly, compare precision rather than declaring the exact solution wrong.
 
@@ -161,7 +161,7 @@ Use tables/plots for exponential and logarithmic targets; repeat for square-root
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Locate a continuous sign-changing interval and then bound its width.
+**First conceptual cue:** What evidence would guarantee that a solution lies inside the proposed interval?
 
 If a small residual is equated with small input error, supply a bracket or another bound. If the screen shows one crossing, ask what domain/window was checked and whether a tangential solution could be invisible.
 
@@ -179,6 +179,17 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** All four families, target modeling, domain, graph/table refinement, tolerances and root-count caveats.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+Start an input search by checking attainable outputs. For \(h(t)=4-(t-2)^2\), \(0\le t\le4\), target 3 has two inputs 1 and 3, target 4 has one, and target 5 has none. A table containing only times 0,2,4 would miss both inputs for target 3; the missing table entry is not evidence of no solution. For \(10/t\) on \(t>0\), zero is approached but never attained.
+
+For \(t^3=2\), \(t\ge0\), the continuous strictly increasing function has one root bracketed by \([1.25,1.26]\). Midpoint 1.255 has input error at most .005. For a tighter target .001, refine to \([1.259,1.260]\): cubed endpoints are 1.995616979 and 2.000376, so midpoint 1.2595 has error at most .0005. A calculated residual is a separate output check; it is not automatically the input error.
+
+Contrast domain and accuracy decisions across families. In \(\log_2(t-2)=1\), require \(t>2\), then \(t=4\). In \(\sqrt{t-1}=2\), require \(t\ge1\), then verify \(t=5\) in the unsquared original. In the supplied model \(2^t=3\), a table at 1 and 2 brackets the root, but a narrower continuous bracket is needed for a small tolerance. These exactly solvable examples make later numerical checks interpretable rather than replacing required table or graph work.
+
+If a learner stops at one quadratic input, cue “Can the same height occur on both sides of the vertex?” Next identify the two monotonic intervals, then work one branch only if needed. Fade with \(9-(t-3)^2=5\), \(0\le t\le6\): inputs 1 and 5. Retain contextual units and never discard a negative candidate until the variable's domain justifies that rejection.
 
 ## Lesson completion
 

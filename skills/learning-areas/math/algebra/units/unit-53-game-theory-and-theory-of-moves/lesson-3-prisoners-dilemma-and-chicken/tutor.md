@@ -56,7 +56,7 @@ Analyze the canonical matrix; translate a resource-sharing or joint-effort story
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Compare defection and cooperation separately against C and D.
+**First conceptual cue:** Does the better action depend on what the other player does?
 
 If the cooperative cell is called equilibrium because both like it, test one player's deviation holding the other fixed. If any conflict is labeled prisoners' dilemma, require the four-outcome ordering and dominance evidence.
 
@@ -125,6 +125,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Both best-response patterns, two asymmetric equilibria, ranking verification and limits of prediction.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+To explain the prisoners' dilemma, make two different comparisons explicit. Against a cooperating opponent, defecting raises one's own payoff from 3 to 4; against a defecting opponent, it raises 1 to 2. That establishes dominance. Comparing CC=(3,3) with DD=(2,2) is instead a joint Pareto comparison, not a unilateral deviation. **Conceptual cue:** “Can this better outcome be reached by changing only this player's choice?” **Setup:** mark the other player's fixed strategy. **Worked step:** from CC, Row can move to DC, not DD; leave the incentive comparison to the learner.
+
+For chicken, the response reverses with the opponent: escalation is best against Yield, yielding is best against Escalate. **Fade:** supply only the payoff table and ask the learner to mark both players' response arrows, then identify YE and EY. A learner who lists only one equilibrium has partial correct evidence, not a completely wrong answer. For transfer change a supplied preference ordering and ask whether the game still meets the original definition. Do not retain the label merely because the story mentions competition, and do not treat a stated threat as an irrevocable commitment without a changed game specification.
 
 ## Lesson completion
 

@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Two triangles have included angles 50° and adjacent sides 4,7 versus 6,10.5. Ratios 6/4=10.5/7=1.5 give SAS similarity. Without equal included angle those ratios alone would not establish similarity. AA can be explained by dilation to match one side followed by ASA congruence.
 
-**Misconception response and hint ladder:** If arbitrary side ratios are compared, ask which vertices correspond; next write ordered triangle names before equations. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If arbitrary side ratios are compared, ask which vertices correspond; next write ordered triangle names before equations.
 
 **Practice progression:** AA → SAS/SSS → missing hypothesis or mismatched correspondence. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** In triangle ABC, D onAB and E onAC with DE∥BC. Common angle A and corresponding parallel-line angles give △ADE∼△ABC. If AD/AB=2/3 and BC=9, DE=6. Similarity must be proved before this proportion is used.
 
-**Misconception response and hint ladder:** If proportions are used to prove the same similarity circularly, ask what criterion supplied them; next establish two angle pairs independently. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If proportions are used to prove the same similarity circularly, ask what criterion supplied them; next establish two angle pairs independently.
 
 **Practice progression:** Find embedded triangles → prove similarity → transfer lengths or scale 1 congruence. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include embedded/shared-angle figures, separate AA/SAS/SSS justifications, misleading SSA data and proportionality only after a criterion has been established.
+
+## Decision rehearsal and fading
+
+**Correspondence comes from angles, not drawing orientation.** Suppose $\angle A=\angle E=40^\circ$ and $\angle B=\angle F=65^\circ$. Then $\triangle ABC\sim\triangle EFD$ by AA, with remaining angles $75^\circ$. If $AB=6$, $EF=9$, $BC=8$, then the scale from ABC to EFD is $9/6=3/2$, and the side corresponding to BC is FD=12. Matching BC to ED would mix the correspondence.
+
+If the learner uses $BC/ED=6/9$, ask which vertices lie opposite the equal $40^\circ$ angles. Next list the ordered names and mark the two known angle pairs; then supply $B\leftrightarrow F$ and leave the final pairing. Fade by rotating the target drawing and changing labels, with the learner establishing the criterion before forming ratios. A numerical proportionality check is not a substitute for the separate dilation-to-congruence explanation of AA.
 
 ## Evidence, feedback and handoff
 

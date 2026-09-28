@@ -83,7 +83,7 @@ Curriculum reference: **Design comparison and optimization** in [lesson.md](less
 - **Diagnostic key:** No; unsampled feasible choices may do better.
 - **Worked-example prompt:** A rectangle must have perimeter 28 m. Determine the largest possible area and justify global optimality without calculus.
 - **Worked model and reasoning:** Sides x and $14-x$, $0<x<14$. Area $x(14-x)=49-(x-7)^2\le49$ m², attained by 7-by-7. A sampled graph supports but does not prove the global bound.
-- **First hint:** Rewrite the objective as a constant minus a square.
+- **First hint:** What would establish an upper bound for every feasible width, not just those tested?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Compare finite design alternatives and continuous families; include objective units, feasible endpoints and sensitivity to constraints. Label a numerical best as limited to the search unless justified globally.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**A proved bound also needs a feasible equality case.** For a rectangular enclosure with 20 m of fencing on three sides and its fourth side on a straight wall, let the two perpendicular sides be x and the fenced parallel side y. Then $2x+y=20$, $0<x<10$, and area $A=x(20-2x)=50-2(x-5)^2\le50$. Equality occurs at x=5,y=10, which satisfies positivity and the fence constraint, so 50 $\text{m}^2$ is the maximum.
+
+If a learner reports a best table value as globally optimal, ask whether an untested width might improve it. Next express the area as a quadratic; then supply the completed-square form and leave the bound and equality check. That supplied rewrite is assistance to the proof. Fade to a 24 m fence with the same configuration (maximum 72 at x=6,y=12). If an additional clearance constraint requires $x\le4$, the best feasible boundary is x=4,y=16, area 64; check changed constraints before reusing the original optimum.
 
 ## Lesson completion
 

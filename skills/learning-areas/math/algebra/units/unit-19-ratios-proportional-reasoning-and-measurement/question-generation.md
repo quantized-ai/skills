@@ -121,3 +121,13 @@ Use the [concept teaching plan](lesson-4-measurement-units-and-scale/tutor.md#un
 **Reject/repair if these conditions are missing:** Similarity assumption; direction; k,k²,k³; units; consistency of alternate methods.
 
 Use the [concept teaching plan](lesson-4-measurement-units-and-scale/tutor.md#scale-factors-for-measurements) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Original price 90, discount 20%; final 72. | One forward percent multiplier, with the original base specified. |
+| Intended comparable retry | Original price 120, discount 15%; final 102. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Give only the final 102 and the 15% decrease; recovering 120 requires selecting division and the original base. A later tax adds another changing base. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

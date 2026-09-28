@@ -41,3 +41,14 @@ Each row distinguishes ways to vary a task from the mathematical evidence that m
 Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
 
 If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Concrete demand anchors
+
+| Demand | Checked examples | Interpretation |
+| --- | --- | --- |
+| Comparable multiplication | $(x-2)(x^2+3x+4)=x^3+x^2-2x-8$; $(x+2)(x^2-x+3)=x^3+x^2+x+6$. | Six products and collection in each; sign changes are intentional, not a new technique. |
+| Increased demand | $(2x^2-1)(x^2-3x+2)=2x^4-6x^3+3x^2+3x-2$. | Same six products but missing powers and degree four; do not equate difficulty solely by product count. |
+| Structural transfer | Reconstruct the degree-three polynomial with coefficients $(2,0,-3,0)$: $2x^3-3x$. | Reverses standard-form reading and tests zero placeholders. |
+| Identity boundary | $(x+2)^2=x^2+4$ holds at $0$, fails at $1$. | Ask for refutation or repair, not just evaluations. Proof of a true identity requires an all-input argument. |
+
+For a subtraction retake match operand lengths, negative terms, missing powers, and cancellation. More digits alone add arithmetic burden without adding a meaningful reasoning direction.

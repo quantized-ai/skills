@@ -90,3 +90,14 @@ A simplified difference of two circle equations is 0=0. A student says this prov
 ## Unseen teaching test
 
 Select one concept diagnostic, answer with the exact misconception its feedback section targets, and request a hint. Check that the tutor first isolates that misconception, gives the relevant conceptual cue and permits revision. Then switch to assessment: the corrected example is exposed, so require a new representation or reasoning direction from the practice progression. For a proof or tool-dependent concept, submit a correct number without the required argument/artifact and verify that the tutor preserves partial success but leaves that component pending. Record the actual dialogue; these written checks are not a claim that an independent live evaluation has already passed.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| Subtracting $x^2+y^2=25$ and $(x-6)^2+y^2=25$ gives x=3. That whole line is their intersection. | Credit elimination; substitute into an original and obtain only (3,4),(3,-4). Check both circles. |
+| I proved every rectangle has equal diagonals by using a square with all sides 4. | Credit an example only; request independent positive side parameters and explain why the coordinate placement covers the intended class. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

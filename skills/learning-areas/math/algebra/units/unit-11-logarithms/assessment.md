@@ -202,3 +202,14 @@ The A/B examples above illustrate selected cases. The following checklist identi
 | [Solving logarithmic equations and rejecting invalid roots](lesson-5-exponential-and-logarithmic-equations/tutor.md#solving-logarithmic-equations-and-rejecting-invalid-roots) | Assess original-domain intersection, justified conversion, every candidate check and correct model units/meaning. Condensation must not admit inputs excluded by the original equation. |
 | [Doubling time and half-life](lesson-6-duration-and-reasonableness/tutor.md#doubling-time-and-half-life) | Require positive initial amount, appropriate rate direction, exact duration, units and independence from initial size. Distinguish algebraic negative time from a permitted future duration. |
 | [Formulating and validating logarithmic solutions](lesson-6-duration-and-reasonableness/tutor.md#formulating-and-validating-logarithmic-solutions) | Assess formulation, reachability, continuous solution, schedule-aware conversion and adjacent checks. State time units and avoid claiming a first observation without a defined starting index. |
+
+## Annotated response calibration
+
+| Prompt and actual response | Evidence and next action |
+| --- | --- |
+| Solve $3\cdot2^{2t-1}=15$: give the correct exact logarithmic expression only. | Correct value. If derivation was not elicited, ask neutrally; if requested, exponent isolation and checking remain incomplete evidence. |
+| Solve $2\cdot3^{t+1}=18$ by common bases, obtaining $t=1$. | Valid exact solution. Credit it; a specifically requested logarithmic derivation requires separate evidence. |
+| Solve $\ln(x-1)+\ln(x+1)=\ln8$: “$\pm3$.” | Correct roots of the condensed algebraic equation; incomplete original-domain filtering. Only $3$ satisfies both logs. |
+| After a cue about strictness, change first integer $n$ with $100\cdot2^n>800$ from $3$ to $4$. | Correct assisted threshold repair; retain earlier equality calculation, then reassess strict discrete timing independently. |
+
+Correct answers without explanation establish results only. If reasoning was never requested, collect it neutrally; if explicitly requested but omitted, record incomplete required evidence. Self-correction before mathematical feedback stays independent; completion after a mathematical cue is assisted.

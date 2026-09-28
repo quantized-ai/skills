@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** North Pole and equatorial longitudes 0° and 60° form a minor-arc triangle. Equatorial angles are 90° each and polar angle 60°, total 240°. Euclidean 180° fails because 'lines' and geometry differ. Distinct great circles meet at antipodal points, so there are no spherical parallels.
 
-**Misconception response and hint ladder:** If a flat sketch suggests parallel meridians, ask where they meet on the sphere; next trace both to the poles. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If a flat sketch suggests parallel meridians, ask where they meet on the sphere; next trace both to the poles.
 
 **Practice progression:** Great/small circles → spherical triangle → shortest path and non-antipodal limitations. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -49,6 +49,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Vary sphere diagrams and non-antipodal endpoints, compare Euclidean/spherical assumptions, and distinguish a small circle from a great circle before making shortest-path claims.
+
+## Decision rehearsal and fading
+
+**Identify spherical lines before comparing them.** Meridians at longitudes $0^\circ$ and $60^\circ$ lie on distinct great circles. They meet at both poles, even though portions can look parallel on a flat map. With the North Pole and their equatorial intersections, the minor-arc triangle has two right angles and a $60^\circ$ polar angle, giving $240^\circ$. The angle is measured between tangent directions on the sphere, not between straight chords drawn through its interior.
+
+If the learner treats the $30^\circ$-north latitude circle as a spherical line, ask whether its plane passes through the sphere's center. Next contrast that plane with the equator's; then state the center-plane condition and ask them to classify a meridian. Fade to equatorial points $45^\circ$ apart and the North Pole (angle sum $225^\circ$). Retain minor arcs, distinct non-antipodal vertices, and the specified hemisphere setting; these examples do not authorize applying planar angle sums to a globe.
 
 ## Evidence, feedback and handoff
 

@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Four adult and child tickets total 30; adults cost 9, children 6. Let a adults, children 4−a:9a+6(4−a)=30 gives 3a=6, a=2 and children 2. Both counts are nonnegative integers and satisfy both totals.
 
-**Misconception response and hint ladder:** If prices are added without counts, ask what one term's units should be; next write price×number for each category. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If prices are added without counts, ask what one term's units should be; next write price×number for each category.
 
 **Practice progression:** Additive totals → weighted totals → mixture/count feasibility and rejected algebraic answer. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Two travelers start 180 km apart and move toward each other at40 and 50 km/h. Combined closing rate 90 km/h gives meeting time 2 h; distances 80 and 100 sum 180. If they move in the same direction, subtraction rather than addition may apply.
 
-**Misconception response and hint ladder:** If rates are always added, ask whether the separation grows or shrinks; next track positions after one hour. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If rates are always added, ask whether the separation grows or shrinks; next track positions after one hour.
 
 **Practice progression:** Constant-rate totals → toward/away/same-direction motion → different start times with units. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include age/consecutive-number totals, weighted mixtures, shared work and motion with declared rate assumptions; reject negative times or counts even when algebra permits them.
+
+## Decision rehearsal and fading
+
+**Model a delayed start with two durations.** A walker leaves at 4 km/h. A cyclist leaves the same point 1 hour later at 12 km/h, following the same route. Let $t$ be hours after the walker leaves; for $t\ge1$, positions are $4t$ and $12(t-1)$. Meeting gives $4t=12t-12$, so $t=1.5$ h and distance 6 km. The cyclist travels for 0.5 h, checking $12(0.5)=6$.
+
+If the learner writes $4t=12t$, ask what the cyclist's elapsed time is when the walker has traveled one hour. Next supply a two-row start-time table; then write the cyclist's duration $t-1$ and leave both distances and the equation. Fade to a 3 km/h walker and 9 km/h cyclist starting 2 hours later (meeting 3 h after the walker starts, 9 km). Keep this support history distinct from a later independently constructed model.
 
 ## Evidence, feedback and handoff
 

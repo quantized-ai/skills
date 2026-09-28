@@ -114,3 +114,16 @@ Required coverage: All four families, target modeling, domain, graph/table refin
 **Check before release:** Verify finite differences with powers of h, exponential ratios per actual step, and reconstruction at every supplied point. For quotients multiply divisor by quotient and add remainder; preserve denominator zeros. For inverses check one-to-one domain, exchanged sets and both compositions. For input estimates check feasibility, branch/uniqueness and a supported input-error bound.
 
 A second pass must target the likely failure above, not simply repeat the same arithmetic. Retain the checked result, decisive assumption and accepted equivalent responses before exposing the task.
+
+## Task demand anchors
+
+| Demand | Anchor and checked result |
+| --- | --- |
+| Direct pattern | Equal-step inputs 0,1,2,3 with outputs 1,4,9,16: quadratic candidate \((x+1)^2\) under the stated family. |
+| Comparable retest | Same inputs with outputs 4,9,16,25: \((x+2)^2\), with the same family limitation. |
+| Added representation decision | Inputs 2,5,8 and outputs 3,12,48: positive-base exponential \(3\cdot4^{(x-2)/3}\). |
+| Reverse verification | Supply a proposed quotient/factor or inverse domain; require reconstruction or both domain-aware compositions. |
+| Contextual transfer | Restrict the fee input to distances [0,12] in \(c(d(t))\), \(d(t)=3t\), and recover time domain [0,4]. |
+| Numerical justification | Refine a continuous bracket to a stated input tolerance and separately check the original output. |
+
+Label tables as complete finite functions or samples, and state the family assumption for reconstruction. Difficulty increases when learners must choose among representations, handle exclusions or justify evidence; it does not increase merely by adding rows. For generated polynomial data check every row, for division reconstruct the dividend, for inverses verify exchanged sets, and for numerical targets verify attainable range and all relevant branches. Exposed anchors are for teaching and calibration.

@@ -37,3 +37,13 @@ Identify perpendicular height, slant height, radius, diameter and included surfa
 | [34.4 Composite volumes](lesson-4-volume-and-cavalieri-principle/tutor.md#composite-volumes) | Include combinations of cone/prism/sphere pieces, partial cavities and missing dimensions; verify no overlaps or negative physical dimensions. |
 | [34.5 Uniform scaling laws](lesson-5-dimensional-change/tutor.md#uniform-scaling-laws) | Recover length from area or volume ratios, and use the same scale on all dimensions before invoking similarity. |
 | [34.5 Nonuniform dimensional changes](lesson-5-dimensional-change/tutor.md#nonuniform-dimensional-changes) | Vary dimensions independently and request before/after perimeter, area, surface and volume ratios; do not apply uniform scaling to distortion. |
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Open-top right cylinder $r=3,h=5$: base plus exterior wall area $39\pi$. | Same two exposed components, exact pi form and square units. |
+| Intended comparable retry | Open-top right cylinder $r=2,h=7$: corresponding area $32\pi$. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Double only the first cylinder height: area $69\pi$, not four times $39\pi$. Analyze changing versus fixed terms before applying any similarity rule. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

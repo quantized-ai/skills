@@ -98,6 +98,12 @@ Assess simplification, like-term recognition, full distribution and correct use 
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Factor $72x^2=36x^2\cdot2$; both factors are nonnegative for real $x$. Thus $\sqrt{72x^2}=6|x|\sqrt2$. The absolute value makes the extracted factor nonnegative. Separately, $\sqrt{12}+\sqrt{27}=2\sqrt3+3\sqrt3=5\sqrt3$ because the simplified radical parts agree, not because radicands add.
+
+Cue “Which whole factor is a perfect square?”; next write $\sqrt{36x^2\cdot2}$; then work $\sqrt{36x^2}=6|x|$, leaving the remaining factor. Fade with $\sqrt{50x^2}$ (key $5|x|\sqrt2$), then require the learner to justify the sign. If their extraction is correct but they combine $\sqrt2+\sqrt3$, target like-term structure. Avoid splitting $\sqrt{x^2y}$ into $|x|\sqrt y$ without conditions: at $x=0,y=-1$, the original is defined and the split is not.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

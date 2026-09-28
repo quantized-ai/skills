@@ -56,7 +56,7 @@ Translate a transport or contact description into an edge list; draw the same ab
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Count incident edge ends, not just drawn lines.
+**First conceptual cue:** How many edge ends meet this vertex, including a loop?
 
 If crossings in a drawing become vertices automatically, ask whether an actual junction is specified. If a loop is counted once, mark its two ends at the same vertex.
 
@@ -107,7 +107,7 @@ Classify routes with exactly one kind of repetition; construct paths within sepa
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Track edge repetition separately from vertex repetition.
+**First conceptual cue:** Does this route repeat a vertex, an edge, or both?
 
 If vertex repetition alone disqualifies every trail, return to the no-repeated-edge definition. If directed reachability is assumed symmetric, trace the reverse route edge by edge.
 
@@ -124,6 +124,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Walk/trail/simple path/circuit distinctions, components and directed reachability.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+Use edge identities to explain why a route's vertex sequence may be insufficient in a multigraph. With one undirected edge AB, A–B–A uses it twice and is not a trail. With two distinct parallel edges \(e_1,e_2\), A–B via \(e_1\), then B–A via \(e_2\), is a closed trail. **Conceptual cue:** “Did the same edge repeat, or only its endpoints?” **Setup:** make separate columns for vertex visited and edge identifier. **Worked step:** mark \(e_1\) used on the outward leg; leave the return classification to the learner. State the edge set before assessing a bare A–B–A response.
+
+For degree, mark both ends of a loop at the same vertex and check total degree against twice the number of undirected edges. A directed loop instead contributes one to indegree and one to outdegree. **Faded comparison:** use arcs A→B, B→C and isolated D; ask for the set reachable from A and from C (private sets including the start: {A,B,C} and {C}). Then remove the arrows in a new undirected version and ask which conclusions change. Crossing ink does not add a vertex without a specified junction.
 
 ## Lesson completion
 

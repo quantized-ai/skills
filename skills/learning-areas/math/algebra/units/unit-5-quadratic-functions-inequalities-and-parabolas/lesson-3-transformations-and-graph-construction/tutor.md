@@ -98,6 +98,12 @@ Assess consistency among formula, anchors, symmetry, opening and range. Record a
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Construct $y=-(x-1)^2+4$ from parent inputs $u=-1,0,1$: the mapped points are $(0,3),(1,4),(2,3)$. The negative scale puts the vertex at a maximum, while equal horizontal offsets give equal heights. Solving $(x-1)^2=4$ adds intercepts $(-1,0),(3,0)$; these features constrain one downward parabola. Increasing on $(-\infty,1)$ does not mean positive everywhere there.
+
+If an otherwise correct sketch opens upward, cue “Can any squared distance increase this output above $4$?”; set up $-(x-1)^2\le0$; next obtain $y\le4$, leaving correction of the shape. Fade by providing the vertex and one symmetric pair for $2(x+1)^2-2$, then let the learner supply intercepts and intervals (zeros $-2,0$). Preserve verified points while repairing opening direction.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

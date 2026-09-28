@@ -98,6 +98,12 @@ Assess domain exclusions, period, zeros, branch monotonicity and range/no-amplit
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Sine graphs the vertical unit-circle coordinate against angle, so the quarter-turn values $0,1,0,-1,0$ at $0,\pi/2,\pi,3\pi/2,2\pi$ form a full smooth cycle. Cosine uses horizontal coordinates $1,0,-1,0,1$. Connecting these anchors periodically must preserve their different phase positions.
+
+If a learner swaps sine and cosine, cue “Which coordinate is being tracked at angle zero?”; then draw or name point $(1,0)$; next identify sine there as $0$, leaving the remaining anchors. Fade by asking the learner to extend one cycle leftward using symmetry. For tangent, use anchors $(-\pi/4,-1),(0,0),(\pi/4,1)$ between excluded endpoints $\pm\pi/2$. The quotient's denominator approaches zero there; branches are separate, and the asymptote is not a vertical segment of the graph. Its unbounded outputs prevent a finite amplitude.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

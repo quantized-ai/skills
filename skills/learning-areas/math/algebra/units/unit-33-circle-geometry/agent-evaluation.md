@@ -90,3 +90,14 @@ A radius-10 circle has central sweep π/3. Two answers for segment area are 50π
 ## Unseen teaching test
 
 Select one concept diagnostic, answer with the exact misconception its feedback section targets, and request a hint. Check that the tutor first isolates that misconception, gives the relevant conceptual cue and permits revision. Then switch to assessment: the corrected example is exposed, so require a new representation or reasoning direction from the practice progression. For a proof or tool-dependent concept, submit a correct number without the required argument/artifact and verify that the tutor preserves partial success but leaves that component pending. Record the actual dialogue; these written checks are not a claim that an independent live evaluation has already passed.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| Exterior PA=3, interior AB=9, so tangent squared is 27. | Identify exterior-times-interior misuse from the work. Whole PB=12, power36, tangent length6; ask for endpoints before supplying the formula. |
+| Radius6 and minor sweepπ/3 give sector6π and minor segment6π−9√3. The major segment is30π+9√3. | Accept the correct named regions and complement reasoning. If proof was requested, numeric region calculation alone does not demonstrate derivation of the sector formula. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

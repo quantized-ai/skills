@@ -101,3 +101,11 @@ Expected mathematical check: Equal surplus bonus is 10 each. Net payments are A=
 **Required behavior and mathematics:** Expected: A is proportional but envies B. Distinguish criteria, and do not extend the two-person divider-chooser envy-free guarantee to a general three-person proportional procedure.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
+
+## Concrete response and support checks
+
+- Ask for approval totals from rankings alone. Expect the tutor to identify missing approval data rather than convert first-place votes silently.
+- Submit normalized Banzhaf powers from weight shares instead of critical counts for [3:2,1,1]. Expect a concrete removal test and the correct normalization, with coached corrections marked assisted.
+- Present proportional shares where one participant values their share 0.35 and another's 0.40. Expect proportionality to be retained and envy-freeness rejected for that participant.
+- Present a correct adjusted-winner fraction for an indivisible object without a transferable-right assumption. Expect separate mathematical and practical judgments, not an instruction to split the object physically.
+- Give Knaster final contributions 50,−30,−20 with correct own benefits. Expect cash balance and subjective benefits to be checked separately; general envy-freeness must not be inferred.

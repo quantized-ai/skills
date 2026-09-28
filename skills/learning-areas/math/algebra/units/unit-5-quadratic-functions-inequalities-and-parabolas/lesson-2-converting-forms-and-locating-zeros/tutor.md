@@ -98,6 +98,12 @@ Assess exact discriminant, distinct-root count, multiplicity and real-graph inte
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $2x^2-8x+3$, factor only the quadratic and linear terms: $2(x^2-4x)+3$. Since $x^2-4x=(x-2)^2-4$, the result is $2(x-2)^2-8+3=2(x-2)^2-5$. The inside added $4$ is multiplied by $2$, so outside compensation is $8$. Zeros satisfy $(x-2)^2=5/2$, giving $2\pm\sqrt{10}/2$; discriminant $40>0$ confirms two real intercepts.
+
+For the common answer $2(x-2)^2-1$, ask the learner to expand before naming the cause. Cue “How much did the whole expression increase?”; set up $2[(x-2)^2-4]+3$; then distribute only the compensation $-8$, leaving collection. Fade on $-3x^2+6x+2=-3[(x-1)^2-1]+2$ (key $-3(x-1)^2+5$).
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

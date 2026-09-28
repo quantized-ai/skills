@@ -98,6 +98,12 @@ Require a justified common denominator, equivalent numerator scaling, signed com
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $1/(x-1)+2/(x+1)$, each denominator lacks the other's factor. Multiply the first fraction by $(x+1)/(x+1)$ and the second by $(x-1)/(x-1)$, giving numerator $(x+1)+2(x-1)=3x-1$ over $(x-1)(x+1)$, with $x\ne\pm1$. The factors of one preserve values on the common domain.
+
+Cue “What equal-sized denominator would let the numerators count the same parts?”; next show the LCD and leave each missing multiplier blank; then complete only the first equivalent fraction, leaving the second and combination. Fade by changing addition to subtraction (key $(3-x)/(x^2-1)$). If the LCD is correct but subtraction gives $x+1-2x-2$, target the complete subtracted numerator, not denominator selection. Repeated factors use maximum multiplicity, not the sum of multiplicities.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

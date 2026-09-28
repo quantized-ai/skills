@@ -108,7 +108,7 @@ Form an area model; compare a motion model with multiple nonnegative target time
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Define which dimension is the variable and its allowed values.
+**First conceptual cue:** Which quantity does the variable measure, and what values are possible in this context?
 
 If roots are rounded to make counts feasible, check the original exact constraint. If a negative root is discarded automatically in a non-length model, ask whether the variable's declared domain actually excludes it.
 
@@ -126,6 +126,17 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Formulation, actual degree, method, original checks and justified feasible interpretation.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+Ask for the structure that supports a method choice before asking for the method's name. In \((x-4)^2=9\), the square is already isolated, so square roots give 1 and 7 directly. In \(x^2+x-1=0\), the formula or square completion gives \((-1\pm\sqrt5)/2\); failure to find integer factors is not evidence of no real roots. Accept any valid efficient method unless the task explicitly elicits a named representation or derivation.
+
+In the garden model, define width \(w>0\), length \(w+3\), in metres. The area equation \(w(w+3)=40\) gives \((w-5)(w+8)=0\). Both 5 and -8 solve the algebraic equation; only 5 satisfies the length restrictions, yielding dimensions 5 m and 8 m. Taking the absolute value of -8 would invent a new candidate: dimensions 8 and 11 give area 88, not 40.
+
+At a modeling block, cue “Which quantities must stay positive in this situation?” Next supply the variable definitions and let the learner build the product; give \(w(w+3)=40\) only at the setup level. For method choice, ask what recognizable structure is already present before displaying a transformed equation.
+
+Fade with sides differing by 2 m and area 24 m²: \(w=4\) or -6 algebraically, with dimensions 4 and 6 accepted. Then use \(kx^2+2x-4=0\) to test degree awareness: at \(k=0\) the equation is linear and \(x=2\); a formula with denominator \(2k\) cannot be used there. When a graph is requested, require actual graph evidence and relate it to the exact solutions.
 
 ## Lesson completion
 

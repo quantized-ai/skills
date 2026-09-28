@@ -127,6 +127,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
 
+
+## Adaptive teaching examples
+
+To diagnose “decreasing means inverse,” compare candidate laws at the same positive inputs. The inverse model \(P=120/V\) gives products 120 at \(V=3,6\); the decreasing linear law \(P=50-2V\) gives products 132 and 228 there. **Conceptual cue:** “What quantity would remain unchanged under inverse variation?” **Setup:** add columns for \(P/V\) and \(PV\). **Worked step:** at \((3,40)\), the product is 120; let the learner test the second row and attach units to the constant. Finite agreement supports the stated model, not a physical law without controlled conditions.
+
+For decay, use a table of retained and lost mass: 80→40 loses 40 mg, then 40→20 loses 20 mg over the next equal three-day interval. **Fade:** supply only the retention multiplier for the next interval and ask for both amounts. For motion \(s=20t-5t^2\), factor \(5t(4-t)\) to identify launch and return, then use \(20-5(t-2)^2\) to expose the maximum. Accept either justified representation. Ask for the modeled flight interval before interpreting a negative height after 4 s. Hand reasoning can establish these parameters; a requested technology plot or fit still requires inspected output.
+
 ## Lesson completion
 
 Mark this lesson complete only when every concept and its explicit checklist are **Secure in this session** under the [shared guide](../agent-guide.md#evidence-and-completion). Summarize what the learner independently demonstrated, what required help and the next missing case. A short sample or exposed worked example cannot certify the lesson.

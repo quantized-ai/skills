@@ -56,7 +56,7 @@ Carry out a two-good fractional balance; extend to several goods needing full tr
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Set each participant's own received value equal after the transfer.
+**First conceptual cue:** Whose point values measure each participant’s received share?
 
 If ratios are inverted, identify the current owner before constructing numerator. If a fraction exceeds 1, fully transfer that good and continue to the next instead of accepting an impossible share.
 
@@ -135,6 +135,13 @@ Use this second model when the learner is ready to see why ratio order and a ful
 **Private trace:** Initially A receives X,Y,Z for 90 of A's points, while B receives W for 33 of B's points. A is ahead. The transfer ratios for A's goods are Y:10/9, X:60/50=6/5, Z:20/8=5/2, so process Y, then X, then Z. Transferring all Y gives A=80 and B=42; A remains ahead. Transfer fraction t of X from A to B and solve 80−60t=42+50t, obtaining t=19/55, which lies between zero and one. Both parties then receive 652/11 of their own points. A retains 36/55 of X and all Z; B has 19/55 of X, all Y and W. Each values the other's allocation at 100−652/11=448/11, so neither envies. Stop at the fractional balance; no Z transfer occurs.
 
 **Responsive comparison:** If the learner transfers the highest ratio first, ask which order the procedure specifies and recompute satisfaction after the first proposed transfer. If a computed fraction exceeds one, transfer the whole good and continue rather than accepting an impossible share. For practice, change normalized valuations while preserving or deliberately changing the number of full transfers; independently recompute the initial owner, ordered ratios and balance from the final task.
+
+
+## Adaptive teaching examples
+
+In the two-good adjusted-winner model, explain the balancing equation by naming the owner of each valuation. A receives fraction t of Y, worth \(30t\) to A; B gives up that same fraction, worth \(80t\) to B. **Conceptual cue:** “Does the same fraction have to be worth the same number of points to both people?” **Setup:** write separate received-value expressions \(70+30t\) and \(80-80t\). **Worked step:** equality gives \(110t=10\); let the learner solve, check \(0\le t\le1\), and verify each own-value envy comparison. **Fade:** in the existing four-good example supply only the initial allocation and ask for ratio order and the point at which a fractional transfer is required.
+
+For indivisible goods, ask the learner what the fraction represents before discussing implementation. Fractional ownership, scheduled use and sale proceeds are different rights; their valuations cannot be substituted without agreement and an additive model. A mathematically balanced solution can be correct while practical feasibility remains unresolved. Do not count a refusal to physically cut a piano as failure to apply the algorithm; ask whether the proposed right and any compensation actually meet the model's assumptions.
 
 ## Lesson completion
 

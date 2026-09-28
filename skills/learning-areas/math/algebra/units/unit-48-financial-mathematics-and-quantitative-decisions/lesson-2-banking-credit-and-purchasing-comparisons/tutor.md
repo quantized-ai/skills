@@ -56,7 +56,7 @@ Compare accounts under one complete monthly log; change withdrawals or balance t
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Write one complete monthly cost for each account.
+**First conceptual cue:** Which charges depend on usage, and which are paid regardless of usage?
 
 If the lowest headline fee wins automatically, ask for event costs and waivers. If a break-even value falls outside its branch, substitute into the original fee rules before accepting it.
 
@@ -108,7 +108,7 @@ Trace two months of a simple installment debt; add a fee or promotional reset an
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Apply interest before the payment, as the timing states.
+**First conceptual cue:** Which balance exists when the interest is posted?
 
 If payment is subtracted before interest, point to the declared timing. If finance cost is reported as sum of payments alone, subtract the cash price/principal consistently and include fees or remaining balances.
 
@@ -125,6 +125,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Cash/installment/revolving comparison, total costs, payment timing, rate changes and outstanding balance.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+For account comparison, distinguish a calculation gap from missing assumptions. On \(A=6+w\), \(B=2+2w\), the claim “B is always cheaper because its monthly fee is 2” requires a variable-cost check. **Conceptual cue:** “Which cost grows with withdrawals?” **Setup:** compare \(A-B=4-w\) with zero on integer \(w\ge0\). **Worked step:** at \(w=3\), costs are 9 and 8; ask the learner to check 4 and 5 and explain the reversal. A waiver based on minimum daily balance cannot be inferred from an average balance.
+
+For debt timing, use a three-column ledger: beginning balance, interest added, payment removed. With 1000 at 1% and an end-of-month payment of 100, the intermediate balance is 1010 and the ending balance is 910. If the learner obtains 909, first ask them to annotate their operation order; do not assume a percentage misconception. **Faded follow-up:** give only the next beginning balance 910 and the posting order; the learner computes interest 9.10, ending balance 819.10, and principal retired 90.90. Later vary the posting order explicitly and ask why the recurrence changes. Compare total payments plus outstanding debt over a shared horizon before claiming one plan costs less.
 
 ## Lesson completion
 

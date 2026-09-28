@@ -202,3 +202,14 @@ The A/B examples above illustrate selected cases. The following checklist identi
 | [Complex fractions by clearing inner denominators](lesson-5-complex-rational-expressions/tutor.md#complex-fractions-by-clearing-inner-denominators) | Require equivalent whole-part multiplication, complete distribution, original restrictions including outer zeros, and a justified simplified expression. A cleared formula may have a larger natural domain than the original. |
 | [Quotient-plus-remainder forms](lesson-6-structure-and-closure/tutor.md#quotient-plus-remainder-forms) | Require division identity, proper remainder degree, quotient-plus-fraction representation and preserved original domain. Use reconstruction rather than asymptotic appearance as verification. |
 | [Closure and rational-number analogies](lesson-6-structure-and-closure/tutor.md#closure-and-rational-number-analogies) | Assess general-form reasoning, polynomial closure, nonzero-polynomial requirements and pointwise domain restrictions. Do not treat an operation's symbolic form as permission at every real input. |
+
+## Annotated response calibration
+
+| Prompt and actual response | Evidence and next action |
+| --- | --- |
+| Simplify $(x^2-1)/(x-1)$: “$x+1$.” | Correct reduced formula, incomplete original-domain evidence. Ask for the domain; do not declare the algebra itself false. |
+| Simplify $(1+1/x)/(1-1/x)$ by combining each inner fraction, then reciprocal multiplication; retain $x\ne0,1$. | Valid alternative to clearing inner denominators. Credit this procedure; collect a separate LCD demonstration if specifically required. |
+| Divide $1$ by $(x-4)/(x+2)$: “$(x+2)/(x-4)$, $x\ne4$.” | Correct reduction and zero-divisor exclusion, missing undefined-divisor exclusion $-2$. Ask where the original divisor exists. |
+| After the tutor supplies the LCD for $1/(x-1)+2/(x+1)$, learner combines correctly. | Assisted denominator selection; numerator work is usable evidence, but fresh independent LCD selection is needed. |
+
+Correct answers without explanation establish results only. If reasoning was never requested, collect it neutrally; if explicitly requested but omitted, record incomplete required evidence. Self-correction before mathematical feedback stays independent; completion after a mathematical cue is assisted.

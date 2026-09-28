@@ -141,3 +141,8 @@ These are reviewer prompts with private keys in the linked tutors. For a teachin
 ## Reassessment comparison
 
 Save two actual generated quizzes at the same requested scope and difficulty. Compare mathematical data and reasoning demands, not just wording. Independently solve every presented item, list its curriculum cases and check that feedback on one item has not silently supplied independent evidence for another. Report coverage and failures per concept; this specification is not a record that those tests have passed.
+
+## Response-dependent decision checks
+
+- Verify only $f(g(y))=y$ for unrestricted $f(x)=x^2$ and $g(y)=\sqrt y$. Expect the other composition and its domain checked, exposing negative inputs.
+- Give a correct inverse formula without sets after a formula-only prompt. Expect a neutral request for missing evidence, not a retroactive wrong-answer verdict.

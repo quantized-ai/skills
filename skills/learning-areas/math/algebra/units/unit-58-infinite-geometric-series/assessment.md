@@ -43,3 +43,17 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 Use the unit-specific evidence requirements and lesson routing in [agent-guide.md](agent-guide.md#evidence-specific-to-this-unit), then select missing cases from each relevant tutor’s Assessment case checklist. The separate diagnostics, lesson reasoning activities and supplemental worked comparisons are additional private calibration material; they are not unseen test items once discussed. Track the actual case and representation covered, and report remaining cases explicitly.
 
 A learner can correctly reject an invalid model or unsupported conclusion without supplying a numerical answer. Conversely, a correct number does not establish an omitted justification, practical execution or completeness claim. Use the unit’s [adversarial scenario](agent-evaluation.md#adversarial-transfer-scenario) to check this distinction before treating a generated item as a reliable assessment.
+
+## Annotated learner-response calibration
+
+| Learner response | Credit and next evidence |
+| --- | --- |
+| Assigns \(-6\) to \(6+12+24+\cdots\) using \(6/(1-2)\). | Formal substitution does not give an ordinary sum. Terms do not tend to zero and partial sums grow. |
+| “\(1-1+1-1+\cdots=0\), because pairs cancel.” | Grouping is not an ordinary convergence proof; partial sums 1,0 have no common limit. |
+| Rejects the zero stream when \(r=2\). | Convergence condition for nonzero first term overgeneralized; all-zero sums are zero. |
+| For \(a=6,r=-1/2\), gives \(n=5\) for error \(<1/8\). | Boundary arithmetic correct if equality was found, but strict tolerance needs \(n=6\). For \(\le1/8\), five is correct. |
+| Writes \(0.1\overline{03}=.1+.03+.0003+\cdots\). | Block length recognized; first tail misplaced. It starts at .003 and yields \(17/165\). |
+| Prices a positive constant stream at negative discount using \(d/i\). | Convergence invalid. Check individual discounted terms and ratio before assigning a finite value. |
+| Rejects \(i=-.02,g=-.05,d=100\) solely because interest is negative. | Actual discounted ratio \(.95/.98<1\); the convergent value is \(100/.03\). |
+
+Require limiting or error reasoning only when requested, and do not infer it from a correct formula-only response. Retain the distinction between a suggested first discounted term and an independently constructed timeline. These examples are exposed calibration material.

@@ -144,3 +144,10 @@ These are manual evaluation specifications, not results of completed student ses
 **Required mathematical response:** Student 1 receives probability 1/3 versus 1/6 for others. Reroll 6 or use another uniform mechanism; fair selection does not guarantee balanced outcomes in one short run.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-9-probability-based-decisions](lesson-9-probability-based-decisions/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
+
+## Response-dependent decision checks
+
+- Give a correct model-conditional tail frequency with a posterior-probability interpretation. Expect arithmetic credit and targeted conditional-language repair.
+- Offer exact enumeration for a prompt explicitly requiring an actual simulation. Expect exact-method reasoning credit without fabricated execution evidence.
+- Preserve a fixed-size or paired allocation design in an interaction where the learner suggests unrestricted label shuffling.
+- Supply a quality-control table and two cost assignments. Expect conditional denominators fixed while the preferred action may change; no invented costs or universal threshold.

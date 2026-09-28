@@ -98,6 +98,12 @@ Assess complete initial information, recurrence bounds, dependency-order computa
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $a_0=3$, $a_n=2a_{n-1}+1$ for $n\ge1$, first $a_1=2(3)+1=7$, then $a_2=2(7)+1=15$. The subscript locates an earlier value; it is not the multiplier or the earlier index itself. A table with columns index and term keeps those roles separate.
+
+If the learner inserts $n-1=1$ to obtain $a_2=3$, cue “Does $a_1$ name the input or its stored output?”; next make rows $0\mapsto3,1\mapsto\square,2\mapsto\square$; then fill $a_1=7$, leaving $a_2$. Fade with $b_1=2,b_n=3b_{n-1}$ for $n\ge2$ (next terms $6,18$). For a second-order recurrence, identify both needed starting values before computation; no amount of algebra supplies an unspecified initial value uniquely.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

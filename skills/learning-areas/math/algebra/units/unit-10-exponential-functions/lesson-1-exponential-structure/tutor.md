@@ -98,6 +98,12 @@ Assess spacing, nonzero outputs, interval-specific ratios, positive per-unit fac
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+At inputs $0,2,4$, outputs $5,20,80$ multiply by $4$ over two input units. In $ab^x$, $b^2=4$ and the positive-base condition selects $b=2$; $a=f(0)=5$. Check $5\cdot2^2=20$ and $5\cdot2^4=80$. The assumed model also gives $f(-1)=5/2$ by reciprocals; the finite table alone does not establish that unlisted value.
+
+If the learner uses base $4$, cue “How long does each observed multiplication take?”; then set up $b^{2}=20/5$; next give $b^2=4$, leaving base selection and verification. Fade with outputs $3,27,243$ at $0,2,4$ (key $3\cdot3^x$). Distinguish $3x^2$ by its variable base rather than by the size of its outputs.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

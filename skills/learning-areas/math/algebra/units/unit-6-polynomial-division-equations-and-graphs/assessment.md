@@ -298,3 +298,14 @@ The A/B examples above illustrate selected cases. The following checklist identi
 | [Transformations of the cubic parent](lesson-8-graph-synthesis-and-cubic-transformations/tutor.md#transformations-of-the-cubic-parent) | Require valid point mappings, center and orientation, equivalence checks and the distinction between inflection and extrema. Do not claim unique recovery of redundant parameters. |
 | [Pascal's triangle and binomial coefficients](lesson-9-binomial-coefficients-and-expansion/tutor.md#pascals-triangle-and-binomial-coefficients) | Assess indexing, recurrence, boundary values, symmetry and a choice-based explanation. A memorized row without its selection meaning does not demonstrate the full concept. |
 | [The Binomial Theorem and selected coefficients](lesson-9-binomial-coefficients-and-expansion/tutor.md#the-binomial-theorem-and-selected-coefficients) | Require the selection count, component powers, signs and correct coefficient for the requested exponent. Distinguish a coefficient from its attached monomial. |
+
+## Annotated response calibration
+
+| Prompt and actual response | Evidence and next action |
+| --- | --- |
+| Divide $x^2+1$ by $x-1$: “$q=x+1$.” | Correct quotient but omitted remainder $2$; requested division evidence is incomplete. Ask for reconstruction without supplying the residual. |
+| Verify the quotient by expanding $(x-1)(x+1)+2$. | Valid full verification. If long division itself is requested, this does not demonstrate its successive steps; preserve the valid check. |
+| Solve $(x-2)(x^2+1)=0$ over the complex numbers: “2.” | Correct real root, missing $\pm i$. Preserve it and target the unresolved factor rather than erase all evidence. |
+| After the tutor supplies the factor $x-2$ of $x^3-2x^2+x-2$, learner divides and solves the quadratic. | Assisted factor discovery with useful residual-solving evidence. Reassess discovery independently later. |
+
+Correct answers without explanation establish results only. If reasoning was never requested, collect it neutrally; if explicitly requested but omitted, record incomplete required evidence. Self-correction before mathematical feedback stays independent; completion after a mathematical cue is assisted.

@@ -46,7 +46,7 @@ Curriculum reference: **Sine and cosine addition formulas** in [lesson.md](lesso
 - **Diagnostic key:** No; u=v=π/2 gives zero on the left and two on the right.
 - **Worked-example prompt:** Find sin 75 degrees exactly and explain a general derivation of the addition formula.
 - **Worked model and reasoning:** $\sin(45^\circ+30^\circ)=(\sqrt6+\sqrt2)/4$. Rotating a unit vector $(\cos v,\sin v)$ by u gives $(\cos u\cos v-\sin u\sin v,\sin u\cos v+\cos u\sin v)$, establishing both addition identities.
-- **First hint:** Treat a rotation as the sum of the rotated coordinate-direction components.
+- **First hint:** How do the horizontal and vertical components each contribute after rotation?
 
 #### Learn
 
@@ -150,6 +150,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include undefined individual tangents, zero final denominators, both paired signs and a full quotient derivation.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Make the rotation derivation visible
+
+Avoid citing a rotation matrix whose entries were themselves proved by the desired addition identities. A geometric rotation through $u$ sends $(1,0)$ to $(\cos u,\sin u)$ and its perpendicular positive basis vector $(0,1)$ to $(-\sin u,\cos u)$. Rotation preserves vector addition and scalar multiples, so rotating $(\cos v,\sin v)$ gives the sum of $\cos v(\cos u,\sin u)$ and $\sin v(-\sin u,\cos u)$. Its coordinates also equal $(\cos(u+v),\sin(u+v))$. Comparing coordinates proves both formulas for arbitrary real angles.
+
+If a learner omits a cross term, first ask them to display the two rotated component vectors. Then supply the two basis images; finally model only the first coordinate and leave the second to them. Fade by giving the cosine addition identity and asking them to derive cosine subtraction using parity, then derive a cofunction without the substitution supplied. A valid chord-distance proof is equally acceptable; a calculation of $\sin75^\circ$ alone supplies application evidence, not this derivation.
 
 ## Lesson completion
 

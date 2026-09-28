@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For ax+y=3 and 2x+2y=6, subtraction gives (2a−2)x=0. If a≠1, x=0,y=3; if a=1, the equations coincide and all (x,3−x) solve. Coefficient ratios alone are insufficient without constants.
 
-**Misconception response and hint ladder:** If proportional left sides always mean dependence, ask whether right sides scale by the same factor; next compare 2 and 7 with doubled constants. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If proportional left sides always mean dependence, ask whether right sides scale by the same factor; next compare 2 and 7 with doubled constants.
 
 **Practice progression:** Unique/no/infinite classification → parameter case → explain geometrically. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For 4x+5y=18 and 4x−3y=2, subtraction immediately gives 8y=16, y=2 then x=2. Substitution also works but adds fractions earlier. Efficiency is a reason for selection, not a criterion for correctness.
 
-**Misconception response and hint ladder:** If one method is declared mandatory, ask whether another preserves solutions; next compare two valid first steps. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If one method is declared mandatory, ask whether another preserves solutions; next compare two valid first steps.
 
 **Practice progression:** Choose without solving → solve/verify → compare approaches on fractional or special cases. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -74,6 +74,12 @@ Use this reasoning as instruction or private calibration. Generate a fresh indep
 ## Further task construction
 
 Deliberately generate all three solution types, including horizontal/vertical cases; compare substitution, elimination and graphing without mandating one method for every problem.
+
+## Decision rehearsal and fading
+
+**Not every equation is a line.** Pair $0x+0y=0$ with $x-2y=4$: the first condition imposes no restriction, so the solution is the line $(4+2t,t)$. If the first equation is instead $0x+0y=1$, no pair works. If both equations are identities, the solution is all of $\mathbb R^2$. These cases cannot be classified by dividing coefficient ratios such as $0/0$.
+
+If the learner calls an identity a horizontal line, ask “Which coordinate does this equation restrict?” Next test two pairs with different x- and y-values; then simplify the equation to $0=0$ and ask for the general conclusion. Fade by pairing $2x-y=3$ with $0=0$ or $0=5$. For ordinary line pairs, accept any valid solution method; efficiency explains a choice but does not determine correctness.
 
 ## Evidence, feedback and handoff
 

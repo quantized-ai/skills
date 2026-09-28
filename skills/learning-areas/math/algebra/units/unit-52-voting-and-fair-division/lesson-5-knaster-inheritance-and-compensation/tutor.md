@@ -56,7 +56,7 @@ Set up a multi-good valuation table and allocate it; calculate fair shares and i
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Compute each person's fair share from that person's bids only.
+**First conceptual cue:** How much does this person value the whole estate?
 
 If common shares are imposed, point to differing valuation totals. If a winning participant receives rather than pays excess award value, trace how that would move them farther above their fair-share account.
 
@@ -107,7 +107,7 @@ Finish an initial settlement with positive surplus; compare a zero-surplus case;
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Distribute the account surplus once, then reconcile all transfers.
+**First conceptual cue:** After the initial payments and receipts, what remains in the common account?
 
 If surplus is added to both the account and payouts twice, reconcile the final zero sum. If proportionality is called envy-freeness, compare what each person values another's goods-plus-cash package.
 
@@ -124,6 +124,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Complete settlement, benefit guarantees, cash balance, honest additive valuation/liquidity and envy limitations.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+Use the sign convention to explain settlement, not merely list signed numbers. With item values 90,60,30, A's award is worth 90 to A but A's fair share is 30, so A contributes 60 to the account; B and C initially withdraw 20 and 10. **Conceptual cue:** “Is this person's award above or below their own fair share?” **Setup:** columns are own award value, own fair share, signed contribution. **Worked step:** A's initial contribution is \(90-30=60\); leave the other rows and account total to the learner.
+
+The surplus 30 is one account balance, so the common bonus is \(30/3=10\). Final contributions are 50, −30, −20 and sum to zero. **Faded verification:** hide the net-benefit column and ask each learner to compute own goods value minus signed contribution: 40,30,20. For non-envy, a separate comparison is needed: B values A's package as \(60-50=10\), not \(90-50\). C receives 20 in cash but values B's cash award at 30, so C envies B despite receiving more than C's own fair share. This is a concrete failure of the inference from proportionality to envy-freeness. Preserve the requirement that A can actually pay the needed 50.
 
 ## Lesson completion
 

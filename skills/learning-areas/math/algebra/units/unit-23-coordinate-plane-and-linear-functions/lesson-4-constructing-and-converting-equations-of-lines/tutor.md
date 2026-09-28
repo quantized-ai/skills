@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Through (−1,2),(3,4), slope 2/4=1/2, so y−2=(1/2)(x+1), or y=(1/2)x+5/2. Both original points verify it. For equal x-coordinates use x=c rather than a finite slope formula.
 
-**Misconception response and hint ladder:** If x−(−1) becomes x−1, ask what horizontal change is zero at x=−1; next substitute that anchor. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If x−(−1) becomes x−1, ask what horizontal change is zero at x=−1; next substitute that anchor.
 
 **Practice progression:** Point+slope → two points → vertical/horizontal lines. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Starting with x/2+y/3=1, multiply 6 to get 3x+2y=6, then y=−1.5x+3. Intercepts (2,0),(0,3) agree in each form; different forms expose different features.
 
-**Misconception response and hint ladder:** If changing form changes the line, ask whether each step preserved solutions; next substitute one known pair into both forms. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If changing form changes the line, ask whether each step preserved solutions; next substitute one known pair into both forms.
 
 **Practice progression:** Convert forms → match table/graph/equation → choose useful form. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Use two points, a point and slope, table or graph; include horizontal/vertical lines and repeated identical points that do not determine a unique line.
+
+## Decision rehearsal and fading
+
+**Check whether the data determine a line before using a formula.** Points $(2,-1)$ and $(2,5)$ are distinct with equal x-coordinates, so the line is $x=2$. Slope division has denominator zero; no slope-intercept equation $y=mx+b$ describes this line. Two copies of $(2,-1)$ instead give only one point, leaving infinitely many lines possible.
+
+If a learner writes slope 0 from $6/0$, ask “Did y stay fixed, or did x stay fixed?” Then have them plot the two points; finally state that all their connecting points have x-coordinate 2 and let them give the equation. Fade to $( -3,4),(-3,-2)$, then a nonvertical pair $(1,2),(3,8)$, whose line is $y=3x-1$. Verify each original point; a preferred equation form is not a license to reject an equivalent standard or point-slope form.
 
 ## Evidence, feedback and handoff
 

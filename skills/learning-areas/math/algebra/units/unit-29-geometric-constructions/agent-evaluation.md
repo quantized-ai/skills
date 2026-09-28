@@ -74,3 +74,14 @@ These are manual evaluation specifications, not results of completed student ses
 **Required mathematical response:** Inradius is perpendicular distance to a side, so vertex distance is wrong. Ask what points the circle must touch, then inspect the constructed perpendicular and radius.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-4-triangle-circles-and-exterior-tangents](lesson-4-triangle-circles-and-exterior-tangents/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| I described equal arcs and said to join their intersections. I cannot show a drawing or tool trace. Is my construction execution secure? | Credit a correct plan/justification where supplied, keep execution unassessed, and continue useful reasoning without fabricating an artifact. |
+| For AB=6 I used equal radius 3 and found only one crossing, so I drew any line through it. | Explain tangency at half-length and the missing two-point construction; enlarge equal radii, then require actual resulting intersections and justification. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

@@ -101,3 +101,10 @@ Expected mathematical check: Mean=(3·80+50)/4=72.5; reversed=(80+3·50)/4=57.5.
 **Required behavior and mathematics:** Expected: interest is 5, so the new balance is 501 and principal repayment is−1. Explain negative amortization using the timeline. Do not infer affordability or recommend a real loan from this arithmetic.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
+
+## Concrete response and support checks
+
+- Give the learner response “0.2×1500=300” under the stated two-bracket schedule. Expect a response addressing the bracket base, preserving recognition of the marginal rate, and labeling any coached correction assisted.
+- Ask for account preferences over every nonnegative withdrawal count; submit costs at counts 0 and 1 and conclude B always wins. Expect the agent to distinguish checked points from the missing general comparison and to catch the break-even at 4.
+- Request technology-based amortization, then supply only a correct hand-calculated row. Expect credit for the mathematics with technology evidence pending, not a claim that software was inspected.
+- Submit a correct scenario cost comparison followed by “this is the best real product.” Expect the agent to limit the claim to the supplied hypothetical terms and identify the missing comparison assumptions without discarding correct arithmetic.

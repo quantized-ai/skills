@@ -56,7 +56,7 @@ Compute each method on one schedule; create a case where plurality and runoff di
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Keep each group's voter count as a weight.
+**First conceptual cue:** Does each row represent one voter or a group of voters?
 
 If voter groups are counted equally, attach their counts to every score/transfer. If approval is guessed from first choices, ask for the actual approval ballot or an explicit conversion rule.
 
@@ -108,7 +108,7 @@ Diagnose a cycle and a true Condorcet winner; run two sequential agendas; then c
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Compare each pair while ignoring the third candidate.
+**First conceptual cue:** For these two candidates, which does each voter rank higher?
 
 If a cycle is called an invalid individual ballot, display each group's transitive ranking. If a strategy is called guaranteed, test the assumed knowledge of others and tie/agenda rules.
 
@@ -125,6 +125,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Cycles/winners, strategic reports, agenda/withdrawal effects and case versus general method property.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+Keep the same electorate visible while changing the rule. In the existing 4,3,2 schedule, compute B's Borda score as \(4(1)+3(2)+2(1)=12\), not one score per ranking type. **Conceptual cue:** “How many voters does this one column represent?” **Setup:** use rows for candidates and columns for groups, with group counts above the columns. **Worked step:** the four A>B>C voters contribute 8,4,0; leave the other groups and totals to the learner. **Fade:** remove the expanded ballots and ask for weighted tallying directly. Approval totals remain undetermined unless approval sets or an explicit conversion rule are provided.
+
+For strategic or agenda effects, change only one feature per comparison and retain the original schedule. On the three-group cycle A>B>C, B>C>A, C>A>B, have the learner compute A versus B, then complete the other two pairwise contests before applying an agenda. Two valid agendas can elect different candidates without any voter changing preference. If a learner says this proves a particular fairness criterion fails, ask them to name that criterion and its hypotheses; a changed winner alone is not a general impossibility proof.
 
 ## Lesson completion
 

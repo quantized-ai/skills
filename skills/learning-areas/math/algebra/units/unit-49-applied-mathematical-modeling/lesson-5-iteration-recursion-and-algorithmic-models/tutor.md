@@ -126,6 +126,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
 
+
+## Adaptive teaching examples
+
+For the iteration, distinguish finding a fixed point from proving attraction to it. Solve \(L=0.5L+3\), then subtract L from the actual update: \(x_{n+1}-6=0.5(x_n-6)\). The error halves each step, so with \(x_0=0\) it is \(-6(0.5)^n\). **Conceptual cue:** “How does the distance from 6 change after one update?” **Setup:** add an error column beside the first three iterates. **Worked step:** errors start −6, −3; let the learner continue and justify the pattern. **Fade:** use \(x_{n+1}=-0.5x_n+3\), whose fixed point is 2 and errors alternate while shrinking; ask why oscillation does not preclude convergence.
+
+For bisection, derive the stopping decision from interval width, not the number of printed decimals. Starting width 1 becomes \(2^{-n}\); seven halvings meet width 0.01, and their midpoint is within \(1/256\) of a root retained in the bracket. Six halvings already give midpoint error at most \(1/128<0.01\), but do not meet the different width requirement. Ask which guarantee the task requested. Maintain continuity and reliable signs; if a midpoint is exactly a root, stop successfully rather than manufacture a sign-changing subinterval.
+
 ## Lesson completion
 
 Mark this lesson complete only when every concept and its explicit checklist are **Secure in this session** under the [shared guide](../agent-guide.md#evidence-and-completion). Summarize what the learner independently demonstrated, what required help and the next missing case. A short sample or exposed worked example cannot certify the lesson.

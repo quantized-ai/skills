@@ -98,6 +98,14 @@ Assess equivalent regrouping, two distributions in reverse, complete residual fa
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $4x(x-1)+7(1-x)$, set $U=x-1$. Since $1-x=-U$, the expression becomes $4xU-7U=U(4x-7)$, then $(x-1)(4x-7)$. If a learner writes $(x-1)(4x+7)$, ask them to rewrite only $7(1-x)$ before diagnosing a distribution error: the issue may be recognition of opposite objects.
+
+Show the missing grouping decisions in $x^3-2x^2-4x+8$: group $(x^3-2x^2)+(-4x+8)$, giving $x^2(x-2)-4(x-2)$. Extracting $-4$ makes the two objects identical. Then $(x-2)(x^2-4)=(x-2)^2(x+2)$. Reordered $x^3-4x-2x^2+8$ can instead give $x(x^2-4)-2(x^2-4)$; credit either valid route.
+
+Cue a stuck learner to compare the two parenthesized objects; next supply $x^2(x-2)+\square(x-2)$; then work only $-4x+8=-4(x-2)$. Leave common-factor extraction and completion to them. Fade on $x^3+3x^2-4x-12$: supply the groups only, with private completed key $(x+3)(x-2)(x+2)$.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

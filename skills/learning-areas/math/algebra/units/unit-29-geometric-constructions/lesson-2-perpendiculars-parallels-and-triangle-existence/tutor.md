@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Draw circle centered P crossing line ℓ atA,B. Construct the perpendicular bisector ofAB; since PA=PB, it passes through P and is perpendicular ℓ. For a parallel through P, construct m⊥ℓ through P, then n⊥m through P; in Euclidean geometry n∥ℓ.
 
-**Misconception response and hint ladder:** If tangent intersection supplies only one point, ask whether a chord midpoint can be defined; next enlarge the radius. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If tangent intersection supplies only one point, ask whether a chord midpoint can be defined; next enlarge the radius.
 
 **Practice progression:** Perpendicular on/off line → parallel → dynamic/folding counterpart and dependency check. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Fix AB=6 and seek AC=4,BC=5. Since|5−4|<6<5+4, circles intersect twice, giving mirror-image congruent triangles. With AB=10 the circles are disjoint; no triangle can be built.
 
-**Misconception response and hint ladder:** If tangency is counted as a triangle, ask whether three points are noncollinear; next compare area with the tangent configuration. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If tangency is counted as a triangle, ask whether three points are noncollinear; next compare area with the tangent configuration.
 
 **Practice progression:** Valid construction → tangent cases → disjoint/contained cases and strict inequality proof. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -74,6 +74,12 @@ Use this reasoning as instruction or private calibration. Generate a fresh indep
 ## Further task construction
 
 Include on/off-line incidence, another exact construction method, circle containment, external/internal tangency and strict triangle bounds; a failed approximate sketch is not evidence of impossibility.
+
+## Decision rehearsal and fading
+
+**Make the perpendicular pass through the given point.** Let P lie off line $\ell$. Draw a circle centered at P large enough to cut $\ell$ at distinct A,B. Because $PA=PB$, P lies on AB's perpendicular bisector; constructing that bisector therefore gives the required perpendicular through P. If the circle is tangent, enlarge it: a single contact point does not supply a chord with distinct endpoints.
+
+If the learner draws a perpendicular elsewhere, cue “Which equal-distance fact forces your line through P?” Next identify A,B and the two equal radii; then construct one pair of equal-radius arc intersections and let the learner finish. Fade to a parallel through P by taking a second perpendicular through P, citing the Euclidean double-perpendicular criterion. Inspect the construction dependencies and the separate second exact realization required by the lesson; visual right-angle appearance alone proves neither incidence nor perpendicularity.
 
 ## Evidence, feedback and handoff
 

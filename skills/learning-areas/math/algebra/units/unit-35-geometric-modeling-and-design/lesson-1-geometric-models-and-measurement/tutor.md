@@ -81,7 +81,7 @@ Curriculum reference: **Precision and model evaluation** in [lesson.md](lesson.m
 - **Diagnostic key:** No; under the stated rounding convention the true value lies near 3.15 to 3.25 m.
 - **Worked-example prompt:** A square panel side is reported as 2.0 m to the nearest 0.1 m. Give the corresponding possible area range.
 - **Worked model and reasoning:** With conventional half-up rounding, $1.95\le s<2.05$ m, so $3.8025\le A<4.2025$ m². About 4.0 m² is an estimate, not an exact area; nonlinear formulas amplify measurement variation.
-- **First hint:** Convert a rounded reading into a length interval before squaring.
+- **First hint:** Which actual lengths could produce the stated rounded reading?
 
 #### Learn
 
@@ -109,6 +109,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Specify the rounding convention, propagate positive interval bounds and compare predictions with measurements; ask what concrete assumption should be revised.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**Choose internal dimensions for capacity.** Model an open cylindrical tank with measured outside radius 0.50 m, uniform wall thickness 0.02 m, and internal fill depth 1.20 m. The water radius is $0.48$ m, so capacity is $\pi(0.48)^2(1.20)=0.27648\pi\text{ m}^3\approx869$ L. Using the outside radius predicts about 942 L, overestimating capacity by about 74 L. The given depth is already internal; do not subtract bottom thickness again.
+
+If the learner uses 0.50, ask where the water actually reaches. Next label inner and outer radii on a cross-section; then subtract wall thickness once from the radius and leave the volume. Fade to an outside diameter 1.00 m with the same wall thickness: the inside diameter is 0.96 m, not 0.98 m. Record assumptions about cylindrical walls and fittings, and keep rounded measurements distinct from exact geometric identities.
 
 ## Lesson completion
 

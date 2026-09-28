@@ -42,7 +42,7 @@ Curriculum reference: **Similarity and acute-angle ratios** in [lesson.md](lesso
 - **Diagnostic key:** No: both numerator and denominator triple, so the ratio is unchanged.
 - **Worked-example prompt:** A right triangle has legs 8 and 15 and hypotenuse 17. For the angle opposite 8, find all three ratios; explain why a doubled triangle gives the same ratios.
 - **Worked model and reasoning:** Sine is $8/17$, cosine $15/17$, tangent $8/15$. AA similarity scales every side by the same positive factor, so ratios cancel that factor. A 45-degree isosceles right triangle similarly gives sine and cosine $\sqrt2/2$.
-- **First hint:** Identify the side opposite the named angle before choosing a ratio.
+- **First hint:** Which side changes its role when you switch the named acute angle?
 
 #### Learn
 
@@ -81,7 +81,7 @@ Curriculum reference: **Complementary-angle identities** in [lesson.md](lesson.m
 - **Diagnostic key:** π/3, since the sum must be π/2.
 - **Worked-example prompt:** If an acute angle has sine $5/13$, what is the cosine of its complement? Explain with side roles.
 - **Worked model and reasoning:** $5/13$; complementary acute angles exchange opposite and adjacent legs while keeping the hypotenuse. In radians the complement is $\pi/2-\theta$, not $\pi-\theta$.
-- **First hint:** Draw both acute angles on the same right triangle.
+- **First hint:** What relation do the two acute angles have, and how do their side roles compare?
 
 #### Learn
 
@@ -109,6 +109,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Alternate degrees and radians explicitly and distinguish complements from supplements; accept diagram or side-role reasoning.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**Switch the reference angle without changing the triangle.** In triangle ABC right at C, let AC=12, BC=5, AB=13. For angle A, sine is $5/13$ and cosine $12/13$; for B they exchange. Thus $\sin A=\cos B$ because $A+B=90^\circ$ and BC changes from A's opposite leg to B's adjacent leg. Doubling every side preserves both ratios through cancellation, not because lengths stay fixed.
+
+If the learner labels AB adjacent, ask which side is opposite the right angle. Next mark AB as hypotenuse and leave the two legs unlabeled; then identify A's opposite side and ask them to finish all ratios. Fade by choosing B first in a 7–24–25 triangle (state which leg faces B), with no side-role labels. For a general scale proof, have them replace lengths by $ka,kb,kc$ and explain why positive k cancels.
 
 ## Lesson completion
 

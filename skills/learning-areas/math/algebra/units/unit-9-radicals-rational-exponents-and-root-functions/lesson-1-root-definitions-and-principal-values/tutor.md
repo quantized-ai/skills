@@ -98,6 +98,12 @@ Assess absolute-value preservation, correct simplification under conditions and 
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $\sqrt{(x-4)^2}$, the result must be nonnegative and have square $(x-4)^2$. Hence it is $|x-4|$; if $x\le4$, this equals $4-x$. At $x=1$, the value is $3$, exposing the incorrect answer $x-4=-3$. In contrast, $\sqrt[3]{(x-4)^3}=x-4$ for every real input because cubing keeps sign and is one-to-one.
+
+Cue “What sign is permitted for a principal even root?”; set up $|x-4|$ with the stated sign condition; then show $x-4\le0$, leaving its negative. Fade with $\sqrt{(x+2)^2}$ for $x\ge-2$ (key $x+2$), then remove the sign restriction (key $|x+2|$). Keep radical evaluation separate from solving $z^2=(x-4)^2$, which generally has both signs.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

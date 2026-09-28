@@ -217,3 +217,14 @@ Use the [concept teaching plan](lesson-8-prediction-and-model-revision/tutor.md#
 **Reject/repair if these conditions are missing:** Common data/scale; fitting versus validation; complexity; contextual plausibility; explicit retained/revised domain; complete model report.
 
 Use the [concept teaching plan](lesson-8-prediction-and-model-revision/tutor.md#model-comparison-and-documented-revision) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Routine noisy linear fit | $(0,1),(1,3),(2,2)$: $a=3/2,b=1/2$, residuals $-1/2,1,-1/2$, SSE $3/2$. | Three varying inputs, one actual fit, coefficient and residual checks. |
+| Comparable retake | $(0,2),(1,4),(2,3)$: $a=5/2,b=1/2$, same residuals and SSE. | Vertical shift preserves fitting demand; it is procedural practice rather than transfer by itself. |
+| Increased demand | Fit positive responses with a log-response exponential method and compare original-scale residuals to another candidate. | Adds response transformation, back-transformation and unlike-objective interpretation; match scales before comparing error totals. |
+| Predictor transfer | $x=0,1,4,9$, $y=2,5,8,11$: $2+3\sqrt x$. | Only predictor transforms; exact data do not supply the noisy-fit case or estimate an unknown shift. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

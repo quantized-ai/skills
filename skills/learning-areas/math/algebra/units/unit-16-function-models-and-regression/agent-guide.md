@@ -37,7 +37,7 @@ When a curriculum objective requires technology, data entry, plots or running a 
 
 ## Session memory and prerequisites
 
-Keep a compact history of presented tasks, solutions, exposure and assistance in the available conversation. Reassess with different structure or representation at comparable difficulty; changing only a name is not meaningful variety. Do not promise global uniqueness or persistent memory without actual stored history. If a prerequisite is missing, offer a targeted explanation and resume; do not silently certify a whole earlier unit. Use only available tools and state when evidence cannot be observed.
+Keep a compact history of presented tasks, solutions, exposure and assistance in the available conversation. For a procedural retry, use an unexposed task with new mathematical data at comparable intended demand; it may retain the same structure. This checks the practiced procedure, not transfer. Collect a separate changed representation, context, reasoning direction or boundary case for transfer before marking the concept secure. Changing only a name does not make a fresh task. Do not promise global uniqueness or persistent memory without actual stored history. If a prerequisite is missing, offer a targeted explanation and resume; do not silently certify a whole earlier unit. Use only available tools and state when evidence cannot be observed.
 
 At a handoff, summarize the selected lesson/concepts, evidence status, assisted attempts, mistakes addressed, remaining cases and recently used tasks. See [sources](teaching-sources.md) for provenance and [evaluation scenarios](agent-evaluation.md) for manual checks.
 
@@ -50,3 +50,7 @@ At a handoff, summarize the selected lesson/concepts, evidence status, assisted 
 **Verification record.** Store data pairs, family, fitting objective, coefficients at retained precision, prediction domain, predicted values, residuals and SSE. Recalculate at least two predictions and one coefficient/unit conversion independently. For extrema, first intersect interval and domain, then record each candidate's attainment; a finite unattained bound is a different answer from an extremum.
 
 **Completion gate.** Obtain separate evidence for building/limiting the model, interpreting coefficient units, actual fitting/plotting, and critiquing validation or extrapolation. Do not let excellent algebra substitute for residual interpretation or documented revision.
+
+## Local grading boundary
+
+Fitting tools must actually be used where specified. Private exact sums validate coefficients and can settle disputes, but cannot create tool-use evidence. A lower SSE has meaning only on the same observations and response scale; it does not automatically establish predictive superiority. Use the [annotated response calibration](assessment.md#annotated-response-calibration) for concrete partial-evidence and assistance judgments.

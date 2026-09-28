@@ -84,3 +84,16 @@ Required coverage: Algorithm trace, correctness/approximation claim, reproducibi
 **Check before release:** Substitute fitted parameters into all construction conditions; check dimensional consistency, initial value and limiting behavior. Iterate recurrences independently with the stated initial condition. For numerical zeros, verify continuity on the proposed bracket and distinguish residual tolerance from input error. For triangle models check geometric feasibility before applying a formula.
 
 A second pass must target the likely failure above, not simply repeat the same arithmetic. Retain the checked result, decisive assumption and accepted equivalent responses before exposing the task.
+
+## Task demand anchors
+
+Keep model assumptions and evidence demands comparable on retakes, not just the size of coefficients.
+
+| Demand | Checked anchor |
+| --- | --- |
+| Routine formulation | Constant-flow tank data \(V(0)=10\), \(V(2)=16\) gives \(V(t)=10+3t\), restricted to the stated physical interval. |
+| Comparable intended variant | \(W(0)=12\), \(W(3)=24\) gives \(W(t)=12+4t\), with the same constant-flow assumption and unit task. |
+| Added validation demand | In the first case a withheld value \(V(4)=21\) has residual −1 L. Deciding whether that discrepancy matters requires stated uncertainty or further evidence; it is more demanding than fitting the two points. |
+| Transfer | Present a completed prediction/residual table and ask which constant-flow assumption should be investigated, or reconstruct a missing rate from a new representation. Do not count a numerical variant alone as transfer. |
+
+Include separate planned cases for interval uncertainty, inverse versus merely decreasing behavior, decay versus subtraction, logistic data sufficiency, piecewise boundary ownership, phase versus amplitude, nonuniform scaling, and numerical versus proved convergence. Preserve actual technology requirements; adding a nonlinear fit or an ambiguous triangle changes prerequisite and representation demand.

@@ -141,3 +141,8 @@ These are reviewer prompts with private keys in the linked tutors. For a teachin
 ## Reassessment comparison
 
 Save two actual generated quizzes at the same requested scope and difficulty. Compare mathematical data and reasoning demands, not just wording. Independently solve every presented item, list its curriculum cases and check that feedback on one item has not silently supplied independent evidence for another. Report coverage and failures per concept; this specification is not a record that those tests have passed.
+
+## Response-dependent decision checks
+
+- Provide the correct reduced quotient but omit an exclusion that moved to its numerator. Expect a domain-specific follow-up, not a blanket algebra failure.
+- Use reciprocal simplification successfully when the key clears inner denominators. Expect acceptance unless the clearing procedure was explicitly assessed.

@@ -84,3 +84,15 @@ Required coverage: Both contextual errors, unknown truth, power and effects of n
 **Check before release:** Independently recompute SE and standardized statistic. For a one-proportion null use p0 in the test SE, for a two-proportion null use the pooled null estimate, and for a Wald interval use observed group proportions. Check expected/observed count conventions, tails and degrees of freedom against actual tool output. Never infer mean-model validity from n alone.
 
 A second pass must target the likely failure above, not simply repeat the same arithmetic. Retain the checked result, decisive assumption and accepted equivalent responses before exposing the task.
+
+## Checked demand anchors
+
+| Role | Task and checked key | Demand |
+| --- | --- | --- |
+| Routine known-SD mean interval | Independent normal sample, $\bar x=20$, $\sigma=5$, $n=25$, $z^*=1.96$: $[18.04,21.96]$. | Supplied critical value, one SE, endpoints and population interpretation. |
+| Comparable intended retake | Same stated model, $\bar x=30$, $\sigma=6$, $n=36$, $z^*=1.96$: $[28.04,31.96]$. | Same SE and operations; preserve the assumption checks and requested interpretation. |
+| Added model-selection demand | Replace known $\sigma$ with sample $s$ or give 0/20 binary successes. | The stated method's justification fails; this tests condition assessment, not merely harder arithmetic. |
+| Tail transfer | Preselected upper-tail test, $z=-2$: $p\approx0.97725$. | Same standardization can support opposite-tail decisions; half the two-sided value is not automatically the desired p-value. |
+| Consequence/power transfer | Target mean 500, supplied $\beta=.20$ at true mean 495: power .80 at that alternative. | Requires truth/decision distinction and contextual costs, not just $1-\beta$ arithmetic. |
+
+Keep sample size within each replicate separate from simulation repetition count. Generated proportion-test conditions use null expected counts; intervals use observed counts. Fresh values of $z^*$ or test p-values must be verified numerically before presentation, with enough precision to support the decision near $\alpha$.

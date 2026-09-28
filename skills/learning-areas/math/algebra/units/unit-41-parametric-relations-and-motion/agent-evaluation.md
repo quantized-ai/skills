@@ -74,3 +74,10 @@ Two trajectories share the point (4,0): A(t)=(t,0), B(t)=(4,t−1). Do the objec
 ## Unseen teaching test
 
 Select one concept diagnostic, answer with the exact misconception its feedback section targets, and request a hint. Check that the tutor first isolates that misconception, gives the relevant conceptual cue and permits revision. Then switch to assessment: the corrected example is exposed, so require a new representation or reasoning direction from the practice progression. For a proof or tool-dependent concept, submit a correct number without the required argument/artifact and verify that the tutor preserves partial success but leaves that component pending. Record the actual dialogue; these written checks are not a claim that an independent live evaluation has already passed.
+
+## Specific evaluation scenarios
+
+- Ask whether $(1,0)$ is included for $(\cos t,\sin t)$ on $(0,2\pi]$. Expect yes via $t=2\pi$; changing the interval to $(0,2\pi)$ removes it. A rule that every excluded parameter endpoint gives an open image point fails.
+- Submit the two square-root branches for Lesson 41.2 with one shared $0\le x\le4$ interval. Expect a probe at $(4,3)$ and preservation of the correct lower branch. Once $t=y-1$ is supplied, mark the repaired bounds assisted.
+- Submit the correct implicit restricted relation with no requested reverse proof; expect a neutral coverage request. Submit the complete branchwise alternative and expect acceptance.
+- For $y=10-2t-5t^2$ after launch, report 10.2 as maximum height. Expect the vertex-time check and maximum 10 on the physical interval, without assuming every quadratic vertex occurs during flight.

@@ -44,7 +44,7 @@ Curriculum reference: **Reciprocal and quotient definitions** in [lesson.md](les
 - **Diagnostic key:** No: its reciprocal is undefined.
 - **Worked-example prompt:** Compare cot x=cos x/sin x with 1/tan x at x=π/2.
 - **Worked model and reasoning:** Cotangent is 0 because sine is 1; $1/\tan x$ is undefined because tangent is undefined there. They agree only where both expressions are defined. Secant requires nonzero cosine and cosecant nonzero sine.
-- **First hint:** Check each expression's original denominator before simplifying.
+- **First hint:** What makes a reciprocal expression undefined?
 
 #### Learn
 
@@ -121,7 +121,7 @@ Curriculum reference: **Transformed reciprocal graphs** in [lesson.md](lesson.md
 - **Diagnostic key:** No: an input change π advances the argument by 2π.
 - **Worked-example prompt:** Analyze y=2sec(3(x-π/6))-1.
 - **Worked model and reasoning:** Period $2\pi/3$; asymptotes solve $3(x-\pi/6)=\pi/2+k\pi$, giving $x=\pi/3+k\pi/3$. Range $(-\infty,-3]\cup[1,\infty)$. Parent point (0,1) maps to (π/6,1).
-- **First hint:** Solve for the input making cosine zero.
+- **First hint:** Which parent-function feature creates a secant asymptote?
 
 #### Learn
 
@@ -149,6 +149,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include negative scales and shifted reciprocal graphs; map domains and vertices instead of reading an amplitude for unbounded secant.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## From denominator signs to a graph
+
+For $y=-2\csc(2x)+1$, first solve $\sin(2x)=0$: exclusions are $x=k\pi/2$. Between 0 and $\pi/2$, sine is positive, so the negative scale puts the cosecant branch below its vertex $(\pi/4,-1)$; approaching either excluded endpoint sends it downward without bound. The other branches reach upward from 3. Thus the range is $(-\infty,-1]\cup[3,\infty)$ and the period is $\pi$. Explain the sign before drawing: multiplying a range by a negative number reverses its inequalities.
+
+If a learner draws that first branch above 3, ask for their value at $x=\pi/4$ before diagnosing. Hint only the unresolved stage: “Which sign does sine have here?” → “Map the parent point $(\pi/2,1)$ using $u=2x$, $y=-2v+1$” → “Its new coordinates are $(\pi/4,-1)$; determine the neighboring branch directions.” If asymptotes are already right, keep that evidence. Fade by supplying only the exclusions for $2\sec(2x)-1$ and requesting vertices, signs, and a sketch; later remove those supplied exclusions.
 
 ## Lesson completion
 

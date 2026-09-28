@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Solve 3x=12 over real numbers: division by3 gives the complete solution set{4}; substitution verifies 12=12. If the stated domain instead permits only odd integers, that same candidate is excluded and the solution set is empty. An equation asks which allowed inputs make both sides equal, unlike an expression awaiting evaluation.
 
-**Misconception response and hint ladder:** If an expression is 'solved' without an equation, ask what equality must hold; next contrast 3x+1 with 3x+1=7. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If an expression is 'solved' without an equation, ask what equality must hold; next contrast 3x+1 with 3x+1=7.
 
 **Practice progression:** Membership → one/multiple/no solutions → state complete sets in allowed domains. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $3(x-2)=15$ divides by nonzero 3 to x−2=5, then adds 2 to x=7. Check 3(7−2)=15. Expanding first also works; compare efficiency while retaining equivalent statements.
 
-**Misconception response and hint ladder:** If an operation is applied on one side only, ask how balance is preserved; next display the same operation explicitly on both sides. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If an operation is applied on one side only, ask how balance is preserved; next display the same operation explicitly on both sides.
 
 **Practice progression:** One step → grouped multi-step → compare valid methods. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include membership checks, balance explanations, equations with zero/no/all solutions and operations that lose or add candidates; distinguish an expression from an equation.
+
+## Decision rehearsal and fading
+
+**Choose the inverse of the outer operation.** For $(x-5)/3=4$, multiply both complete sides by nonzero 3 to get $x-5=12$, then add 5 to get $x=17$. Check $(17-5)/3=4$. Each step is reversible on the real domain, so no solution is lost or added. Multiplying the original by zero would give $0=0$, which every real number satisfies and therefore cannot characterize the original solution set.
+
+If the learner writes $x-5=4/3$, ask “Which operation undoes division by 3?” Next display $3[(x-5)/3]=3(4)$; finally simplify only the left side, leaving the rest. Fade to $(x+4)/5=-2$ (key $x=-14$) without operation cues. A learner's successful substitution of $-14$ verifies that candidate; a complete chain of equivalent equations establishes uniqueness.
 
 ## Evidence, feedback and handoff
 

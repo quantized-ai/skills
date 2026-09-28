@@ -44,7 +44,7 @@ Curriculum reference: **Sample spaces and events** in [lesson.md](lesson.md#conc
 - **Diagnostic key:** No; the mechanism or assigned weights must establish their probabilities.
 - **Worked-example prompt:** A fair six-sided die is rolled. Let A={2,4,6} and B={4,5,6}. Find union, intersection and complement of A.
 - **Worked model and reasoning:** Union {2,4,5,6} has probability 4/6; intersection {4,6} has 2/6; complement {1,3,5} has 3/6. Counting equally likely faces is justified by the fair-die assumption.
-- **First hint:** List outcomes once before counting an event.
+- **First hint:** Which elementary outcomes are equally likely under the stated mechanism?
 
 #### Learn
 
@@ -149,6 +149,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include partially overlapping regions, holes and sectors; use area of intersection with the sample region and retain finite positive denominator area.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Count elementary outcomes before grouping them
+
+Two independent fair coins have four equally likely ordered outcomes: HH, HT, TH, TT. Grouping by number of heads gives probabilities $1/4,1/2,1/4$ for 0,1,2 heads; the three labels are not equally likely. Each group inherits the weights of its elementary outcomes. Similarly, area probabilities require uniform location over the stated sample region, not merely a geometrically neat drawing.
+
+If the learner reports $1/3$ for one head, ask which coin sequences produce that event. Then supply the four elementary outcomes; finally identify HT as one favorable outcome and leave the other plus the ratio. If the sample space is right but repeated outcomes are counted twice, address grouping instead. Fade by supplying only a partial tree for three fair coins, then ask for a complete event calculation without it. Use genuine data when discussing observed frequency; the exact four-outcome enumeration is a model calculation, not four simulated trials.
 
 ## Lesson completion
 

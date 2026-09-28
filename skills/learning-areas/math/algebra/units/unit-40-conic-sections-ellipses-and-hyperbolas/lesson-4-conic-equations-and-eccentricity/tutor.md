@@ -44,7 +44,7 @@ Curriculum reference: **Expanded conic equations** in [lesson.md](lesson.md#conc
 - **Diagnostic key:** Its real locus is empty.
 - **Worked-example prompt:** Classify 4x²+9y²-8x+36y+4=0 by completing squares.
 - **Worked model and reasoning:** $4(x-1)^2+9(y+2)^2=36$, so $(x-1)^2/9+(y+2)^2/4=1$, an ellipse. Merely seeing same-sign square coefficients cannot distinguish ellipse, point and empty locus without the constant.
-- **First hint:** Move the constant only after accounting for both square-completion terms.
+- **First hint:** What amount changes in the full expression when you complete a square inside a weighted group?
 
 #### Learn
 
@@ -83,7 +83,7 @@ Curriculum reference: **Eccentricity and focus-directrix form** in [lesson.md](l
 - **Diagnostic key:** No; the circle has no finite directrix in this model.
 - **Worked-example prompt:** For x²/25+y²/9=1, find eccentricity and directrices, then verify the distance ratio at (5,0).
 - **Worked model and reasoning:** a=5,c=4, e=4/5, directrices $x=\pm a/e=\pm25/4$. Relative to focus (4,0) and directrix x=25/4, distances at (5,0) are 1 and 5/4, giving ratio 4/5.
-- **First hint:** Pair a focus with its corresponding directrix before measuring.
+- **First hint:** Which focus and line belong to the same distance-ratio description?
 
 #### Learn
 
@@ -110,6 +110,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include e<1, e=1, e>1 and circle e=0 with no finite directrix; state orientation and use perpendicular distance to the line.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Keep square-completion adjustments weighted
+
+For $4x^2+9y^2-8x+36y+C=0$, group as $4[(x-1)^2-1]+9[(y+2)^2-4]+C=0$, hence $4(x-1)^2+9(y+2)^2=40-C$. At $C=4$ the locus is the existing ellipse; at $C=40$ it is the point $(1,-2)$; at $C=41$ it is empty over the reals. The same signs of quadratic coefficients permit all three outcomes.
+
+If the learner adds only 1 and 4 to the right side, ask how much was added inside each weighted bracket. Then supply $4[(x-1)^2-1]$ and leave the $y$ bracket; finally expand one bracket to check. Fade with one completed bracket and one unfinished bracket, then a fresh fully expanded equation. For eccentricity, a correct ratio at a vertex is a useful check but does not substitute for pairing the focus and directrix correctly throughout the model; the circle's $e=0$ does not yield a finite $a/e$.
 
 ## Lesson completion
 

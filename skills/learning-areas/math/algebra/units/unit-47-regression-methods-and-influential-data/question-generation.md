@@ -48,3 +48,15 @@ Required coverage: Units, intercept meaning, residual spread/patterns, nonlinear
 **Check before release:** Check least-squares normal equations or independently recompute means, Sxx and Sxy. Sum absolute errors separately; a least-squares line need not minimize that objective. For median-median, verify outer-group slope and the one-third vertical correction to include the middle median point. Compare residual and leverage evidence separately.
 
 A second pass must target the likely failure above, not simply repeat the same arithmetic. Retain the checked result, decisive assumption and accepted equivalent responses before exposing the task.
+
+## Checked demand anchors
+
+| Role | Task and key | Demand distinction |
+| --- | --- | --- |
+| Routine candidate comparison | Data $(0,0),(1,1),(2,5)$; lines $y=x$, $y=x+1$: absolute totals 3,4; squared totals 9,6. | Same data, two criteria, competing preferred candidates. |
+| Comparable intended retake | Data $(0,2),(1,3),(2,7)$; lines $y=x+2$, $y=x+3$: same residuals and totals. | Translation preserves arithmetic and reasoning; it is fresh practice, not transfer. |
+| Higher demand | Construct a third candidate and determine whether the winner among all three is globally optimal. | Comparison can rank the three; a global claim needs an optimizing argument or actual method, not the number of candidates. |
+| Median-median anchor | Six-pair existing task: groups 2,2,2, summary slope $3/2$, adjusted intercept $-7/12$. | Moving to 7 or 8 pairs changes grouping to 2,3,2 or 3,2,3; preserve grouping demand deliberately on retakes. |
+| Influence transfer | Change $(10,10)$ to $(10,15)$ in the exact-line dataset. | Full fit $(-125+386x)/251$, omitted fit $x$; demands controlled refitting and graphical evidence rather than unusual-point labeling. |
+
+Use a predeclared tie order when group boundaries meet tied inputs. Inspect both coordinates' medians independently and test the outer median-input difference before division. If that difference is zero, a correct undefined-slope judgment is evidence; do not force a line.

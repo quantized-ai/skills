@@ -83,7 +83,7 @@ Curriculum reference: **Existence, uniqueness, and triangle models** in [lesson.
 - **Diagnostic key:** No: they determine shape, with arbitrarily many positive scales.
 - **Worked-example prompt:** Classify data: sides 2,3,6; angles 40,60,80 degrees alone; and two sides 5,8 with included angle 70 degrees.
 - **Worked model and reasoning:** First: no triangle since $2+3<6$. Second: infinitely many similar triangles because scale is undetermined. Third: one congruence class by SAS, up to reflection or rigid motion.
-- **First hint:** Separate information about shape from information fixing size.
+- **First hint:** Which given fixes the size rather than only the shape?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Mix degenerate equality, inconsistent angles, AAA, ASA, SAS, SSS and SSA; distinguish uniqueness up to congruence from position in the plane.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**The supplementary candidate is tested, not automatically accepted.** With $A=30^\circ$, $a=5$, $b=8$, the height is 4 and $4<5<8$, so two triangles exist. Since $\sin B=4/5$, $B\approx53.13^\circ$ or $126.87^\circ$; the corresponding C values are $96.87^\circ$ and $23.13^\circ$. Third sides are $c=4\sqrt3+3$ or $4\sqrt3-3$, both positive. For instance, the cosine-law equation $25=64+c^2-8\sqrt3c$ verifies both roots.
+
+If only the acute B is given, cue “Which other triangle angle has that sine?” Next write $B_2=180^\circ-B_1$; then calculate the second B and leave its remaining-angle check. Fade to $A=30^\circ,a=8,b=5$: its supplementary B would make $A+B>180^\circ$, so only one triangle remains. Record the supplied second-candidate cue as assistance to completeness, while preserving any earlier independent ratio work.
 
 ## Lesson completion
 

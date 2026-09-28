@@ -98,6 +98,12 @@ Require timeline, compatible rate period, correct exponents, total/principal dis
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For hypothetical deposits of $100$ at the ends of years $1,2,3$, valued just after the third at a fixed $10\%$ annual rate, draw the timing: the deposits grow for $2,1,0$ periods. Thus $100(1.1^2+1.1+1)=331$, with principal $300$ and modeled growth $31$. Beginning-of-year deposits receive one additional period each, giving $364.10$ at the same valuation time.
+
+Cue “How many completed periods does each deposit experience?”; set up three timeline entries with blank exponents; then fill the last exponent $0$, leaving the others. Fade with two end-of-year deposits of $50$ (key $105$). For travel totals, similarly list actual completed movements first: drop $10$, rise $5$, fall $5$, rise $2.5$ totals $22.5$ when stopping at that top. A sum formula cannot fix a timeline that counts an untraveled final fall.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

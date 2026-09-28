@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** In a cube, a front-bottom edge and the back-right vertical edge are disjoint and noncoplanar, hence skew. Opposite edges of one square face are coplanar and disjoint, hence parallel. A segment has endpoints; its containing line extends indefinitely.
 
-**Misconception response and hint ladder:** If every disjoint pair is called parallel, ask whether a plane contains both; next compare edges on one face with skew edges. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If every disjoint pair is called parallel, ask whether a plane contains both; next compare edges on one face with skew edges.
 
 **Practice progression:** Identify points/lines/rays/segments → incidence → spatial parallel/perpendicular/skew classification. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Rays OA,OB form a75° angle with OC interior and ∠AOC=28°. Angle addition gives ∠COB=47°. Without the interior-ray condition the subtraction is unjustified. A circle of radius 4 comprises all planar points distance 4 from its center, not its interior disk.
 
-**Misconception response and hint ladder:** If a sketch supplies betweenness without a given, ask which premise authorizes addition; next state the missing condition explicitly. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If a sketch supplies betweenness without a given, ask which premise authorizes addition; next state the missing condition explicitly.
 
 **Practice progression:** Segment/angle addition → missing measure → distinguish circle locus and drawing assumptions. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -66,7 +66,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** An equilateral triangle is isosceles because 'at least two' equal sides includes three. A rhombus is a kite under the inclusive adjacent-pairs definition, but need not be regular because its angles may differ. Classify by stated definitions rather than drawing orientation.
 
-**Misconception response and hint ladder:** If an equilateral triangle is excluded from isosceles, ask whether 'at least' means 'exactly'; next count equal pairs. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If an equilateral triangle is excluded from isosceles, ask whether 'at least' means 'exactly'; next count equal pairs.
 
 **Practice progression:** Angle classes → triangle classifications → inclusive quadrilateral hierarchy and counterexamples. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -85,6 +85,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Mix object versus measure notation, degenerate incidence, angle classifications, inclusive quadrilateral categories and the declared trapezoid convention; do not infer betweenness from a sketch alone.
+
+## Decision rehearsal and fading
+
+**Betweenness chooses the addition.** With collinear points at coordinates $A=0$, $B=7$, $C=3$ on a line, $AB=7$, $BC=4$, $AC=3$. Here C, not B, lies between the other two, so $AC+CB=AB$. The expression $AB+BC$ measures a route from A past C to B and back to C; it is not the direct distance AC.
+
+If the learner adds 7 and 4, ask which point lies between the others. Next have them place all three labels on one scaled line; then write $3+4=7$ and let them identify the segment-addition statement. Fade to A at $-2$, B at 1, C at 6, where $AB+BC=AC=8$. For angle addition, apply the same hypothesis check to the interior ray. A drawn placement may illustrate supplied coordinates; an unmarked sketch alone may not supply the needed incidence premise.
 
 ## Evidence, feedback and handoff
 

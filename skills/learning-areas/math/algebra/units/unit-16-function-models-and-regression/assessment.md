@@ -108,3 +108,15 @@ The examples above remain private calibration. Generate a new task for each sele
 | 16.8 — Model comparison and documented revision | Common data/scale; fitting versus validation; complexity; contextual plausibility; explicit retained/revised domain; complete model report. | [Teaching plan](lesson-8-prediction-and-model-revision/tutor.md#model-comparison-and-documented-revision) |
 
 Record the task fingerprint, exact case, observed reasoning, assistance and status. Award only the demonstrated component; list remaining cases by name. Use an explanation/error-analysis or reversed representation for transfer, and separately observe any required graph, construction, fit or simulation.
+
+## Annotated response calibration
+
+| Prompt and actual response | Evidence and next action |
+| --- | --- |
+| Fit $(0,1),(1,3),(2,2)$: “$\hat y=1.5+0.5x$.” | Correct coefficients; actual data entry, scatter plot, fit output and requested interpretation are separate, not inferred from the formula. |
+| Verify the same coefficients by regression sums instead of reproducing the tool's displayed algebra. | Valid independent verification. Retain actual fitting-tool evidence separately; neither substitutes for the other when both are required. |
+| Residuals “$-0.5,1,-0.5$; they sum to zero, so perfect fit.” | Correct residual values, incorrect inference. SSE is $1.5$ and the individual errors are nonzero; target interpretation only. |
+| After the tutor provides $u=\sqrt x$, learner fits $y=2+3u$ and restores $2+3\sqrt x$. | Assisted predictor selection with successful fitting/restoration evidence, subject to actual observed tool use. |
+| At hour 12, prediction $42$, observation $34$: “error $-8$, so change every future prediction by $-8$.” | Correct residual, unsupported universal revision from one point. Ask what further observations and comparison would justify a revision. |
+
+Correct answers without explanation establish results only. If reasoning was never requested, collect it neutrally; if explicitly requested but omitted, record incomplete required evidence. Self-correction before mathematical feedback stays independent; completion after a mathematical cue is assisted.

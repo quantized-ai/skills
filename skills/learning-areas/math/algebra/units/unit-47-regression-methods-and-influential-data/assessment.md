@@ -43,3 +43,15 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 Use the unit-specific evidence requirements and lesson routing in [agent-guide.md](agent-guide.md#evidence-specific-to-this-unit), then select missing cases from each relevant tutor’s Assessment case checklist. The separate diagnostics, lesson reasoning activities and supplemental worked comparisons are additional private calibration material; they are not unseen test items once discussed. Track the actual case and representation covered, and report remaining cases explicitly.
 
 A learner can correctly reject an invalid model or unsupported conclusion without supplying a numerical answer. Conversely, a correct number does not establish an omitted justification, practical execution or completeness claim. Use the unit’s [adversarial scenario](agent-evaluation.md#adversarial-transfer-scenario) to check this distinction before treating a generated item as a reliable assessment.
+
+## Annotated regression responses
+
+| Learner work | Judgment and next action |
+| --- | --- |
+| Chooses $y=x+1$ over $y=x$ by squared totals 6 versus 9 and calls it “the least-squares line.” | Candidate comparison correct; global-optimum claim unsupported. Ask what set of lines was searched. |
+| Computes residuals with the opposite sign but gets correct absolute and squared totals. | Error totals remain correct; signed residual convention is not demonstrated. Request observed-minus-predicted at one named point. |
+| Gives $1.5x-7/12$ without requested median groups or adjustment. | Correct line, incomplete method evidence. Ask for grouping, summary points and intercept reasoning without supplying them. |
+| Uses the one-third middle-residual shift instead of averaging three intercepts. | Equivalent valid method; accept after checking slope, group medians and signs. |
+| Stops at $1.5x-1/4$, then corrects after the tutor supplies the middle residual. | Correct outer slope and line; final adjustment was assisted. A new independent fit is needed for that step. |
+| Declares $(10,15)$ uninfluential because its full-fit residual is about .120 in the changed dataset. | Residual and influence are distinct; removal changes slope from $386/251$ to 1. Preserve correct residual arithmetic. |
+| Supplies correct algebraic full/omitted fits but no required graphical comparison. | Computational evidence counts; actual graphical investigation remains pending. |

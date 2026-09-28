@@ -107,7 +107,7 @@ Use valid counts for a full calculation and contextual interpretation; next comp
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Count successes and failures before calculating the margin.
+**First conceptual cue:** Can the observed data support a roughly normal sampling approximation near this boundary?
 
 If .07 is called 7% of the estimate, ask how much adding .07 changes a proportion. If all observed successes prove p=1, ask whether other populations could also produce that sample.
 
@@ -124,6 +124,12 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Count consistency, model conditions, interval calculation, percentage units and failure cases.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+## Conditions decide whether the arithmetic is informative
+
+For 0 successes in 20 independent random binary trials, the plug-in proportion is 0 and the displayed Wald SE is also 0, producing $[0,0]$. That calculation does not establish $p=0$: even at $p=0.1$, the probability of this sample outcome is $0.9^{20}\approx0.1216$. Observed successes are too few for this normal approximation. Rejecting this interval's justification is a correct conclusion; do not require an out-of-scope replacement method.
+
+If the learner treats zero SE as certainty, ask whether a population with some successes could still produce this sample. Then supply the all-failure probability expression; finally evaluate it and leave the interpretation. For a valid interval with 120/200, fade by supplying $\hat p=0.6$ but withholding SE and endpoints, then use fresh counts without setup. Keep null expected counts for tests separate from observed counts for this interval. Mean intervals additionally require the stated known population SD; a sample SD cannot silently inherit that justification.
 
 ## Lesson completion
 

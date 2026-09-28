@@ -143,3 +143,13 @@ Use the [concept teaching plan](lesson-5-polygon-angles-and-triangle-inequalitie
 **Reject/repair if these conditions are missing:** Strict inequalities; positive lengths; equivalent interval; opposite correspondence; degenerate equality excluded.
 
 Use the [concept teaching plan](lesson-5-polygon-angles-and-triangle-inequalities/tutor.md#triangle-side-constraints) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | With two specified side midpoints and third side 12, midsegment length is 6 and it is parallel to that side. | Direct theorem application with both hypotheses supplied; no proof demanded. |
+| Intended comparable retry | With two specified side midpoints and third side 18, midsegment length is 9 and it is parallel to that side. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Prove both conclusions for $A=(0,0),B=(b,0),C=(u,v)$, $b>0,v\ne0$, and explain why the placement is general. This adds parameter reasoning. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

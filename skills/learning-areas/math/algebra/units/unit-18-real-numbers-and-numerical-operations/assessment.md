@@ -96,3 +96,17 @@ The examples above remain private calibration. Generate a new task for each sele
 | 18.7 — Mixed rational and irrational operations | Zero multiplier exception; irrational sums/products may be either; exact simplification; valid contradiction reasoning. | [Teaching plan](lesson-7-rational-and-irrational-arithmetic/tutor.md#mixed-rational-and-irrational-operations) |
 
 Record the task fingerprint, exact case, observed reasoning, assistance and status. Award only the demonstrated component; list remaining cases by name. Use an explanation/error-analysis or reversed representation for transfer, and separately observe any required graph, construction, fit or simulation.
+
+## Annotated learner responses
+
+**Calibration prompt:** Compute $3/4-1/6$. For the reasoning version, add: “Explain the common-sized parts and verify the subtraction.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “$7/12$.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “$7/12$.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| $9/12-2/12=7/12$, then “twelfths are smaller so the answer is always smaller than both inputs.” | The exact computation is correct; the comparison claim fails because $7/12>1/6$. Preserve operation evidence and ask which quantities are being compared. |
+| $18/24-4/24=14/24=7/12$. | Valid common denominator; least common denominator is not compulsory. |
+| Tutor supplies $3/4=9/12$ and $1/6=2/12$; learner then gives “$7/12$.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

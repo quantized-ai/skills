@@ -124,6 +124,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
 
+
+## Adaptive teaching examples
+
+Use the ordinary pay example to expose the decisions before the arithmetic: 42 total hours splits into 40 regular and 2 overtime hours; the deduction applies to the resulting gross amount, and the budget uses the same week. For a learner multiplying all 42 hours by the overtime rate, give one cue at a time: **conceptual** — “Which hours satisfy the higher-rate condition?”; **setup** — draw adjacent blocks of 40 and 2 hours; **worked step** — regular pay is \(40(20)=800\), leaving the learner to compute overtime, net pay and the remainder. A correct remainder without a period or deduction base leaves those components unestablished.
+
+For the tax model, contrast a deduction with a credit using the existing fictional brackets: gross income 1500 minus a deduction of 200 gives taxable income 1300; bracket tax is \(100+0.2(300)=160\); a nonrefundable credit of 50 leaves 110. Ask the learner to explain why subtracting 50 from income would produce a different answer. **Fade support:** supply the timeline and the three labels “gross → taxable → tax after credit,” but let the learner place and apply the adjustments. Then remove the labels on a fresh case. State whether an effective rate uses gross or taxable income; either convention needs an explicit denominator.
+
 ## Lesson completion
 
 Mark this lesson complete only when every concept and its explicit checklist are **Secure in this session** under the [shared guide](../agent-guide.md#evidence-and-completion). Summarize what the learner independently demonstrated, what required help and the next missing case. A short sample or exposed worked example cannot certify the lesson.

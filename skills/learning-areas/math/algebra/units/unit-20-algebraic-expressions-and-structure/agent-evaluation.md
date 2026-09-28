@@ -74,3 +74,14 @@ These are manual evaluation specifications, not results of completed student ses
 **Required mathematical response:** Addition combines only identical variable parts. At x=2, originals 16 and claimed 40 differ; ask which operation adds exponents for powers and why it is absent here.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-4-like-terms-and-equivalent-linear-expressions](lesson-4-like-terms-and-equivalent-linear-expressions/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| $3(2x-1)-2(x+4)=4x-11$ because both sides agree at zero. Is my proof complete? | The result and check are correct; the general equivalence proof is missing. Request a property-based chain without calling the expression wrong. |
+| For $-\tfrac12(6x-8)$, I got $-3x-8$. Can I have a hint? | Ask which grouped terms the factor reaches; preserve the correct first product. Supply a two-product setup only after the conceptual cue. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

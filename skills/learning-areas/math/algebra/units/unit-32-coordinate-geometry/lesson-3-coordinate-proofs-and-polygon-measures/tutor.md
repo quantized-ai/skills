@@ -44,7 +44,7 @@ Curriculum reference: **General coordinate proofs** in [lesson.md](lesson.md#con
 - **Diagnostic key:** No; a square adds right-angle and equal-side assumptions.
 - **Worked-example prompt:** Prove that the diagonals of every parallelogram bisect each other using general coordinates.
 - **Worked model and reasoning:** Put vertices $(0,0),(a,b),(a+c,b+d),(c,d)$ with $ad-bc\ne0$. Both diagonal midpoints are $((a+c)/2,(b+d)/2)$. Numeric coordinates alone verify only one figure; the nonzero determinant excludes a collapsed parallelogram.
-- **First hint:** Choose coordinates that encode only the given hypotheses.
+- **First hint:** Would your chosen coordinates represent every permitted figure or only a special case?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include translated/rotated rectangles and triangles; preserve vertex order, distinguish perimeter from area, and use absolute area.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**Encode the class without adding symmetry.** To prove a rectangle's diagonals equal, use cyclic vertices $(0,0),(a,0),(a,b),(0,b)$ with $a,b>0$. Each diagonal has squared length $a^2+b^2$. Setting $a=b$ at the start would prove only the square case. A translation and rotation place any rectangle this way while preserving lengths; no dilation or extra equality is needed.
+
+If the learner chooses a square, cue “Can your coordinates represent unequal adjacent sides?” Next replace the shared side parameter by independent a and b; then compute one diagonal and leave the other. Fade to the midpoint claim for a general parallelogram, retaining two independent direction vectors and a nondegeneracy condition. For a numeric area task, require a perpendicular height or justified determinant: a sloping side length is not automatically the height, even when the picture is rotated.
 
 ## Lesson completion
 

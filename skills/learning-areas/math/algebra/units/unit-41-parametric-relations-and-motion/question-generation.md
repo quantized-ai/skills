@@ -30,3 +30,14 @@ Use the same parameter value for paired coordinates and the same time for collis
 | [41.3 Constant-velocity motion](lesson-3-parametric-motion-models/tutor.md#constant-velocity-motion) | Include real collisions, stationary objects and bounded time intervals; distinguish position units from velocity units. |
 | [41.3 Uniform circular motion](lesson-3-parametric-motion-models/tutor.md#uniform-circular-motion) | Include phase shifts, degree-to-radian rates and stationary ω=0; distinguish arc distance from straight displacement. |
 | [41.3 Idealized projectile motion](lesson-3-parametric-motion-models/tutor.md#idealized-projectile-motion) | Vary launch/landing heights and horizontal direction, including vertical launch; verify maxima on the actual flight interval and do not use a same-height shortcut automatically. |
+
+## Demand anchors
+
+| Role | Task and checked key | Demand distinction |
+| --- | --- | --- |
+| Routine elimination | $x=t^2$, $y=t+1$, $-2\le t\le1$: $x=(y-1)^2$, $-1\le y\le2$. | One inverse substitution, interval translation and coverage check. |
+| Comparable intended retake | $x=t^2$, $y=t-2$, $-1\le t\le2$: $x=(y+2)^2$, $-3\le y\le0$. | Same operations; asymmetry changes which square-root branch has the longer extent. |
+| Added demand | Require explicit square-root branches with separate $x$ intervals for the first task. | Adds branch-specific reconstruction; do not treat one shared bound as sufficient. |
+| Model transfer | $x=3t$, $y=10-2t-5t^2$ until ground impact: $T=(-1+\sqrt{51})/5$, maximum 10, range $3T$. | Adds physical interval, inadmissible vertex and numerical interpretation. |
+
+Keep graphing-tool actions explicit when required. A closed path may include the image of an excluded parameter endpoint through another parameter value; verify all preimages before assigning open/closed point markers.

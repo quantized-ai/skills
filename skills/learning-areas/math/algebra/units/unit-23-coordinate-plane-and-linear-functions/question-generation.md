@@ -157,3 +157,13 @@ Use the [concept teaching plan](lesson-6-linear-models-domains-and-transformatio
 **Reject/repair if these conditions are missing:** Input/output distinction; horizontal sign; slope changes; coordinate validation; coincident effects for linear graphs acknowledged.
 
 Use the [concept teaching plan](lesson-6-linear-models-domains-and-transformations/tutor.md#transformations-of-linear-functions) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Line through $(1,2),(3,8)$: $y=3x-1$. | Distinct nonvertical points, integer slope, then point substitution and verification. |
+| Intended comparable retry | Line through $(-1,1),(1,7)$: $y=3x+4$. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Transform $f(x)=2x+1$ on $[0,3]$ to $f(x-2)-4$: $2x-7$ on $[2,5]$. Input-domain transformation and actual technology verification add requirements. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

@@ -109,6 +109,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
 
+## Verify the domain through every stage
+
+Let $h(x)=x^2$ on all reals and $g(u)=\sqrt u$ on $u\ge0$. Then $g(h(x))=\sqrt{x^2}=|x|$ on all reals, whereas $h(g(x))=(\sqrt x)^2=x$ only for $x\ge0$. The intermediate output, not only the simplified formula, determines the domain. This also shows why $\sqrt{x^2}=x$ needs a sign restriction.
+
+If the learner writes $g\circ h=x$ on all reals, ask them to follow $x=-3$ through both stages. Then supply $h(-3)=9$; finally evaluate $g(9)=3$ and leave the general expression. If the formula is right but the domain wrong, ask which stage rejects negative original inputs. Fade with the component formulas supplied but their domains withheld, then ask for a fresh decomposition and full recomposition. Accept alternative components when both formula and domain match.
+
 ## Lesson completion
 
 Apply [the shared evidence rule](../agent-guide.md#evidence-and-completion) to each concept and its listed cases. Report which methods and representations were independently demonstrated, which needed support, and what is still untested. Do not mark the lesson secure from a short sample or an unobserved graph/proof/tool action. Offer the next lesson or focused repair according to the student's request and evidence.

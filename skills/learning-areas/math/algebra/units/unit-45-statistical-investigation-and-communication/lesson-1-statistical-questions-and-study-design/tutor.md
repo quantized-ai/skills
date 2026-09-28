@@ -125,6 +125,12 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
 
+## A selection plan must preserve its target population
+
+Suppose a school has 100 students in grade A and 300 in grade B. A stratified sample selects 10 from each grade at random. If the sample means are 10 and 20 minutes, the school-mean estimate using population shares is $(100/400)10+(300/400)20=17.5$ minutes. Pooling all 20 sampled students equally gives 15 minutes and overrepresents the smaller grade. These are hypothetical summaries for design reasoning, not collected observations.
+
+If the learner says equal sample sizes automatically make the pooled mean representative, ask which fraction of the school belongs to each grade. Then supply population weights $1/4,3/4$; finally write the weighted expression and leave evaluation. If the issue is nonresponse, weights alone do not establish that respondents represent nonrespondents. Fade by giving unequal stratum sizes with a partly completed allocation table, then require both selection and interpretation independently. Actual carry-out proficiency still needs records of the implemented selection, permitted collection, missingness, and analysis; a detailed plan remains design evidence.
+
 ## Lesson completion
 
 Mark this lesson complete only when every concept and its explicit checklist are **Secure in this session** under the [shared guide](../agent-guide.md#evidence-and-completion). Summarize what the learner independently demonstrated, what required help and the next missing case. A short sample or exposed worked example cannot certify the lesson.

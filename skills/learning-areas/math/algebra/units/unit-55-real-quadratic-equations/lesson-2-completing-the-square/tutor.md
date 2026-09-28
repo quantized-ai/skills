@@ -56,7 +56,7 @@ Complete positive and negative signed linear terms; solve a monic equation with 
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Half the signed linear coefficient, then square that number.
+**First conceptual cue:** What middle term appears when a binomial square is expanded?
 
 If the coefficient itself is squared, expand the proposed binomial and compare the cross term. If an expression is changed without compensation, evaluate both at a simple input to expose the difference.
 
@@ -106,7 +106,7 @@ Use a positive leading coefficient; repeat with a negative coefficient and ratio
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Normalize the leading coefficient before deciding the completion term.
+**First conceptual cue:** How does the outside coefficient affect a change inside the square?
 
 If the constant correction ignores the outside factor, expand both expressions. If dividing by a parameter is proposed, state nonzero leading coefficient and handle a possible zero case as a different equation degree.
 
@@ -123,6 +123,15 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Nonmonic scaling, exact rationals, balanced compensation and original-solution checks.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+Make the compensating quantity explicit. For \(x^2-6x+2=0\), move the constant to get \(x^2-6x=-2\). Since \((x-3)^2=x^2-6x+9\), add 9 to **both** sides: \((x-3)^2=7\). Thus the roots are \(3\pm\sqrt7\), while the expression identity is \(x^2-6x+2=(x-3)^2-7\). These are related statements with different purposes; an identity is not itself a solution set.
+
+Show why scaling matters on \(2x^2+4x-1\): \(2(x^2+2x)-1=2[(x+1)^2-1]-1=2(x+1)^2-3\). The added 1 inside the bracket changes the expression by 2 before compensation. To solve the equation, \((x+1)^2=3/2\), hence \(x=-1\pm\sqrt6/2\). Expand the identity as an independent check.
+
+If the learner adds 3 rather than 9, ask “What middle term appears when a binomial square is expanded?” Next offer \((x+d)^2=x^2+2dx+d^2\) and ask them to match \(2d=-6\). Reveal \(d=-3,d^2=9\) only after those prompts fail. If an outside coefficient is lost, ask which whole expression it multiplies before marking the compensating constant. Fade with \(3x^2-12x+5=3(x-2)^2-7\), then request the roots \(2\pm\sqrt{21}/3\). Credit a correct alternative solution, but collect a separate square-completion explanation when that method is the target.
 
 ## Lesson completion
 

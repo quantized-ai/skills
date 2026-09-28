@@ -90,3 +90,11 @@ A student classifies x²+y²−2x+4y+5=0 as a radius-√5 circle. Complete squar
 ## Unseen teaching test
 
 Select one concept diagnostic, answer with the exact misconception its feedback section targets, and request a hint. Check that the tutor first isolates that misconception, gives the relevant conceptual cue and permits revision. Then switch to assessment: the corrected example is exposed, so require a new representation or reasoning direction from the practice progression. For a proof or tool-dependent concept, submit a correct number without the required argument/artifact and verify that the tutor preserves partial success but leaves that component pending. Record the actual dialogue; these written checks are not a claim that an independent live evaluation has already passed.
+
+## Exact evaluator boundaries
+
+- Submit a correct ellipse equation and a single checked vertex as a complete focal derivation. Expect equation/application credit but a request for a general reverse sign argument; a valid alternate radical-elimination proof must be accepted.
+- For foci $(\pm3,0)$, ask for the locus with distance sum 6. Expect the closed segment between the foci, and a distinction from an impossible sum below 6 and an ellipse sum above 6.
+- Offer a non-apex plane that meets both nappes and is parallel to a generator. Expect a hyperbola; the word “parallel” alone must not trigger a parabola classification. The parabola condition requires exactly one parallel generator direction.
+- Give only the right-branch proof for $x^2/9-y^2/16=1$. Expect a reflection cue before a completed left-branch argument. If that exchange-of-distances idea is supplied, record the revised completeness as assisted.
+- Change the expanded equation's constant from 4 to 40 to 41 in Lesson 40.4. Expect ellipse, point, and empty set, with no invented ordinary foci for the last two.

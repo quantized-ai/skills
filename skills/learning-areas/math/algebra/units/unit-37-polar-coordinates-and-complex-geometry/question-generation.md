@@ -34,3 +34,14 @@ Declare the polar radius and angle conventions. A negative radius reverses the r
 | [37.4 Division, reciprocation, and conjugation](lesson-4-polar-complex-multiplication-and-division/tutor.md#division-reciprocation-and-conjugation) | Compare polar and conjugate methods, reciprocals and conjugates, including zero numerator and forbidden zero denominator. |
 | [37.5 De Moivre powers](lesson-5-complex-powers-and-roots/tutor.md#de-moivre-powers) | Include positive, zero and negative integer powers; exclude zero for zero or negative powers; 0^0 is not assigned a value in this curriculum. |
 | [37.5 Complete sets of complex roots](lesson-5-complex-powers-and-roots/tutor.md#complete-sets-of-complex-roots) | Vary root order and complex target, include roots of unity and zero; verify completeness and distinguish distinct roots from multiplicity. |
+
+## Demand anchors with checked keys
+
+| Role | Task and key | Demand |
+| --- | --- | --- |
+| Routine | All cube roots of $8$: $2,-1\pm i\sqrt3$. | Positive modulus, three angle choices, exact conversion and completeness. |
+| Intended same-demand retake | All cube roots of $-8$: $-2,1\pm i\sqrt3$. | Same root order and conversion load; angle origin changes. Require the same verification and independence. |
+| Higher demand | All fourth roots of $-16$: $\sqrt2(\pm1\pm i)$ with all four sign pairs. | Changes angle spacing, count, and exact-value arithmetic; do not assume equivalent difficulty to cube roots. |
+| Transfer | Compare $r=4\cos\theta$ on $[0,\pi/2]$ and $[0,\pi]$. | Upper semicircle versus full circle; requires checking the tracing interval, not just completing a square. |
+
+Do not equate a failed substitution symmetry test with lack of point-set symmetry. Check converted loci in both directions under the actual angle interval, and keep plotted evidence separate from analytically predicted appearance.

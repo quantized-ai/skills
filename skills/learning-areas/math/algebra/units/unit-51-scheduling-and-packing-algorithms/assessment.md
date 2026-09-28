@@ -43,3 +43,16 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 Use the unit-specific evidence requirements and lesson routing in [agent-guide.md](agent-guide.md#evidence-specific-to-this-unit), then select missing cases from each relevant tutor’s Assessment case checklist. The separate diagnostics, lesson reasoning activities and supplemental worked comparisons are additional private calibration material; they are not unseen test items once discussed. Track the actual case and representation covered, and report remaining cases explicitly.
 
 A learner can correctly reject an invalid model or unsupported conclusion without supplying a numerical answer. Conversely, a correct number does not establish an omitted justification, practical execution or completeness claim. Use the unit’s [adversarial scenario](agent-evaluation.md#adversarial-transfer-scenario) to check this distinction before treating a generated item as a reliable assessment.
+
+## Annotated learner-response calibration
+
+A finished arrangement, its algorithm trace and an optimality certificate answer different questions.
+
+| Learner response | Judgment and next action |
+| --- | --- |
+| Starts dependent C at time 3 because its processor is idle, although A finishes at 4. | Processor availability is understood; readiness is not. Mark feasibility developing and ask for the prerequisite finish time. A repair after this cue is assisted. |
+| Produces a feasible schedule with a different assignment among simultaneous free processors. | Accept equivalent processor relabeling unless a stated tie rule distinguishes it. Check intervals and dependencies, not the picture's exact layout. |
+| For tasks 4,3,3 on two processors, “The bound is 5, so an optimum 5 schedule exists.” | The work bound is correct; attainability is unsupported. Request a feasible partition or proof before accepting the claimed optimum. |
+| On items 6,8,2, the learner uses bin 2 for the last item and calls the trace first fit. | Placement and bin count are valid; first-fit fidelity fails because bin 1 was feasible. Preserve packing feasibility and address the selection rule. |
+| “Two bins” is given without placement when a heuristic trace was requested. | Final count alone does not establish conservation, capacity or algorithm execution. Request the per-item trace; do not infer which method was used. |
+| Learner self-corrects a missed ready task before any mathematical feedback. | The corrected work can remain independent. If the agent has supplied the readiness correction, mark the revision supported and use a fresh later task. |

@@ -98,6 +98,12 @@ Assess general-form reasoning, polynomial closure, nonzero-polynomial requiremen
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Divide $x^2+1$ by $x-1$ to get $x^2+1=(x-1)(x+1)+2$. Therefore $(x^2+1)/(x-1)=x+1+2/(x-1)$ for $x\ne1$. Multiplying the entire right side by $x-1$ recovers the numerator; the proper remainder has degree zero, below degree one.
+
+Cue “What would divisor times proposed quotient leave over?”; set up $x^2+1-(x-1)(x+1)$; then show the remainder $2$, leaving the quotient form and restriction. Fade with $(x^2+3)/(x+1)$ (key $x-1+4/(x+1)$, $x\ne-1$). For closure, use $1/x+1/(x+1)=(2x+1)/[x(x+1)]$ as an instance of polynomial numerator and denominator construction; the algebraic result remains rational while evaluation still excludes $0,-1$.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

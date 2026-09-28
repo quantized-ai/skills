@@ -48,3 +48,17 @@ Required coverage: Tool choice, cross-representation reconciliation, verificatio
 **Check before release:** For propositional validity search all truth assignments for true premises and false conclusion. For a counterexample check it satisfies the actual hypotheses. For induction verify base, hypothesis, step and complete domain coverage. Check every claimed computational result against executed output; leave execution or oral communication pending when not observed.
 
 A second pass must target the likely failure above, not simply repeat the same arithmetic. Retain the checked result, decisive assumption and accepted equivalent responses before exposing the task.
+
+## Task demand anchors
+
+Match logical structure, domain and proof burden when varying tasks.
+
+| Demand | Checked anchor |
+| --- | --- |
+| Routine validity | Modus ponens: p⇒q and p imply q; no assignment makes both premises true and conclusion false. |
+| Comparable contrast | Modus tollens: p⇒q and ¬q imply ¬p; again no counterrow. The conclusion and polarity change, but the same two-variable table method applies. |
+| Invalid near miss | p⇒q and q imply p fails on p=false,q=true. Include sound arguments as well as fallacies so the task is not an error-finding guessing game. |
+| Added demand | Negate a nested quantified statement on a declared domain and evaluate it with a dependent witness or an admissible counterexample. This is more than filling one connective column. |
+| Investigation transfer | Present a finite pattern claim and ask for a bounded question, a validation plan and a proof or counterexample, permitting a justified revised conclusion. |
+
+Do not grade an open investigation by resemblance to the tutor's preferred route. Keep exact proof, finite computation, source attribution and written/oral communication as distinct obligations. A counterexample task should not announce the decisive input in the student-facing question.

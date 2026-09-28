@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $4a-3b+2a+5b-7=6a+2b-7$. Group identical variable parts and combine signed coefficients. Substituting a=2,b=1 gives 7 from both forms, a check but not a universal proof by itself.
 
-**Misconception response and hint ladder:** If exponents are added in a sum, ask whether the operation is addition or multiplication; next compare x+x with x·x. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If exponents are added in a sum, ask whether the operation is addition or multiplication; next compare x+x with x·x.
 
 **Practice progression:** One variable like terms → multiple variables/powers → nested distribution then collection. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A club charge of10 plus 4 per visit is10+4v. For two such memberships,2(10+4v)=20+8v; the factored form shows two identical plans, expanded form shows combined fixed and variable costs. Equality follows distribution for all permitted v.
 
-**Misconception response and hint ladder:** If a numerical spot-check is called proof, ask whether another input could disagree; next identify the algebraic property that ensures all-input equality. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If a numerical spot-check is called proof, ask whether another input could disagree; next identify the algebraic property that ensures all-input equality.
 
 **Practice progression:** Verify identity structurally → find counterexample → choose a contextual form and explain its benefit. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Use contextual costs or perimeters represented in factored and expanded form, negative and fractional coefficients, and nonlike distractors; establish equivalence symbolically.
+
+## Decision rehearsal and fading
+
+**Use a rewrite for proof and a value for refutation.** Simplify $3(2x-1)-2(x+4)$ by distributing first: $6x-3-2x-8=4x-11$. Only the $x$ coefficients combine; constants combine separately. This proves equivalence for every real input by distribution and collection. A claimed result $4x+5$ fails already at $x=0$, where the original is $-11$.
+
+If the learner obtains $4x-11$ but says “I checked $x=0$, so it is proved,” ask which operation properties establish the all-input statement. If they combine unlike terms, cue “Which terms count the same variable part?” Next group $(6-2)x+(-3-8)$; then compute one coefficient and leave the other. Fade to $2(3x+1)-3(x-2)=3x+8$, asking for a general rewrite and one check with distinct purposes. Cancellation to a zero coefficient removes a term; it does not exclude any input.
 
 ## Evidence, feedback and handoff
 

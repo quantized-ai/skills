@@ -109,7 +109,7 @@ Compare normal n=4, skew n=4 and rare Bernoulli n=100,p=.01; then choose larger 
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Count expected successes as well as observations.
+**First conceptual cue:** Does a large total guarantee substantial representation of both binary outcomes?
 
 If raw data are called normal after averaging, ask which random variable the conclusion names. If one large count is enough, ask for both np and n(1-p) and explain the smaller count's importance.
 
@@ -126,6 +126,12 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Sampling design, finite variance, expected count checks and exact versus approximate normality.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+## Separate two different sample sizes in a simulation
+
+Suppose independent observations come from a stated normal population with mean 40 and SD 12. One sample of 16 observations yields one sample mean; 1000 repeated samples yield 1000 means. Their theoretical center is 40 and SD is $12/\sqrt{16}=3$. Increasing repetitions to 4000 improves the simulation's description of that sampling distribution; it does not change the theoretical SE of each mean. Increasing within-sample size to 64 changes that SE to 1.5.
+
+If the learner divides by $\sqrt{1000}$, ask what one plotted dot represents. Then supply an outline “16 observations → one mean; repeat 1000 times”; finally label $n=16$ in the SE expression, leaving evaluation. Fade with a Bernoulli proportion simulation and only its one-repetition definition supplied, then require that definition independently. Actual simulation evidence includes the chosen population, generator/settings, repetitions, recorded statistic, and observed summary. A mean and SD alone do not specify which nonnormal population to simulate.
 
 ## Lesson completion
 

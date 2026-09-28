@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For 2x+3y=12 and 3x−2y=5, multiply first by2 and second by3:4x+6y=24,9x−6y=15; sum 13x=39, x=3,y=2. Verify 6+6=12 and 9−4=5.
 
-**Misconception response and hint ladder:** If only a variable coefficient is multiplied, ask whether the equation remains equivalent; next scale every term including constant. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If only a variable coefficient is multiplied, ask whether the equation remains equivalent; next scale every term including constant.
 
 **Practice progression:** Opposite coefficients → one/both equations scaled → compare elimination versus substitution efficiency. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Replace E2:2x−y=4 by E2+E1:3x=9 while retaining E1:x+y=5. The transformation is reversible: subtract E1 to recover E2. Thus systems are equivalent. Keeping only 3x=9 would permit any y and enlarge the set.
 
-**Misconception response and hint ladder:** If every derived equation is deemed equivalent alone, ask whether (3,100) satisfies the original; next identify the missing retained constraint. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If every derived equation is deemed equivalent alone, ask whether (3,100) satisfies the original; next identify the missing retained constraint.
 
 **Practice progression:** Explain one row replacement → reverse a sequence → refute dropping-equation method. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Vary signs and required nonzero scaling factors; ask for the inverse row operation and test candidates in both originals.
+
+## Decision rehearsal and fading
+
+**Prove what the retained equation contributes.** From $E_1:x+y=7$ and $E_2:2x-y=2$, replace $E_2$ by $E_2+E_1:3x=9$ and retain $E_1$. A pair satisfying the originals satisfies their sum. Conversely, subtracting $E_1$ from the sum recovers $E_2$, proving both directions. The solution is $(3,4)$. Keeping only $x=3$ would also admit $(3,100)$, which fails the original system.
+
+If the learner explains only that adding true equalities gives a true equality, ask “How do you recover the removed equation?” Next name the retained row; then write $(E_2+E_1)-E_1$ and let them finish the reasoning. Fade to retaining $F_1$ and replacing $F_2$ by $F_2-2F_1$: ask for the reverse operation ($+2F_1$) without solving first. A correct pair alone does not demonstrate this equivalence proof.
 
 ## Evidence, feedback and handoff
 

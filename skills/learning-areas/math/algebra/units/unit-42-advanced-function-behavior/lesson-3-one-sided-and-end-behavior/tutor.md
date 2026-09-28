@@ -152,6 +152,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
 
+## Use signs and repeated inputs to explain failure modes
+
+For $f(x)=1/(x-2)^2$, both sides tend to $+\infty$: squaring makes the denominator positive on both sides. For $1/(x-2)$, the left side tends to $-\infty$ and the right to $+\infty$. Neither has a finite two-sided limit, but their side behavior differs. For $\sin(1/x)$, the inputs $1/(\pi/2+2k\pi)$ and $1/(3\pi/2+2k\pi)$ tend to zero with outputs 1 and $-1$; boundedness does not make those outputs settle.
+
+If the learner reports only “DNE,” ask whether the cause is a jump, unboundedness, or oscillation. For a sign error, cue denominator sign near the target → supply test inputs $2-0.1$ and $2+0.1$ → compute one value and leave the other and general sign argument. Fade by withholding test inputs for a fresh shifted pole with changed multiplicity. Tables suggest behavior; factor signs or the two input families justify it.
+
 ## Lesson completion
 
 Apply [the shared evidence rule](../agent-guide.md#evidence-and-completion) to each concept and its listed cases. Report which methods and representations were independently demonstrated, which needed support, and what is still untested. Do not mark the lesson secure from a short sample or an unobserved graph/proof/tool action. Offer the next lesson or focused repair according to the student's request and evidence.

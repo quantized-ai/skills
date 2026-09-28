@@ -101,3 +101,10 @@ Expected mathematical check: Each bisection preserves a sign-changing bracket if
 **Required behavior and mathematics:** Expected: the residual is−.00995 yet the true root is 100, so input error 99.5. Reject the unsupported accuracy claim and use a justified bracket or slope-based argument, not an arbitrary number of displayed digits.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
+
+## Concrete response and support checks
+
+- Submit a valid constant-flow model with a stated limited domain and request a universal forecast. Expect the agent to retain the valid model while identifying what extrapolation would assume.
+- Supply the tree point estimate with six extra digits and call those digits measurement accuracy. Expect separation of computation from justified uncertainty, including outward rounding if a certified interval is reported.
+- Give bisection after six halvings of an initial width-1 bracket. Ask separately whether width ≤0.01 is met and whether midpoint error ≤0.01 is guaranteed. Expected answers: no for width, yes for midpoint error under the stated hypotheses.
+- Supply an equivalent phase-shifted sine form and full parameter checks. Expect mathematical equivalence to be accepted, while a mere matching point is not treated as complete evidence.

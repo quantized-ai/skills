@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Under S(x,y)=(2x,y), directions (1,1),(1,−1) have perpendicular slopes 1 and −1. Their images (2,1),(2,−1) have slopes 1/2 and −1/2, whose product −1/4 is not −1, so the lines are no longer perpendicular. A translation changes neither coordinate differences nor pairwise distances.
 
-**Misconception response and hint ladder:** If same appearance implies isometry, ask whether a unit segment stays unit; next compute the image of(0,0),(1,0). If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If same appearance implies isometry, ask whether a unit segment stays unit; next compute the image of(0,0),(1,0).
 
 **Practice progression:** Point images → invariant tests → distinguish rigid, uniform dilation and directional stretch. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Reflect P=(5,1) across vertical line x=2: its horizontal distance 3 is reversed, giving P′=(−1,1). Segment PP′ is horizontal, perpendicular to mirror, and midpoint (2,1) lies on mirror. Translation by(−4,3) instead sends P to(1,4).
 
-**Misconception response and hint ladder:** If reflection changes both signs regardless of mirror, ask where the mirror's fixed points lie; next test a point on that mirror. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If reflection changes both signs regardless of mirror, ask where the mirror's fixed points lie; next test a point on that mirror.
 
 **Practice progression:** Axis/y=x rules → arbitrary mirror geometric construction → translation versus reflection. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -66,7 +66,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Rotate P=(4,2)90° counterclockwise about C=(1,1). Relative vector (3,1) becomes (−1,3); adding C gives P′=(0,4). Both radii have length √10 and directed turn is90°.
 
-**Misconception response and hint ladder:** If origin rules are used without recentering, ask which point must remain fixed; next compute P−C first. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If origin rules are used without recentering, ask which point must remain fixed; next compute P−C first.
 
 **Practice progression:** Quarter/half turns → clockwise turn → non-origin center or geometric angle construction. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -85,6 +85,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include arbitrary mirror lines via perpendicular-bisector constructions, negative directed rotations and invariant checks across multiple point pairs; evidence must go beyond a single transformed vertex.
+
+## Decision rehearsal and fading
+
+**Translate to the center, turn, and translate back.** Rotate $P=(5,2)$ by $90^\circ$ clockwise about $C=(2,1)$. The relative vector is $(3,1)$; a clockwise quarter-turn sends it to $(1,-3)$, so $P'=(3,-2)$. Both squared distances to C equal 10. Applying the origin rule directly would incorrectly move the specified center.
+
+If the learner gives $(2,-5)$, ask what their rule does to C. Next supply $P-C=(3,1)$; then perform only the relative turn and let them restore C. If the final point is correct, ask for radius and directed-turn checks instead of repeating the recipe. Fade to a counterclockwise quarter-turn of $(4,0)$ about $(1,1)$: relative $(3,-1)$ becomes $(1,3)$, giving $(2,4)$. Inspect an actual geometric representation when that mode is being assessed.
 
 ## Evidence, feedback and handoff
 

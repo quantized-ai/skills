@@ -44,7 +44,7 @@ Curriculum reference: **Fair random selection** in [lesson.md](lesson.md#concept
 - **Diagnostic key:** No; ten is not divisible by three.
 - **Worked-example prompt:** Use independent uniform decimal digits to select fairly among four people. Is digit modulo four fair? Design a fair method.
 - **Worked model and reasoning:** Modulo four on 0–9 gives counts 3,3,2,2 and is biased. Accept 0–7, map pairs {0,4},{1,5},{2,6},{3,7}, and reject 8,9 then repeat. Acceptance 0.8 each trial gives eventual termination probability one and each person's probability 1/4.
-- **First hint:** Count how many accepted digit outcomes map to each person.
+- **First hint:** What would make one person more likely under this mapping?
 
 #### Learn
 
@@ -83,7 +83,7 @@ Curriculum reference: **Base rates and decision consequences** in [lesson.md](le
 - **Diagnostic key:** No; that posterior also depends on prevalence and false positives.
 - **Worked-example prompt:** Among 10000 items, 2% are defective. A flag catches 90% of defects and flags 5% of sound items. What fraction of flagged items are defective?
 - **Worked model and reasoning:** Defective flagged 180; sound flagged 490; total 670, so 180/670=18/67≈26.87%. This is not the 90% detection rate. With stated inspection/replacement costs, compare all weighted outcomes under the same population.
-- **First hint:** Build counts for defects and sound items separately before restricting to flagged items.
+- **First hint:** Does a detection rate condition on defects or on flags?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Use nonmedical screening contexts, vary base rates and explicit costs, and require sensitivity rather than a universal decision recommendation.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Connect a posterior to an explicit decision threshold
+
+Use the synthetic defect model already given: among flagged items, 180 are defective and 490 are sound. Suppose discarding any flagged item costs 20 units, while keeping it costs 100 units only if defective and 0 if sound. Expected cost per flagged item is 20 for discard versus $100(18/67)\approx26.87$ for keep, so discard has lower modeled expected cost. The break-even defect probability is $20/100=0.20$; if prevalence or error rates lower the posterior below that threshold, the preference reverses. These costs are stipulated, not inferred from detection accuracy.
+
+If the learner uses 90% as the flagged defect chance, ask which population the 90% conditions on. Then supply the true-positive and false-positive counts; finally form the denominator 670 and leave the cost comparison. Fade by giving the completed posterior but asking for the threshold; later require the full table and comparison. In random allocation, separately require equal accepted preimages and a rejection-repeat rule: fairness of accepted outcomes alone does not specify a complete procedure.
 
 ## Lesson completion
 

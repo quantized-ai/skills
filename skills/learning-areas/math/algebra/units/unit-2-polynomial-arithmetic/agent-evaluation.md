@@ -167,3 +167,9 @@ These are reviewer prompts with private keys in the linked tutors. For a teachin
 ## Reassessment comparison
 
 Save two actual generated quizzes at the same requested scope and difficulty. Compare mathematical data and reasoning demands, not just wording. Independently solve every presented item, list its curriculum cases and check that feedback on one item has not silently supplied independent evidence for another. Report coverage and failures per concept; this specification is not a record that those tests have passed.
+
+## Teaching decision scenarios
+
+- Present correct polynomial subtraction with signs distributed but terms uncollected. Expect partial evidence for additive inverses and a request to finish standard form, not a blanket error verdict.
+- Claim an identity from agreement at zero. Expect a distinction between instance checking and an all-input proof, without dismissing the correctly computed instance.
+- Expand with a complete multiplication grid instead of the key's layout. Expect equivalent method credit and a check of all coefficients rather than matching presentation.

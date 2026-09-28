@@ -98,6 +98,12 @@ Assess opposite-factor identification, parity, cancellation and inherited restri
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $(x^2+3x)/(x^2-9)$, factor both whole polynomials to $x(x+3)/[(x-3)(x+3)]$. On $x\ne-3,3$, the common factor contributes $(x+3)/(x+3)=1$, leaving $x/(x-3)$. By contrast, the $x$ in $(x+2)/(x+3)$ is only a summand, so there is no such factor of one.
+
+Cue “Can the entire numerator and denominator each be written as a product containing the same object?”; then provide the factored denominator; only next factor the numerator, leaving cancellation and restrictions. Fade on $(x^2-2x)/(x^2-4)$ (key $x/(x+2),x\ne\pm2$). For opposite factors, $(2-x)/(x-2)=-1$ because $2-x=-(x-2)$; an unexplained sign error should prompt that rewrite before a misconception label.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

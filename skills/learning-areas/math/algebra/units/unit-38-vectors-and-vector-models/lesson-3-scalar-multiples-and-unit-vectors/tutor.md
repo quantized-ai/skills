@@ -83,7 +83,7 @@ Curriculum reference: **Unit vectors and resolution** in [lesson.md](lesson.md#c
 - **Diagnostic key:** No; divide by magnitude 10 to get ⟨3/5,4/5⟩.
 - **Worked-example prompt:** Construct a unit vector in direction ⟨-5,12⟩ and then a vector of magnitude 26 in that direction.
 - **Worked model and reasoning:** Unit vector $\langle-5/13,12/13\rangle$; scaled vector $\langle-10,24\rangle$. Check unit magnitude before scaling. Zero cannot be normalized.
-- **First hint:** Divide by the vector's magnitude, not by either component.
+- **First hint:** What must change to make length one while preserving direction?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include coordinate-unit-vector sums, specified angles and zero-direction requests; distinguish unit length from unit components.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Length alone cannot certify normalization
+
+To construct magnitude 10 opposite $\langle-3,4\rangle$, normalize first: the original unit direction is $\langle-3/5,4/5\rangle$. Reverse it and scale by 10 to obtain $\langle6,-8\rangle$. Its magnitude is 10 and it is $-2$ times the original vector; these are separate length and orientation checks. Squaring components cannot distinguish the required result from a reflected vector.
+
+If the learner supplies $\langle6,8\rangle$, ask whether one common scalar produces both components from the original. Then supply the common-scalar equations $-3c=6$, $4c=8$ and let them detect the conflict; finally model $c=-2$ using the required opposite direction and magnitude ratio. Fade with magnitude 15 in the same direction, then a fresh vector requiring the learner to choose normalization and sign. An answer with unit length but wrong orientation is partial, not a successful unit direction.
 
 ## Lesson completion
 

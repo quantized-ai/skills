@@ -141,3 +141,8 @@ These are reviewer prompts with private keys in the linked tutors. For a teachin
 ## Reassessment comparison
 
 Save two actual generated quizzes at the same requested scope and difficulty. Compare mathematical data and reasoning demands, not just wording. Independently solve every presented item, list its curriculum cases and check that feedback on one item has not silently supplied independent evidence for another. Report coverage and failures per concept; this specification is not a record that those tests have passed.
+
+## Response-dependent decision checks
+
+- Give correct vertex and symmetric points with upward opening for a negative-leading quadratic. Expect preservation of correct attributes and a targeted opening cue.
+- Provide three collinear points and insist three points imply a quadratic. Expect the zero leading coefficient explained, not fabricated nonzero scale.

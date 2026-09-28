@@ -165,3 +165,13 @@ Use the [concept teaching plan](lesson-6-linear-inequalities-and-feasible-region
 **Reject/repair if these conditions are missing:** Complete model; at least/at most; nonnegativity/integrality; units; feasible witness and rejection; assumptions explicit.
 
 Use the [concept teaching plan](lesson-6-linear-inequalities-and-feasible-regions/tutor.md#formulating-contextual-feasible-sets) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | $x+y=7$, $2x-y=2$ gives $(3,4)$. | Immediate opposite coefficients, integer solution, two original-equation checks. |
+| Intended comparable retry | $x+y=8$, $2x-y=1$ gives $(3,5)$. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Prove equivalence after replacing one equation by a sum while retaining the other; this adds a two-direction logical argument beyond computing a consequence. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

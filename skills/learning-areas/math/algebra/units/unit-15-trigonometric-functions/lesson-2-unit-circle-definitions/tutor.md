@@ -98,6 +98,12 @@ Require quadrant signs, period/least-period distinction, parity identities and d
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+At unit-circle point $(-3/5,4/5)$, cosine is the horizontal coordinate $-3/5$, sine the vertical $4/5$, and tangent is $(4/5)/(-3/5)=-4/3$. Reflecting across the horizontal axis gives $(-3/5,-4/5)$: cosine unchanged, sine and tangent negated. A half-turn instead negates both coordinates and preserves their quotient.
+
+If tangent is $3/4$, cue “Which coordinate is the denominator, and what sign must the quotient have?”; next set up $y/x$ using the given coordinates; then simplify the denominator's sign, leaving magnitude. Fade with $(5/13,-12/13)$ (tangent $-12/5$). At $(0,1)$, do not assign tangent a large finite value: division by zero excludes that input and every coterminal or half-turn-related angle $\pi/2+k\pi$.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

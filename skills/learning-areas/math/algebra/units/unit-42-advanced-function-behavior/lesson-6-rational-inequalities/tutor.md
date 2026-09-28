@@ -44,7 +44,7 @@ Curriculum reference: **Sign analysis for rational inequalities** in [lesson.md]
 - **Diagnostic key:** No; the direction changes when x−1 is negative and x=1 may be excluded.
 - **Worked-example prompt:** Solve (x-3)/(x+2)≥0.
 - **Worked model and reasoning:** Critical inputs -2 and 3; signs are positive, negative, positive on the three intervals. Solution $(-\infty,-2)\cup[3,\infty)$. Denominator zero is excluded even in a non-strict inequality.
-- **First hint:** Test a point in each interval before multiplying by x+2.
+- **First hint:** Could multiplying by this denominator reverse the inequality?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include all/no-solution identities, isolated allowed zeros and contextual intersections; preserve domain holes in set notation.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Keep the isolated zero after the interval analysis
+
+For $(x-2)^2/(x+1)\le0$, the numerator is positive except at 2, where it is zero; it never becomes negative. Thus the fraction is negative when $x<-1$, positive on $(-1,2)$ and $(2,\infty)$, undefined at $-1$, and zero at 2. The complete set is $(-\infty,-1)\cup\{2\}$. Even multiplicity explains why the sign does not flip at 2.
+
+If the learner omits 2, ask whether equality is allowed and whether the original expression is defined there. If they flip signs across 2, cue the sign of a square → supply test inputs 1 and 3 → show the squared numerator is positive at one, leaving the other. Fade with $(x+3)^2/(x-1)\le0$, whose solution is $(-\infty,1)$ because its zero lies inside the negative interval. This is a useful contrast, but an isolated-zero retake must place the zero in the positive-denominator region again.
 
 ## Lesson completion
 

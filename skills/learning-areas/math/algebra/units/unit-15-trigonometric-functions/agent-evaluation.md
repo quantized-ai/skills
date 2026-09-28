@@ -159,3 +159,10 @@ These are reviewer prompts with private keys in the linked tutors. For a teachin
 ## Reassessment comparison
 
 Save two actual generated quizzes at the same requested scope and difficulty. Compare mathematical data and reasoning demands, not just wording. Independently solve every presented item, list its curriculum cases and check that feedback on one item has not silently supplied independent evidence for another. Report coverage and failures per concept; this specification is not a record that those tests have passed.
+
+## Response-dependent decision checks
+
+- Submit an equivalent sine model when the private key uses cosine. Expect feature checks and acceptance rather than exact-form matching.
+- Present a correct tangent branch connected across an asymptote. Expect preservation of anchors but explicit correction of the undefined input and connection.
+
+- On a phase-shift task for $2\sin(3x-\pi)+1$ without a specified principal convention, submit right shift $\pi$. Expect acceptance because it differs from $\pi/3$ by the full period $2\pi/3$, with justification elicited only as required by the prompt.

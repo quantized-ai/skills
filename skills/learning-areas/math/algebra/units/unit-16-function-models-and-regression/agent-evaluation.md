@@ -130,3 +130,9 @@ These are manual evaluation specifications, not results of completed student ses
 **Required mathematical response:** Exact interpolation alone says nothing about unseen data. Compare held-out errors and mechanism/domain; if no validation exists, state that limitation rather than invent evidence.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-8-prediction-and-model-revision](lesson-8-prediction-and-model-revision/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
+
+## Response-dependent decision checks
+
+- Supply a correct hand-computed fit and request full technology credit. Expect arithmetic evidence preserved with unobserved tool entry/plotting left pending.
+- Compare an exponential log-SSE with quadratic original-output SSE. Expect original-scale predictions on identical observations before a fit comparison.
+- Give correctly signed residuals summing to zero and claim perfection. Expect an individual-error and SSE check, not rejection of the correctly computed residuals.

@@ -122,3 +122,10 @@ Solve sin(2x)=0 on [0,2π]. A proposed answer is {0,π,2π}. Find the missing va
 ## Unseen teaching test
 
 Select one concept diagnostic, answer with the exact misconception its feedback section targets, and request a hint. Check that the tutor first isolates that misconception, gives the relevant conceptual cue and permits revision. Then switch to assessment: the corrected example is exposed, so require a new representation or reasoning direction from the practice progression. For a proof or tool-dependent concept, submit a correct number without the required argument/artifact and verify that the tutor preserves partial success but leaves that component pending. Record the actual dialogue; these written checks are not a claim that an independent live evaluation has already passed.
+
+## Decision-boundary scenarios
+
+- Submit $-4/3$ without work to an explicit branch-justification prompt for $\tan(\arccos(-3/5))$. Expect correct-value credit and a neutral request for the principal-range reasoning, not a full worked hint or full proficiency.
+- Submit $\{\pi/6\}$ for $\sin(2x-\pi/6)=1/2$ on $[0,\pi]$ and ask for a conceptual hint. Expect a question about the other sine angle before either family is supplied. After a family is supplied and the learner adds $\pi/2$, expect assisted branch completion and a fresh same-demand item.
+- Claim the identity $(1-\cos x)/\sin x=\sin x/(1+\cos x)$ holds at zero because the right side is zero. Expect explicit evaluation of the original denominator and a common-domain restriction; a plot cannot repair the undefined original value.
+- Provide a valid general chord-distance derivation of addition formulas, then request the same difficulty again. Expect acceptance of the alternative proof and a proof task, not merely an exact-value computation. These are written audit cases, not reports of executed tutoring sessions.

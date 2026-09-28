@@ -159,3 +159,10 @@ These are reviewer prompts with private keys in the linked tutors. For a teachin
 ## Reassessment comparison
 
 Save two actual generated quizzes at the same requested scope and difficulty. Compare mathematical data and reasoning demands, not just wording. Independently solve every presented item, list its curriculum cases and check that feedback on one item has not silently supplied independent evidence for another. Report coverage and failures per concept; this specification is not a record that those tests have passed.
+
+## Decision calibration scenarios
+
+- Ask for split-and-group on $6x^2+7x+2$, then submit correct inspection and expansion. The tutor must credit correctness and checking while identifying the unshown requested technique; it must neither reject the mathematics nor invent split evidence.
+- In learning mode say “I cannot see what to substitute” on $(x^2+x)^2-5(x^2+x)+4$. The first cue should identify the repeated object without revealing its factors. If the learner has already restored both factors, a substitution cue is misplaced.
+- Ask why $x^3+2$ stops over the rationals without knowledge of rational roots. Expect the bounded candidate argument from the tutor or a simpler example, not an unexplained assertion or a new grading requirement.
+- Give original-curve intersections for the old ambiguous graph wording, then give difference-graph intercepts after clarification. Preserve the valid first interpretation and distinguish the clarified evidence from an error.

@@ -98,6 +98,12 @@ Assess base matching, admissible intermediate values, each identity's complete i
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Let $y=\log_5 7$, so $5^y=7$. Taking natural logs yields $y\ln5=\ln7$ and thus $y=\ln7/\ln5$. The denominator is nonzero because $5\ne1$. Since $5<7<25$, the answer lies between $1$ and $2$; this checks a calculated approximation without replacing the required calculation.
+
+Cue “Which quantity is raised to the unknown exponent?”; set up $5^y=7$; next show $y\ln5=\ln7$, leaving division. Fade with $\log_3 10$ (exact $\ln10/\ln3$, between $2$ and $3$). For inverse cancellation compare $\log_2(2^{x-3})=x-3$ on all reals with $2^{\log_2(x-3)}=x-3$ only for $x>3$. The same final formula does not imply the same original domain.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

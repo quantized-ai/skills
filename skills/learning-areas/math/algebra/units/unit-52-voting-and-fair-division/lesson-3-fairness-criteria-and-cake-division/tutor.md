@@ -108,7 +108,7 @@ Execute a two-person valuation example; run three-player no-trim and multiple-tr
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Track the owner of the proposal after each possible trim.
+**First conceptual cue:** Whose most recent cut sets the piece currently being offered?
 
 If the first trimmer gets the piece, follow its ownership marker after later trims. If trimmings disappear, reconcile the residue before dividing among those still waiting.
 
@@ -141,6 +141,13 @@ Assume three equal claimants A, B, C; each has an additive, nonnegative, nonatom
 B values the proposal above a third and trims it to B's third. C still values that piece above a third and trims again. As the last diminisher, C receives the final piece, exactly a third by C's valuation, and leaves the procedure. A and B value the remaining cake at 75 and 70 respectively. Divider-chooser on that remainder guarantees A at least $75/2=37.5$ and B at least $70/2=35$ by their own valuations, both above their original thirds.
 
 The proof uses own values: every nonrecipient values the removed piece at no more than their original third, so enough value remains for the reduced problem. It does not say each participant values another participant's final share equally, and it does not establish envy-freeness for three participants. Ask the student to locate exactly where divisibility and additive valuation are used. For transfer, choose a case where C declines to trim and B therefore receives the piece; do not assign the piece to the last person who merely inspected it.
+
+
+## Adaptive teaching examples
+
+For fairness criteria, hold one person's valuation row fixed while comparing shares. In the two-person table A:(60,40), B:(30,70), each judges their own award against both half of their own total and their value of the other's award. **Conceptual cue:** “Whose preferences are used in this envy comparison?” **Setup:** circle A's row for A's comparison, then B's row for B's. **Worked step:** A compares 60 with 40; leave B's comparison and the unequal normalized satisfactions to the learner. Do not infer Pareto efficiency from these two received values without information about feasible reallocations.
+
+Explain last-diminisher proportionality through what each remaining person knows about the awarded piece. A person who did not trim valued the then-current piece at most one third; later trimming cannot increase that value. An earlier trimmer also values the final smaller piece at most one third. Thus each remaining person's value of the residue is at least two thirds, and divider-chooser gives at least half of that residue, hence at least one third of the original whole. **Fade:** supply the inequalities “awarded ≤1/3, residue ≥2/3” and ask the learner to justify the last step. Include the no-trimmer case and return all trimmings to the residue. This proves proportionality under the stated valuation assumptions, not general three-person envy-freeness.
 
 ## Lesson completion
 

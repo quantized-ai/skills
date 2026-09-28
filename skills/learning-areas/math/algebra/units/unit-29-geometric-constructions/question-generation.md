@@ -105,3 +105,13 @@ Use the [concept teaching plan](lesson-4-triangle-circles-and-exterior-tangents/
 **Reject/repair if these conditions are missing:** Exterior/on/interior cases; auxiliary circle; both tangent points; right-angle theorem; observed construction evidence.
 
 Use the [concept teaching plan](lesson-4-triangle-circles-and-exterior-tangents/tutor.md#tangents-from-an-exterior-point) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Construct the perpendicular bisector of length-6 AB using equal radius-4 arcs. | Both supply an intersecting radius and require the same actual artifact and equidistance justification. |
+| Intended comparable retry | Construct the perpendicular bisector of length-8 AB using equal radius-5 arcs. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Remove the supplied radius and require a second exact realization plus a justification of failure at half-length. This adds choice and execution breadth; it is not merely a numerical retake. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

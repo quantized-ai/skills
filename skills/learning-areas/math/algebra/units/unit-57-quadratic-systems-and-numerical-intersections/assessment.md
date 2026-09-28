@@ -43,3 +43,17 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 Use the unit-specific evidence requirements and lesson routing in [agent-guide.md](agent-guide.md#evidence-specific-to-this-unit), then select missing cases from each relevant tutor’s Assessment case checklist. The separate diagnostics, lesson reasoning activities and supplemental worked comparisons are additional private calibration material; they are not unseen test items once discussed. Track the actual case and representation covered, and report remaining cases explicitly.
 
 A learner can correctly reject an invalid model or unsupported conclusion without supplying a numerical answer. Conversely, a correct number does not establish an omitted justification, practical execution or completeness claim. Use the unit’s [adversarial scenario](agent-evaluation.md#adversarial-transfer-scenario) to check this distinction before treating a generated item as a reliable assessment.
+
+## Annotated learner-response calibration
+
+| Learner response | Credit and next evidence |
+| --- | --- |
+| Rectangle constraints yield “\(x=3,7\)” with no partner coordinates on an ordered-pair task. | Correct eliminated-variable roots; recover \((3,7),(7,3)\). Do not infer inability if coordinates were never requested. |
+| Substituting \(y=0\) into \(xy=0\) gives “all points in the plane.” | Identity recognized, original line discarded. The solution is \(\{(x,0):x\in\mathbb R\}\). |
+| For \(y=0,xy+x=2\), uses a quadratic discriminant. | Reclassify the actual reduced linear equation \(x=2\); one point \((2,0)\). |
+| Reports 1.415 with bracket \([1.41,1.42]\) for the positive root of \(x^2=2\), error at most .005. | Supported input approximation. Separately check any requested output tolerance and whether all real roots were asked for. |
+| “Opposite signs of \(1/x\) at -1 and 1 prove a root.” | Endpoint computations may be right; continuity assumption fails and zero is outside the domain. |
+| “No sign change, so \((x-1)^2\) has no root.” | Search rule incomplete; tangent root 1 is missed. |
+| “Two quadratic relations can meet at most twice.” | Scope false; the four intersections of \(x^2+y^2=5,xy=2\) provide a counterexample. |
+
+Credit exact solutions and valid numerical solutions according to the requested form and precision. A plot description without an inspected graph is not executed graphical evidence. Record supplied brackets and setups as assistance rather than independent discovery.

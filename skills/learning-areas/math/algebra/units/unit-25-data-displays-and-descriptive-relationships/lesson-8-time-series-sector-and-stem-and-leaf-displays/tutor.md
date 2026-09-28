@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** At times 0,1,4, readings 2,3,9 must have horizontal gaps 1 and 3. Equal spacing would distort rate impressions. A sector display with counts 2,3,5 uses 72°,108°,180°; categories must sum to the whole.
 
-**Misconception response and hint ladder:** If every time gap is drawn equally, ask how much time elapsed in each; next mark times on a numerical axis. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If every time gap is drawn equally, ask how much time elapsed in each; next mark times on a numerical axis.
 
 **Practice progression:** Sector/time reading → construct → critique omissions/truncation or misleading styling. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For values 1.2,1.5,2.1, key 1|2=1.2 permits stems 1 leaves 2,5 and stem 2 leaf 1. A histogram might preserve bins but loses exact values; a box plot loses multiplicities. Choose the display by the question.
 
-**Misconception response and hint ladder:** If repeated leaves are removed, ask whether the number of observations still matches; next count original and displayed entries. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If repeated leaves are removed, ask whether the number of observations still matches; next count original and displayed entries.
 
 **Practice progression:** Positive integers → decimals/declared negative convention → compare alternative displays. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include repeated values, stated precision, negative stem conventions, missing categories and irregular times; compare what a histogram loses versus a stem display or box plot.
+
+## Decision rehearsal and fading
+
+**Spacing and multiplicity carry information.** Readings at times $0,2,6$ hours are $3,7,15$. Time gaps are 2 and 4, and changes 4 and 8, so both interval rates are 2 units/hour. Equal horizontal spacing would falsely suggest the second rate is larger. Use a numerical time axis, and explain that joining observations assumes an interpolation between them.
+
+If the learner spaces all times equally, cue “How many hours belong between the second and third readings?” Next mark ticks from 0 through 6; then place the time-2 point and leave time 6. For a stem-and-leaf display of $12,14,14,21$, key $1\mid2=12$ and leaves $2,4,4$ on stem 1 retain the repeated 14. Fade to $13,13,17,22$ with the learner writing the key and preserving all four observations. A box plot alone cannot recover those duplicates.
 
 ## Evidence, feedback and handoff
 

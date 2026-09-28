@@ -35,3 +35,14 @@ These original keyed probes combine or stress concepts. They are calibration ref
 **Prompt:** Does squaring r=2 automatically give an equivalent signed-radius polar equation r²=4? Explain as pairs and point sets.
 
 **Key and required reasoning:** Coordinate-pair sets differ: r²=4 permits r=-2. With all real angles both represent the same circle of radius 2 in the plane. Restricted angle intervals can change that conclusion, so verify point sets under the stated domain.
+
+## Response calibration
+
+| Learner work on an explicit reasoning task | Judgment and next action |
+| --- | --- |
+| Converts $(-2,-2\sqrt3)$ to $(4,-2\pi/3)$ under $(-\pi,\pi]$, without reconstructing coordinates as requested. | Correct representation, incomplete requested verification. Ask for the two component checks without supplying them. |
+| Uses $(4,4\pi/3)$ when no angle interval was specified. | Valid equivalent representation. Do not impose an unstated principal convention; clarify it for later tasks. |
+| Converts $r=4\cos\theta$, $0\le\theta\le\pi/2$, to the full circle only. | Circle algebra is correct; locus restriction is incomplete. Preserve conversion evidence and ask whether $(2,-2)$ is attained. |
+| Gives $1\pm i\sqrt3,-2$ for $w^3=-8$ using rectangular factorization with a justified complete quadratic solution. | Valid alternative complete method. If De Moivre derivation is separately requested, that component still needs its own evidence. |
+| Supplies all roots after the tutor provides $3\phi=\pi+2k\pi$. | Assisted enumeration; keep any earlier unaided modulus reasoning and reassess the argument family on a fresh task. |
+| Describes the correct rose but has not produced or used a plotting tool. | Symbolic/tracing evidence may count; the technology requirement remains unassessed. |

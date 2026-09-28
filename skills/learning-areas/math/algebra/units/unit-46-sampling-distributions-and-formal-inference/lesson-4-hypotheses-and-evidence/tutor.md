@@ -126,6 +126,12 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
 
+## Keep the chosen tail fixed when the observation points against it
+
+For a preselected alternative $\mu>100$ and a valid standard-normal test statistic $z=-2$, the upper-tail p-value is $P(Z\ge-2)\approx0.97725$. A two-sided p-value is about 0.04550, but halving it would produce the lower tail, which is the wrong direction for the preselected question. The observed mean lies below the null, so it is not evidence that the mean exceeds 100.
+
+If the learner reports 0.02275, ask which side of the null the alternative predicts. Then supply a null-centered number line with the observed $-2$ marked; finally shade the upper tail and leave its probability. Fade with a positive statistic and a preselected lower-tail question, then remove the sketch. A small p-value still says neither how large the effect is in physical units nor how likely the null is to be true. Numerical p-values must come from a supplied verified value or actual tool/table calculation.
+
 ## Lesson completion
 
 Mark this lesson complete only when every concept and its explicit checklist are **Secure in this session** under the [shared guide](../agent-guide.md#evidence-and-completion). Summarize what the learner independently demonstrated, what required help and the next missing case. A short sample or exposed worked example cannot certify the lesson.

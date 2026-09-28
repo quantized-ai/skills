@@ -98,6 +98,12 @@ Assess repeated-root and no-real-root reasoning, all possible set types, equalit
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $-2(x-2)(x+1)\ge0$, order roots $-1,2$. On the three open intervals the factor pairs have signs $(-,-),(-,+),(+,+)$; multiplying by $-2$ yields $-,+,-$. The middle interval qualifies and equality includes both roots, giving $[-1,2]$. The roots locate boundaries; they are not the whole solution.
+
+If a learner selects the exterior, cue “What does the negative multiplier do to each product sign?”; next supply the factor-sign row; only then work one interval, leaving the others and endpoints. Fade with $(x-1)(x-4)\le0$ (key $[1,4]$). Compare $(x-2)^2\le0$, where only $2$ works, and $-(x-2)^2\le0$, where every real input works. For these global square-sign cases, a correct nonnegativity argument is sufficient without manufacturing three distinct-root regions.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

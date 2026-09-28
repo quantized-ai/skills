@@ -60,3 +60,15 @@ Required coverage: Identify the precise information gap, repair claim language, 
 **Check before release:** Recompute every percentage from its denominator; reconstruct the sampling/assignment procedure from the prompt and check that the key does not infer missing design facts. If asking for a report, prepare separate criteria for question, method, data/display, limitations and audience.
 
 A second pass must target the likely failure above, not simply repeat the same arithmetic. Retain the checked result, decisive assumption and accepted equivalent responses before exposing the task.
+
+## Concrete demand anchors
+
+| Role | Scenario and checked judgment | Demand |
+| --- | --- | --- |
+| Routine design classification | Randomly select 10 students within every grade: stratified sampling, provided each grade frame and random selection are specified. | Identify the mechanism and explain why it is stratified. |
+| Comparable intended retake | Randomly select 8 employees within every department: stratified under the same frame assumptions. | Same selection structure and explanation; context change alone is not evidence of new reasoning. |
+| Higher demand | Equal samples from groups of population sizes 100 and 300, observed means 10 and 20: weighted target mean estimate 17.5, pooled sample mean 15. | Adds unequal selection fractions and target-population weighting. |
+| Unit-of-assignment transfer | Randomly assign 12 trays with 8 seedlings each, six trays per fertilizer. | Twelve experimental units, six per treatment; 96 measurements do not create 96 independent assignments. |
+| Reporting transfer | Compare 20/25 and 30/100 in self-selected groups. | Rates 80% and 30%, difference 50 percentage points; causal effect remains unsupported. |
+
+Label synthetic scenarios and supplied summaries explicitly. A matched retake preserves whether the learner must classify, design, actually implement, or report: a proposal cannot stand in for an executed collection or oral presentation.

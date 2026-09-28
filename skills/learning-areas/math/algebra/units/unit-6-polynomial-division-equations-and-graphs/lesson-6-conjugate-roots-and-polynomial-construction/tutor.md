@@ -98,6 +98,12 @@ Require coefficient-system consistency, least/fixed-degree interpretation, corre
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Construct the least-degree real polynomial with roots $1,2i$ and $p(0)=-12$. Real coefficients force $-2i$, giving $p(x)=a(x-1)(x^2+4)$. At zero, $-4a=-12$, so $a=3$ and $p=3x^3-3x^2+12x-12$. Each required root and the normalizing value now checks.
+
+If a learner uses only $(x-1)(x-2i)$, cue “Which hypothesis forces a partner?”; then list $1,2i,-2i$; only next multiply the conjugate factors to $x^2+4$, leaving scale. Fade with least-degree real roots $-1,3i$ and leading coefficient $2$ (key $2(x+1)(x^2+9)$). If normalization instead says $p(1)=0$, preserve the whole family $a(x-1)(x^2+4)$ for nonzero $a$; do not invent $a=1$.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

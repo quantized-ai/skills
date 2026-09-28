@@ -44,7 +44,7 @@ Curriculum reference: **De Moivre powers** in [lesson.md](lesson.md#concepts). I
 - **Diagnostic key:** No; modulus is 2³=8.
 - **Worked-example prompt:** Compute (1+i)^6 and (1+i)^(-2) using polar form.
 - **Worked model and reasoning:** $1+i=\sqrt2\operatorname{cis}(\pi/4)$; sixth power $8\operatorname{cis}(3\pi/2)=-8i$, inverse square $\tfrac12\operatorname{cis}(-\pi/2)=-i/2$. Repeated multiplication proves positive powers; inverse multiplication gives negative ones for nonzero inputs.
-- **First hint:** Raise the modulus and multiply the argument separately.
+- **First hint:** What repeats geometrically when the same complex multiplier acts several times?
 
 #### Learn
 
@@ -83,7 +83,7 @@ Curriculum reference: **Complete sets of complex roots** in [lesson.md](lesson.m
 - **Diagnostic key:** Three, spaced by 2π/3 in argument.
 - **Worked-example prompt:** Find and verify every fourth root of -16.
 - **Worked model and reasoning:** Roots are $2\operatorname{cis}(\pi/4+k\pi/2)$ for k=0,1,2,3, equivalently $\pm\sqrt2\pm i\sqrt2$. Each fourth power is -16; roots are equally spaced and distinct. Zero has one distinct nth root, zero, with multiplicity n in z^n.
-- **First hint:** Add all full turns to the original argument before dividing it by four.
+- **First hint:** Can different root angles yield the same point after raising each candidate to the fourth power?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Vary root order and complex target, include roots of unity and zero; verify completeness and distinguish distinct roots from multiplicity.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Why enumerating the angles is complete
+
+For $w^3=-8$, the modulus equation is $\lvert w\rvert^3=8$, so $\lvert w\rvert=2$. The argument satisfies $3\phi=\pi+2k\pi$, giving angles $\pi/3,\pi,5\pi/3$ and roots $1+i\sqrt3,-2,1-i\sqrt3$. Every root must satisfy these modulus and angle conditions; values of $k$ differing by 3 repeat a full turn. This establishes completeness, beyond merely checking three powers.
+
+If only $-2$ appears, ask whether a nonreal point can triple its angle to the negative real axis. Then supply $3\phi=\pi+2k\pi$; finally compute the $k=0$ root and leave the other two. If three valid roots are listed with a duplicate, compare arguments modulo $2\pi$ instead of reteaching De Moivre. Fade by providing the full argument family for $w^3=8$ but not the roots; on a later fresh task require that family independently. Do not count this supported enumeration as unassisted completeness evidence.
 
 ## Lesson completion
 

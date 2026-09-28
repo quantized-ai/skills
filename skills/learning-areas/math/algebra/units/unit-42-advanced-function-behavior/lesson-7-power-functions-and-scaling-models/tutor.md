@@ -46,7 +46,7 @@ Curriculum reference: **Rational-power domains and graphs** in [lesson.md](lesso
 - **Diagnostic key:** Reduce first: 2/6=1/3, so the real cube-root convention permits negative inputs.
 - **Worked-example prompt:** Analyze x^(-2/3) over the reals.
 - **Worked model and reasoning:** Reduced exponent denominator 3 permits negative x, negative exponent excludes zero. Function is even and positive, rising on (-∞,0) and falling on (0,∞); it tends to +∞ at zero and to zero at both infinities, with no zeros.
-- **First hint:** Rewrite as 1/(cube root of x)².
+- **First hint:** What do the reduced denominator and negative exponent say about allowed inputs?
 
 #### Learn
 
@@ -85,7 +85,7 @@ Curriculum reference: **Real powers and transformed graphs** in [lesson.md](less
 - **Diagnostic key:** No; the stated real-power convention uses x>0.
 - **Worked-example prompt:** For the real-power positive-input convention, analyze y=2(3-x)^(√2)-1.
 - **Worked model and reasoning:** Base must be positive, so x<3 unless a continuous extension is explicitly chosen. Parent u>0 maps by x=3-u and y=2u^(√2)-1. As x→3⁻, y→-1; as x→-∞, y→∞; it decreases.
-- **First hint:** Apply the domain to the entire transformed base.
+- **First hint:** Which values may the parent power function accept as its input?
 
 #### Learn
 
@@ -124,7 +124,7 @@ Curriculum reference: **Power-law scaling models** in [lesson.md](lesson.md#conc
 - **Diagnostic key:** No; 2^p=3, so p=ln3/ln2.
 - **Worked-example prompt:** Assume y=kx^p on positive inputs. Observations are (2,12),(6,108). Recover the model and predict at x=4.
 - **Worked model and reasoning:** Ratio 108/12=9 and input ratio 3 give p=2, k=3; prediction 48. General recovery uses log output ratio divided by log input ratio, requiring distinct positive inputs. This fits the assumed family, not a proved law.
-- **First hint:** Take a ratio to eliminate k before taking logarithms.
+- **First hint:** Which comparison removes a common multiplicative scale?
 
 #### Learn
 
@@ -151,6 +151,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Vary noninteger exponents, units and scaling questions; reject repeated/zero/negative inputs for log recovery and qualify extrapolation.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Analyze the negative branch from the reduced root
+
+For $x^{-1/3}=1/\sqrt[3]x$, the domain excludes zero and the function is odd. At negative inputs $-8,-1,-1/8$, outputs are $-1/2,-1,-2$: it decreases toward $-\infty$ as $x\to0^-$. For $x^{-2/3}$, squaring the cube root makes both branches positive, and the left branch instead increases toward $+\infty$. Positive-input samples cannot distinguish these negative branches.
+
+If a learner calls both functions even, ask what replacing $x$ by $-x$ does to the reduced root. Then supply the root form; finally evaluate one mirrored pair and leave the general parity explanation. Fade with transformed root forms where the learner must first identify the parent's domain and then move it. In power-law fitting, retain the assumption $y=kx^p$: two positive points determine its parameters within that family but do not establish that the data-generating process follows a power law.
 
 ## Lesson completion
 

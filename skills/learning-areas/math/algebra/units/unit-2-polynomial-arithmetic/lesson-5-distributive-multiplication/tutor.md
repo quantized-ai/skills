@@ -98,6 +98,12 @@ Assess complete pairing, signed collection, polynomial closure and a full recons
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $(x-2)(x^2+3x+4)$, the first multiplier contributes $x^3+3x^2+4x$ and the second contributes $-2x^2-6x-8$. Every term in one factor multiplies every term in the other, giving $x^3+x^2-2x-8$. Degrees predict $3$ and leading coefficient $1$ but cannot detect a missing $-6x$.
+
+If a learner reports $x^3+3x^2+4x-8$, cue “Which terms did $-2$ multiply?”; then set up $x(x^2+3x+4)-2(x^2+3x+4)$; next work $-2(x^2+3x+4)=-2x^2-6x-8$, leaving collection. Fade on $(x+2)(x^2-x+3)$ by providing the two row labels only; key $x^3+x^2+x+6$. For monomial products, explicitly separate coefficients and like-base powers: $(-2x^2)(3x^3)=-6x^5$. Exponents add because five factors of $x$ are multiplied, not because the coefficients add.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

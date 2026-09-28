@@ -98,6 +98,12 @@ Assess retained factor, initial value, update bound, explicit agreement and disc
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $a_1=3,r=-2$, multiply the previous value repeatedly: $3,-6,12,-24$. The explicit rule is $a_n=3(-2)^{n-1}$ for integer $n\ge1$; the exponent counts the number of updates since the initial term. The negative ratio alternates signs, unlike positive percent decay.
+
+If the learner writes $3(-2)^n$, cue “How many updates have occurred at the initial index?”; next evaluate the proposed rule at $n=1$; then set the update count to $n-1$, leaving verification. Fade on $a_0=80,r=3/4$ (rule $80(3/4)^n$, next values $60,45$). For ratio zero, preserve the initial value explicitly and let every later term be zero; attempting to infer the ratio from a subsequent $0/0$ is invalid.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

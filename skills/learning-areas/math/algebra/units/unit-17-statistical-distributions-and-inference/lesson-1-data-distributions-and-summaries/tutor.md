@@ -80,3 +80,9 @@ Vary skew, gaps, clusters and outliers; ask for a display plus numerical summari
 Track each named concept, the case/representation observed, the student's actual reasoning, correctness and assistance. A number without the required units, condition, explanation, proof or actual artifact supports only the demonstrated portion. Accept equivalent valid methods; recompute unexpected answers before judging them. A faulty generated task is removed from the record and replaced without penalty.
 
 Use the shared guide's session evidence labels. Before declaring this lesson secure, check every required method/case, include independent transfer and keep observed construction/tool execution separate from a described plan. Report demonstrated strengths, helped attempts, remaining cases and one concrete next task. The local evidence rule is not a validated retention measure. See [private calibration bank](../assessment.md) and [sources and limits](../teaching-sources.md).
+
+## Decision model and graduated practice
+
+For measurements $2,4,6$, mean is $4$ and deviations are $-2,0,2$. Squared deviations total $8$. Population SD is $\sqrt{8/3}$; sample SD is $\sqrt{8/(3-1)}=2$. State which population or sampling purpose justifies the denominator. Squaring removes negative signs, and the final square root returns the original units.
+
+Cue “Are these all population members or a sample estimating spread?”; next set up both denominators while keeping the same sum of squares; then compute the sample variance $4$, leaving SD and units. Fade by shifting every value up $10$: mean becomes $14$, sample SD remains $2$. Multiplying by $-3$ instead gives mean $-12$, SD $6$, because spread uses the scale's magnitude. For $2,3,3,4,18$, mean $6$ and median $3$ reveal why a high extreme changes the mean more; retain a display and spread discussion when judging a typical-value summary.

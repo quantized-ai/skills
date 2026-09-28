@@ -202,3 +202,14 @@ The A/B examples above illustrate selected cases. The following checklist identi
 | [Verifying both compositions on their domains](lesson-5-restrictions-and-inverse-verification/tutor.md#verifying-both-compositions-on-their-domains) | Assess both identities, explicit input sets, admissible intermediate outputs and justified sign simplification. Numeric checks may expose failure but a full identity/domain argument establishes the claim. |
 | [Exponential and logarithmic inverses](lesson-6-inverse-function-families/tutor.md#exponential-and-logarithmic-inverses) | Require correct operation reversal, base/argument conditions, full set exchange, both identity checks and reflected features. Do not infer a unique inverse of a degenerate constant formula. |
 | [Inverses of square-root and cubic functions](lesson-6-inverse-function-families/tutor.md#inverses-of-square-root-and-cubic-functions) | Assess original range, inherited inverse domain, correct formula and sets, both identities and the even/odd-root distinction. Branch restrictions survive algebraic simplification. |
+
+## Annotated response calibration
+
+| Prompt and actual response | Evidence and next action |
+| --- | --- |
+| Invert $(x+1)/(x-2)$: “$(2x+1)/(x-1)$.” | Correct formula; requested original/inverse sets and both checks remain incomplete. Do not confuse formula correctness with full inverse proficiency. |
+| Derive a linear inverse by an operation diagram: undo $+3$, then undo multiplication by $2$. | Valid reasoning for $(x-3)/2$; accept equivalent algebraic or verbal reversal with domain evidence. |
+| Invert $(x-2)^2+1$ on $x\le2$: “$2+\sqrt{x-1}$.” | Correct magnitude equation but wrong branch for the chosen original domain. Target the range of the proposed inverse. |
+| After the tutor supplies $z=\sqrt x$ as the inner output, learner excludes $z=1$ for outer $1/(z-1)$. | Assisted composition setup with correct outer-admissibility reasoning; reassess both-stage setup independently. |
+
+Correct answers without explanation establish results only. If reasoning was never requested, collect it neutrally; if explicitly requested but omitted, record incomplete required evidence. Self-correction before mathematical feedback stays independent; completion after a mathematical cue is assisted.

@@ -152,6 +152,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
 
+## Basis images explain the columns and the area
+
+A shear sends $e_1$ to $(1,0)$ and $e_2$ to $(2,1)$, so its matrix is $H=\begin{pmatrix}1&2\\0&1\end{pmatrix}$. For $(x,y)=xe_1+ye_2$, its image is $(x+2y,y)$. The image unit square is a parallelogram with base 1 and height 1, so its area is unchanged even though one column has length $\sqrt5$; $\det H=1$ agrees.
+
+If the basis images were entered as rows, ask the learner to multiply their proposed matrix by $e_1$. Next supply the expansion $xe_1+ye_2$; finally show $xT(e_1)+yT(e_2)$ and leave matrix assembly. Fade by giving only two basis-image arrows, then request the matrix and an independent point check. For composition, use a nonsymmetric point to distinguish $RH$ from $HR$; a coincident output on zero proves nothing because every linear map fixes zero.
+
 ## Lesson completion
 
 Apply [the shared evidence rule](../agent-guide.md#evidence-and-completion) to each concept and its listed cases. Report which methods and representations were independently demonstrated, which needed support, and what is still untested. Do not mark the lesson secure from a short sample or an unobserved graph/proof/tool action. Offer the next lesson or focused repair according to the student's request and evidence.

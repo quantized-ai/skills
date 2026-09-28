@@ -56,7 +56,7 @@ Classify connected graphs with 0,2 and 4 odd vertices; explicitly build a circui
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Check connectivity and count odd degrees separately.
+**First conceptual cue:** Can the route reach every edge, and where would an unpaired arrival or departure occur?
 
 If a circuit begins at an odd vertex, ask where its unmatched arrival/departure goes. If a drawn route seems right, count every edge occurrence rather than trusting its shape.
 
@@ -124,6 +124,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Valid Eulerization, weighted route cost and justified optimality versus a feasible candidate.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+Explain Euler parity through paired entrances and exits, with the two unmatched endpoints of an open trail. **Conceptual cue:** “Where would an arrival be paired with a departure?” **Setup:** tally degrees and separately mark the component containing each edge. **Worked step:** in AB, BC, CA, CD, C and D are the odd vertices; let the learner trace and cross off every edge. A disconnected all-even graph fails before route construction; isolated vertices do not obstruct coverage of its edges.
+
+For a four-odd-vertex inspection example, use the complete undirected graph AB=1, AC=4, AD=5, BC=2, BD=6, CD=3. Original edge cost is 21. Shortest path distances AC and BD are 3 and 5, not their direct-edge weights 4 and 6. The three pairing costs are AB+CD=4, AC+BD=8, AD+BC=7, giving optimal closed inspection cost 25. One route is A–B–A–C–D–C–B–D–A, duplicating AB and CD. **Fade:** show the three pairings but hide their costs; next remove the pairing list. Require both the route's edge ledger and the comparison that certifies minimum cost. A smaller-looking drawing is not that comparison.
 
 ## Lesson completion
 

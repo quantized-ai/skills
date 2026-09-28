@@ -121,3 +121,13 @@ Use the [concept teaching plan](lesson-4-triangle-congruence-criteria/tutor.md#s
 **Reject/repair if these conditions are missing:** Right-angle premise; hypotenuse identification; criterion before CPCTC; AAS reasoning; reject AAA/SSA as general congruence tests.
 
 Use the [concept teaching plan](lesson-4-triangle-congruence-criteria/tutor.md#aas-hypotenuse-leg-and-corresponding-parts) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Rotate $(5,2)$ clockwise $90^\circ$ about $(2,1)$: $(3,-2)$. | Nonorigin recentering, same relative vector, quarter-turn and restoration. |
+| Intended comparable retry | Rotate $(4,3)$ clockwise $90^\circ$ about $(1,2)$: $(2,-1)$. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Compose a translation and reflection, invert their order, and map all vertices of an asymmetric triangle. A single point image does not cover full-figure correspondence. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

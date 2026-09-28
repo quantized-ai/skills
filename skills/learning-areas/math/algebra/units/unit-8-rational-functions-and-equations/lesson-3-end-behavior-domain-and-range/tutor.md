@@ -98,6 +98,12 @@ Assess original domain, actual attainable range and consistent three-notation de
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Rewrite $(2x+1)/(x-3)=2+7/(x-3)$. The remainder tends to zero, positive on the right and negative on the left, explaining approach to $y=2$ from above and below. Solving $y=2+7/(x-3)$ gives $x=3+7/(y-2)$ for every $y\ne2$, proving range $\mathbb R\setminus\{2\}$ rather than inferring it from the asymptote alone.
+
+If the learner excludes every horizontal-asymptote height, cue “Can an allowed input attain that output?”; next set $x/(x^2+1)=0$; then note the denominator is positive, leaving the numerator equation $x=0$. Fade by finding the range of $3/(x+2)-4$, initially supplying $y+4=3/(x+2)$ (key excludes $-4$). A hole removes an output only when no allowed input still produces it.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

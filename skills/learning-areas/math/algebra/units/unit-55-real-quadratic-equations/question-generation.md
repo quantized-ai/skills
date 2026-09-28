@@ -72,3 +72,17 @@ Required coverage: Formulation, actual degree, method, original checks and justi
 **Check before release:** Expand independently, compute discriminant, and substitute every candidate into the original equation. Compare factoring, completion and formula where appropriate. Track divisions by variable expressions and any lost cases; apply contextual filtering only after obtaining the algebraic solution set. Use exact radicals before decimal rounding.
 
 A second pass must target the likely failure above, not simply repeat the same arithmetic. Retain the checked result, decisive assumption and accepted equivalent responses before exposing the task.
+
+## Task demand anchors
+
+Vary the reasoning demand, not just the coefficient size. Give the real-number domain and state any method or graph requirement.
+
+| Demand | Anchor and checked result |
+| --- | --- |
+| Direct familiar structure | \((x-2)^2=5\): \(2\pm\sqrt5\). |
+| Comparable retest | \((x+1)^2=3\): \(-1\pm\sqrt3\); same inverse-square demand. |
+| Added decision | \(2x^2-8x+1=0\): \(2\pm\sqrt{14}/2\); learner chooses and explains a method. |
+| Error analysis | Diagnose dividing \(x^2=5x\) by \(x\); recover the lost zero root. |
+| Transfer | For \(kx^2+2x-4=0\), classify \(k=0\) before choosing a quadratic method. |
+
+An exposed worked anchor must be replaced before assessment. Fresh variants should preserve the intended demand and independently checked domain, complete root set, equivalence and contextual admissibility. Do not label an item harder solely because its arithmetic is longer.

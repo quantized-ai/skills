@@ -69,7 +69,7 @@ Curriculum reference: **Phase shift and transformed graphs** in the [curriculum 
 
 **Diagnostic prompt:** Find phase shift and period of $2\sin(3x-\pi)+1$.
 
-**Agent key:** Factor $3(x-\pi/3)$: shift π/3 and period 2π/3, not shift π.
+**Agent key:** Factoring $3(x-\pi/3)$ gives right shift $\pi/3$ and period $2\pi/3$. Right shift $\pi$ is also equivalent because it differs by one whole period; accept it unless the prompt specifies a principal-phase convention.
 
 **Worked example:** Are $\cos x$ and $\sin(x+\pi/2)$ different graphs?
 
@@ -84,7 +84,7 @@ Factor the entire inside affine expression before reading phase shift: Bx+C=B(x+
 
 **First hint:** Has the inside coefficient been factored before reading the shift?
 
-If C alone is read as the shift, solve Bx+C=0. If negative B's direction is ignored, follow the argument through increasing x. If two equivalent phases are marked different, subtract a period or use a sine/cosine identity.
+If the constant term alone is read as the shift, check the learner’s rule by factoring or solving the zero-argument equation. A mistaken rule can coincidentally produce an equivalent phase; compare shifts modulo the period before judging the result. If negative B's direction is ignored, follow the argument through increasing x. If two equivalent phases are marked different, subtract a period or use a sine/cosine identity.
 
 Give only the cue relevant to the observed error; wait for a revision before showing a worked step. Record any mathematical help as assistance.
 
@@ -97,6 +97,12 @@ Compare factored/unfactored rules, signed coefficients, point construction and e
 Assess inside factoring, phase/period distinction, checked anchors and recognition of nonunique equivalent forms. Do not demand one phase answer without declaring a convention.
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
+
+## Decision model and graduated practice
+
+For $y=2\sin(3x-\pi)+1$, factor $3(x-\pi/3)$, giving one convenient right shift $\pi/3$ and period $2\pi/3$. A quarter-period is $\pi/6$. At inputs $\pi/3,\pi/2,2\pi/3,5\pi/6,\pi$, outputs are $1,3,1,-1,1$. These anchors check phase, orientation, amplitude $2$, and midline $1$ together.
+
+Cue “What input makes the sine argument zero?”; next set up $3x-\pi=0$; then factor $3(x-\pi/3)$, leaving the shift and quarter-step construction. Fade with $-3\sin(2t)+5$ (period $\pi$, range $[2,8]$, first quarter-cycle output $2$). Negative amplitude is not a magnitude: report amplitude $3$ and explain the reflection. Cycle frequency is $1/\pi$, while angular frequency is $2$ radians per input unit.
 
 ## Completion and handoff
 

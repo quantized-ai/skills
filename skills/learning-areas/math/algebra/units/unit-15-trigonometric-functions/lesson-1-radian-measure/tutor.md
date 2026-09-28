@@ -98,6 +98,12 @@ Require correct units, exact conversion, integer full-turn adjustment, interval 
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+On radius $4$ cm, clockwise rotation $3\pi/2$ has signed angle $-3\pi/2$ radians, directed arc displacement $-6\pi$ cm, and traveled length $6\pi$ cm if there is no reversal. The angle is arc divided by radius: doubling both lengths preserves it. Converting $225^\circ$ multiplies by $\pi/180^\circ$, giving $5\pi/4$.
+
+Cue “Is this quantity directed or a nonnegative traveled length?”; next set up $s_d=r\theta$ and $s=r|\theta|$ for this single rotation; then substitute the signed angle only, leaving the two outputs. Fade with radius $3$ and counterclockwise angle $4\pi/3$ (length $4\pi$). When a path reverses direction, add each leg's length rather than applying absolute value only to net angle. Coterminal angles share a terminal point, not total traveled length.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

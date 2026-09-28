@@ -83,7 +83,7 @@ Curriculum reference: **Identity proof and common domains** in [lesson.md](lesso
 - **Diagnostic key:** No; it must hold at every input in the specified common domain.
 - **Worked-example prompt:** Prove (1-cos²x)/sin x=sin x and state its common domain.
 - **Worked model and reasoning:** For $\sin x\ne0$, numerator equals $\sin^2x$, so cancellation gives sin x. Domain excludes $x=k\pi$. Agreement at a few values does not prove an identity, and the simplified right side alone has a larger domain.
-- **First hint:** Replace the numerator using an established identity before cancelling.
+- **First hint:** Which known relationship connects this numerator to the denominator?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Mix one-side proofs, false claims and two expressions with different domains; require justification of each division rather than assuming the desired equality.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## A cancellation that changes the available domain
+
+To prove $(1-\cos x)/\sin x=\sin x/(1+\cos x)$ on their common domain, start with $\sin x\ne0$. Multiply the left fraction by $(1+\cos x)/(1+\cos x)$, which is valid there because $\cos x=-1$ would force $\sin x=0$. The numerator becomes $1-\cos^2x=\sin^2x$, and cancellation yields the right side. At $x=0$ the right side is 0 while the original left side is undefined; the proof does not fill the missing value.
+
+If the learner merely states that both sides square to the same expression, request the step establishing matching signs. For a stalled valid one-side proof, cue “Which product uses $1-\cos x$?” → supply the conjugate factor → show $1-\cos^2x=\sin^2x$, leaving cancellation and domain justification. Fade with $\sin x/(1-\cos x)=(1+\cos x)/\sin x$; supply the domain initially, then require its independent derivation on a fresh item.
 
 ## Lesson completion
 

@@ -67,9 +67,9 @@ Curriculum reference: **Connecting zeros, factors, and polynomial equations** in
 
 #### Calibration and worked reasoning
 
-**Diagnostic prompt:** Solve $x^2=3x+4$ by factoring and relate the roots to a graph.
+**Diagnostic prompt:** Solve $x^2=3x+4$ by factoring, check both solutions in the original equation, and give the horizontal intercepts of $f(x)=x^2-3x-4$.
 
-**Agent key:** $x^2-3x-4=(x-4)(x+1)=0$, so $x=4,-1$; these are x-intercept inputs of the difference polynomial.
+**Agent key:** $x^2-3x-4=(x-4)(x+1)=0$, so $x=4,-1$. Original checks give $16=16$ and $1=1$; the specified graph has intercepts $(4,0),(-1,0)$.
 
 **Worked example:** Does a graph in a small window establish that a cubic has no other real zeros?
 
@@ -97,6 +97,14 @@ Translate between equations, factored expressions and real intercept description
 Assess equivalent zero form, factor-to-zero reasoning, complete solutions, original substitution and correct intercept notation restricted to real inputs.
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
+
+## Decision model and graduated practice
+
+Model $(x-2)^2(x+3)=0$: either $x-2=0$ or $x+3=0$, so the distinct solution set is $\{-3,2\}$. The repeated factor does not add another distinct number. Contrast $(x-2)(x+1)=4$: expand and subtract $4$ to obtain $x^2-x-6=(x-3)(x+2)=0$, giving $3,-2$. Substitution in the original product gives $4$ for both.
+
+When a learner sets the original factors equal to zero, cue “What is the complete product equal to?”; next set up $(x-2)(x+1)-4=0$; only then work $x^2-x-6=0$, leaving factorization and original checks. Fade by giving the zero-form setup for $(x-1)(x+2)=4$; the private key is $x=2,-3$. Later use an unassisted fresh equation.
+
+For $x^2=3x+4$, name $f(x)=x^2-3x-4$. Its zeros are $-1,4$ and its intercepts are $(-1,0),(4,0)$. Original checks are $1=1$ and $16=16$. By contrast, intersections of $y=x^2$ and $y=3x+4$ are $(-1,1),(4,16)$. A correct answer to that alternative interpretation of an ambiguous prompt deserves credit; clarify which graph was intended before collecting missing intercept evidence.
 
 ## Completion and handoff
 

@@ -98,6 +98,12 @@ Assess allowed intercept coordinates, zero versus undefined values, complete sig
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $f=(x-1)(x+2)/[(x-1)(x-3)]$, preserve exclusions $1,3$, then reduce to $(x+2)/(x-3)$. At $1$ the reduced value is $-3/2$, so the hole is $(1,-3/2)$; at $3$ the surviving denominator produces a vertical asymptote. The numerator zero $-2$ is allowed, yielding $(-2,0)$; the canceled zero $1$ is not an intercept. At zero, the output is $-2/3$.
+
+Cue “After full cancellation, what remains in the denominator at this input?”; supply the factored form; then cancel one shared factor, leaving the learner to classify both exclusions. Fade with $(x-2)/(x-2)^2$: key $1/(x-2)$ and vertical asymptote $x=2$, with no hole. If only an answer is wrong, request the reduction before diagnosing confusion about cancellation.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

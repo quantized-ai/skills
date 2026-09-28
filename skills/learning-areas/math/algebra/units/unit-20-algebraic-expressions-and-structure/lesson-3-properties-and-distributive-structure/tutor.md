@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $7+(x+3)=(7+3)+x=10+x$ uses associativity and commutativity of addition. Multiplication has corresponding properties; subtraction/division do not. Zero is additive identity, one multiplicative identity.
 
-**Misconception response and hint ladder:** If associativity is claimed for division, ask to compare (12/3)/2 and 12/(3/2); next calculate 2 versus 8. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If associativity is claimed for division, ask to compare (12/3)/2 and 12/(3/2); next calculate 2 versus 8.
 
 **Practice progression:** Identify properties → justify a simplification → refute an invalid operation analogy. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $6x+9=3(2x+3)$ because both terms contain 3. Expanding checks the factorization. For $a(b+c)$, multiplication reaches each addend; distributing a negative factor changes each product sign.
 
-**Misconception response and hint ladder:** If−2(x−5) becomes −2x−10, ask for (−2)(−5); next write both products before combining. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If−2(x−5) becomes −2x−10, ask for (−2)(−5); next write both products before combining.
 
 **Practice progression:** Positive distribution → negative/fractional factor → extract common linear structure. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include associative/commutative/identity/inverse properties with their valid operations, reverse distribution, and examples where division or subtraction cannot be rearranged.
+
+## Decision rehearsal and fading
+
+**Distribute the entire signed factor.** In $-\tfrac12(6x-8)$, write $(-\tfrac12)(6x)+(-\tfrac12)(-8)=-3x+4$. The second product is positive because both factors are negative. Reverse distribution checks $-3x+4=-\tfrac12(6x-8)$ for every real $x$, while a substitution is only a spot-check.
+
+If the learner writes $-3x-8$, cue “Which terms belong to the group being multiplied?” Next provide two blank products $(-\tfrac12)(\square)+(-\tfrac12)(\square)$; then work the first product and leave the second. If both terms were multiplied but the last sign is wrong, focus on that signed product instead. Fade to $-\tfrac23(9x-6)=-6x+4$, then ask the learner to recover one valid common-factor form. Accept any equivalent numerical factorization; the extracted factor need not be the greatest.
 
 ## Evidence, feedback and handoff
 

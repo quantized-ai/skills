@@ -87,3 +87,8 @@ These are reviewer prompts with private keys in the linked tutors. For a teachin
 ## Reassessment comparison
 
 Save two actual generated quizzes at the same requested scope and difficulty. Compare mathematical data and reasoning demands, not just wording. Independently solve every presented item, list its curriculum cases and check that feedback on one item has not silently supplied independent evidence for another. Report coverage and failures per concept; this specification is not a record that those tests have passed.
+
+## Response-dependent decision checks
+
+- Submit one valid triple for a free-variable system. Expect acknowledgment plus a completeness probe rather than treating the triple as the unique solution.
+- Provide a manually derived RREF but claim it came from a calculator. Expect the tool component to remain unobserved unless actual output is available.

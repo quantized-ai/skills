@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** In2(x+4), the outer structure is a product of2 and (x+4), while inside is a sum. Expanding gives 2x+8, but the unexpanded factors remain useful for interpreting two equal groups.
 
-**Misconception response and hint ladder:** If x+4 is called two factors, ask what operation joins them; next contrast (x+4) and 4x. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If x+4 is called two factors, ask what operation joins them; next contrast (x+4) and 4x.
 
 **Practice progression:** Identify parts → nested structure → explain different useful forms. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** 'Three times the sum of p and 7' is3(p+7). By contrast, 'the sum of three times p and 7' is3p+7. At p=1 they give 24 and 10, exposing the role of grouping.
 
-**Misconception response and hint ladder:** If 'less than' order is reversed, ask what amount is being reduced; next use a concrete n before returning to symbols. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If 'less than' order is reversed, ask what amount is being reduced; next use a concrete n before returning to symbols.
 
 **Practice progression:** One operation → reversed subtraction/division → nested grouping/context. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include nested verbal grouping, negative coefficients, products versus sums and contextual variable definitions; ask students to explain a translation in both directions.
+
+## Decision rehearsal and fading
+
+**Parse the outside before the inside.** A delivery costs 4 credits plus 3 credits for each of $n$ boxes. Two identical deliveries cost $2(4+3n)$. Its outermost operation is multiplication with factors 2 and $(4+3n)$; inside the group, 4 and $3n$ are terms. After expansion, $8+6n$ has two terms. Neither expression asserts an equation until an equality is supplied.
+
+For a learner who lists 2, 4, and $3n$ as three additive terms of the original form, ask “Which operation joins the two outer pieces?” Next mark $2\times[4+3n]$; then name the bracketed quantity as one factor and ask for its inner terms. Fade by asking for an expression for three copies of a cost 5 plus 2 per item: $3(5+2n)$. Ask what changes if the fixed fee is charged once for the entire order; the answer $5+6n$ exposes interpretation rather than rote distribution.
 
 ## Evidence, feedback and handoff
 

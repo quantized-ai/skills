@@ -79,3 +79,9 @@ Use the shared guide's session evidence labels. Before declaring this lesson sec
 ### Noisy predictor-transformation activity
 
 Use original pairs $(0,2),(1,4),(4,9),(9,10)$. Transform x to u=√x, producing0,1,2,3, but leave y unchanged. The means are1.5 and6.25; the centered-product sum is14.5 and predictor-square sum5, so b=2.9 and a=1.9. Hence $\hat y=1.9+2.9\sqrt x$. Predictions1.9,4.8,7.7,10.6 give residuals0.1,−0.8,1.3,−0.6 and SSE2.70. Ask for the original-input residual plot and actual transformed-data fitting output. Contrast this with taking logs of y: transforming only the predictor leaves the response error units and minimized SSE scale unchanged.
+
+## Decision model and graduated practice
+
+For $x=0,1,4,9$ and responses $2,5,8,11$, transform only the predictor to $u=0,1,2,3$. The line is $y=2+3u$, hence $\hat y=2+3\sqrt x$ on $x\ge0$. The response and its units stay unchanged, so least squares still minimizes original-response SSE. This transformation does not estimate a hidden shift $h$.
+
+If a learner takes $\sqrt y$ too, cue “Which symbol is the transformed predictor in the stated family?”; next set up pairs $(\sqrt{x_i},y_i)$; then work the pair $(4,8)\mapsto(2,8)$, leaving the others. Fade by giving the fitted $u$-line and asking for original-input predictions. Residuals $1,-1,-1,1$ sum to zero but have a U-shaped pattern; plotting them against the original inputs can expose missed structure. One large residual warrants checking data and context, not automatic deletion.

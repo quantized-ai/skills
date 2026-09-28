@@ -90,3 +90,11 @@ Strategy A guarantees 5. Strategy B pays 100 with probability 0.1 and loses 5 ot
 ## Unseen teaching test
 
 Select one concept diagnostic, answer with the exact misconception its feedback section targets, and request a hint. Check that the tutor first isolates that misconception, gives the relevant conceptual cue and permits revision. Then switch to assessment: the corrected example is exposed, so require a new representation or reasoning direction from the practice progression. For a proof or tool-dependent concept, submit a correct number without the required argument/artifact and verify that the tutor preserves partial success but leaves that component pending. Record the actual dialogue; these written checks are not a claim that an independent live evaluation has already passed.
+
+## Specific evaluator cases
+
+- Submit $3/8$ for four fair trials with exactly two successes. In a value-only prompt expect correct-answer credit and unelicited explanation; in a derivation-plus-simulation prompt expect the missing components explicitly pending.
+- Provide the six equally likely success patterns as an alternative to a combination formula. Expect acceptance. Provide a binomial combination multiplier for first success on trial 3 and expect a stopping-prefix cue before a full worked probability.
+- Supply exact theoretical masses and claim a simulation has been completed. Expect no invented run evidence. If actual waiting-time runs were capped and longer runs discarded, expect explicit recognition of truncation and a repair plan preserving censored outcomes.
+- Give 34.32 as the highest-2.5% cutoff for a normal model with mean 50 and SD 8. Expect a tail-direction cue, then complement setup if needed. A revision after that setup is assisted.
+- Give insured loss cost 130 for the above-cap 1500 loss. Expect payment 900, retained loss 600 and total 630, with expected cost and downside judged separately.

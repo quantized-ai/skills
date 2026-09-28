@@ -102,3 +102,14 @@ These are manual evaluation specifications, not results of completed student ses
 **Required mathematical response:** Old input 0 occurs at newx=−3, so shift left 3; f(x+3)=2x+7. Ask for a mapped point to verify the direction.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-6-linear-models-domains-and-transformations](lesson-6-linear-models-domains-and-transformations/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| I graphed $f(x)=-2x+6$ on $[1,3)$ and called 0 its minimum. | Check attainment: x=3 is excluded. Correct maximum 4 is attained at 1; no minimum is attained. Preserve a correct decreasing-direction judgment. |
+| My transformed equation is $g(x)=2x-7$ from $f(x)=2x+1$ on $[0,3]$, using $g(x)=f(x-2)-4$. Domain stays [0,3]. I did not run a graphing tool. | Credit equation, repair domain to [2,5], and leave required technology execution unassessed. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

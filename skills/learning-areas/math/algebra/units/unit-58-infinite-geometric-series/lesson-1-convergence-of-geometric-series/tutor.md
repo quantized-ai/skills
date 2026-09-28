@@ -125,6 +125,15 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
 
+
+## Adaptive teaching examples
+
+Let \(S_n=a+ar+\cdots+ar^{n-1}\), so \(rS_n=ar+\cdots+ar^n\). Subtract to get \((1-r)S_n=a-ar^n\). This cancellation explains the finite formula when \(r\ne1\); the infinite value requires the extra argument \(r^n\to0\). For \(a=6,r=-1/2\), the first partial sums are 6,3,4.5,3.75: they alternate around 4 with shrinking error. At \(r=-1\), partial sums instead alternate 6,0 without shrinking. Neither averaging those two numbers nor grouping pairs establishes an ordinary limit. With \(r=1\), handle \(S_n=na\) directly; with \(a=0\), every term is zero for every real ratio. Define the first term directly at \(r=0\), avoiding an unnecessary \(0^0\) evaluation.
+
+For \(a=6,r=-1/2\), the signed tail after \(n\) terms is \(4(-1/2)^n\); its magnitude is \(4(1/2)^n\). To make it **less than** \(1/8\), \(n=5\) fails by equality and \(n=6\) succeeds. For **at most** \(1/8\), five terms suffice. Always test the candidate and its predecessor; the rounding rule depends on the strictness of the inequality.
+
+If the learner confuses a term and a sum, cue “Which quantity accumulates everything included so far?” Next show the first three terms and let them form successive sums; work one addition only if needed. For a tail error, ask whether the first omitted contribution is the whole amount omitted. Fade with \(a=2,r=1/3\): sum 3 and remainder magnitude \(3^{1-n}\); strict error below \(1/9\) needs four terms, while nonstrict error permits three.
+
 ## Lesson completion
 
 Mark this lesson complete only when every concept and its explicit checklist are **Secure in this session** under the [shared guide](../agent-guide.md#evidence-and-completion). Summarize what the learner independently demonstrated, what required help and the next missing case. A short sample or exposed worked example cannot certify the lesson.

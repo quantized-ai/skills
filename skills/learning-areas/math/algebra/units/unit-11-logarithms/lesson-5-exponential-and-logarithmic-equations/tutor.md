@@ -98,6 +98,12 @@ Assess original-domain intersection, justified conversion, every candidate check
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $3\cdot2^{2t-1}=15$, isolate to $2^{2t-1}=5>0$, then $(2t-1)\ln2=\ln5$. Thus $t=(1+\ln5/\ln2)/2$; substituting makes the exponential exactly $5$. The entire linear exponent must be multiplied by the logarithm of the base.
+
+Cue “What must the positive exponential alone equal?”; next set up $2^{2t-1}=5$; then take logs of both complete sides, leaving the linear solve. Fade on $2\cdot3^{t+1}=18$ (key $t=1$). For $\ln(x-1)+\ln(x+1)=\ln8$, original conditions intersect to $x>1$. Condensation gives $x^2-1=8$, but of candidates $\pm3$ only $3$ passes both original arguments. A positive product at $-3$ cannot legalize two undefined real logarithms.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

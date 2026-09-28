@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Through (−2,4),(4,4), slope 0/6=0. Through (3,−1),(3,7), slope 8/0 is undefined, not 0. Reversing the order in both differences preserves the slope.
 
-**Misconception response and hint ladder:** If rise/run is inverted, ask which axis is independent; next draw the horizontal and vertical changes with units. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If rise/run is inverted, ask which axis is independent; next draw the horizontal and vertical changes with units.
 
 **Practice progression:** Integer slope → negative/fractional slope → horizontal/vertical exceptions. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A tank graph goes from (2 min,9 L) to(6 min,21 L). Rate 12/4=3 L/min. Its initial volume is3 L if the linear rule extends to t=0; slope alone does not equal the starting volume.
 
-**Misconception response and hint ladder:** If total volume is mistaken for rate, ask what unit 'per minute' requires; next divide a volume change by elapsed time. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If total volume is mistaken for rate, ask what unit 'per minute' requires; next divide a volume change by elapsed time.
 
 **Practice progression:** Verbal/table rate → graphical rate → compare models with different starting levels. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Vary graphical scales, units, rising/falling lines, zero and undefined slopes, tables with unequal x gaps and contextual rates.
+
+## Decision rehearsal and fading
+
+**Unequal intervals require quotients.** For table $(t,V)=(0,5),(2,11),(5,20)$ in minutes and liters, output changes are 6 and 9, but time changes are 2 and 3. Both rates are 3 L/min, so unequal first differences do not refute linearity here. The equation is $V=3t+5$ on the stated domain.
+
+If the learner says “not linear: 6 differs from 9,” cue “Were the time intervals equal?” Next write the two quotients $6/2$ and $9/3$; work only the first and ask for the comparison. If they already find 3 but omit units, ask what each difference measures. Fade to $(0,4),(3,10),(7,18)$: rates 2 and 2, then contrast a last value 19, which gives $9/4$ on the last interval. Slope-triangle reasoning remains a separate required explanation; this table does not demonstrate it.
 
 ## Evidence, feedback and handoff
 

@@ -41,3 +41,15 @@ These original keyed probes combine or stress concepts. They are calibration ref
 **Prompt:** For f(x)=√x, simplify the difference quotient and describe its restrictions.
 
 **Key and required reasoning:** Conjugation gives $1/(\sqrt{x+h}+\sqrt{x})$ with h≠0,x≥0,x+h≥0. The denominator cannot be zero under these conditions; h=0 remains excluded by the original quotient.
+
+## Annotated response calibration
+
+| Learner work | Evidence judgment and action |
+| --- | --- |
+| Correct radical difference quotient with no restrictions, when restrictions were explicitly requested. | Formula correct; domain reasoning incomplete. Ask for both endpoint conditions and the increment condition neutrally. |
+| Correct formula alone when the prompt asked only to simplify. | Credit simplification; restrictions remain unelicited, not evidence of a misconception. Follow up before a broader proficiency claim. |
+| Gives a valid alternative decomposition that recomposes to the same formula and domain. | Accept; decomposition is not unique. A formula match with an enlarged domain is only partial. |
+| Gives $(-\infty,-1)$ for $(x-2)^2/(x+1)\le0$. | Correct interval but missing allowed isolated zero 2. Preserve sign evidence and probe equality at the zero. |
+| Adds 2 after the tutor evaluates the numerator there. | Assisted endpoint completion; reassess an isolated-zero case independently. |
+| Labels $x=1$ a hole after cancelling only one of two denominator factors in Lesson 42.5. | Cancellation is valid but local classification is wrong; one denominator factor still produces a pole. |
+| Calls a plotted curve continuous without checking a hidden denominator zero. | Display evidence alone is insufficient; preserve actual observed plotting work, request algebra, and do not invent unseen plot details. |

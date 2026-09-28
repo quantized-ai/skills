@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Triangle A(0,0),B(2,0),C(0,1) maps by reflection in y-axis then translation (3,2) to A′(3,2),B′(1,2),C′(3,3). Corresponding sides/angles are preserved despite reversed orientation. A full rigid sequence proves congruence.
 
-**Misconception response and hint ladder:** If equal area proves congruence, ask whether side lengths can differ; next use the rectangle counterexample. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If equal area proves congruence, ask whether side lengths can differ; next use the rectangle counterexample.
 
 **Practice progression:** Recognize correspondence → find a motion sequence → reject area/perimeter-only evidence. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Translate A onto D, rotate AB onto DE with AB=DE. Equal angle at A and AC=DF locate C on the required ray at distance AC; if the triangles initially lie on opposite sides, reflect across DE first. Thus the third vertex reaches F.
 
-**Misconception response and hint ladder:** If reflection is forbidden, ask whether mirror-image triangles should fail congruence; next align the shared side and flip the half-plane. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If reflection is forbidden, ask whether mirror-image triangles should fail congruence; next align the shared side and flip the half-plane.
 
 **Practice progression:** Forward implication → reverse construction → explain needed reflection. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include reversed orientation, necessity/sufficiency of triangle part equality, complete correspondences and violated-invariant counterexamples.
+
+## Decision rehearsal and fading
+
+**Track correspondence through the entire motion.** For $A=(0,0)$, $B=(4,0)$, $C=(1,2)$, reflect in the x-axis and translate by $(2,3)$. The target vertices are $D=(2,3)$, $E=(6,3)$, $F=(3,1)$, giving $\triangle ABC\cong\triangle DEF$ in that order. Squared side lengths are $16,13,5$ in both corresponding cycles. Reflection reverses orientation while preserving congruence.
+
+If the learner writes $\triangle ABC\cong\triangle DFE$, ask which vertex receives B under the stated motion. Next list $A\to D$, $B\to\square$, $C\to\square$; work B's translation after reflection only if needed. Fade to a fresh triangle with the translation vector supplied but no vertex correspondence. If the target is the if-and-only-if characterization, require both invariance and a rigid-alignment argument; this explicit map demonstrates the forward implication for these figures only.
 
 ## Evidence, feedback and handoff
 

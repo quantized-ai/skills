@@ -98,6 +98,12 @@ Require a complete partition, sign justification, endpoint membership and a solu
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $p=(x-1)^2(x+2)$, degree $3$ and positive leading coefficient give left tail down and right tail up. The square is positive except at $1$, so away from zeros the sign is the sign of $x+2$. Thus $p<0$ exactly for $x<-2$, while $p\le0$ also includes the isolated zero $1$: $(-\infty,-2]\cup\{1\}$.
+
+If the learner alternates signs at every root, cue “Does the squared factor become negative across $1$?”; next separate the signs of $(x-1)^2$ and $x+2$; then work one interval to the right of $1$, leaving the rest. Fade with $(x+1)^2(x-3)\ge0$ (key $\{-1\}\cup[3,\infty)$). Keep end behavior and finite signs separate: a leading term predicts eventual tails, while factors establish the intervening intervals.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

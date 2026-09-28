@@ -42,7 +42,7 @@ Curriculum reference: **Parametric representations** in [lesson.md](lesson.md#co
 - **Diagnostic key:** No; a parametric point uses both coordinates at the same t.
 - **Worked-example prompt:** For x=t+1, y=t²-2, -1≤t≤2, plot paired values and identify the endpoints.
 - **Worked model and reasoning:** At t=-1,0,1,2 points are (0,-1),(1,-2),(2,-1),(3,2). Both endpoints are included. Coordinates must come from the same t; separate x-versus-t and y-versus-t graphs are not the planar path.
-- **First hint:** Make one row per parameter value with both coordinates.
+- **First hint:** What makes two coordinate values belong to the same parametric point?
 
 #### Learn
 
@@ -81,7 +81,7 @@ Curriculum reference: **Orientation and traversal** in [lesson.md](lesson.md#con
 - **Diagnostic key:** Yes; replacing t with −t reverses ordinary sine/cosine traversal.
 - **Worked-example prompt:** Compare x=cos t,y=sin t on [0,2π] with x=cos(2t),y=-sin(2t) on [0,2π].
 - **Worked model and reasoning:** Both point sets are the unit circle. First traverses once counterclockwise, second twice clockwise; both start/end at (1,0). Same locus does not mean same speed, orientation or visit times.
-- **First hint:** Compute the first few points in increasing parameter order.
+- **First hint:** What information about travel does a shape-only curve omit?
 
 #### Learn
 
@@ -108,6 +108,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Vary open/closed parameter endpoints, partial/repeated tracing and stationary segments; distinguish point-set equality from traversal equality.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## A parameter endpoint need not remove its point
+
+For $(x,y)=(\cos t,\sin t)$ on $0<t\le2\pi$, the point $(1,0)$ is included because $t=2\pi$ reaches it, even though $t=0$ is excluded. On $0<t<2\pi$ it is absent. Endpoint membership belongs to the represented point set, so check all preimages before drawing an open marker. On $0\le t\le4\pi$, $(1,0)$ is visited at 0, $2\pi$, and $4\pi$ while the circle makes two complete traversals; three visits do not mean three circuits.
+
+If a learner marks $(1,0)$ open in the first interval, ask which other allowed parameter reaches it. Then supply the equation $\cos t=1,\sin t=0$; finally identify $t=2\pi$ and leave the interval test. Fade with a shifted circle and one endpoint excluded, then require membership and traversal independently. Use the ordered table to predict a real plotted artifact, without claiming the table itself proves technology use.
 
 ## Lesson completion
 

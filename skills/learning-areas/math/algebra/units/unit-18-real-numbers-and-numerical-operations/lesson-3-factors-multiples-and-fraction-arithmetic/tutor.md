@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For 36=$2^2·3^2$ and 60=$2^2·3·5$, common minimum exponents give GCF 12; maximum exponents give LCM 180. Verify 12 divides both and 180 is a multiple of both.
 
-**Misconception response and hint ladder:** If1 is called prime, ask how many positive divisors it has; if all factors are multiplied for GCF, identify factors absent from one number. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If1 is called prime, ask how many positive divisors it has; if all factors are multiplied for GCF, identify factors absent from one number.
 
 **Practice progression:** Divisibility tests → prime factorization → GCF/LCM with reasons. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Convert −11/4 to mixed form −(2+3/4)=−2¾. Its location is between −3 and −2; writing −2+3/4 would instead give −1¼. Equivalent fractions multiply numerator and denominator by the same nonzero value.
 
-**Misconception response and hint ladder:** If only the denominator changes, ask whether the represented portion stayed equal; next compare 1/2 and 1/4 visually. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If only the denominator changes, ask whether the represented portion stayed equal; next compare 1/2 and 1/4 visually.
 
 **Practice progression:** Equivalent forms → reduced improper/mixed forms → negative mixed-number interpretation. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -66,7 +66,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $(3/5)\div (−9/10)=(3/5)(−10/9)=−2/3$. Check by multiplying −2/3 by−9/10 to recover 3/5. Common denominators are needed for addition, not multiplication.
 
-**Misconception response and hint ladder:** If the wrong fraction is inverted, ask which divisor must become 1; next write multiplication by its reciprocal on both sides of a division equation. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If the wrong fraction is inverted, ask which divisor must become 1; next write multiplication by its reciprocal on both sides of a division equation.
 
 **Practice progression:** Same-denominator sum → mixed signed operations → explain reciprocal and estimate result. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -92,6 +92,12 @@ Use this reasoning as instruction or private calibration. Generate a fresh indep
 ## Further task construction
 
 Include negative fractions, mixed numbers, improper forms, all four operations and divisor-zero cases; simplify without cancelling across addition.
+
+## Decision rehearsal and fading
+
+**Make the common unit visible.** In $\tfrac34-\tfrac16$, quarters and sixths name different pieces. Since $4=2^2$ and $6=2\cdot3$, 12 is the least common denominator, so rewrite both in twelfths: $\tfrac9{12}-\tfrac2{12}=\tfrac7{12}$. Twenty-fourths also work, giving $\tfrac{14}{24}$; do not reject a valid nonleast common denominator. A common factor reduces an entire numerator and denominator, whereas “cancel the 3 with the 6” across this difference changes the expression.
+
+For observed denominator addition/subtraction, ask “What size are the pieces in your answer?” Next offer two blank equivalent fractions with denominator 12; then supply $3/4=9/12$ and let the learner complete the second. Fade to $\tfrac56-\tfrac38=\tfrac{11}{24}$ without choosing a denominator. To check division separately, ask which number multiplied by $3/8$ gives $5/6$; the quotient $20/9$ is a different operation, not a denominator-rule variation.
 
 ## Evidence, feedback and handoff
 

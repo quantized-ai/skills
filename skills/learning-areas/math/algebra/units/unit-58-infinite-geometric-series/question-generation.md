@@ -48,3 +48,15 @@ Required coverage: Finite sums versus limits, timing, discount ratio, convergenc
 **Check before release:** Check the finite partial-sum identity before taking a limit and require |r|<1 for a nonzero infinite geometric series. Verify remainder magnitude |a||r|^N/|1−r| under the convention that N terms start at index 0. For growing cash flows check the discounted ratio, not the nominal growth rate alone.
 
 A second pass must target the likely failure above, not simply repeat the same arithmetic. Retain the checked result, decisive assumption and accepted equivalent responses before exposing the task.
+
+## Task demand anchors
+
+| Demand | Anchor and checked result |
+| --- | --- |
+| Direct convergent sum | \(a=6,r=1/3\): sum 9. |
+| Comparable retest | \(a=8,r=1/5\): sum 10. |
+| Added sign/index decision | \(a=6,r=-1/2\): alternating partial sums, limit 4, tail \(4(-1/2)^n\). |
+| Accuracy boundary | Strict versus nonstrict error \(1/8\) in the preceding series needs six versus five terms. |
+| Application transfer | Fictional \(d=100,i=-.02,g=-.05\): discounted ratio, rather than interest sign alone, determines convergence. |
+
+State whether the number of terms must be positive, identify the first term, and write the tolerance symbol explicitly. For financial tasks specify payment dates, valuation date, rate period and whether the stream actually terminates. Independently check a few dated contributions and candidate term counts before release. Replace all exposed anchors for an independent assessment.

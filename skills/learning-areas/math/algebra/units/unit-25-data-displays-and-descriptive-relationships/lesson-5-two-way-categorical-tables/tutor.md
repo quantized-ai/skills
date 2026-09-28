@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Group A:yes 6,no4; group B:yes 3,no7. Total 20, A margin 10, yes margin 9. Joint A-and-yes proportion 6/20; marginal yes 9/20. All joint relative frequencies sum 1; row and column totals must reconcile.
 
-**Misconception response and hint ladder:** If a row total is called joint, ask what two attributes are simultaneously fixed; next highlight one cell. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If a row total is called joint, ask what two attributes are simultaneously fixed; next highlight one cell.
 
 **Practice progression:** Read joint counts → complete missing cells → convert joint/marginal relative frequencies. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Group C has 8 yes out of10 and D has 12 yes out of30. D has more yes responses but lower yes rate (40% versus 80%). Compare conditional proportions using each group's denominator; counts alone mislead when sizes differ.
 
-**Misconception response and hint ladder:** If overall total is used, ask which group is already known; next circle only its row/column. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If overall total is used, ask which group is already known; next circle only its row/column.
 
 **Practice progression:** Conditional computation → unequal-margin comparison → undefined empty conditioning group. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Vary unequal row totals so reversed conditional rates differ; ensure mutually exclusive exhaustive categories, reconcile margins and include zero-count conditioning groups as undefined.
+
+## Decision rehearsal and fading
+
+**Conditioning changes who is counted.** Use group A: 8 yes, 2 no; group B: 12 yes, 18 no. Of the 40 people, 8/40 are A-and-yes; among A, 8/10 say yes; among yes respondents, 8/20 belong to A. These are 20%, 80%, and 40%, respectively. B has more yes responses but a lower yes rate, 12/30=40%.
+
+If a learner answers “80% of yes respondents are in A,” ask them to identify the people already selected by ‘of yes respondents.’ Next mark the yes column total 20; then write $8/20$ and leave the interpretation. If they use the right denominator with a slip, repair arithmetic without reteaching conditioning. Fade to A: 6 yes/4 no and B: 9 yes/21 no; compare yes rates (60%,30%) and the reversed conditional A-among-yes (40%).
 
 ## Evidence, feedback and handoff
 

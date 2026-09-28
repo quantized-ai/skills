@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $5-2x\ge11$ gives −2x≥6 then x≤−3. Dividing by a negative reverses order; at x=−4 the original left side 13 satisfies≥11, while x=0 does not.
 
-**Misconception response and hint ladder:** If direction is retained, ask whether −6<−3 becomes 2<1 after dividing by−3; next use that contradiction to motivate reversal. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If direction is retained, ask whether −6<−3 becomes 2<1 after dividing by−3; next use that contradiction to motivate reversal.
 
 **Practice progression:** Positive coefficient → negative coefficient → parentheses/fractions with boundary checks. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For ax≤6: a>0 gives x≤6/a; a<0 gives x≥6/a; a=0 gives all real x because 0≤6. For 0x≤−1 there are none. The sign of a cannot be guessed.
 
-**Misconception response and hint ladder:** If x≤6/a is given without cases, ask whether a could be−2 or0; next substitute each and compare. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If x≤6/a is given without cases, ask whether a could be−2 or0; next substitute each and compare.
 
 **Practice progression:** Constant true/false → unknown-sign coefficient → parameter thresholds. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include strict/nonstrict inequalities, fractional coefficients, identities/contradictions and symbolic coefficients requiring positive/negative/zero branches; check a boundary and a point on each side.
+
+## Decision rehearsal and fading
+
+**A coefficient's sign may itself depend on the parameter.** In $(k-1)x\le2$, divide only after classifying $k-1$. For $k>1$, $x\le2/(k-1)$; for $k<1$, $x\ge2/(k-1)$; for $k=1$, $0\le2$ is true for all real $x$. At $k=0$ the original is $-x\le2$, confirming the reversed branch $x\ge-2$.
+
+If the learner branches at $k=0$, ask “Which quantity will you actually divide by?” Next place $k-1$ in a three-column positive/zero/negative table; then solve $k-1=0$ and leave the remaining branches. Fade first to $ax\le-3$ (positive: $x\le-3/a$; negative: $x\ge-3/a$; zero: none). Shifted-parameter tasks add sign-analysis demand and should follow, rather than silently replace, a direct-coefficient retake.
 
 ## Evidence, feedback and handoff
 

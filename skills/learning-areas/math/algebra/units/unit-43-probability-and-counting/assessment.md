@@ -35,3 +35,14 @@ These original keyed probes combine or stress concepts. They are calibration ref
 **Prompt:** Select two people uniformly without replacement from four, two wearing red. Find probability both wear red using ordered and unordered counts.
 
 **Key and required reasoning:** Ordered: (2/4)(1/3)=1/6. Unordered: one all-red pair among six pairs, also 1/6. Mixing an ordered numerator with an unordered denominator would be invalid.
+
+## Response calibration
+
+| Learner work | Judgment and next action |
+| --- | --- |
+| Reports $3/5$ for one red and one blue from a 3-red/2-blue bag, with no reasoning requested. | Correct answer evidence; method and replacement reasoning remain unelicited. Request a neutral explanation before broader claims. |
+| Gives the same number when explicitly asked to construct and label a probability tree. | Correct probability, incomplete requested representation. Ask for the tree without supplying branches. |
+| Uses $\binom31\binom21/\binom52$ with correct interpretation. | Valid alternative probability method; it does not by itself demonstrate tree construction if that is separately targeted. |
+| Reports $3/10$ after considering only RB. | One correct path, incomplete event. Ask whether BR is included; after teaching the missing path, a corrected total is assisted. |
+| Correctly obtains $9/50$ from the chess/music table and calls it $P(C\mid M)$. | Joint count calculation correct, conditioning denominator wrong. Ask who remains in the conditioning population. |
+| Declares population independence proved by equality of two sample proportions. | Sample relationship is usable descriptive evidence; exact population independence is not established by a finite sample equality. |

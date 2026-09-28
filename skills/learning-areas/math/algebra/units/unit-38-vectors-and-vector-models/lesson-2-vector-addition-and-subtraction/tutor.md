@@ -46,7 +46,7 @@ Curriculum reference: **Geometric and component addition** in [lesson.md](lesson
 - **Diagnostic key:** No; the resultant is zero.
 - **Worked-example prompt:** Add u=⟨4,1⟩ and v=⟨-1,3⟩ using components and a tip-to-tail description.
 - **Worked model and reasoning:** Sum $\langle3,4\rangle$, magnitude 5. Place v's tail at u's head without changing v; the resultant goes from the first tail to the final head. $\sqrt{17}+\sqrt{10}\ne5$, so magnitudes do not generally add.
-- **First hint:** Translate the second arrow without rotating it.
+- **First hint:** What endpoint do you reach after following both displacements?
 
 #### Learn
 
@@ -85,7 +85,7 @@ Curriculum reference: **Resultants from angular descriptions** in [lesson.md](le
 - **Diagnostic key:** None uniquely: they cancel to zero.
 - **Worked-example prompt:** Two forces have magnitudes 8 N east and 6 N north. Find the resultant's magnitude and direction.
 - **Worked model and reasoning:** Components $\langle8,6\rangle$ N, magnitude 10 N, angle $\arctan(6/8)\approx36.87^\circ$ north of east. Adding magnitudes would incorrectly give 14 N.
-- **First hint:** Resolve each force onto the same axes.
+- **First hint:** Which directions reinforce and which oppose in this force combination?
 
 #### Learn
 
@@ -151,6 +151,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include relative positions/velocities, same-vector subtraction and geometric correspondence; never reverse the order silently.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Track the endpoints in each construction
+
+For $\mathbf u=\langle2,1\rangle$, $\mathbf v=\langle-1,2\rangle$, tip-to-tail addition has vertices $(0,0),(2,1),(1,3)$. The common-tail parallelogram has vertices $(0,0),(2,1),(-1,2),(1,3)$; the diagonal from the common tail gives the same $\langle1,3\rangle$. The other diagonal, from $(-1,2)$ to $(2,1)$, is $\mathbf u-\mathbf v=\langle3,-1\rangle$. Naming endpoints explains why the diagonals are not interchangeable.
+
+If a drawing selects the difference diagonal for a sum, ask which endpoint follows after both input arrows. Next supply the translated second arrow's tail $(2,1)$; finally give its head $(1,3)$ and leave the resultant to draw. If the component sum is already right, retain it. Fade by supplying a partly completed parallelogram for a new pair and asking for the missing vertex and both directed diagonals; then require the full construction independently.
 
 ## Lesson completion
 

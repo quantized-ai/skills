@@ -98,6 +98,12 @@ Assess accurate common-input comparisons, appropriate scale changes, qualified e
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $f(t)=80(1/2)^t$ units, values at $0,1,2$ are $80,40,20$. One-unit average rates are $-40$ and $-20$ units/time, while both output ratios are $1/2$. Fixed percentage decay gives a smaller absolute loss from a smaller starting amount; it does not give a fixed additive rate.
+
+If a learner answers $1/2$ for the rate, cue “Are you measuring a factor or units lost per time?”; then set up $(f(2)-f(1))/(2-1)$; next substitute $(20-40)/1$, leaving interpretation. Fade with $3\cdot2^t$ on consecutive unit intervals (rates $3,6$). For exponential versus polynomial comparison, check $2^3=8<27$ and $2^{10}=1024>1000$; this establishes a changed ordering at the inspected inputs. It does not prove every later real input obeys the same inequality.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

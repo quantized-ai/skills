@@ -46,7 +46,7 @@ Curriculum reference: **Geometric arithmetic and conjugation** in [lesson.md](le
 - **Diagnostic key:** From w to z, since adding that displacement to w reaches z.
 - **Worked-example prompt:** For z=2-3i, interpret iz and the conjugate of z geometrically.
 - **Worked model and reasoning:** $iz=3+2i$ is a counterclockwise 90-degree rotation about the origin. Conjugate $2+3i$ reflects across the real axis. Addition translates by component sums; subtraction gives a displacement.
-- **First hint:** Write i(2-3i) using i²=-1, then compare coordinates.
+- **First hint:** What rotation does multiplication by i produce?
 
 #### Learn
 
@@ -151,6 +151,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include real, imaginary and zero cases and alternate stated argument intervals; never force an angle for zero.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Distinguish a displacement, a length, and a position
+
+For $z=-1+2i$ and $w=3-i$, $z-w=-4+3i$ points from $w$ to $z$; its modulus 5 is a length. The midpoint $(z+w)/2=1+i/2$ is a position. Check the direction through $w+(-4+3i)=z$. Multiplication by $i$ sends that displacement to $-3-4i$, preserving its length; conjugation sends it to $-4-3i$, a different motion.
+
+If the learner gives distance $-4+3i$, cue “Is the requested result a point or a nonnegative real length?” → supply $\lvert z-w\rvert=\sqrt{(-4)^2+3^2}$ → evaluate 5 only after allowing a revision. If instead the learner gives $\lvert z\rvert-\lvert w\rvert$, ask for the endpoints of the displacement. Fade with the difference supplied but midpoint withheld, then a new pair with no setup. Treat the polar argument of this nonzero difference separately from the midpoint's argument.
 
 ## Lesson completion
 

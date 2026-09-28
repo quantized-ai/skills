@@ -56,7 +56,7 @@ Work a unique saddle; repeat with tied optimal rows/columns and identify all sad
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** The row player fears the minimum; the column player fears the maximum.
+**First conceptual cue:** Which opponent response gives this player the worst payoff?
 
 If both players maximize the displayed row payoff, restate the zero-sum perspective. If equal numbers from unrelated operations are used, reconstruct the row-minimum/column-maximum table.
 
@@ -108,7 +108,7 @@ Solve an interior 2×2 mix; verify expected payoff against both opponent pure st
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Make the opponent's pure choices equally attractive, not your own by using your own probability.
+**First conceptual cue:** Whose choice is made uncertain by this probability, and whose responses must be balanced?
 
 If own payoffs are equalized using the wrong player's probability, label the random choice in each expectation. If indifference is called sufficient automatically, test the resulting mixture against every pure response and the boundaries.
 
@@ -179,6 +179,15 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Both envelope orientations, full interval, endpoints/intersections, ties/flat sets and all-opponent verification.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+For a saddle point, interpret both bounds: one strategy protects Row against every column, while one column limits every row. Do this before any probability formula. For a mix where the two players' probabilities differ, use the cardinal row-payoff matrix \(\begin{pmatrix}4&0\\1&3\end{pmatrix}\). If p is Row's probability of the top row, the two opponent-column payoffs are \(1+3p\) and \(3-3p\), giving \(p=1/3\) and value 2. If q is Column's probability of the left column, Row's two choices yield \(4q\) and \(3-2q\), giving \(q=1/2\). This prevents a symmetric example from hiding a swapped-probability error.
+
+**Hint ladder:** “Whose random choice does this probability describe?” → label p beside the row mixture and write one expectation against a fixed column → compute the left-column expression \(4p+1(1-p)\), leaving the other expression and equality to the learner. Verify both pure responses and boundary guarantees; do not assume any indifference solution is feasible or optimal.
+
+**Faded envelope cases:** for rows (4,0,1) and (0,4,1), the lower envelope is \(\min(4p,4-4p,1)\); its full optimum set is \([1/4,3/4]\), value 1. Ask the learner to derive both interval inequalities. For a column minimizer with rows (4,0), (0,4), (3,3), the upper envelope has minimum 3 on the same interval. These are different games, not a claim that transposition always preserves a given optimum. A single optimal probability is sufficient only if the prompt asks for one.
 
 ## Lesson completion
 

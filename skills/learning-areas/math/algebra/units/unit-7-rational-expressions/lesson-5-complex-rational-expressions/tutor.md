@@ -98,6 +98,12 @@ Require equivalent whole-part multiplication, complete distribution, original re
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $(1+1/x)/(1-1/x)$, first require $x\ne0$ and $1-1/x\ne0$, hence $x\ne1$. Multiply both complete parts by $x$: numerator $x(1)+x(1/x)=x+1$, denominator $x(1)-x(1/x)=x-1$. The reduced fraction $(x+1)/(x-1)$ retains both exclusions. The alternative route combines each part over $x$ and reciprocates the whole denominator; it gives the same result.
+
+If a learner multiplies only the fractional terms, cue “What entire quantity is multiplied by $x$?”; set up $x(1+1/x)/[x(1-1/x)]$; then distribute the top only, leaving the bottom. Fade on $(2+1/x)/(1-1/x)$ (key $(2x+1)/(x-1)$, $x\ne0,1$). A correct final formula with $x=0$ allowed is a domain error, not a failure of every simplification step.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

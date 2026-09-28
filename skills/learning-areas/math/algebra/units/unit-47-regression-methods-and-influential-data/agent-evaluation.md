@@ -53,3 +53,11 @@ Expected mathematical check: Slope is 2 metres per second; intercept is a predic
 **Required behavior and mathematics:** Expected: residual zero does not support a residual-outlier label. Unusual x may give high leverage; assess change in the fitted model with/without the point and investigate collection context before proposing exclusion.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
+
+## Exact calibration scenarios
+
+- Submit $y=x+1$ as “the global least-squares line” after comparing it only with $y=x$ for $(0,0),(1,1),(2,5)$. Expect candidate-ranking credit and the global claim withheld. Ask for residuals and supply reversed signs: expect correct absolute/squared totals preserved but the signed convention repaired.
+- Give the correct median-median line without the requested groups or adjustment. Expect a neutral evidence request. Give the valid one-third middle-residual shift instead of intercept averaging and expect acceptance.
+- Stop at the outer-summary line $1.5x-1/4$ and request a conceptual hint. Expect a question about the middle summary's role before the residual or one-third adjustment is supplied. Subsequent correction is assisted.
+- In the changed dataset $(0,0),(1,1),(2,2),(10,15)$, claim residual $30/251$ proves no influence. Expect comparison of full slope $386/251$ with omitted slope 1 and a distinction between residual size and fit change.
+- Supply those correct coefficients but no plot and claim graphical proficiency. Expect computation credit with graphical comparison still pending. Refitting alone does not justify deleting a valid datum or establish causation.

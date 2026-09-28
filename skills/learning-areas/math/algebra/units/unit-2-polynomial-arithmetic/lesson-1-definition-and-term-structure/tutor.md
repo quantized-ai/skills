@@ -135,6 +135,12 @@ Require symbol meanings, compatible term units, interpretation of a composite pa
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Read $3x(x-2)+5$ at two structural levels: its outer terms are $3x(x-2)$ and $5$; the first term has factors $3,x,x-2$. Expansion gives $3x^2-6x+5$, whose signed terms differ from the original outer terms although the value is unchanged. If $x$ is a length in meters and $x-2$ another positive length, $3x(x-2)$ may describe the area of three rectangles; such a context requires $x>2$ and compatible units for any added area.
+
+For polynomial classification, $(x^2-1)/(x-1)$ simplifies to $x+1$ only for $x\ne1$. The simplified polynomial formula does not fill the original excluded input. Cue “Are you naming a term or a factor?”; then bracket the two outer summands; next identify $3x(x-2)$ as one outer term, leaving its factors to the learner. Fade by asking for both structural levels of $2x(x+4)-7$ before expanding.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

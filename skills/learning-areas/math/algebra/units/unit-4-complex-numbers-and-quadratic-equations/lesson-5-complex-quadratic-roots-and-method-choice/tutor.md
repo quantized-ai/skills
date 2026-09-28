@@ -98,6 +98,12 @@ Assess valid method choice and reasoning, preservation of equality, complete roo
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $x^2+2x+5=0$, move the constant, then add $1$ to both sides: $x^2+2x=-5$, $(x+1)^2=-4$. Hence $x=-1\pm2i$. The formula gives $(-2\pm\sqrt{-16})/2$, the same pair. Checking $-1+2i$ gives $(-3-4i)+(-2+4i)+5=0$; conjugation preserves this equation because its coefficients are real.
+
+If completing the square is blocked, cue “Which square has middle term $2x$?”; then set up $x^2+2x+\square=-5+\square$; next put $1$ in both boxes, leaving the square-root step. If only one root appears, target the two square roots instead. Fade on $x^2-4x+8=0$ by supplying $(x-2)^2=-4$ (key $2\pm2i$), then collect a fresh independent solution and method comparison.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

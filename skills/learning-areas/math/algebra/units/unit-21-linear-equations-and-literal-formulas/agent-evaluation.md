@@ -88,3 +88,14 @@ These are manual evaluation specifications, not results of completed student ses
 **Required mathematical response:** Rounding need not preserve totals. Test rounded counts in original constraints; if none fits, report infeasibility under stated assumptions, not a fabricated whole-number solution.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-5-linear-equation-models](lesson-5-linear-equation-models/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| I multiplied $(x+2)/3-x/4=2$ by 12 and got $4(x+2)-3x=2$. | Locate the unscaled right side, preserve the useful multiplier, and let the learner repair the equality. |
+| For $(a-b)x=4$, my answer is $4/(a-b)$ for all a,b. | Credit the nonzero branch conditionally; require a=b analysis, which yields no solution. Do not divide by zero or silently omit the branch. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

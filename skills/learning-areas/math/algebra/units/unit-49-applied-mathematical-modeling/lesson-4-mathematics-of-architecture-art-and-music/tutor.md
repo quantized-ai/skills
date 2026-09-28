@@ -108,7 +108,7 @@ Solve a right-triangle height with eye offset; then a general triangle using sin
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Identify the opposite side above the observer's eye before adding eye height.
+**First conceptual cue:** From what height is the angle being measured?
 
 If slant distance is used as the adjacent side, label each side relative to the viewing angle. If one inverse-sine value is called unique under SSA, use geometry or the supplementary angle to test a second valid triangle.
 
@@ -126,6 +126,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Pythagorean/special/right-triangle and Laws of Sines/Cosines methods, geometry tool evidence, ambiguity, amplitude/frequency/phase.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+For the box, expose the independent dimensions in \(V=lwh\). Doubling all three gives three factors of 2; doubling only l gives one. Surface area \(2(lw+lh+wh)\) contains an unchanged term when only l changes, so no universal area factor follows from the length multiplier alone; recompute the full surface area. **Conceptual cue:** “Which faces contain the changed dimension?” **Setup:** list the three face areas 6, 8, 12 for the original box. **Worked step:** after l changes from 2 to 4, the first face becomes 12; leave the other two and their doubled total to the learner. Then remove the face table on a new nonuniform example.
+
+For tower height, draw the horizontal line through the observer's eye before choosing a ratio: the opposite side measures height above that line, not total height. **Cue:** “Where does this right triangle start vertically?” **Setup:** call total height H and label the opposite side \(H-1.5\). **Worked step:** \((H-1.5)/20=\tan45^\circ=1\); let the learner solve and check units. A correct tower calculation does not establish dynamic-geometry execution or general-triangle proficiency. In the sound model, vary amplitude alone, then frequency alone, and ask which changes the time between peaks. Equivalent phase descriptions are acceptable when the complete function agrees.
 
 ## Lesson completion
 

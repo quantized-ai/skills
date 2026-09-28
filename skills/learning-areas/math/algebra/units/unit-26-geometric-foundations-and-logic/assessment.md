@@ -59,3 +59,17 @@ The examples above remain private calibration. Generate a new task for each sele
 | 26.4 — Spherical lines and triangles | Great-circle lines; no parallels; minor-arc/hemisphere setting; angle sum>180°; antipodal exception. | [Teaching plan](lesson-4-euclidean-and-spherical-geometry/tutor.md#spherical-lines-and-triangles) |
 
 Record the task fingerprint, exact case, observed reasoning, assistance and status. Award only the demonstrated component; list remaining cases by name. Use an explanation/error-analysis or reversed representation for transfer, and separately observe any required graph, construction, fit or simulation.
+
+## Annotated learner responses
+
+**Calibration prompt:** Is the converse of “square implies rectangle” true? For the reasoning version, add: “State the converse and give an admissible counterexample with an explanation.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “No.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “No.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| “A scalene triangle is not a square, so no.” | The conclusion is correct but this example does not satisfy the converse hypothesis of being a rectangle. |
+| “Every rectangle is a square” fails for a 2-by-3 rectangle: it has four right angles but unequal adjacent sides. | Complete counterexample; a drawn rectangle is optional unless requested. |
+| Tutor supplies A 2-by-3 rectangle as the counterexample; learner then gives “No.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

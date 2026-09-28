@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A regular nonagon has exterior turn 360°/9=40° and interior 140°. Triangulating from one vertex gives 7 triangles, interior sum 1260°, agreeing 9·140°. For a concave simple polygon triangulation is still valid, but the naive fan may leave the polygon.
 
-**Misconception response and hint ladder:** If(n−2)180° is called each angle, ask how many angles share the sum; next divide only if equality is given. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If(n−2)180° is called each angle, ask how many angles share the sum; next divide only if equality is given.
 
 **Practice progression:** Polygon sums → regular inverse problem → concave/simple conditions and exterior-turn reasoning. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** If triangle sides are 4,6,7, the largest angle lies opposite 7 and the smallest opposite 4. A proposed third side 2 with other sides 4,6 is degenerate because 2+4=6. Equality is not a thin valid triangle.
 
-**Misconception response and hint ladder:** If endpoints are included, ask whether circles meet in two noncollinear points or just one tangent point; next sketch the collapsed segment. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If endpoints are included, ask whether circles meet in two noncollinear points or just one tangent point; next sketch the collapsed segment.
 
 **Practice progression:** Existence → variable range → side/angle ordering and boundary cases. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include nonregular and concave polygons with appropriate signed/unsigned conventions, derivations via triangulation, strict triangle bounds and side-angle ordering with correspondence.
+
+## Decision rehearsal and fading
+
+**Distinguish a total, an individual angle, and an existence test.** A regular decagon has interior sum $8\cdot180^\circ=1440^\circ$ and each interior angle $144^\circ$, since regularity makes all ten equal. Its exterior turn $36^\circ$ checks the supplement. A nonregular decagon shares the sum without sharing each angle.
+
+For sides 5,8,c, strict triangle inequalities combine to $3<c<13$. Thus integer choices are 4 through 12; endpoints 3 and 13 are collinear, not nondegenerate triangles. If the learner includes endpoints, ask whether equality leaves room for a noncollinear third vertex. Next show circles with radii 5 and 8 and center separation 13; then identify tangency and leave the existence judgment. Fade to sides 4,9,c (key $5<c<13$) and ask for the largest angle when c=10: it lies opposite c.
 
 ## Evidence, feedback and handoff
 

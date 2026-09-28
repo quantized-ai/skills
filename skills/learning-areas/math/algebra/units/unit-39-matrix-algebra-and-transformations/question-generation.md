@@ -36,3 +36,12 @@ Check both matrix sizes and semantic row/column labels. Matrix multiplication is
 | [39.5 Matrices as vector transformations](lesson-5-matrix-transformations-and-area/tutor.md#matrices-as-vector-transformations) | Include rotations, reflections, shears and scalings; construct from basis images and verify with a nonbasis vector. |
 | [39.5 Composition and inverse transformations](lesson-5-matrix-transformations-and-area/tutor.md#composition-and-inverse-transformations) | Compare composition orders using a nonsymmetric figure and invertible/noninvertible maps; require inverse order reasoning. |
 | [39.5 Determinant and area scaling](lesson-5-matrix-transformations-and-area/tutor.md#determinant-and-area-scaling) | Include shears, zero determinants and composite maps; distinguish signed orientation from nonnegative area. |
+
+## Checked demand anchors
+
+| Role | Task and key | Demand control |
+| --- | --- | --- |
+| Routine inverse system | $A=\begin{pmatrix}2&1\\1&1\end{pmatrix}$, $b=(7,4)^T$: inverse $\begin{pmatrix}1&-1\\-1&2\end{pmatrix}$, solution $(3,1)$. | Determinant 1, small integers, two inverse checks and original-equation verification. |
+| Comparable intended retake | $A=\begin{pmatrix}1&1\\1&2\end{pmatrix}$, $b=(5,8)^T$: inverse $\begin{pmatrix}2&-1\\-1&1\end{pmatrix}$, solution $(2,3)$. | Same dimension, determinant and arithmetic demand; no added context or technology prerequisite. |
+| Higher demand | Build the existing three-ticket-category system from words and solve using an actual matrix tool. | Adds modeling, units, three variables, technology and integer feasibility; cannot replace a two-variable arithmetic retake without agreement. |
+| Transfer | Compare $AB=AC$ for $A=\operatorname{diag}(1,0)$, $B=I$, $C=\operatorname{diag}(1,2)$. | Equal products with unequal factors require reasoning about information lost, not another inverse calculation. |

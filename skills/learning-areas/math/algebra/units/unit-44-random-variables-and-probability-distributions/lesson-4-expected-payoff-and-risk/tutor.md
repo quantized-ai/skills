@@ -44,7 +44,7 @@ Curriculum reference: **Net payoff and fair price** in [lesson.md](lesson.md#con
 - **Diagnostic key:** No; expected gross is 2, so expected net is −2.
 - **Worked-example prompt:** A game returns 20 units with probability 0.1 and zero otherwise; entry costs 3. Find expected net payoff and fair price.
 - **Worked model and reasoning:** Net outcomes 17 and -3 give $0.1(17)+0.9(-3)=-1$. Expected gross return is 2, so fair entry price is 2 under this model. Fairness concerns long-run expectation, not equal outcomes or guaranteed winnings.
-- **First hint:** Subtract the entry fee in every outcome.
+- **First hint:** Is the entry fee paid only when winning or on every play?
 
 #### Learn
 
@@ -82,7 +82,7 @@ Curriculum reference: **Comparing strategies under uncertainty** in [lesson.md](
 - **Diagnostic key:** No; downside, variability, resources and risk preferences may differ.
 - **Worked-example prompt:** An asset suffers loss 1000 with probability 0.02, otherwise zero. Insurance premium is 30, deductible 100 and payment limit 900. Compare expected costs and downside.
 - **Worked model and reasoning:** Uninsured expected cost 20, maximum 1000. Insured cost 30 without loss or 130 with loss, expected 32; insurer pays min(900,max(1000-100,0))=900 on a loss. Lower expected cost favors uninsured in this model, but insurance reduces worst-case cost. Break-even loss probability is 30/900=1/30 with these fixed amounts.
-- **First hint:** Separate premium from the loss remaining after coverage.
+- **First hint:** Which costs occur even when there is no loss?
 
 #### Learn
 
@@ -110,6 +110,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Vary probabilities, deductibles, limits and risk preferences with synthetic data; compare the same outcomes and report sensitivity, not a universal personal recommendation.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Apply the payment limit to the insurer, not the loss
+
+In a synthetic policy with premium 30, deductible 100, and insurer-payment cap 900, a loss of 1500 yields payment $\min(900,1500-100)=900$. The retained loss is 600 and total personal cost is 630. With loss probability 0.02 and no loss otherwise, expected insured cost is $0.98(30)+0.02(630)=42$, compared with uninsured expected cost 30. The policy still reduces the worst-case personal cost from 1500 to 630. The break-even probability remains $30/900=1/30$ because the capped payment is 900 whenever this loss occurs.
+
+If the learner reports cost 130, ask who bears losses beyond the insurer's cap. Then supply the capped-payment expression; finally evaluate payment 900 and leave retained loss and premium. Fade with a below-cap loss so the active branch changes, then require the piecewise interpretation without a supplied minimum. State expected-cost and downside conclusions separately.
 
 ## Lesson completion
 

@@ -98,6 +98,12 @@ Assess notation, inverse evaluation, exact versus approximate reporting and an e
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Model $\log_2(1/8)$ as the unknown exponent in $2^y=1/8=2^{-3}$, hence $y=-3$. The argument is positive even though the output is negative. Likewise $\ln1=0$ because $e^0=1$; logarithm zero is permitted, argument zero is not.
+
+If a learner rejects the negative output, cue “Which quantity must be positive: the argument or the exponent?”; next write $2^y=1/8$; then rewrite $1/8=2^{-3}$, leaving the equality of exponents. Fade with $\log_{10}(1/100)$ and $\log_2 1$ (keys $-2,0$). For $\log_2(x-3)$, the complete argument condition is $x-3>0$, not merely $x>0$. Derive the domain before evaluating a supplied input.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

@@ -144,6 +144,13 @@ At the item 3 in the original order, first fit chooses the second bin, leaving 3
 
 For transfer, give a permutation of the same multiset and ask which algorithms should be recomputed and why. The decreasing input becomes the same sorted sequence under the same tie convention, whereas the arrival-order algorithms may change. Relate three bins to three identical processors with deadline 10 only when items are independent, indivisible, nonpreemptive tasks and there are no extra release-time or precedence restrictions.
 
+
+## Adaptive teaching examples
+
+To distinguish first fit from best fit, use capacity 10 and ordered items 6,8,2, with bins numbered by opening time. After two items the loads are 6 and 8. **Conceptual cue:** “Does this rule choose the earliest feasible bin or the tightest feasible bin?” **Setup:** list residual capacities 4 and 2. **Worked step:** both can hold the size-2 item; first fit selects bin 1, while best fit selects bin 2. Let the learner compute final loads (8,8) and (6,10). Same bin count does not prove the same algorithm was followed. Next fit considers only the current bin, giving (6,10) here for a different reason.
+
+For the effect of sorting, use 4,4,6,6. First fit in supplied order produces [4,4], [6], [6]; first-fit decreasing sorts to 6,6,4,4 and produces [6,4], [6,4]. **Fade:** supply the sorted list but no assignments, then remove the sorting scaffold. Retain item identity and never rearrange a finished trace retroactively. The total-size bound is 2 and is attained by the latter placement; three bins from the former trace establish heuristic performance, not an optimum. When translating bins to processors, explicitly fix a deadline of 10 and assume independent nonpreemptive tasks; precedence can invalidate that simple capacity interpretation.
+
 ## Lesson completion
 
 Mark this lesson complete only when every concept and its explicit checklist are **Secure in this session** under the [shared guide](../agent-guide.md#evidence-and-completion). Summarize what the learner independently demonstrated, what required help and the next missing case. A short sample or exposed worked example cannot certify the lesson.

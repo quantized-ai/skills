@@ -98,6 +98,12 @@ Require the selection count, component powers, signs and correct coefficient for
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+In $(2x-1)^5$, a term containing $x^3$ chooses $2x$ from three of five factors and $-1$ from two. There are $\binom53=10$ choices, each contributing $2^3(-1)^2x^3=8x^3$, so the coefficient is $80$. Pascal's entry counts choices; it does not absorb the component powers.
+
+If the learner answers $10$, cue “What does each of the ten choices multiply to?”; set up $\binom53(2x)^3(-1)^2$; next calculate $(2x)^3=8x^3$, leaving sign and coefficient. Fade on the $x^2$ coefficient of $(x+2)^4$ (key $\binom42 2^2=24$), then vary to $(x^2+3)^4$, whose $x^4$ coefficient is $54$. The latter requires solving the exponent condition; it is a harder selected-coefficient task, not just a larger number.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

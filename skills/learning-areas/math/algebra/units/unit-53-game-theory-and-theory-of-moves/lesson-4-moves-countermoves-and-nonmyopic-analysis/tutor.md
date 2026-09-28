@@ -109,7 +109,7 @@ Start with prisoners' dilemma from CC; analyze DD and an asymmetric start separa
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Work backward from the first return, comparing only the current mover's terminal ranks.
+**First conceptual cue:** Whose terminal outcome determines whether this scheduled move is worthwhile?
 
 If immediate improvement substitutes for continuation, ask what the opponent would do next and recurse to the terminal outcome. If a preferred preemptive move is omitted as unprofitable in isolation, compare it with the other's profitable initiating result under the explicit two-sidedness convention.
 
@@ -162,7 +162,7 @@ Build an original conflict from explicitly supplied motives; audit strategy comp
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Translate each person's ordering separately before analyzing moves.
+**First conceptual cue:** Do these ranks compare outcomes for one person or amounts across different people?
 
 If rankings are changed mid-analysis, retain the original table and make any revision a new model. If numbers are treated as interpersonal welfare, remind the learner they encode order only and request own-player comparisons.
 
@@ -215,7 +215,7 @@ Check the supplied cyclic example; move a top rank to a departure cell to create
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Mark whose turn it is at each cell before inspecting that player's rank.
+**First conceptual cue:** Who may move from this cell, and whose rank should judge that move?
 
 If the wrong player's4 blocks a move, point to whose turn it is. If a cyclic classification is reported as an observed behavioral forecast, state the separate stopping assumptions and what remains a model consequence only.
 
@@ -244,6 +244,15 @@ With Column as potential initiator, the sequence is $DC\to DD\to CD\to CC\to DC$
 Now change to chicken: $YY=(3,3)$, $YE=(2,4)$, $EY=(4,2)$, $EE=(1,1)$. From EE, Row's initiating path has anticipated terminal YE, while Column's has anticipated terminal EY. Each initiation benefits its own mover, but different initiators produce different terminal outcomes. State the initiator/order assumption or report conditional predictions; neither unilateral trace alone yields one universal outcome. From YY, either potential initiator anticipates payoff 2 instead of the starting 3 and declines under these rules.
 
 Have the learner annotate every cell with the next mover and every branch with its anticipated terminal cell. A changed status quo can change the prediction without changing the payoff rankings or Nash equilibria. Larger matrices require more than a four-cell loop: enumerate the available switches and declare the termination/order convention before backward analysis.
+
+
+## Adaptive teaching examples
+
+Use a decision table with current cell, scheduled mover, payoff if stopping, and payoff at the anticipated terminal cell after continuation. In the existing prisoners' dilemma from CC, the backward comparisons on the Row-first path give Column stopping at CD, Row stopping at DD, then Column continuing from DC toward DD. At the initial node Row compares its terminal rank 2 with its starting rank 3 and declines. **Conceptual cue:** “Is the 4 at the first changed cell actually paid if the opponent continues?” **Setup:** leave the intermediate payoff column visible but circle only terminal outcomes. **Worked step:** at CD Column compares stopping at rank 4 with the return benchmark rank 3; let the learner complete the preceding node. Then remove one completed backward row and repeat for the other initiator. Apply initiation and two-sidedness only after those terminal comparisons, using the declared conventions.
+
+For an original conflict, ask for separate evidence supporting each player's strict four-outcome order before assigning ranks. Keep those ranks unchanged when comparing Nash and move-tree conclusions. Missing rankings or an unspecified status quo justify a conditional answer, not an invented unique prediction.
+
+For cyclic classification, reuse UL=(1,4), UR=(3,2), DL=(4,1), DR=(2,3): in UL→DL→DR→UR→UL, the scheduled movers' departure ranks are 1,1,2,2. The 4 belonging to the other player at UL does not block Row's move. **Faded contrast:** reverse the orientation and ask whose turn now starts at their best rank. Classification under stop-at-best remains distinct from a prediction of endless play under rules that exclude repeated cycling.
 
 ## Lesson completion
 

@@ -185,3 +185,15 @@ Lesson 1.8: [tutor coverage](lesson-8-piecewise-and-step-functions/tutor.md#eval
 **B — Prompt:** A flat parking charge is 2 dollars for any duration $0\le t<1$ hour, 5 dollars for $1\le t<3$ hours, and 8 dollars for $3\le t\le5$ hours. Other durations are not permitted. Construct a step function, give its domain and range, and test just below, at, and just above each internal threshold.
 
 **Key:** $P(t)=2,5,8$ on those respective intervals; domain $[0,5]$ hours, range $\{2,5,8\}$ dollars. At $0.99,1,1.01$ the charges are $2,5,5$; at $2.99,3,3.01$ they are $5,8,8$. At $0$ charge $2$, at $5$ charge $8$, and beyond the domain it is undefined. These are flat charges, not cumulative sums or hourly rates. Every intended input has exactly one applicable fee.
+
+## Annotated response calibration
+
+| Prompt and actual response | Judgment and next action |
+| --- | --- |
+| Evaluate $f(-3)$ for $f(x)=x^2-2x$: “15.” | Correct output. If explanation was not requested, substitution is unassessed; ask for it neutrally. If requested, that evidence is incomplete rather than the number being wrong. |
+| Solve $2\lvert x+1\rvert+3=11$: “Distance 4 from $-1$, so $-5,3$; both give 11.” | Valid distance method with verification; do not insist on two symbolic branch equations unless that representation was requested. |
+| Give domain and range of $x^2$ on $[-2,1)$: “Domain $[-2,1)$; range $[0,1)$.” | Domain is demonstrated. Range reasoning is developing; ask how the largest output was chosen before diagnosing endpoint-only reasoning. |
+| Map $(6,3)$ under $-2f(3x-9)+4$: “$(45,-2)$.” | Output calculation is correct; correspondence input is wrong. Request the input equation, preserve the vertical component, and target only the horizontal decision. |
+| After the tutor supplies $\lvert x-1\rvert\le3$, learner gives $[-2,4]$. | Correct assisted completion of the inequality. Isolation and sign reversal were supplied; a fresh unassisted item is needed for those decisions. |
+
+A self-corrected endpoint before mathematical feedback remains independent. A claimed plotting comparison without an actual graph leaves the required technology component unassessed, even when symbolic point mapping is correct.

@@ -106,3 +106,14 @@ The A/B examples above illustrate selected cases. The following checklist identi
 | [Gaussian elimination and back-substitution](lesson-2-three-variable-linear-systems/tutor.md#gaussian-elimination-and-back-substitution) | Assess forward elimination, correct current-row use, valid pivot handling, back-substitution, solution classification and substitution into all originals. A triangular starting example alone does not demonstrate elimination. |
 | [Augmented matrices and technology](lesson-3-matrix-representation-and-solution-classification/tutor.md#augmented-matrices-and-technology) | Require consistent order, full coefficient/constant encoding, meaningful row interpretation and actual tool evidence where prescribed. Record unavailable technology as unassessed, never fabricate output. |
 | [Contradictions and free variables](lesson-3-matrix-representation-and-solution-classification/tutor.md#contradictions-and-free-variables) | Assess row meaning, full-system consistency, pivot/free distinction, complete parameterization and original-family verification. Do not infer free-variable values from unused labels or force them to zero. |
+
+## Annotated response calibration
+
+| Prompt and actual response | Evidence and next action |
+| --- | --- |
+| Solve $x+y=7,x-y=1$: “$(4,3)$.” | Correct pair; if explanation was not requested, method and reversibility are unassessed. Ask for reasoning without supplying the elimination. |
+| Solve by substituting $y=7-x$, with both original equations checked. | Valid method. A separate explicit elimination objective remains unshown rather than making the result wrong. |
+| Reduced rows $x+2z=4,y-z=1,0=0$: “$(4,1,0)$.” | One valid solution, not the complete family. Ask whether $z$ is forced to zero; complete answer is $(4-2t,1+t,t)$. |
+| After the tutor supplies $z=t$, learner derives the two remaining coordinates. | Assisted free-variable choice with successful dependent-variable recovery; later collect an independent parameterization. |
+
+Correct answers without explanation establish results only. If reasoning was never requested, collect it neutrally; if explicitly requested but omitted, record incomplete required evidence. Self-correction before mathematical feedback stays independent; completion after a mathematical cue is assisted.

@@ -153,6 +153,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
 
+## Decision rehearsal and fading
+
+**Use a surface inventory for an open container.** A right circular cylinder has radius 3 and height 5, with no top and negligible thickness. The exterior curved area is $2\pi(3)(5)=30\pi$ and the one base adds $9\pi$, totaling $39\pi$. Capacity is $45\pi$ cubic units, a separate quantity. Do not double-count inner and outer walls when the problem defines an ideal zero-thickness surface and asks only for its base plus exterior wall.
+
+If the learner gives $48\pi$, ask which two disks their formula counts and whether both exist. Next list curved wall, bottom, and missing top; then supply the wall calculation and leave the base. Fade to radius 2, height 7 with the same surface request (total $32\pi$). If wall thickness or interior material boundaries matter, specify them and recalculate the actual surfaces; do not infer them from a generic picture.
+
 ## Lesson completion
 
 Apply [the shared evidence rule](../agent-guide.md#evidence-and-completion) to each concept and its listed cases. Report which methods and representations were independently demonstrated, which needed support, and what is still untested. Do not mark the lesson secure from a short sample or an unobserved graph/proof/tool action. Offer the next lesson or focused repair according to the student's request and evidence.

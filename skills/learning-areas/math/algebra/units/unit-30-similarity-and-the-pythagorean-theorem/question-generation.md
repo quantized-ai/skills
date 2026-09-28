@@ -121,3 +121,13 @@ Use the [concept teaching plan](lesson-4-right-triangle-metric-relationships/tut
 **Reject/repair if these conditions are missing:** Both special families; angle-side correspondence; positive scale; exact radical simplification; derivation not memorized labels alone.
 
 Use the [concept teaching plan](lesson-4-right-triangle-metric-relationships/tutor.md#special-right-triangles) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Right triangle altitude splits hypotenuse into 2 and 8: altitude 4, legs $2\sqrt5,4\sqrt5$. | Same correspondence and three positive-root formulas, with exact radicals. |
+| Intended comparable retry | Partitions 3 and 12: altitude 6, legs $3\sqrt5,6\sqrt5$. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Derive all three relationships from ordered similarities and sum the leg squares to prove Pythagoras. Memorized substitution does not cover this proof demand. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

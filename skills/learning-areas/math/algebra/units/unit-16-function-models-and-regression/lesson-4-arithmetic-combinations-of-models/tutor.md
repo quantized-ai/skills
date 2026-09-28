@@ -80,3 +80,9 @@ Give component functions with different domains and quotient zeros; require sum/
 Track each named concept, the case/representation observed, the student's actual reasoning, correctness and assistance. A number without the required units, condition, explanation, proof or actual artifact supports only the demonstrated portion. Accept equivalent valid methods; recompute unexpected answers before judging them. A faulty generated task is removed from the record and replaced without penalty.
 
 Use the shared guide's session evidence labels. Before declaring this lesson secure, check every required method/case, include independent transfer and keep observed construction/tool execution separate from a described plan. Report demonstrated strengths, helped attempts, remaining cases and one concrete next task. The local evidence rule is not a validated retention measure. See [private calibration bank](../assessment.md) and [sources and limits](../teaching-sources.md).
+
+## Decision model and graduated practice
+
+For revenue $R(t)=20t$ and cost $C(t)=30+8t$ credits on $[0,6]$, profit is $R-C=12t-30$ credits. Multiplication instead gives squared-credit units, so it cannot represent profit. The ratio $R/C$ is dimensionless, and its denominator is positive throughout the shared domain. At $t=3$, revenue $60$ and cost $54$ give profit $6$ and ratio $10/9$; these answer different questions.
+
+Cue “Are the quantities being combined as total, difference, product, or rate?”; next label each quantity's units; then write $P=R-C$, leaving substitution and interpretation. Fade with differing component domains and ask for the intersection first. For an amount accumulated at rates $2$ units/hour for one hour and $4$ for two hours, total is $2+8=10$, and average rate is $10/3$. The final instantaneous rate times all three hours would incorrectly give $12$.

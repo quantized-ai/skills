@@ -85,7 +85,7 @@ Curriculum reference: **Jump, infinite, and oscillatory discontinuities** in [le
 - **Diagnostic key:** No; changing one point leaves both neighboring branches unchanged.
 - **Worked-example prompt:** A piecewise function equals x+1 for x<0 and 2x+4 for x≥0. Can changing its value at zero make it continuous?
 - **Worked model and reasoning:** Left limit 1, right limit 4, so it has a jump. No single value can match both. Infinite and oscillatory discontinuities similarly cannot be repaired by changing one point.
-- **First hint:** Evaluate the formula belonging to each side, not both at the point.
+- **First hint:** Which branch describes inputs just to each side of the boundary?
 
 #### Learn
 
@@ -151,6 +151,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Use holes, narrow jumps, rapid oscillation and window-hidden asymptotes; ask students to vary resolution and corroborate with algebra rather than trust pixels.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Compare three separate facts before choosing a repair
+
+For $f(x)=x+1$ when $x<0$ and $f(x)=2x+c$ when $x\ge0$, the left limit is 1, right limit is $c$, and $f(0)=c$. Continuity at zero therefore requires $c=1$. If instead both nearby sides equal $x+1$ but $f(0)=5$, the common limit remains 1 and only the assigned value needs changing. Changing a point cannot repair the original piecewise example when $c=4$, because an entire right branch approaches 4.
+
+If the learner reads the branch containing zero for both limits, ask which formula applies at $-0.01$. Then supply the two branch conditions; finally evaluate one side and leave the other. Fade with a three-line piecewise function whose point value is a separate line. During a display investigation record actual input, window, and observation; a predicted connector or hidden hole is a hypothesis until inspected, and even an inspected display needs algebraic corroboration.
 
 ## Lesson completion
 

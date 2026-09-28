@@ -16,7 +16,7 @@ Preserve original and intermediate domains through composition, cancellation and
 
 - **Domain-preserving construction:** choose original component functions and retain every intermediate condition through decomposition and difference quotients. Generate radical/rational quotient tasks with both endpoint restrictions and h≠0; use expansion, common denominators or conjugates as appropriate.
 - **Local versus global behavior:** construct holes by canceled factors, jumps with unequal side formulas, poles with known multiplicities and oscillation with two convergent input sequences. Set point values independently where useful. Do not infer limits or continuity from a finite table/plot; require algebraic or structural corroboration and real tool evidence for display analysis.
-- **Rational families:** choose denominator factors and exclusions first; choose numerator zeros and multiplicities to control interval signs. For quotient asymptotes select S,Q,R with degR<degQ and build P=QS+R. Verify crossings by R=0,Q≠0, and use explicit zero-expression cases for inequalities.
+- **Rational families:** choose denominator factors and exclusions first; choose numerator zeros and multiplicities to control interval signs. For quotient asymptotes select S,Q,R with degR<degQ and build P=QS+R. Verify intersections by R=0,Q≠0 and test sign change for genuine crossings, and use explicit zero-expression cases for inequalities.
 - **Power models:** reduce rational exponents before domain selection, state the positive-input convention for arbitrary real powers and transfer domains under input changes. Fit only distinct positive inputs for logarithmic recovery of k,p. Verify both observations, units and any extrapolation qualification.
 - **Transfer evidence:** require a changed domain, branch, representation or endpoint case, not only new coefficients. Sample isolated zeros and original holes in inequalities; a correct sign interval alone is incomplete.
 
@@ -41,3 +41,15 @@ Preserve original and intermediate domains through composition, cancellation and
 | [42.7 Rational-power domains and graphs](lesson-7-power-functions-and-scaling-models/tutor.md#rational-power-domains-and-graphs) | Vary reduced exponent parity and sign, including even-root endpoints; determine both real branches rather than extrapolate the positive branch. |
 | [42.7 Real powers and transformed graphs](lesson-7-power-functions-and-scaling-models/tutor.md#real-powers-and-transformed-graphs) | Include negative input scales, irrational and constant powers and explicit zero extensions; distinguish variable-base powers from fixed-base exponentials. |
 | [42.7 Power-law scaling models](lesson-7-power-functions-and-scaling-models/tutor.md#power-law-scaling-models) | Vary noninteger exponents, units and scaling questions; reject repeated/zero/negative inputs for log recovery and qualify extrapolation. |
+
+## Checked task-demand anchors
+
+| Role | Task and private key | Demand control |
+| --- | --- | --- |
+| Routine sign inequality | $(x-3)/(x+2)\ge0$: $(-\infty,-2)\cup[3,\infty)$. | Two simple critical points and one included zero. |
+| Comparable intended retake | $(x-4)/(x+1)\ge0$: $(-\infty,-1)\cup[4,\infty)$. | Same multiplicities, sign sequence and endpoint types. |
+| Increased demand | $(x-2)^2/(x+1)\le0$: $(-\infty,-1)\cup\{2\}$. | Adds even multiplicity and a singleton solution. A matched retake is $(x-3)^2/(x+2)\le0$: $(-\infty,-2)\cup\{3\}$. |
+| Distinct boundary task | $(x-1)/[(x-1)^2(x+2)]$. | Original exclusions 1 and $-2$, both poles after reduction; cancellation alone does not imply a hole. |
+| Transfer | Compare $\sqrt{x^2}$ and $(\sqrt x)^2$ as functions. | $\lvert x\rvert$ on all reals versus $x$ on nonnegative reals; tests stage domains and order. |
+
+Do not call finite plotting agreement a proof of a limit. At quotient-asymptote intersections distinguish touching from crossing by the sign of $R/Q$ on either side; solving $R=0$ alone establishes equality, not a sign change.

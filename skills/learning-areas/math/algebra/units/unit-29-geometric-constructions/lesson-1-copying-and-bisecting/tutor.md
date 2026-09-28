@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** To copy ∠AOB onto ray PX, draw an arc centered O meeting the rays atA,B; use its radius atP to meet PX atC. Transfer chord AB with center C to meet the new arc atD on the chosen side. Triangle OAB and PCD are SSS, so ∠CPD equals the source.
 
-**Misconception response and hint ladder:** If the chord is redrawn by eye, ask which equality ensures the copied angle; next transfer the actual compass width AB. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If the chord is redrawn by eye, ask which equality ensures the copied angle; next transfer the actual compass width AB.
 
 **Practice progression:** Copy segment → copy angle → constrained dynamic/folding realization and drag check. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For segment AB, draw equal-radius circles centered A,B meeting U,V. Since UA=UB and VA=VB, U,V lie on the perpendicular-bisector locus, so UV is that line and its crossing with AB is midpoint. An angle bisector uses equal-distance ray points and equal arcs; SSS proves the two subangles equal.
 
-**Misconception response and hint ladder:** If any line through midpoint is called perpendicular bisector, ask what establishes 90°; next use equidistant off-segment points. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If any line through midpoint is called perpendicular bisector, ask what establishes 90°; next use equidistant off-segment points.
 
 **Practice progression:** Segment bisector → angle bisector → second realization and justification. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -74,6 +74,12 @@ Use this reasoning as instruction or private calibration. Generate a fresh indep
 ## Further task construction
 
 Require compass/straightedge and a second exact method (constraint-based dynamic geometry or justified folding), label every center/radius/intersection, avoid tangent/nonintersecting arcs and distinguish the intended internal ray.
+
+## Decision rehearsal and fading
+
+**Arc intersection is a condition, not a drawing convenience.** To bisect segment AB of length 6, choose equal compass radii 4 from A and B. Since $4>6/2$, the circles meet in two points U,V. Both points are equidistant from A and B, so their line is the perpendicular bisector. Radius 3 produces only one intersection and cannot supply the two-point line; radius 2 produces none.
+
+If the student's arcs fail to meet, ask how their radius compares with half AB. Next have them preserve equal radii while enlarging both; only then suggest radius 4 and leave the construction. Fade by giving a new segment with no radius choice. Inspect the actual compass/straightedge artifact and retained arcs. For a second exact method, fold A onto B and retain the crease, explaining its equal-distance property; a written folding plan does not establish execution. Keep approximate measured equality separate from construction constraints.
 
 ## Evidence, feedback and handoff
 

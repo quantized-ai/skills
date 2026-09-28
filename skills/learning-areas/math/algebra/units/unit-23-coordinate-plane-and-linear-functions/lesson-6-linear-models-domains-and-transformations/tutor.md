@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A tank contains 50 L and drains 4 L/min: V=50−4t, with 0≤t≤12.5 before empty. Although the line extends mathematically, negative volumes beyond 12.5 are outside this model.
 
-**Misconception response and hint ladder:** If intercept and rate are swapped, ask what is paid/contained at zero input; next calculate one-unit change. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If intercept and rate are swapped, ask what is paid/contained at zero input; next calculate one-unit change.
 
 **Practice progression:** Direct model → infer from two observations → domain-limited prediction. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Let g(x)=−2f(x+1)+4. Substitute to get −2(2x+3)+4=−4x−2. Point (0,1) on f maps to(−1,2) on g; the coordinate rule verifies the horizontal/vertical transformations together.
 
-**Misconception response and hint ladder:** If x+1 is called a right shift, ask which new input makes the old input 0; next solve x+1=0. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If x+1 is called a right shift, ask which new input makes the old input 0; next solve x+1=0.
 
 **Practice progression:** Single shift → reflection/scale → combined transformation and slope/intercept check. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -74,6 +74,12 @@ Use this reasoning as instruction or private calibration. Generate a fresh indep
 ## Further task construction
 
 Generate cost/rate models with feasible domains and transformations of explicitly restricted functions; distinguish horizontal shift from vertical change and mathematical equivalence from contextual interpretation.
+
+## Decision rehearsal and fading
+
+**Transform the permitted inputs with the rule.** Let $f(x)=2x+1$ on $[0,3]$ and $g(x)=f(x-2)-4$. The old input $u=x-2$ must satisfy $0\le u\le3$, so $2\le x\le5$. Algebra gives $g(x)=2x-7$. A point $(u,v)$ on $f$ maps to $(u+2,v-4)$; the endpoints become $(2,-3)$ and $(5,3)$.
+
+If the equation is correct but the old domain is retained, cue “Which new inputs keep the inside input in $[0,3]$?” Next give $0\le x-2\le3$; work its left inequality and leave the right. Fade to $h(x)=f(x+1)+2$ with no domain setup (key $2x+5$ on $[-1,2]$). Have the learner graph both restricted functions using available technology and inspect the actual display; an equation and mapped endpoints alone do not establish the required technology execution.
 
 ## Evidence, feedback and handoff
 

@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For A=(0,0),B=(6,0),C=(0,9), G=(2,3). Midpoint BC=(3,4.5); G is2/3 of the way from A to it. Analogous coordinate averaging places G on the other medians, proving concurrence and the 2:1 ratio.
 
-**Misconception response and hint ladder:** If ratio is reversed, ask which segment is measured from vertex; next mark the 2/3 point from A. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If ratio is reversed, ask which segment is measured from vertex; next mark the 2/3 point from A.
 
 **Practice progression:** Median identification → ratio length → general coordinate concurrence proof. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Triangle (0,0),(6,0),(0,8) has circumcenter (3,4), the hypotenuse midpoint, radius 5. Its incenter (2,2) has perpendicular distance 2 from both axes and from line 4x+3y=24. Same triangle, different centers and radii.
 
-**Misconception response and hint ladder:** If vertex distance is used for inradius, ask what the incircle touches; next drop a perpendicular to a side. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If vertex distance is used for inradius, ask what the incircle touches; next drop a perpendicular to a side.
 
 **Practice progression:** Center identification → construction/exact example → acute/right/obtuse circumcenter locations and locus proof. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -74,6 +74,12 @@ Use this reasoning as instruction or private calibration. Generate a fresh indep
 ## Further task construction
 
 Include acute/obtuse/right triangles, centroid 2:1 direction, concurrence justification, exterior circumcenters, and constructions explaining equal-distance properties.
+
+## Decision rehearsal and fading
+
+**Use the distance target to choose the center.** In triangle $A=(0,0)$, $B=(8,0)$, $C=(0,6)$, the circumcenter is $(4,3)$, at distance 5 from every vertex. The incenter is $(2,2)$: its distances to the axes are 2, and to line $3x+4y=24$ the perpendicular distance is $(24-6-8)/5=2$. The centroid is $(8/3,2)$, located two-thirds of the way from A to the midpoint $(4,3)$ of BC. None of these definitions is interchangeable.
+
+If the learner uses a vertex distance as inradius, ask what an incircle touches. Next draw a perpendicular from the proposed center to a side; work the distance to one axis and leave the other checks. Fade to identifying which construction—median, angle bisector, or perpendicular bisector—answers each distance question without coordinates. Calculating these centers does not by itself establish the separate concurrence proofs.
 
 ## Evidence, feedback and handoff
 

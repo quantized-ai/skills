@@ -98,6 +98,12 @@ Require valid point mappings, center and orientation, equivalence checks and the
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $(x+1)^2(x-2)$, start with zeros $-1,2$, touch at $-1$, cross at $2$, vertical intercept $(0,-2)$, and negative sign before $2$ except at $-1$. Positive leading cubic behavior gives left tail down and right tail up. A sketch must fit all of these facts; degree bounds turns by two without giving their exact locations.
+
+If a sketch crosses at $-1$, cue “Which factor could change sign there?”; set up the local signs of the square and $x-2$; next show that both neighboring products are negative, leaving the touch correction. Fade with $(x-1)^2(x+2)$ by supplying only the factors. For $g=-2(x-3)^3+4$, map parent $(-1,-1),(0,0),(1,1)$ to $(2,6),(3,4),(4,2)$. The center is an inflection point, not a maximum: outputs occur both above and below $4$ nearby.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

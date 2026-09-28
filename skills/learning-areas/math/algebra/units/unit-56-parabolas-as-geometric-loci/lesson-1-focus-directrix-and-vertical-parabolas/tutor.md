@@ -108,7 +108,7 @@ Convert signed vertex forms to all focal attributes; reconstruct from enough foc
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** The coefficient equals 1/(4p), not p.
+**First conceptual cue:** What happens to the coefficient when the squared expression is isolated?
 
 If a is substituted for p, derive the reciprocal relation from the same equation. If focus/directrix land on one side, compare their signed offsets about the vertex.
 
@@ -125,6 +125,15 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Both conversions, reciprocal relation, distance/sign and insufficiency of direction-only data.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+Start with distances rather than a memorized coefficient. For focus \((2,4)\) and directrix \(y=0\), the point-to-line distance from \((x,y)\) is \(\lvert y\rvert\), not the distance to a chosen point on the line. Equating nonnegative distances and squaring gives \((x-2)^2+(y-4)^2=y^2\). Expand only the second square: the \(y^2\) terms cancel, leaving \((x-2)^2=8y-16=8(y-2)\). The midpoint geometry gives vertex \((2,2)\) and signed \(p=2\), agreeing with the algebra. Squaring is reversible here because both original distances are nonnegative.
+
+Use \((6,4)\) as a nonvertex check: the focus distance is 4 and the perpendicular directrix distance is 4. Checking only the vertex would give weaker evidence about the full equation. For \(y=-(x-1)^2/8+3\), rewrite \((x-1)^2=-8(y-3)\); now \(4p=-8\), so \(p=-2\). The negative sign determines opening; focal **distance** is 2. Focus \((1,1)\) and directrix \(y=5\) lie on opposite sides of the vertex.
+
+If a learner treats \(a\) as \(p\), cue “What happens to the coefficient when the squared expression is isolated?” Next offer \((x-h)^2=(1/a)(y-k)\), then match \(4p=1/a\) only at the worked-step level. Fade with \(y=(x+2)^2/12-1\): \(p=3\), focus \((-2,2)\), directrix \(y=-4\). A correct algebraic construction does not count as executed dynamic-geometry evidence.
 
 ## Lesson completion
 

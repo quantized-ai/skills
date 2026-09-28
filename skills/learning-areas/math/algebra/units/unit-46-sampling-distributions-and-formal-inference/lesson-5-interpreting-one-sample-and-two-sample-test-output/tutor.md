@@ -56,7 +56,7 @@ Interpret one-proportion z and known-σ mean z output; next compare one-sample t
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Which proportion belongs in the null standard error?
+**First conceptual cue:** Which parameter and sampling design generated this output?
 
 If any mean output is labeled z, ask whether σ is known or estimated. If a negative two-group estimate is called a decrease without naming order, restate group 1−group 2 and interpret the sign. If software output is treated as assumption evidence, ask where independence came from.
 
@@ -118,7 +118,8 @@ Give one relevant cue at a time and wait. If a cue does not help, use the indica
 
 Generate fresh tasks that collectively establish each of these curriculum obligations:
 
-- State each error using the population claim.
+- State each error using the population claim and compare its contextual consequences.
+- Relate power to one minus Type II error probability at a specified alternative.
 - Distinguish a possible error from a known error after a test.
 - Avoid interpreting significance level as the probability this particular rejection is wrong.
 
@@ -140,6 +141,14 @@ Use this after the test-family model. Ask the learner to select the method and i
 The t probabilities were independently checked by numerical integration of the Student t density; the displayed values are rounded supplied output. Discuss why identical standardized statistics need not yield identical p-values. Contrast all four rows with the existing pooled two-proportion worked model: its standard error uses the common null proportion, not the confidence-interval standard error. For a one-sided inquiry, choose direction before the observations and recompute the appropriate tail; do not automatically halve a two-sided p-value when the observed effect points against the alternative.
 
 **Practice transfer:** supply a new summary with unknown population SD and have the learner reject the tempting z output; then supply paired measurements and have them explain why the independent two-mean result is inapplicable. These examples calibrate interpretation. A requirement to obtain output with technology remains pending until the learner actually does so.
+
+## Interpret the error in the production decision
+
+Take $H_0:\mu=500$ mL and a two-sided alternative for mean fill. A Type I error signals departure when the true mean is 500, potentially stopping a correctly centered filling line for unnecessary adjustment. A Type II error fails to signal a real departure, potentially continuing production with a shifted mean. These consequences concern the population mean; a correctly centered process can still produce individual bottles above or below 500.
+
+If $\beta=0.20$ specifically at $\mu=495$, power there is $1-\beta=0.80$. It is not a universal power at every false mean. In a fixed normal-mean design at the same alternative, increasing $n$ or reducing variability increases separation in SE units; lowering $\alpha$ generally reduces power while reducing false alarms. Compare consequences before declaring one error universally worse.
+
+If the learner names an error from “we rejected” alone, ask what the unknown population truth would have to be. Then supply a truth-by-decision table; finally fill the true-null/reject cell and leave the other error and consequences. Fade by supplying the decision rule but no table in a fresh context. Preserve the existing z/t comparison: identical standardized statistics can lead to different decisions because their reference distributions differ.
 
 ## Lesson completion
 

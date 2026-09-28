@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Two triangles have sides adjacent to included angle 60° of lengths 4 and 7. Align the 4-side by translation/rotation; equal included angle fixes the 7-side ray, and its length fixes the third vertex. This explains SAS. If the angle is not included, that uniqueness argument fails.
 
-**Misconception response and hint ladder:** If any two sides and angle are called SAS, ask whether the angle lies between those sides; next mark the two endpoints of the included angle. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If any two sides and angle are called SAS, ask whether the angle lies between those sides; next mark the two endpoints of the included angle.
 
 **Practice progression:** Recognize SSS/SAS/ASA → proof with auxiliary shared side → criterion/existence near-miss. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** AAS data angles 40°,70° and corresponding nonincluded side 5 imply third angles 70°. The data then provide an ASA configuration, so triangles are congruent. By contrast AAA at40°,60°,80° permits any uniform scale; corresponding lengths need not match.
 
-**Misconception response and hint ladder:** If CPCTC is used to prove the same congruence, ask which prior criterion was established; next separate proof stages. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If CPCTC is used to prove the same congruence, ask which prior criterion was established; next separate proof stages.
 
 **Practice progression:** AAS/HL → corresponding-part deduction → AAA/SSA ambiguity analysis. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -74,6 +74,12 @@ Use this reasoning as instruction or private calibration. Generate a fresh indep
 ## Further task construction
 
 Require separate SSS/SAS/ASA rigid-motion arguments, included versus nonincluded angles, AAS reduction, established right angles for HL and corresponding-parts conclusions only after congruence.
+
+## Decision rehearsal and fading
+
+**Check the angle's location before naming SAS.** Let $AB=DE=5$, $AC=DF=7$, and $\angle BAC=\angle EDF=40^\circ$. The angles are between the stated sides, so SAS fixes $A\leftrightarrow D$, $B\leftrightarrow E$, $C\leftrightarrow F$. Consequently $BC=EF$ follows after congruence. Replacing the angle data by $\angle ABC=\angle DEF$ creates SSA; these facts no longer license the same criterion.
+
+If a learner says SAS for the replaced data, ask which two sides meet at each known angle. Next mark the angle's vertex and its incident sides; then contrast AB/BC with AB/AC and let them judge inclusion. Fade to right triangles with hypotenuse 10 and a corresponding leg 6: establish both right angles before applying HL; the remaining leg 8 is a check, not a replacement for the hypotheses. Do not require one proof format if another supplies the complete argument.
 
 ## Evidence, feedback and handoff
 

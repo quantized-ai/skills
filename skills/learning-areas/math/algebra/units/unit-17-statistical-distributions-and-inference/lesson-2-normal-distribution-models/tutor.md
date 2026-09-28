@@ -86,3 +86,9 @@ Use the shared guide's session evidence labels. Before declaring this lesson sec
 ### Reverse normal-area reasoning
 
 With an explicitly assumed normal model μ=40,σ=6 and a supplied standard-normal90th-percentile value z≈1.2816, the corresponding cutoff is x=μ+zσ≈47.69. Check that it lies above40 and leaves about10% to the right. If the question instead asks the bottom10%, use z≈−1.2816 and obtain32.31. Ask the student to shade the requested region before selecting a table/tool convention; do not infer normality merely from the availability of μ and σ.
+
+## Decision model and graduated practice
+
+Assume a normal model with mean $70$, SD $8$. Boundary $86$ has $z=(86-70)/8=2$, so the right-tail event is $P(X>86)=1-\Phi(2)$. The interval $62<X<78$ standardizes to $-1<Z<1$, giving $\Phi(1)-\Phi(-1)$, approximately $68\%$ by the empirical rule. Multiplying that model area by a population size yields an expected count, not a guaranteed count.
+
+If a learner reports $\Phi(2)$ for the right tail, cue “Which side of the boundary does the event shade?”; next label $\Phi(2)$ as left-cumulative area; then set up $1-\Phi(2)$, leaving actual table/tool evaluation. Fade with a left-tail boundary and then a between event. Require a real table or correctly configured calculation when numerical area computation is assessed. Standardization alone does not change a skewed distribution into a normal one.

@@ -98,6 +98,12 @@ Assess all candidates, original verification, exact versus approximate reporting
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Model $1/(x-1)=2/(x+1)$ with original exclusions $\pm1$. Multiplying every term by $(x-1)(x+1)$ gives $x+1=2(x-1)$, hence $x=3$. Original substitution gives $1/2=2/4$, so it is valid. Multiplication was reversible because the LCD was nonzero on the allowed domain.
+
+Cue “Which inputs make the original sides undefined?”; next show the complete LCD-multiplied equation; then cancel one denominator, leaving the other side and solution. Fade on $2/(x-1)=3/(x+1)$ (key $5$). For $x=2/x$, retain both candidates $\pm\sqrt2$ and check them; a graph or table can confirm equal outputs at each. A plot cannot certify completeness or convert an excluded candidate into a solution.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

@@ -74,3 +74,14 @@ These are manual evaluation specifications, not results of completed student ses
 **Required mathematical response:** Two linear dimensions each scale 100, so area factor 10000. Ask the student to scale length and width separately and compare with area-unit conversion.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-4-measurement-units-and-scale](lesson-4-measurement-units-and-scale/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| The sale price is 72 after 20% off. I add 20% of 72 and get 86.4. | Identify the changed reference whole and elicit the original-price multiplier equation. Do not merely tell the learner to subtract instead. |
+| I compared 600 g for 4.80 with 900 g for 6.75 using grams per credit: 125 and $133\tfrac13$. I choose the second. | Accept the valid reciprocal rate and larger-is-better interpretation; do not insist on cost per kilogram. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

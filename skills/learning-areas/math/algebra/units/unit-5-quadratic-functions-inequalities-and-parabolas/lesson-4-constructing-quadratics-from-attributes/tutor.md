@@ -98,6 +98,12 @@ Assess root factors, scale identification, repeated-root handling and every data
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For vertex $(2,-1)$ through $(0,7)$, write $f(x)=a(x-2)^2-1$ because the square vanishes exactly at the vertex. Substitution gives $7=4a-1$, hence $a=2$. Check $f(2)=-1,f(0)=7$. For zeros $-2,3$ through $(0,-12)$, the structural setup is $a(x+2)(x-3)$; $-12=-6a$ again gives $a=2$, but a different quadratic.
+
+If the learner assumes $a=1$, cue “Which datum fixes the scale?”; then supply the point-substitution equation; only next work $8=4a$, leaving the solution and checks. Fade with vertex $(-1,2)$ through $(1,10)$ (key $2(x+1)^2+2$). A point at the stated vertex supplies no scale equation, whereas another point with the vertex's height forces $a=0$ and contradicts the requirement of a genuine quadratic.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

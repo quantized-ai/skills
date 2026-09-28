@@ -44,7 +44,7 @@ Curriculum reference: **Polygon area formulas** in [lesson.md](lesson.md#concept
 - **Diagnostic key:** 21 square units; the side 5 is not the height.
 - **Worked-example prompt:** Derive and apply the area of a trapezoid with parallel bases 5 and 11 and perpendicular height 4.
 - **Worked model and reasoning:** Two congruent copies make a parallelogram of base 16 and height 4; one area is $16\cdot4/2=32$. Triangle/parallelogram dissections likewise explain their formulas; regular polygons require apothem, and kite products require perpendicular diagonals.
-- **First hint:** Join two copies along a nonparallel side.
+- **First hint:** How might two congruent trapezoids form a shape with a familiar area?
 
 #### Learn
 
@@ -122,7 +122,7 @@ Curriculum reference: **Composite plane regions** in [lesson.md](lesson.md#conce
 - **Diagnostic key:** No; the shared internal edge is not part of the outer boundary.
 - **Worked-example prompt:** A 10-by-6 rectangle has a radius-2 circular hole entirely inside. Find remaining area, exterior perimeter and total boundary.
 - **Worked model and reasoning:** Area $60-4\pi$; exterior perimeter 32; total boundary $32+4\pi$. The internal circle contributes boundary length but removes area.
-- **First hint:** List the boundaries separately from the regions.
+- **First hint:** Which edges remain exposed after the regions are combined?
 
 #### Learn
 
@@ -150,6 +150,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include attached sectors, cutouts and missing dimensions; avoid counting shared construction edges or overlapping areas twice.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**Area pieces and boundary pieces are different lists.** Take a 10-by-6 rectangle and attach an outward semicircle of radius 3 along one 6-unit side. Their interiors do not overlap. Area is $60+\tfrac12\pi3^2=60+4.5\pi$ square units. Exterior perimeter is $10+10+6+3\pi=26+3\pi$ units: the shared diameter is internal, while the curved semicircle contributes half a circumference.
+
+If the learner adds the full rectangle perimeter and the entire semicircle perimeter, ask which edges remain exposed after joining. Next mark the common diameter on both pieces; then remove both copies of its length from that starting total and leave the result. Fade to an 8-by-4 rectangle with an attached radius-2 semicircle (area $32+2\pi$, perimeter $20+2\pi$). State the attachment and outward orientation explicitly so the diagram has one determined boundary.
 
 ## Lesson completion
 

@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** If two parallel lines are cut by a transversal, a corresponding angle to68° is68°, while its adjacent interior partner is112°. Conversely equal alternate interior angles establish parallelism. Equality cannot be assumed merely because lines look parallel.
 
-**Misconception response and hint ladder:** If all transversal angles are set equal, ask whether the pair is corresponding or adjacent; next mark the shared straight angle. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If all transversal angles are set equal, ask whether the pair is corresponding or adjacent; next mark the shared straight angle.
 
 **Practice progression:** Vertical angles → parallel-line angle chains → converse proof or missing-parallel counterexample. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Let A=(−a,0),B=(a,0),a>0,P=(x,y). Equality of squared distances gives (x+a)²+y²=(x−a)²+y², hence 4ax=0 and x=0. Conversely x=0 makes the distances equal. Thus the locus is perpendicular bisector x=0, including midpoint (0,0).
 
-**Misconception response and hint ladder:** If a point's equal distances imply it is the midpoint, ask whether (0,4) is also equal-distance; next identify the whole line. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If a point's equal distances imply it is the midpoint, ask whether (0,4) is also equal-distance; next identify the whole line.
 
 **Practice progression:** Test point → two-direction proof → construct/use locus intersections. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include transversal angle theorems only with parallel hypotheses, converses establishing parallelism, and both directions of the equidistance locus with on-line cases.
+
+## Decision rehearsal and fading
+
+**Separate the midpoint from off-line cases.** Given distinct A and B with midpoint M, and P satisfying $PA=PB$, first consider $P=M$: it already lies on the perpendicular bisector. If P lies elsewhere on line AB, it cannot be equidistant from A and B. For P off AB, triangles PMA and PMB have equal corresponding sides (PM shared, AM=BM, PA=PB); SSS makes the adjacent angles at M equal. Their sum is $180^\circ$, so each is $90^\circ$.
+
+If a learner claims P must equal M, cue “Could a point above M have equal endpoint distances?” Next use $A=(-2,0),B=(2,0),P=(0,3)$; work one squared distance, 13, and leave the other. Fade by asking for the converse with P on the perpendicular bisector: right-triangle SAS gives equal distances. A coordinate proof covering both directions is also valid if its assumptions and generality are stated.
 
 ## Evidence, feedback and handoff
 

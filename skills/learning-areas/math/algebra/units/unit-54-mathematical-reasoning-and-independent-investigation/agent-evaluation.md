@@ -53,3 +53,11 @@ Expected mathematical check: Expansion gives x²+2x+1; at x=1 the proposed sides
 **Required behavior and mathematics:** Expected: separate finite evidence from proof and also identify the domain expansion from positive integers to all integers. Ask for a general argument in the intended domain or an accurately bounded conclusion; do not award universal-proof evidence.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
+
+## Concrete response and support checks
+
+- Request a refutation of affirming the consequent and supply the decisive counterrow. Expect acceptance; in a separate full-table request expect missing assignments to be identified without rejecting the valid row.
+- Supply an out-of-domain counterexample. Expect an explicit hypothesis check and no inference that the original claim has therefore been proved.
+- Supply a valid telescoping proof rather than the reference induction route. Expect acceptance of the argument and its domain, not matching of method labels.
+- Supply a documented conjecture revision after n=41 refutes the prime formula. Expect the investigation's successful reasoning to be retained and universal claims withdrawn.
+- Supply text only for a required spoken explanation. Expect written evidence retained and oral performance left pending, with no fabricated delivery assessment.

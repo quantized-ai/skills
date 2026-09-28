@@ -42,7 +42,7 @@ Curriculum reference: **Matrix dimensions and labeled entries** in [lesson.md](l
 - **Diagnostic key:** No; there are only two columns.
 - **Worked-example prompt:** Rows represent shops A,B and columns pens,notebooks. Interpret M=[[7,2],[4,9]] and its dimensions.
 - **Worked model and reasoning:** M is 2-by-2; entry (2,1)=4 means shop B has 4 pens. Row/column labels determine meaning even for a square matrix. Transposing changes the indexing convention.
-- **First hint:** Read the row label first and then the column label.
+- **First hint:** What two categories identify the meaning of this entry?
 
 #### Learn
 
@@ -110,6 +110,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include label-order mismatches and unit conversions, not just equal dimensions; explain each resulting entry contextually.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Align the meanings before adding
+
+Day 1 lists rows A,B and columns pens,notebooks as $\begin{pmatrix}7&2\\4&9\end{pmatrix}$. Day 2 uses rows A,B but columns notebooks,pens as $\begin{pmatrix}3&5\\1&6\end{pmatrix}$. Reorder Day 2 to $\begin{pmatrix}5&3\\6&1\end{pmatrix}$; only then is the combined count $\begin{pmatrix}12&5\\10&10\end{pmatrix}$. The top-left addition is $7+5$ pens, not $7+3$ unlike items.
+
+If a learner gives $\begin{pmatrix}10&7\\5&15\end{pmatrix}$, ask what their top-left entry counts. Then supply just the correct product order; finally model the reordered first row and leave the second. If the reordered array is correct but a sum is wrong, address that arithmetic rather than repeat label alignment. Fade by giving a third day's labels in a different order without a reordered template. For larger arrays, inspect real imported labels and representative cells; this small hand example cannot establish technology proficiency.
 
 ## Lesson completion
 

@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For 2x+y≥4, boundary y=4−2x is solid. Test (0,0):0≥4 is false, so shade the other half-plane;(0,5) is included. Vertical boundaries x≤3 use the same test-point logic.
 
-**Misconception response and hint ladder:** If 'greater than' always means above, ask whether y has been isolated and division sign handled; next substitute a test point directly. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If 'greater than' always means above, ask whether y has been isolated and division sign handled; next substitute a test point directly.
 
 **Practice progression:** Isolated y → standard-form/vertical boundary → strictness and membership. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** System x≥0,y≥0,x+y≤5,y≥2 has feasible vertices (0,2),(3,2),(0,5). All boundaries are included. Checking (4,2) fails x+y≤5 despite satisfying the other three inequalities.
 
-**Misconception response and hint ladder:** If union is shaded, ask which constraint a point outside the overlap violates; next evaluate a concrete counterexample. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If union is shaded, ask which constraint a point outside the overlap violates; next evaluate a concrete counterexample.
 
 **Practice progression:** Two half-planes → bounded polygon → empty/unbounded/strict-boundary region. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -66,7 +66,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A workshop needs at least 5 total items and has capacity 8 with 2x+y≤10 hours. Feasible counts satisfy 5≤x+y≤8,2x+y≤10,x,y∈ℤ≥0. (2,4) works; (4,4) fails hours. A continuous shaded polygon is only a relaxation.
 
-**Misconception response and hint ladder:** If all lattice points in the first quadrant are retained, ask which resources each uses; next test against a constraint table. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If all lattice points in the first quadrant are retained, ask which resources each uses; next test against a constraint table.
 
 **Practice progression:** Translate restrictions → graph feasible region → enumerate/test integer decisions. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -85,6 +85,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Generate bounded/unbounded/empty feasible regions, strict/nonstrict boundaries and contextual constraints; a single satisfying test point selects a half-plane, not an entire intersection automatically.
+
+## Decision rehearsal and fading
+
+**Strict edges can remove an apparent vertex.** For $x\ge0$, $y\ge0$, $x+y<4$, draw solid coordinate-axis boundaries and dashed $x+y=4$. The origin is included; $(4,0)$ and $(0,4)$ are excluded, as is every point on the dashed segment. The feasible set includes all points in the first-quadrant triangular region satisfying the strict sum bound, not only its corners. If x and y are counts, keep only integer points; then $x+y\le3$ is equivalent on that domain.
+
+If the learner includes $(4,0)$ because it lies on an axis, ask whether it satisfies *every* condition. Next test the sum inequality there; finally show $4<4$ and ask for the membership judgment. Fade to $x\ge1$, $y>0$, $x+y\le5$: $(1,4)$ is included and $(5,0)$ excluded. Have the learner supply the actual labeled graph before crediting graph construction.
 
 ## Evidence, feedback and handoff
 

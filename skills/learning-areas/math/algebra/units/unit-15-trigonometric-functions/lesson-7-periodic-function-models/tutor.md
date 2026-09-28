@@ -98,6 +98,12 @@ Assess correctly signed residuals, units, multiple-data interpretation and quali
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For maximum $9$, minimum $1$, consecutive peaks at times $2,8$, the midpoint is $5$, half-spread $4$, and period $6$. A cosine peak at $2$ gives $m(t)=5+4\cos[(\pi/3)(t-2)]$. It predicts $9$ at both peaks and $1$ at time $5$, checking all construction features. A sine version with an appropriate phase is equally valid.
+
+Cue “Which value lies halfway between the extrema?”; then set up $D=(9+1)/2,A=(9-1)/2$; next compute $D=5$, leaving amplitude and timing. Fade by providing only a new peak and period while keeping the vertical features. On a held-out observation $7.2$ where the model predicts $6$, residual is $+1.2$, indicating underprediction. One residual does not identify a unique phase or amplitude error; inspect several cycle positions before revising.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

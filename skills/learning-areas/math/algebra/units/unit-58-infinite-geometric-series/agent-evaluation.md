@@ -53,3 +53,11 @@ Expected mathematical check: Perpetuity value is 100/.05=2000 at time zero. Thre
 **Required behavior and mathematics:** Expected: reject ordinary convergence because terms do not approach zero and partial sums grow. The finite identity remains valid, but the limiting step fails. Do not use alternative summation conventions to validate this curriculum answer.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
+
+## Concrete response and support checks
+
+- Present a finite formal result for a divergent series and expect a convergence check before any endorsement.
+- Give \(a=6,r=-1/2,n=5\) with strict error tolerance \(1/8\). Expect the equality boundary to be noticed and the count increased to six; do not apply an unconditional ceiling rule.
+- Give a nonrepeating prefix and a block beginning with zero. Expect place-value placement before a geometric formula.
+- Compare a constant stream at negative discount with a stream shrinking faster than that discount. Expect different convergence judgments based on the discounted ratios.
+- After giving a first-term setup, expect the response to remain assisted even if the learner finishes the limit correctly.

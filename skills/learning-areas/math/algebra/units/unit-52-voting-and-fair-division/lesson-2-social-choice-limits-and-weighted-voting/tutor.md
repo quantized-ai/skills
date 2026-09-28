@@ -108,7 +108,7 @@ Analyze a three-voter system completely; change quota while preserving weights a
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Remove one member at a time from each winning coalition.
+**First conceptual cue:** Would this coalition still win without the member being tested?
 
 If all winning members are deemed critical, recompute the reduced coalition. If normalized indices do not sum to 1, reconcile the critical-count denominator before changing any values.
 
@@ -126,6 +126,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Valid quotas, complete enumeration, criticality/dummies and positive normalization.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+For Arrow, treat a proposed exception as a hypothesis check. A rule restricted to two candidates does not contradict a theorem requiring at least three; a winner-only output is not automatically a complete social ranking. **Conceptual cue:** “What kind of output is this claim asking the rule to produce?” **Setup:** place the claimed exception beside the theorem's domain, output and conditions. **Worked step:** mark “two candidates” as a changed hypothesis; ask the learner to classify a restricted-preference example without announcing its answer. Do not demand a proof of the impossibility theorem when the curriculum asks for its statement and implications.
+
+For Banzhaf power, isolate membership from necessity. In [3:2,1,1], AB and AC have two critical members, but ABC has only A: removing B leaves weight 3, still winning. **Cue:** “Would this coalition still win without that member?” **Setup:** add reduced-weight and win/lose columns for one coalition. **Worked step:** ABC without A weighs 2; leave the B and C checks to the learner. **Faded contrast:** [3:3,1,1] has winning coalitions A, AB, AC, ABC; only A is ever critical, so normalized powers are (1,0,0), despite B and C having positive weights. Ask why weight share is the wrong denominator.
 
 ## Lesson completion
 

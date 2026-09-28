@@ -98,6 +98,12 @@ Assess original-side representation, evaluated continuous bracket, justified pre
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $4^{x-1}=8$, rewrite $4=2^2$ and $8=2^3$, giving $2^{2x-2}=2^3$. A positive base different from $1$ is one-to-one, so $2x-2=3$ and $x=5/2$. Substitution yields $4^{3/2}=8$.
+
+Cue “Can both quantities be expressed with one valid base?”; next supply $(2^2)^{x-1}=2^3$; then work the exponent $2x-2$, leaving the linear equation. Fade with $9^{x-1}=27$ (key $5/2$). For $2^x=3$, bracket by outputs at $1,2$ and justify uniqueness from strict increase against a constant. To claim a rounded numerical value, actually refine the bracket until both endpoints round alike. Correct algebraic bracketing is useful evidence but does not impersonate an unperformed graph or numerical-tool observation.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

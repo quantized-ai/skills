@@ -82,3 +82,17 @@ The examples above remain private calibration. Generate a new task for each sele
 | 23.6 — Transformations of linear functions | Input/output distinction; horizontal sign; slope changes; coordinate validation; coincident effects for linear graphs acknowledged. | [Teaching plan](lesson-6-linear-models-domains-and-transformations/tutor.md#transformations-of-linear-functions) |
 
 Record the task fingerprint, exact case, observed reasoning, assistance and status. Award only the demonstrated component; list remaining cases by name. Use an explanation/error-analysis or reversed representation for transfer, and separately observe any required graph, construction, fit or simulation.
+
+## Annotated learner responses
+
+**Calibration prompt:** Find the line through $(1,2),(3,8)$. For the reasoning version, add: “Explain the slope and verify both supplied points.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “$y=3x-1$.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “$y=3x-1$.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| $m=(8-2)/(3-1)=3$ and $y=3x+1$. | Correct slope, wrong intercept; substitute either given point before diagnosing the intercept step. |
+| $y-2=3(x-1)$, verified at both given points. | Equivalent point-slope form is fully valid; no conversion required unless requested. |
+| Tutor supplies $m=3$; learner then gives “$y=3x-1$.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

@@ -46,7 +46,7 @@ Curriculum reference: **Central and inscribed angles** in [lesson.md](lesson.md#
 - **Diagnostic key:** No; it intercepts the other arc AB that excludes its vertex.
 - **Worked-example prompt:** An inscribed angle intercepts the arc of measure 146 degrees not containing its vertex. Find the angle and outline the theorem's proof.
 - **Worked model and reasoning:** $73^\circ$. Draw the diameter through the vertex; radii create isosceles triangles. In the diameter-side case the central angle is twice the inscribed angle by the triangle sum. Add or subtract two such cases when the center is inside or outside the angle.
-- **First hint:** Choose the intercepted arc that does not contain the vertex.
+- **First hint:** Which arc is cut off by the angle on the side away from its vertex?
 
 #### Learn
 
@@ -123,7 +123,7 @@ Curriculum reference: **Tangent, chord, and secant angles** in [lesson.md](lesso
 - **Diagnostic key:** No: half their difference is 60°.
 - **Worked-example prompt:** Two secants meet outside a circle and intercept far and near arcs of 150 and 54 degrees. Find the angle and compare an interior-chord case with these arc measures.
 - **Worked model and reasoning:** Exterior angle $(150-54)/2=48^\circ$. For an interior angle whose two relevant opposite arcs are 150 and 54 degrees, the angle is $(150+54)/2=102^\circ$. Use inscribed angles and the triangle exterior-angle theorem to derive the exterior difference.
-- **First hint:** Locate the vertex before deciding between sum and difference.
+- **First hint:** Is the vertex inside, on, or outside the circle?
 
 #### Learn
 
@@ -169,6 +169,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Cover tangent-chord, interior-chord, two-secant and two-tangent cases with explicitly labeled arcs and a derivation.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**Vertex position determines the formula and the arcs.** On a circle, let A,B,C,D occur in that cyclic order. Chords AC and BD meet inside at P, with arc AB $80^\circ$ and arc CD $120^\circ$. Then $\angle APB=(80+120)/2=100^\circ$; its adjacent angle is $80^\circ$. For an exterior point with two secants and far/near intercepted arcs $160^\circ$ and $60^\circ$, the exterior angle is $(160-60)/2=50^\circ$. These are different configurations, not interchangeable arc data on the first drawing.
+
+If the learner subtracts for the interior angle, ask where P lies relative to the circle. Next mark the angle and its vertical angle and their intercepted arcs; then write their half-sum and leave calculation. Fade by keeping the vertex interior and changing arcs to $70^\circ,110^\circ$ (angle $90^\circ$). Require a theorem derivation separately when assessing proof; the multiplier alone does not demonstrate arc selection.
 
 ## Lesson completion
 

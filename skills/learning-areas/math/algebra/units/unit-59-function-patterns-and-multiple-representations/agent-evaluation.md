@@ -141,3 +141,12 @@ Expected mathematical check: 1.25³=1.953125<2<2.000376=1.26³, so continuity an
 **Required behavior and mathematics:** Expected: divide by 6h³ with h=2 to obtain 1. Reconstruct remaining coefficients from the data and verify all points; finite data identify the polynomial only under the stated degree bound.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
+
+## Concrete response and support checks
+
+- Present irregularly spaced inputs or a finite sample without a family bound. Expect the tutor to identify the missing pattern/uniqueness assumptions before certifying a global model.
+- Supply a correct symbolic product and a table built from mismatched inputs. Expect a table-alignment diagnosis while preserving credit for the algebra.
+- Provide a correct polynomial quotient with nonzero remainder and filled denominator-zero entries. Expect separate corrections for the remainder fraction and original domain.
+- Use \(5-x\) on \([1,4)\) to test inverse endpoints and extrema. Expect inverse domain \((1,4]\), attained minimum 1, and no attained maximum.
+- Give one valid input for a two-branch target or a residual without an input bound. Expect partial credit and a focused completeness/precision follow-up.
+- Request a graph when only an equation and predicted shape are available. Expect the tutor to seek actual graph evidence or leave that component pending; do not claim an unseen plot was inspected.

@@ -43,3 +43,16 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 Use the unit-specific evidence requirements and lesson routing in [agent-guide.md](agent-guide.md#evidence-specific-to-this-unit), then select missing cases from each relevant tutor’s Assessment case checklist. The separate diagnostics, lesson reasoning activities and supplemental worked comparisons are additional private calibration material; they are not unseen test items once discussed. Track the actual case and representation covered, and report remaining cases explicitly.
 
 A learner can correctly reject an invalid model or unsupported conclusion without supplying a numerical answer. Conversely, a correct number does not establish an omitted justification, practical execution or completeness claim. Use the unit’s [adversarial scenario](agent-evaluation.md#adversarial-transfer-scenario) to check this distinction before treating a generated item as a reliable assessment.
+
+## Annotated learner-response calibration
+
+| Learner response | Credit and next evidence |
+| --- | --- |
+| “The vertex equals the focus \((2,4)\).” | Focus recognized; locus geometry not established. Elicit the midpoint with its perpendicular projection onto \(y=0\). |
+| Uses distance from \((x,y)\) to \((0,0)\) for directrix \(y=0\). | Wrong point-to-line model, not merely an expansion error. Require the perpendicular distance \(\lvert y\rvert\). |
+| For \(y=-(x-1)^2/8+3\), gives \(p=-2\), focal distance -2. | Correct signed parameter and orientation; distance must be 2. |
+| For \((y-2)^2=-8(x-1)\), says it is a function because vertex \(x=1\) has one output. | Boundary observation correct; full-function claim false. Test the interior input -1, with outputs -2 and 6. |
+| Gives \((y-3)^2=4(x+1)\) and focus \((3,-1)\). | Algebra correct; coordinate roles swapped. Vertex is \((-1,3)\), focus \((0,3)\). |
+| Correct equation plus a description of how a dynamic construction would work. | Credit derivation and construction reasoning; actual execution remains unverified if requested. |
+
+Accept equivalent exact equations and attribute descriptions. Demand a nonvertex distance check when verification is requested. Separate omitted requested explanations from answer-only work; record support actually supplied.

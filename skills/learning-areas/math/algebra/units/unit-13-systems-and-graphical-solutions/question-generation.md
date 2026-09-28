@@ -32,3 +32,13 @@ Each row distinguishes ways to vary a task from the mathematical evidence that m
 Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
 
 If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable two-variable systems | $x+y=7,x-y=1$ gives $(4,3)$; $x+y=5,x-y=1$ gives $(3,2)$. | Immediate cancellation and one back-substitution. |
+| Increased demand | $x+y+z=6,2x+3y+z=11,x-y+2z=5$ gives $(1,2,3)$. | Requires actual forward elimination through two stages; a triangular starting system is easier. |
+| Classification transfer | $x+2z=4,y-z=1,0=0$ gives $(4-2t,1+t,t)$; replacing the zero row by $0=2$ gives no solution. | Distinguishes redundancy from contradiction, with a family instead of one triple. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

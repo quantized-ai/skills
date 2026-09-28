@@ -108,7 +108,7 @@ Convert one vertical and one horizontal general equation; include an outside coe
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Complete the square before reading the focal coefficient.
+**First conceptual cue:** Where is the symmetry axis of this squared-variable expression?
 
 If orientation comes from the first written variable, inspect the squared term instead. If a constant disappears during completion, expand the final focal equation and compare each original coefficient.
 
@@ -125,6 +125,15 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Equivalent square completion, signed geometry attributes and equal-distance verification for both orientations.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+For focus \((-1,2)\) and directrix \(x=3\), use distance to the vertical line \(\lvert x-3\rvert\). Squaring gives \((x+1)^2+(y-2)^2=(x-3)^2\), hence \((y-2)^2=-8(x-1)\). Because the left side is nonnegative, \(x\le1\). At \(x=-1\), the two outputs \(y=-2,6\) demonstrate failure of the vertical-line test; at the vertex only one output occurs. A single output at the boundary does not make the full relation a function of \(x\). The upper branch \(y=2+\sqrt{8(1-x)}\), with \(x\le1\), is a different, restricted relation.
+
+For square completion with an outside coefficient, work \(2y^2-12y-8x+10=0\). Divide by 2, then group: \(y^2-6y=4x-5\), so \((y-3)^2=4x+4=4(x+1)\). Vertex \((-1,3)\), \(p=1\), focus \((0,3)\), directrix \(x=-2\). Point \((0,5)\) satisfies the original equation and has both distances equal to 2. Reading \(p=4\) would confuse \(4p\) with \(p\).
+
+For an orientation error, cue “Which coordinate changes on both sides of the axis?” Then ask which variable is squared; reveal the focal form only if needed. For a completion error, ask the learner to expand their proposed square before supplying the compensated equation. Fade with \(y^2+4y+8x-12=0\): \((y+2)^2=-8(x-2)\), vertex \((2,-2)\), focus \((0,-2)\), directrix \(x=4\). At \(x=0\), outputs -6 and 2 verify the horizontal relation's two branches.
 
 ## Lesson completion
 

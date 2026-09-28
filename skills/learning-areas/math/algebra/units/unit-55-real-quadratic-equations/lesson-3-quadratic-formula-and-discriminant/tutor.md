@@ -56,7 +56,7 @@ Derive the formula with symbols; apply it to positive/negative leading coefficie
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Keep the denominator on the entire numerator and remember √(a²)=|a|.
+**First conceptual cue:** When a square root is taken, which quantities must be nonnegative?
 
 If only−b is divided by 2a, rewrite the entire numerator in parentheses. If −b is misread when b<0, substitute the signed value before simplifying.
 
@@ -108,7 +108,7 @@ Classify positive square, positive nonsquare, zero and negative D; then build a 
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Separate the sign of D from whether D has a rational square root.
+**First conceptual cue:** What does the discriminant tell you about root count, and what extra assumption controls rationality?
 
 If “two roots” counts a repeated value twice, ask for the distinct set. If D>0 is called sufficient for rationality, compare D=4 with D=5 and name the difference.
 
@@ -124,6 +124,17 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Root count, multiplicity, rationality and coefficient assumptions.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+In the derivation from \(ax^2+bx+c=0\), state \(a\ne0\) before division. After normalization and completion, \((x+b/(2a))^2=(b^2-4ac)/(4a^2)\). The denominator's square root is \(2\lvert a\rvert\). With the paired \(\pm\) signs the unordered root set can be written \((-b\pm\sqrt{b^2-4ac})/(2a)\); do not justify this by the false identity \(\sqrt{a^2}=a\).
+
+For \(2x^2+x-4=0\), label \(a=2,b=1,c=-4\) and retain parentheses: \(D=1^2-4(2)(-4)=33\), so \(x=(-1\pm\sqrt{33})/4\). Before calculating decimals, predict two distinct real irrational roots using the rational coefficients and nonsquare positive discriminant. Verify their sum \(-1/2\) and product \(-2\) or substitute exactly.
+
+If signs are uncertain, cue “What signed number is the constant coefficient?” Then offer the coefficient slots; only then work the discriminant substitution. If the denominator divides only the radical, ask which entire numerator arises when solving the completed square before supplying a fraction bar.
+
+Keep the rational-coefficient assumption meaningful. The equation \(x^2-2\sqrt2x+1=0\) has \(D=4\), yet roots \(\sqrt2\pm1\) are irrational. It is a counterexample to extending the square-discriminant rational-root criterion beyond rational coefficients. Fade on \(3x^2-2x-2=0\): \(D=28\), roots \((1\pm\sqrt7)/3\). Ask for a root-count prediction before computation.
 
 ## Lesson completion
 

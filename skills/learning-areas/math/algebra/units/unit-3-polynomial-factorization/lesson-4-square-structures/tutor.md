@@ -98,6 +98,14 @@ Assess square endpoints, cross-term calculation, sign, multiplicity and justifie
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+A successful difference model is $9x^2-25=(3x-5)(3x+5)$: expansion gives $9x^2+15x-15x-25$, so the mixed terms cancel. In $x^2-2$, the real factors $(x-\sqrt2)(x+\sqrt2)$ expand to $x^2-2$; these coefficients are unavailable in rational factoring. Rejecting the difference identity for a sum is not a general irreducibility proof: sums of polynomial squares can sometimes factor.
+
+For $x^4-8x^2+16$, identify $A=x^2,B=4$ and check $-2AB=-8x^2$ before writing $(x^2-4)^2=(x-2)^2(x+2)^2$. Each original copy contributes a copy of both factors. A learner who writes $(x-2)(x+2)$ has found the base factors but lost the square; ask what happened to the two copies before reteaching square recognition.
+
+Cue “What are the whole endpoint roots?”; set up $(x^2-\square)^2$; then work the middle-term check $-2(x^2)(4)=-8x^2$, leaving restoration and further factoring. Fade with $x^4+6x^2+9=(x^2+\square)^2$; the key is $3$, and $x^2+3$ stays irreducible over the rationals.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

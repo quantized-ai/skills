@@ -32,3 +32,17 @@ These original keyed probes combine or stress concepts. They are calibration ref
 **Prompt:** Intersect x²+y²=20 and (x-2)²+y²=20.
 
 **Key and required reasoning:** Subtract to get x=1, then y²=19. Points $(1,\sqrt{19})$ and $(1,-\sqrt{19})$ satisfy both.
+
+## Annotated learner responses
+
+**Calibration prompt:** Intersect $x^2+y^2=25$ and $(x-6)^2+y^2=25$. For the reasoning version, add: “Show the elimination, recover all roots and check both circles.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “$(3,4),(3,-4)$.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “$(3,4),(3,-4)$.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| “Subtracting gives x=3, so the intersection is the line x=3.” | The necessary linear condition is correct but not sufficient; a circle equation still restricts y. |
+| Equal radii put common points on the perpendicular bisector x=3; the first circle gives $y=\pm4$. | Valid geometric-algebraic route with both original checks; no prescribed subtraction order is needed. |
+| Tutor supplies $x=3$; learner then gives “$(3,4),(3,-4)$.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

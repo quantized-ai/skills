@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Points (1,2),(2,4),(3,5),(4,8) show positive association with variation. Plot each pair without joining observations into a time path; describe direction, form, strength and unusual points before fitting.
 
-**Misconception response and hint ladder:** If sorting x and y separately is proposed, ask whether student identities remain matched; next retain rows as units. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If sorting x and y separately is proposed, ask whether student identities remain matched; next retain rows as units.
 
 **Practice progression:** Plot pairs → describe nonlinear/linear patterns → identify unusual points and scope. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For (0,1),(1,2),(2,6), means 1,3; cross-sum 5 and x-square-sum 2 give slope 2.5 and intercept 0.5. Residuals 0.5,−1,0.5 sum 0. A hand estimate may differ; a reported least-squares result should match verified technology output.
 
-**Misconception response and hint ladder:** If connecting endpoints is called least squares, ask whether other observations affect the choice; next compute their residuals. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If connecting endpoints is called least squares, ask whether other observations affect the choice; next compute their residuals.
 
 **Practice progression:** Reasonable hand line → actual least-squares fit → compare candidate residuals. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -66,7 +66,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A line predicts cost C=20+4n from purchases observed at n=2..10. C(6)=44 is interpolation; C(20)=100 is extrapolation. Intercept 20 is predicted zero-purchase cost, meaningful only if the context permits it.
 
-**Misconception response and hint ladder:** If intercept is described as rate, ask which coefficient multiplies changing input; next compare predictions one unit apart. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If intercept is described as rate, ask which coefficient multiplies changing input; next compare predictions one unit apart.
 
 **Practice progression:** Coefficient interpretation → interpolation → extrapolation and intercept limitation. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -85,6 +85,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Require paired-data entry, hand and technology fits where specified, honest noisy data and a domain discussion; a exact trend dataset alone is inadequate evidence of regression skill.
+
+## Decision rehearsal and fading
+
+**A fitted line uses all paired observations.** For $(0,1),(1,3),(2,2)$, the least-squares line is $\hat y=1.5+0.5x$, with predictions $1.5,2,2.5$ and residuals $-0.5,1,-0.5$. Connecting the endpoint observations gives $y=1+0.5x$ and residuals $0,1.5,0$; its squared-residual sum 2.25 exceeds the fitted line's 1.5. A reasonable hand fit need not equal the technology fit exactly.
+
+If the learner calls the endpoint line least squares, ask how the middle observation affects their criterion. Next organize observed/predicted/residual columns; work one residual and let them compare sums of squares. Fade by shifting every response up 2; the least-squares intercept becomes 3.5, slope stays 0.5. Obtain and inspect an actual scatter plot and regression output for technology evidence. The derivation here is a private check, not proof that the learner used software.
 
 ## Evidence, feedback and handoff
 

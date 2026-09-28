@@ -98,6 +98,12 @@ Assess correct c, complete coefficient positions, quotient degree, remainder and
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $x^4+1$ divided by $x^2+1$, write $x^4+0x^3+0x^2+0x+1$. First quotient term $x^2$ leaves $-x^2+1$; division must continue because this remainder still has degree $2$. Subtract $-(x^2+1)$ to get $2$, so $q=x^2-1,r=2$.
+
+For synthetic division of $x^3-3x+2$ by $x-1$, use $1,0,-3,2$: bring down $1$, then successive multiply-add totals are $1,-2,0$. These are quotient coefficients $1,1,-2$ and remainder $0$. Cue “Which missing power needs a position?”; set up the coefficient row; then perform only the first multiply-add, leaving the rest. Fade on $x^3-4x+3$ by $x-1$ (key $x^2+x-3$, remainder $0$). If the original divisor is $2x-2$, halve the quotient; the remainder does not halve.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

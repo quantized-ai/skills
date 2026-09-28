@@ -126,6 +126,15 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
 
+
+## Adaptive teaching examples
+
+Use the learner's proposed operation to decide what to model. In \(x^2=4x\), dividing by \(x\) silently assumes \(x\ne0\). Keep the zero candidate visible: \(x^2-4x=x(x-4)=0\), so \(x=0\) or \(4\). Verify both in the original equation. The zero-product property applies to a product equal to zero; it cannot justify setting each factor equal to a nonzero right side.
+
+For \((2x-3)^2=7\), name \(u=2x-3\) temporarily: both \(u=\sqrt7\) and \(u=-\sqrt7\) square to 7. Undo the linear expression to obtain \(x=(3\pm\sqrt7)/2\). Contrast the two inverse values of a square with the one principal value denoted by \(\sqrt7\). If the right side becomes 0, the branches coincide; if it becomes negative, no real branch exists.
+
+For a learner who loses zero, give only the cue “Does your proposed divisor ever equal zero?” If needed, offer the setup \(x(x-4)=0\); reveal the two factor equations only at the worked-step level. For a learner who loses the negative square-root branch, ask “Which real numbers have the same square?” before showing \(2x-3=\pm\sqrt7\). Fade on \(3x^2=15x\), then on \((3x+1)^2=5\): expect \(\{0,5\}\) and \((-1\pm\sqrt5)/3\). Check branches by substitution, not by remembering a sign rule. These examples are teaching material once exposed.
+
 ## Lesson completion
 
 Mark this lesson complete only when every concept and its explicit checklist are **Secure in this session** under the [shared guide](../agent-guide.md#evidence-and-completion). Summarize what the learner independently demonstrated, what required help and the next missing case. A short sample or exposed worked example cannot certify the lesson.

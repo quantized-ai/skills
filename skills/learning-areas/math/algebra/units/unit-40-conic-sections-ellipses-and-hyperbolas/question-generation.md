@@ -33,3 +33,14 @@ Specify axis-aligned scope and full versus semi-axis lengths. Ellipses have a²=
 | [40.3 Constructing hyperbola equations](lesson-3-hyperbolas-from-focal-definitions/tutor.md#constructing-hyperbola-equations) | Mix vertices, foci, asymptotes and point constraints; verify adequacy and original data before choosing a unique equation. |
 | [40.4 Expanded conic equations](lesson-4-conic-equations-and-eccentricity/tutor.md#expanded-conic-equations) | Include circle/ellipse/hyperbola/parabola and degenerate/empty axis-aligned relations; do not classify by coefficients while ignoring constants. |
 | [40.4 Eccentricity and focus-directrix form](lesson-4-conic-equations-and-eccentricity/tutor.md#eccentricity-and-focus-directrix-form) | Include e<1, e=1, e>1 and circle e=0 with no finite directrix; state orientation and use perpendicular distance to the line. |
+
+## Checked anchors for task demand
+
+| Use | Task and key | Demand |
+| --- | --- | --- |
+| Routine ellipse construction | Center $(0,0)$, foci $(\pm4,0)$, major-axis length 10: $x^2/25+y^2/9=1$. | Halve full length, recover $b^2$, horizontal placement. |
+| Intended same-demand retake | Center $(1,-2)$, foci $(1\pm4,-2)$, major-axis length 10: $(x-1)^2/25+(y+2)^2/9=1$. | Same parameter arithmetic, with translation. If translation is new to the learner, use a centered variant instead. |
+| Higher demand | Derive that equation from the distance sum and justify the reverse implication. | Adds radical algebra and a general sign argument; routine feature extraction cannot establish this. |
+| Boundary transfer | Classify $4(x-1)^2+9(y+2)^2=0$ and the same left side equal to $-1$. | Point and empty set, respectively; tests meaning of the normalized constant. |
+
+For cone-section tasks specify whether the plane passes through the apex and whether it meets one or both nappes. The parabola orientation is parallel to exactly one generator direction, not merely at least one. Independently check spatial descriptions before labeling a diagram.

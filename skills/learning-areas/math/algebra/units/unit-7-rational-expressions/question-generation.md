@@ -38,3 +38,13 @@ Each row distinguishes ways to vary a task from the mathematical evidence that m
 Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
 
 If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable simplification | $(x^2+3x)/(x^2-9)=x/(x-3)$; $(x^2-2x)/(x^2-4)=x/(x+2)$. | Both require GCF and difference-of-squares factoring plus two original exclusions. |
+| Increased demand | $[x/(x-1)]\div[(x+2)/(x-3)]=x(x-3)/[(x-1)(x+2)]$, excluding $1,3,-2$. | Adds whole-divisor reciprocation and a separate zero-divisor restriction. |
+| Reverse/domain transfer | Compare $(x^2-4)/(x-2)$ with unrestricted $x+2$. | Agree for $x\ne2$ but differ as functions; tests formula-domain reasoning rather than another cancellation. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

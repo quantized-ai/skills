@@ -36,3 +36,13 @@ Each row distinguishes ways to vary a task from the mathematical evidence that m
 Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
 
 If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable division | $(3+i)/(1-2i)=1/5+7i/5$; $(2+i)/(1-i)=1/2+3i/2$. | Same conjugate, distribution, real denominator and component collection; denominator arithmetic differs. |
+| Increased demand | Solve $2x^2+4x+5=0$: $-1\pm(\sqrt6/2)i$. | Adds nonmonic quadratic solving and radical simplification; not a replacement for routine complex division. |
+| Representation transfer | Conjugate of $3-4i$ is $3+4i$, points $(3,-4),(3,4)$. | Explain reflection across the real axis rather than repeat component arithmetic. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

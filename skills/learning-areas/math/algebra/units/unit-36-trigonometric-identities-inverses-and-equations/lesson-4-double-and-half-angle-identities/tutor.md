@@ -152,6 +152,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
 
+## Choose a formula before calculating
+
+For $\sin u=3/5$ with $u$ in quadrant II, $\cos 2u=1-2(3/5)^2=7/25$ avoids recovering cosine. To obtain $\sin 2u$, cosine is needed and its sign matters: $\cos u=-4/5$, so $\sin2u=-24/25$. Ask why the first calculation is determined even without a quadrant, while the second is not.
+
+For a learner who writes $\cos(u/2)=+\sqrt{(1+\cos u)/2}$ with $\pi<u<2\pi$, use “Where does halving this interval put the angle?” → supply $\pi/2<u/2<\pi$ → show that cosine is negative there, leaving the magnitude calculation. A learner with the correct sign but wrong fraction needs arithmetic feedback instead. Fade by supplying $\cos^2(u/2)=(1+\cos u)/2$ and asking the learner to select its sign, then remove the identity on the next task. Check the quotient boundary separately: at $u=0$, $\sin u/(1+\cos u)=0$ represents $\tan(u/2)$, whereas $(1-\cos u)/\sin u$ is undefined.
+
 ## Lesson completion
 
 Apply [the shared evidence rule](../agent-guide.md#evidence-and-completion) to each concept and its listed cases. Report which methods and representations were independently demonstrated, which needed support, and what is still untested. Do not mark the lesson secure from a short sample or an unobserved graph/proof/tool action. Offer the next lesson or focused repair according to the student's request and evidence.

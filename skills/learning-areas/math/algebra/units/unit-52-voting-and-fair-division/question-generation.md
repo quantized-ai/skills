@@ -84,3 +84,17 @@ Required coverage: Complete settlement, benefit guarantees, cash balance, honest
 **Check before release:** Recount each ballot contribution, pairwise contest and weighted coalition. Normalize critical counts only after identifying every winning coalition. For allocations, compute each participant’s own received value, fair-share threshold and envy comparisons separately. In adjusted winner verify the transfer fraction and equal satisfaction; in Knaster verify allocated goods and zero final net cash transfer.
 
 A second pass must target the likely failure above, not simply repeat the same arithmetic. Retain the checked result, decisive assumption and accepted equivalent responses before exposing the task.
+
+## Task demand anchors
+
+A retake should preserve the rule, number of candidates/goods, tie burden, normalization and number of transfer stages unless increased demand is intended.
+
+| Demand | Checked anchor |
+| --- | --- |
+| Routine coalition enumeration | [3:2,1,1] has winning AB, AC, ABC and critical counts (3,1,1), normalized (3/5,1/5,1/5). |
+| Comparable intended variant | [6:4,2,2] scales quota and weights equally, preserving exactly those winning sets and powers. Ask why this scaling preserves the rule; as bare arithmetic it is a near variant, not transfer. |
+| Boundary contrast | [3:3,1,1] adds the winning singleton A and makes B,C dummies. Critical counts (4,0,0) yield powers (1,0,0). |
+| Added allocation demand | Two-good adjusted winner A:(70,30), B:(20,80) requires one fractional transfer. The existing four-good example requires ratio ordering, one full transfer and a later fractional balance; these are not same-demand tasks. |
+| Transfer | Give a correct numerical allocation with an incorrect envy or feasibility claim and ask what follows under the stated valuations and rights. |
+
+Include all named voting rules with their own required input data, a genuine cycle/agenda comparison, two-person versus three-person fairness guarantees, zero/tied valuations, and cash reconciliation. A vote winner, a fairness judgment and a procedure trace are separate targets.

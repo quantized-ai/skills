@@ -53,3 +53,11 @@ Expected mathematical check: First comparison reduces to 2x=0, so intersection (
 **Required behavior and mathematics:** Expected: reject the bracket because continuity/domain fail at 0, which is undefined and not a root. Do not present bisection convergence toward a discontinuity as mathematical success.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
+
+## Concrete response and support checks
+
+- Present an identity after substitution with the learner's claim “the whole plane.” Expect retention of the original line, not a request to solve \(0=0\) for a number.
+- Provide a tiny residual for a shallow linear difference function. Expect refusal to infer a tight input bound without a bracket or quantitative sensitivity argument.
+- Contrast \(1/x\) on [-1,1] with \((x-1)^2\) near 1. Expect the tutor to distinguish a false discontinuity bracket from a missed tangent root.
+- Give correct positive-root evidence when the prompt asked for all real roots of \(x^2=2\). Expect partial credit and the missing negative root, not rejection of the positive approximation.
+- Ask whether all quadratic relations have at most two intersections. Expect the restricted quadratic-function claim or a verified four-point counterexample.

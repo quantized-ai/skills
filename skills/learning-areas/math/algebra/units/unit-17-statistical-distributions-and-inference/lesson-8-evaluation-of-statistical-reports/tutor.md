@@ -55,3 +55,9 @@ Supply reports with both sound and flawed designs, distinguish absent evidence f
 Track each named concept, the case/representation observed, the student's actual reasoning, correctness and assistance. A number without the required units, condition, explanation, proof or actual artifact supports only the demonstrated portion. Accept equivalent valid methods; recompute unexpected answers before judging them. A faulty generated task is removed from the record and replaced without penalty.
 
 Use the shared guide's session evidence labels. Before declaring this lesson secure, check every required method/case, include independent transfer and keep observed construction/tool execution separate from a described plan. Report demonstrated strengths, helped attempts, remaining cases and one concrete next task. The local evidence rule is not a validated retention measure. See [private calibration bank](../assessment.md) and [sources and limits](../teaching-sources.md).
+
+## Decision model and graduated practice
+
+A hypothetical report says “approval rose from $40\%$ to $50\%$, a $10\%$ increase.” The absolute change is $10$ percentage points; relative change is $(50-40)/40=25\%$. Those computations describe the stated percentages but do not establish comparable samples, a cause, or uncertainty. If the denominator or recruitment is missing, identify that missing evidence rather than asserting the calculation or design is definitely fraudulent.
+
+Cue “What baseline is used in the relative-change denominator?”; next set up $(\text{new}-\text{old})/\text{old}$; then substitute $(50-40)/40$, leaving computation and revised wording. Fade with a report where both measures are stated correctly but random assignment is absent. A defensible revision preserves the measured association and limits population and causal language to the design; a large sample does not supply the missing assignment or sampling mechanism.

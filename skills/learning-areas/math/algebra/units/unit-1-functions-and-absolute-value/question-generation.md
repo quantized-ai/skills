@@ -55,3 +55,13 @@ Use saved history only when the host actually supplies it. Without earlier-sessi
 If a candidate is ambiguous, outside scope, contradictory, unintentionally degenerate, or lacks a verifiable key, repair it and solve it again or choose another family. Never fall back silently to an exposed bank question. If a faulty item has already been presented, acknowledge the defect, invalidate that item's result, and supply a new checked question without penalizing the student.
 
 This generation policy is a local design choice. The [teacher-source record](teaching-sources.md) supports the instructional approach; it does not establish that every generated question is valid or that different quizzes are statistically equivalent tests. Evaluate the tutor with the [generation scenarios](agent-evaluation.md#fresh-question-generation).
+
+## Concrete demand anchors
+
+| Demand | Checked examples | What must remain comparable |
+| --- | --- | --- |
+| Routine absolute-value equation | $2\lvert x+1\rvert+3=11$ gives $-5,3$; $3\lvert x-2\rvert+1=10$ gives $-1,5$. | Positive isolated distance, two branches, integer arithmetic, original checks; neither is transfer merely because coefficients change. |
+| Increased equation demand | $5-2\lvert 3x+1\rvert=-7$ gives $5/3,-7/3$. | Adds negative outside scaling and fractional solutions; do not silently use as a same-demand retake of the preceding pair. |
+| Transformation | Point $(4,3)$ under $-2f(2x-6)+1$ maps to $(5,-5)$. | Recovering an unknown transformation from correspondences reverses reasoning; transforming a restricted interval adds endpoint decisions. |
+| Domain/range boundary | $x^2$ on $(-2,1]$ has range $[0,4)$; on $[-2,1)$ it has $[0,4]$. | Changing inclusion can alter the attained maximum through the other side of the graph. Ask for witness inputs, not mechanical bracket copying. |
+| Piecewise transfer | $x+1$ for $x<2$, $5$ for $x\ge2$ has range $(-\infty,3)\cup\{5\}$. | Constructing a matching graph tests representation transfer; a second point evaluation alone does not cover branch ranges. |

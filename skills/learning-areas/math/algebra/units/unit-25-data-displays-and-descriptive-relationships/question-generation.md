@@ -241,3 +241,13 @@ Use the [concept teaching plan](lesson-8-time-series-sector-and-stem-and-leaf-di
 **Reject/repair if these conditions are missing:** Key; multiplicity; sorted leaves; precision; loss of detail; readable negative convention.
 
 Use the [concept teaching plan](lesson-8-time-series-sector-and-stem-and-leaf-displays/tutor.md#stem-and-leaf-displays-and-comparison-of-representations) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Population $1,3,5$: mean 3, SD $\sqrt{8/3}$. | Same number and pattern of deviations and declared denominator; this is execution practice, not evidence of sample/population distinction. |
+| Intended comparable retry | Population $2,4,6$: mean 4, SD $\sqrt{8/3}$. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Compare population and sample SD for the same values, then interpret $y=-2x+10$: distinguishing roles and absolute scaling adds conceptual demand. Use actual software outputs when that component is targeted. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

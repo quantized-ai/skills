@@ -98,6 +98,12 @@ Assess initial value, sign, units, period factor and effective-percent distincti
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+A quantity tripling every two hours from $7$ units is $A(t)=7\cdot3^{t/2}$ for hours. In minutes, $t=m/60$, so substitution gives $A(m)=7\cdot3^{m/120}$. At $120$ minutes both forms give $21$. The ratio in the exponent counts complete or fractional two-hour periods and is dimensionless.
+
+Cue “What time unit does the denominator's period use?”; next set up $t=m/60$; then substitute it into $t/2$, leaving simplification. Fade by rewriting $50\cdot2^{t/3}$ in minutes (key $50\cdot2^{m/180}$). For $A_0e^{0.2t}$, one-unit growth factor is $e^{0.2}$, not $1.2$; effective percentage is $100(e^{0.2}-1)\%$. Keep this exact expression until an actual calculation supplies a justified approximation.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

@@ -44,7 +44,7 @@ Curriculum reference: **Standard and expanded circle equations** in [lesson.md](
 - **Diagnostic key:** Empty: a sum of real squares cannot be negative.
 - **Worked-example prompt:** Classify x²+y²-6x+4y+9=0 and recover its geometry.
 - **Worked model and reasoning:** Completing squares gives $(x-3)^2+(y+2)^2=4$: center $(3,-2)$, radius 2. The distance formula explains the standard equation. A squared radius of zero gives a point and a negative one gives an empty real locus.
-- **First hint:** Add the same square-completion constants to both sides.
+- **First hint:** What complete squared distances would describe a circle with a shifted center?
 
 #### Learn
 
@@ -82,7 +82,7 @@ Curriculum reference: **Circle incidence and intersections** in [lesson.md](less
 - **Diagnostic key:** No: one repeated input gives one tangent point.
 - **Worked-example prompt:** Intersect x²+y²=25 with y=3 and verify the points.
 - **Worked model and reasoning:** $x^2=16$, so $(-4,3),(4,3)$; both satisfy both equations. The line y=5 is tangent at (0,5), while y=6 misses. For two circles, subtract their equations to get the radical axis unless centers and radii make them coincident or concentric.
-- **First hint:** Substitute the line into the circle before interpreting a discriminant.
+- **First hint:** What must a point satisfy to belong to both the line and the circle?
 
 #### Learn
 
@@ -109,6 +109,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Cover line-circle and circle-circle zero/one/two intersections, plus coincident circles; verify every candidate in both originals.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**Subtracting circles gives a necessary line, not the final locus.** Intersect $x^2+y^2=25$ and $(x-6)^2+y^2=25$. Subtraction gives $-12x+36=0$, hence x=3. Substitute back to obtain $y^2=16$, giving $(3,4),(3,-4)$; every candidate must satisfy both originals. The entire line x=3 is not common to the circles, since $(3,0)$ fails.
+
+If the learner stops at x=3, ask which points on that line satisfy a circle. Next substitute into the first equation; then simplify to $9+y^2=25$ and leave both roots and checks. Fade by changing the second center to $(10,0)$ (one point $(5,0)$) and then $(12,0)$ (none). For identical equations, subtraction yields $0=0$ and the original circle still constrains the solution; for concentric unequal radii it yields a contradiction.
 
 ## Lesson completion
 

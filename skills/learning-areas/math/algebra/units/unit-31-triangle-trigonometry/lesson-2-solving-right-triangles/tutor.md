@@ -44,7 +44,7 @@ Curriculum reference: **Right-triangle solutions and inverse ratios** in [lesson
 - **Diagnostic key:** No: its longest side would not be the hypotenuse, and the missing squared leg would be negative.
 - **Worked-example prompt:** A right triangle has hypotenuse 25 and a leg 7. Solve it, naming the angle opposite 7.
 - **Worked model and reasoning:** Other leg $\sqrt{625-49}=24$; opposite angle $\arcsin(7/25)\approx16.26^\circ$, other acute angle $73.74^\circ$. Verify $7^2+24^2=25^2$ and a 90-degree acute-angle sum.
-- **First hint:** First decide which given side must be longest.
+- **First hint:** Which side must be longest in a right triangle, and do the data respect that?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Vary observer height, elevation/depression, and connected triangles; state measured precision and distinguish slant distance from horizontal distance.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**Observer height belongs outside the sight triangle.** On level ground, an observer's eye is 1.6 m above ground and 12 m horizontally from a vertical pole. An elevation of $30^\circ$ gives height above eye level $12\tan30^\circ=4\sqrt3$ m. Total pole height is $1.6+4\sqrt3\approx8.53$ m; its line of sight is the hypotenuse, not the 12 m horizontal leg.
+
+If the learner uses $12\sin30^\circ$, ask which side the stated distance describes. Next sketch the horizontal through the eye meeting the pole; then write $\tan30^\circ=(H-1.6)/12$ and leave solving. If they obtain $4\sqrt3$ only, focus on the missing ground-to-eye offset. Fade to eye height 1.5 m, horizontal distance 10 m, elevation $45^\circ$ (height 11.5 m). State that these are idealized measurements and report precision consistent with the supplied data.
 
 ## Lesson completion
 

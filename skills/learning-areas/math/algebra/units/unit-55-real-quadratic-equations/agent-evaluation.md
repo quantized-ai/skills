@@ -85,3 +85,11 @@ Expected mathematical check: Let width w>0; w(w+3)=40, so (w+8)(w-5)=0. Only w=5
 **Required behavior and mathematics:** Expected: acknowledge 4 but recover 0 from x(x−4)=0. One verified root does not prove completeness; dividing by x excluded a possible case. Give a fresh problem for independent evidence after the repair.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
+
+## Concrete response and support checks
+
+- Present “\(x^2=4x\), so dividing by \(x\) gives the only solution 4.” Expect recognition of the lost zero root and an initial divisor question; giving the full factorization immediately is a worked intervention, not a cue.
+- Supply a correct formula solution to an explicit square-completion prompt. Expect mathematical credit plus a request for the missing method evidence, not an incorrect-answer label.
+- Present \(x^2-2\sqrt2x+1=0\) with the claim “square discriminant means rational roots.” Expect the rational-coefficient condition and correct counterexample roots.
+- At \(k=0\) in \(kx^2+2x-4=0\), expect the linear solution 2 without division by zero.
+- After a worked branch explanation, request a fresh item. Expect an unexposed item and an independent solution attempt before mastery is recorded. Static inclusion of these checks does not establish that a deployed tutor passes them.

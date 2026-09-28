@@ -91,7 +91,7 @@ Use the response to choose where to begin the teaching sequence. A correct short
 
 **Prompt:** A plotted graph suggests (x+1)²=x²+1. How should a report evaluate that claim using symbols, a table and prose?
 
-**Agent-only worked reasoning:** Expansion gives x²+2x+1; at x=1 the proposed sides are 4 and 2, refuting the identity. Explain which graph/window obscured the difference, state the exact algebra and counterexample, and present an oral explanation if that component is being assessed. A text transcript does not by itself verify spoken delivery.
+**Agent-only worked reasoning:** Expansion gives x²+2x+1; at x=1 the proposed sides are 4 and 2, refuting the identity. State the exact algebra and counterexample. If an actual graph was supplied, inspect its window and resolution to explain the misleading appearance; otherwise discuss that possibility conditionally without inventing settings. Present an oral explanation if that component is being assessed. A text transcript does not by itself verify spoken delivery.
 
 Reveal the explanation in the sequence below, asking the learner to justify a consequential step before moving to the next one.
 
@@ -109,7 +109,7 @@ Repair a graph-only false identity claim; explain why a table, diagram or code r
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Try an input where the missing cross term is nonzero.
+**First conceptual cue:** Does agreement at a few inputs establish the proposed identity everywhere?
 
 If software output is treated as authority, ask which input/domain it actually used. If an accessible explanation drops a key condition, compare its claim with the technical statement and restore that condition in plain language.
 
@@ -125,6 +125,15 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Tool choice, cross-representation reconciliation, verification, attribution and both written/oral communication evidence.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+For the odd-sum investigation, separate the stages in the record: the finite table suggests a conjecture, then \(2k-1=k^2-(k-1)^2\) provides a general telescoping argument. Summing from k=1 through n leaves \(n^2-0^2\); the intermediate squares cancel. **Conceptual cue:** “Can each odd term be expressed as the difference of neighboring squares?” **Setup:** write the first three differences with cancellation visible. **Worked step:** \(3=2^2-1^2\); leave the general kth expression and endpoints to the learner. **Fade:** ask the learner to explain the same argument to someone unfamiliar with summation notation. Accept an equally complete induction or square-border proof; method choice is not a reason to reject valid reasoning.
+
+To calibrate revision, consider the claim that \(n^2+n+41\) is prime for every nonnegative integer n. Checking small cases motivates it, but n=41 gives \(41\cdot43\), a verified counterexample. The learner should revise the universal claim rather than discard the correctly computed early evidence or label the unsuccessful conjecture a failed investigation. A complete investigation still needs an actual question, method, evidence and communication; supplying the tutor's counterexample alone does not establish independent inquiry.
+
+For the proposed identity \((x+1)^2=x^2+1\), expansion or the exact counterexample x=1 settles falsity. If no plot was supplied, discuss what a window might hide conditionally; do not claim to have inspected its settings. For a required oral component, assess actual spoken evidence when available and keep written clarity separate.
 
 ## Lesson completion
 

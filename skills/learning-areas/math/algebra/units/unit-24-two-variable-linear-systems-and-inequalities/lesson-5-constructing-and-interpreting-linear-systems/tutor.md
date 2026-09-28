@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Two plans cost A=12+3t and B=4+5t. Equality at12+3t=4+5t gives t=4 and cost 24. For 0≤t<4 B is cheaper; t>4 A is cheaper. The intersection answers equality, not all comparative questions.
 
-**Misconception response and hint ladder:** If only a total-count equation is written, ask which cost information remains unused; next label units of each term. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If only a total-count equation is written, ask which cost information remains unused; next label units of each term.
 
 **Practice progression:** Counts/totals → mixture/rate models → comparison before/after intersection. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A mixture uses x liters of20% solution and y liters of50% solution to make 10 liters at32%. x+y=10 and 0.2x+0.5y=3.2 yield y=4,x=6. Solute 0.2·6+0.5·4=3.2 verifies concentration; liters may be continuous.
 
-**Misconception response and hint ladder:** If fractional people are rounded, ask whether rounded values still satisfy both totals; next substitute them to expose conflict. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If fractional people are rounded, ask whether rounded values still satisfy both totals; next substitute them to expose conflict.
 
 **Practice progression:** Feasible solution → infeasible discrete solution → compare alternative models/assumptions. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Use mixture, price-plan break-even and rate contexts with consistent units, valid or deliberately infeasible solutions, and an explicit interpretation of each variable.
+
+## Decision rehearsal and fading
+
+**Exact counts may make an algebraic intersection infeasible.** Adult tickets cost 8 credits and child tickets 5. If 10 tickets total 61 credits, $a+c=10$ and $8a+5c=61$ imply $3a=11$, so $a=11/3$, $c=19/3$. These solve the real equations but cannot be ticket counts. Rounding to $(4,6)$ changes revenue to 62, so the exact contextual problem has no feasible solution.
+
+If the learner rounds, cue “Do the rounded counts still meet both exact totals?” Next make a count/revenue check table; work the revenue for their rounded pair and leave the conclusion. Do not call their fractional algebra wrong. Fade to a total of 59 credits with the same prices and 10 tickets (key $a=3,c=7$), requiring definitions, both constraints and feasibility. Change prices and counts again before using a truly fresh assessment item.
 
 ## Evidence, feedback and handoff
 

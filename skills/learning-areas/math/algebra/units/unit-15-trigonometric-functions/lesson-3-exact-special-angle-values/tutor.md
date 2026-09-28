@@ -98,6 +98,12 @@ Assess reference-angle selection, exact magnitudes, signs, coordinate pairing an
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Bisect an equilateral triangle of side $2$: its half-triangle has hypotenuse $2$, short leg $1$, and long leg $\sqrt{4-1}=\sqrt3$. At $\pi/6$, unit-circle coordinates are $(\sqrt3/2,1/2)$. Reflecting across the vertical axis gives angle $5\pi/6$ with coordinates $(-\sqrt3/2,1/2)$, hence tangent $-1/\sqrt3=-\sqrt3/3$.
+
+Cue “Does the reference angle determine magnitude or quadrant sign?”; next locate the terminal point in quadrant II; then supply the positive first-quadrant coordinates, leaving their reflected signs. Fade on $7\pi/4$ using an isosceles right triangle (coordinates $(\sqrt2/2,-\sqrt2/2)$). Equivalent exact forms such as $1/\sqrt2$ and $\sqrt2/2$ are valid; decimal agreement alone does not demonstrate the requested geometric derivation.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

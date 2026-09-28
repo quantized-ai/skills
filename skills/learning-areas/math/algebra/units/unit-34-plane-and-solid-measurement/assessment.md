@@ -38,3 +38,17 @@ These original keyed probes combine or stress concepts. They are calibration ref
 **Prompt:** A similar solid has surface area nine times the original. How does volume change? Contrast tripling only cylinder height.
 
 **Key and required reasoning:** Uniform similarity gives length factor 3 and volume factor 27. Tripling only cylinder height gives volume factor 3 and lateral area factor 3, with base areas unchanged.
+
+## Annotated learner responses
+
+**Calibration prompt:** Find base-plus-exterior-wall area of an open-top right cylinder with radius 3 and height 5. For the reasoning version, add: “Identify the exposed components and justify their areas.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “$39\pi$ square units.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “$39\pi$ square units.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| $2\pi(3)(5)+2\pi(3)^2=48\pi$. | The wall calculation is correct; the second disk is a missing top and must not be counted. |
+| A net has a rectangle $6\pi$ by 5 and one radius-3 disk, giving $30\pi+9\pi$. | Valid net reasoning; an actual drawn net is separate evidence if construction was requested. |
+| Tutor supplies The surface inventory: one wall and one base; learner then gives “$39\pi$ square units.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

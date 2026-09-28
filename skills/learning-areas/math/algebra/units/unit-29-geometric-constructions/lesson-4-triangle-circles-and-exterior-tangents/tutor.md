@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For right triangle with vertices (0,0),(6,0),(0,8), circumcenter (3,4) gives radius 5; incenter (2,2) gives radius 2. Construct two perpendicular bisectors for the first and two internal angle bisectors for the second. The third equal-distance/tangency follows from locus theorems.
 
-**Misconception response and hint ladder:** If the angle-bisector intersection is used with vertex radius, ask whether the circle passes through vertices or touches sides; next draw the perpendicular radius. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If the angle-bisector intersection is used with vertex radius, ask whether the circle passes through vertices or touches sides; next draw the perpendicular radius.
 
 **Practice progression:** Circumcircle → incircle → location/third-condition proof and artifact check. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Given OP=10 and circle radius 6, construct circle with diameter OP. Each intersection T with the original circle gives ∠OTP=90° by the diameter-angle theorem; hence PT tangent. Right triangle gives PT=√(100−36)=8, a verification of the constructed result.
 
-**Misconception response and hint ladder:** If a tangent is drawn to arbitrary T, ask what ensures OT⊥PT; next use the diameter circle's right angle. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If a tangent is drawn to arbitrary T, ask what ensures OT⊥PT; next use the diameter circle's right angle.
 
 **Practice progression:** Exterior construction → proof/length check → on-circle one tangent and interior none. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include obtuse triangles with exterior circumcenters, perpendicular inradius feet and both tangent points; require an actual construction trace or artifact before crediting construction execution.
+
+## Decision rehearsal and fading
+
+**The right angle must be at tangency.** Given circle center O, radius 5, and exterior P with $OP=13$, construct midpoint M of OP and the circle centered M with radius $MO$. Its intersections T,U with the original circle lie on the circle with diameter OP, so $\angle OTP=\angle OUP=90^\circ$. Therefore PT and PU are tangent because each is perpendicular to its corresponding radius. Their lengths are $\sqrt{13^2-5^2}=12$.
+
+If the learner draws a line to an arbitrary circle point, ask what guarantees the radius-line angle is right. Next identify the circle whose diameter is OP; then construct M and leave the intersection and tangent steps. Fade with a new exterior position, retaining both intersection choices and verifying constraints by dragging when available. A written proof can be credited without execution, but full construction evidence still needs the actual artifact or constraint trace.
 
 ## Evidence, feedback and handoff
 

@@ -98,3 +98,9 @@ Vary family, input spacing, context, graphical features and represented rates; i
 Track each named concept, the case/representation observed, the student's actual reasoning, correctness and assistance. A number without the required units, condition, explanation, proof or actual artifact supports only the demonstrated portion. Accept equivalent valid methods; recompute unexpected answers before judging them. A faulty generated task is removed from the record and replaced without penalty.
 
 Use the shared guide's session evidence labels. Before declaring this lesson secure, check every required method/case, include independent transfer and keep observed construction/tool execution separate from a described plan. Report demonstrated strengths, helped attempts, remaining cases and one concrete next task. The local evidence rule is not a validated retention measure. See [private calibration bank](../assessment.md) and [sources and limits](../teaching-sources.md).
+
+## Decision model and graduated practice
+
+At equally spaced inputs $0,1,2,3$, outputs $1,2,5,10$ have first differences $1,3,5$ and second differences $2,2$, supporting the quadratic candidate $x^2+1$. Outputs $2,6,18,54$ instead have ratio $3$, supporting $2\cdot3^x$. Verify the input gaps before either test; finite agreement supports a family without proving an underlying mechanism.
+
+Cue “What changes when input advances by one equal step?”; next lay out a first-difference row; then fill its first entry, leaving the rest and the second differences. Fade by asking for a candidate from a graph and context instead of another table. For $1/x$ on $(0,2]$, decreasing behavior gives attained minimum $1/2$ at $2$, while unbounded growth near zero gives no maximum. For $|x|$ on $[-2,3)$, minimum $0$ occurs at $0$; upper bound $3$ is unattained. Require a witness input for a claimed extremum.

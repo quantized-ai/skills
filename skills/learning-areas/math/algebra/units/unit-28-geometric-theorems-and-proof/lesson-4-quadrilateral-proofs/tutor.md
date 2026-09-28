@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** If opposite sides AB=CD and BC=AD, draw diagonal AC. Triangles ABC and CDA are SSS congruent; alternate angles BAC=DCA and BCA=DAC imply AB∥CD and BC∥AD. Thus the side-pair test proves a parallelogram.
 
-**Misconception response and hint ladder:** If one equal pair is treated as sufficient, ask where the second parallel relation comes from; next offer an isosceles trapezoid counterexample. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If one equal pair is treated as sufficient, ask where the second parallel relation comes from; next offer an isosceles trapezoid counterexample.
 
 **Practice progression:** Apply properties → prove a test → reject incomplete hypotheses. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** In a parallelogram with perpendicular diagonals crossing O, bisection gives AO=CO and shared BO; right triangles AOB,COB are SAS congruent, so AB=CB. Opposite-side equality then makes all four sides equal: a rhombus. Equal diagonals alone also occur in nonrectangular isosceles trapezoids.
 
-**Misconception response and hint ladder:** If perpendicular diagonals imply square, ask whether they must also be equal; next use a nonsquare rhombus. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If perpendicular diagonals imply square, ask whether they must also be equal; next use a nonsquare rhombus.
 
 **Practice progression:** Classify special parallelograms → prove diagonal criteria → counterexamples without assumptions. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Cover all specified parallelogram side/angle/diagonal tests, forward/converse proofs, rhombus angle bisection and rectangle/rhombus/square classification; supply a valid non-parallelogram counterexample to an overgeneralized diagonal test.
+
+## Decision rehearsal and fading
+
+**A diagonal criterion needs its figure class.** With cyclic vertices $A=(-3,0)$, $B=(3,0)$, $C=(1,2)$, $D=(-1,2)$, diagonals AC and BD both have length $\sqrt{20}$. Yet the opposite side lengths AB=6 and CD=2 differ, so the quadrilateral is not a parallelogram and cannot be a rectangle. Equal diagonals alone are insufficient.
+
+If the learner applies the parallelogram rectangle test here, ask “Which given establishes the parallelogram?” Next compare the opposite side lengths; then work one diagonal distance and have them verify the equal-diagonal near-miss. Fade by adding the actual hypothesis that ABCD is a parallelogram and asking for the rectangle proof: SSS equates adjacent angles via triangles ABC and BAD, and supplementary equal angles are right. For a square, collect both the rectangle and rhombus conditions rather than crediting either one alone.
 
 ## Evidence, feedback and handoff
 

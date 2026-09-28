@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** In $P=2l+2w$, isolate w: subtract 2l and divide 2 to get w=P/2−l. A physical rectangle further requires l>0 and P>2l. Algebra alone permits negative w; context does not.
 
-**Misconception response and hint ladder:** If variables are treated as fixed positive numbers without statement, ask what cases are allowed; next separate algebraic and physical assumptions. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If variables are treated as fixed positive numbers without statement, ask what cases are allowed; next separate algebraic and physical assumptions.
 
 **Practice progression:** One occurrence → multiple occurrence/factoring → zero parameter and contextual branch. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $(k-2)x=k-2$: for k≠2, x=1; for k=2,0=0 and every real x works. Dividing immediately by k−2 would lose that case.
 
-**Misconception response and hint ladder:** If x=1 is reported for k=2 only, ask whether x=7 also satisfies it; next evaluate the original coefficient and constant. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If x=1 is reported for k=2 only, ask whether x=7 also satisfies it; next evaluate the original coefficient and constant.
 
 **Practice progression:** Fixed parameter → one exceptional value → construct no/all/unique cases. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Vary which variable is isolated, include parameter coefficients on both sides, and return excluded cases to the original equation before classifying.
+
+## Decision rehearsal and fading
+
+**Factor the target variable before deciding to divide.** To solve $ax+3=bx+7$ for real $x$, collect $(a-b)x=4$. If $a\ne b$, division is allowed and $x=4/(a-b)$. If $a=b$, the original reduces to $3=7$ and there is no solution. Compare $ax+3=bx+3$: its zero-coefficient case instead gives every real $x$. The value of the residual constant determines that distinction.
+
+For work $x=4/(a-b)$ with no condition, ask “Which parameter choice makes this denominator zero?” Next substitute $a=b$ into the collected equation; then show $0x=4$ and ask whether any real $x$ works. Fade to $px+2=qx+5$ (key $3/(p-q)$ when $p\ne q$, otherwise none). A correct ordinary branch is useful partial evidence, but cannot stand for classification of the excluded branch.
 
 ## Evidence, feedback and handoff
 

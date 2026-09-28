@@ -98,6 +98,12 @@ Assess a justified method, equivalent steps, complete solution set, both-origina
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $x+y=7$ and $x-y=1$, replace the second equation by its sum with the first while retaining the first. The system becomes $x+y=7,2x=8$, so $x=4,y=3$. Subtracting the retained first row from the new second recovers $x-y=1$; this inverse operation explains equivalence. Check $4+3=7$ and $4-3=1$.
+
+If a learner keeps only $2x=8$, cue “Which surviving equation still constrains $y$?”; set up the two-row replacement; then solve $x=4$, leaving recovery of $y$. Fade with $x+y=5,x-y=1$ (key $(3,2)$). Accept substitution as a valid solution method; if elimination itself is explicitly assessed, retain correct solution evidence and separately request the reversible elimination step.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

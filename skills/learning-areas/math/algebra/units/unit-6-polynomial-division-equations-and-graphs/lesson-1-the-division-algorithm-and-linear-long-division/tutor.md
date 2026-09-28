@@ -98,6 +98,12 @@ Assess aligned representation, justified successive quotient terms, full subtrac
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Divide $2x^2+3x-2$ by $2x-1$: leading-term division gives $x$. Subtract the whole product $2x^2-x$, leaving $4x-2$; the next quotient term is $2$, with remainder $0$. Reconstruction $(2x-1)(x+2)$ recovers every coefficient. The polynomial identity holds at $x=1/2$, although the quotient expression is undefined there.
+
+If subtraction produces $2x-2$, cue “Which signs change when subtracting the whole product?”; set up $(2x^2+3x-2)-(2x^2-x)$; next work the linear coefficient $3-(-1)=4$, leaving the next division. Fade with $x^2+2x+4$ divided by $x+1$: supply the first subtraction only (key $q=x+1,r=3$). A constant remainder meets the linear-divisor stopping rule; it must still appear in $p=dq+r$.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

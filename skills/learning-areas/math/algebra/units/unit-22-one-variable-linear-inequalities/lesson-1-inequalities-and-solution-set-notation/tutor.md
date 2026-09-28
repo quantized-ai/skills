@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** 'At least 5' means x≥5; x=5 belongs but 4.9 does not. Multiply a test input into the original relation to judge membership; the solution of an inequality is a set, often infinitely many numbers.
 
-**Misconception response and hint ladder:** If 'at least' becomes>, ask whether exactly the stated minimum is allowed; next use a minimum-age example. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If 'at least' becomes>, ask whether exactly the stated minimum is allowed; next use a minimum-age example.
 
 **Practice progression:** Numeric order → verbal relation → membership in a solution set. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For −1≤x<4, interval[−1,4), set-builder{ x∈ℝ:−1≤x<4 }, and number line with closed −1/open 4 describe the same set. Infinity is never an included endpoint.
 
-**Misconception response and hint ladder:** If infinity receives a bracket, ask whether infinity is an actual real member; next distinguish unbounded direction from endpoint. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If infinity receives a bracket, ask whether infinity is an actual real member; next distinguish unbounded direction from endpoint.
 
 **Practice progression:** Ray → bounded interval → union with a gap. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include half-lines, bounded intervals, empty and all-real sets, membership and translated verbal comparisons; infinity never receives a closed endpoint.
+
+## Decision rehearsal and fading
+
+**Membership controls the marks.** For $x<-1$ or $x\ge2$, draw a horizontal number line labeled at $-1,0,2$: an open circle at $-1$ with a left ray and a closed circle at 2 with a right ray. The interval is $(-\infty,-1)\cup[2,\infty)$. Zero lies in neither ray, while 2 belongs by equality. Set-builder form must retain “or.”
+
+If a learner shades the middle interval, ask “Does 0 satisfy either original condition?” Next show the two rays separately; then test $-2<-1$ and have them assemble the union. If only an endpoint mark is wrong, test that endpoint directly rather than reteaching union. Fade to $x\le-2$ or $x>3$ with the learner supplying graph, interval and membership checks. Infinity indicates unbounded direction and is never a real endpoint to be included.
 
 ## Evidence, feedback and handoff
 

@@ -170,3 +170,14 @@ The A/B examples above illustrate selected cases. The following checklist identi
 | [Multiple solutions and graphical confirmation](lesson-4-rational-equations/tutor.md#multiple-solutions-and-graphical-confirmation) | Assess all candidates, original verification, exact versus approximate reporting and any required tool evidence. A finite plot alone neither proves completeness nor repairs an undefined point. |
 | [Inverse variation](lesson-5-rational-equations-from-relationships/tutor.md#inverse-variation) | Require model assumption, constant product and units, nonzero input, verified predictions and an evidence-based acceptance or rejection of proposed data. |
 | [Formulating rational equations and testing reasonableness](lesson-5-rational-equations-from-relationships/tutor.md#formulating-rational-equations-and-testing-reasonableness) | Assess variable definitions, compatible units, rational formulation, complete algebraic solution and contextual rejection of invalid roots. These models assume constant rates unless explicitly changed. |
+
+## Annotated response calibration
+
+| Prompt and actual response | Evidence and next action |
+| --- | --- |
+| Find range of $3/(x+2)-4$: “all reals except $-4$.” | Correct range; attainability remains unelicited if no justification was requested. Ask how all other outputs are reached. |
+| Solve $1/(x-1)=2/(x+1)$ by cross products after excluding $\pm1$; verify $x=3$. | Valid equivalent method on the stated domain. Do not require the key's exact LCD layout. |
+| Classify $(x^2-4)/(x-2)$: “hole at 2.” | Correct type and input, missing requested coordinate $(2,4)$. Preserve classification; ask for the missing output. |
+| After the tutor supplies $1/t=1/4+1/12$, learner finds $t=3$ hours. | Correct assisted rate calculation, not independent formulation. A fresh model must elicit quantities, units and assumptions. |
+
+Correct answers without explanation establish results only. If reasoning was never requested, collect it neutrally; if explicitly requested but omitted, record incomplete required evidence. Self-correction before mathematical feedback stays independent; completion after a mathematical cue is assisted.

@@ -13,6 +13,8 @@ The existing [curriculum](unit.md), read through every lesson concept table, rem
 
 - [OpenStax Precalculus 2e §10.2, The Hyperbola](https://openstax.org/books/precalculus-2e/pages/10-2-the-hyperbola). Difference-of-distances definitions, orientation and asymptotes.
 
+- [OpenStax Calculus Volume 3 §1.5, Conic Sections](https://openstax.org/books/calculus-volume-3/pages/1-5-conic-sections), plane-section introduction, additionally consulted on 28 September 2026. The right-circular-cone setting and one-/two-nappe distinction were checked there. The more precise exactly-one-parallel-generator condition was independently verified by substituting cutting planes into $x^2+y^2=z^2$; it is a local mathematical clarification, not a new standards mapping.
+
 ## What is original and what remains untested
 
 All diagnostic questions, numerical choices, worked keys, variation constraints and reviewer scenarios here are original implementations of the existing curriculum. Links to published resources acknowledge consultation; source prose, copyrighted exercises and images are not redistributed. Where a published overview omits a condition, the precise curriculum condition controls and the worked mathematics is checked independently.

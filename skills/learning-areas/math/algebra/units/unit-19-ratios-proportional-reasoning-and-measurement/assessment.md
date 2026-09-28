@@ -59,3 +59,17 @@ The examples above remain private calibration. Generate a new task for each sele
 | 19.4 — Scale factors for measurements | Similarity assumption; direction; k,k²,k³; units; consistency of alternate methods. | [Teaching plan](lesson-4-measurement-units-and-scale/tutor.md#scale-factors-for-measurements) |
 
 Record the task fingerprint, exact case, observed reasoning, assistance and status. Award only the demonstrated component; list remaining cases by name. Use an explanation/error-analysis or reversed representation for transfer, and separately observe any required graph, construction, fit or simulation.
+
+## Annotated learner responses
+
+**Calibration prompt:** Find the original price if a 20% discount leaves 72 credits. For the reasoning version, add: “Define the original whole, form the multiplier equation, and check.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “90 credits.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “90 credits.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| $72(1.2)=86.4$, because undoing 20% means adding 20%. | The base changes in the proposed reversal. Diagnose this from the stated multiplier, not merely the final wrong number. |
+| $72/4=18$ is one of the five original equal parts, so $5(18)=90$. | Valid ratio-part reasoning; do not require decimal division. |
+| Tutor supplies $0.8P=72$; learner then gives “90 credits.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

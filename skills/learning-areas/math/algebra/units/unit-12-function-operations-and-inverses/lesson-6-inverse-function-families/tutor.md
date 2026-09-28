@@ -98,6 +98,12 @@ Assess original range, inherited inverse domain, correct formula and sets, both 
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $f(x)=3\cdot2^{x-1}+4$, reverse output operations: $(y-4)/3=2^{x-1}$, then $x=1+\log_2((y-4)/3)$. Original range $y>4$ becomes inverse domain; the horizontal asymptote $y=4$ reflects to $x=4$.
+
+Cue “Which operation was applied last to the output?”; set up $y-4=3\cdot2^{x-1}$; then divide by $3$, leaving logarithm and shift. Fade with $2\cdot3^{x+1}-1$ (inverse $\log_3((y+1)/2)-1$, $y>-1$). Contrast $f(x)=-\sqrt x$: inversion gives $y^2$ only on $y\le0$, since $-\sqrt{y^2}=-|y|=y$ there. A cubic inverse has no analogous even-root branch restriction. Require both compositions on their respective domains, not just the easy cancellation direction.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

@@ -31,3 +31,15 @@ Verify nonnegative probabilities summing to one before computing moments. Binomi
 | [44.3 Normal probabilities and inverse percentiles](lesson-3-continuous-distributions-and-normal-probabilities/tutor.md#normal-probabilities-and-inverse-percentiles) | Vary lower/upper/two-sided areas and quantiles; use verified normal tools/tables, state approximation and never confuse variance with standard deviation. |
 | [44.4 Net payoff and fair price](lesson-4-expected-payoff-and-risk/tutor.md#net-payoff-and-fair-price) | Include refunds and multiple payouts, clearly distinguish gross/net and use all probabilities; avoid real-money advice. |
 | [44.4 Comparing strategies under uncertainty](lesson-4-expected-payoff-and-risk/tutor.md#comparing-strategies-under-uncertainty) | Vary probabilities, deductibles, limits and risk preferences with synthetic data; compare the same outcomes and report sensitivity, not a universal personal recommendation. |
+
+## Checked demand anchors
+
+| Role | Task and key | Demand |
+| --- | --- | --- |
+| Routine binomial count | Four fair independent trials, exactly two successes: $6/16=3/8$. | Count patterns and weight each once. |
+| Comparable intended retake | Four fair independent trials, exactly one success: $4/16=1/4$. | Same fixed-trial model and exact-event reasoning; arithmetic count is slightly smaller. |
+| Increased event demand | Same four trials, at least two successes: $(6+4+1)/16=11/16$. | Adds cumulative event selection; do not pass it off as the same exact-count task. |
+| Waiting-time contrast | Fair independent attempts, first success on trial 3: $1/8$; after trial 3: $1/8$. | Same number, different prefix event and stopping interpretation. |
+| Simulation comparison | Repeat the selected binomial or geometric experiment with an actual tool. | Record repetitions and observed frequencies; theoretical probabilities are a comparison target, not fabricated observations. |
+
+For geometric simulations, if a practical cap is necessary, report censored runs and the model tail probability beyond the cap. Never remove long waits silently and compare the truncated average to $1/p$ as if complete.

@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For C=(−1,1),k=1/2,P=(5,3), vector P −C=(6,2) halves to(3,1), so P′=(2,2). A line through C remains the same set, but P moves unless k=1 or P=C; other lines map to parallel lines.
 
-**Misconception response and hint ladder:** If coordinates are multiplied about a nonorigin center, ask which point must stay fixed; next subtract C first. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If coordinates are multiplied about a nonorigin center, ask which point must stay fixed; next subtract C first.
 
 **Practice progression:** Origin dilation → nonorigin center → line images/fixed points. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Dilate about origin by3 then translate (2,−1): P=(1,2)→(3,6)→(5,5). Invert by subtracting translation then dividing by3. Distances scale 3 despite translation; correspondence determines which side ratios compare.
 
-**Misconception response and hint ladder:** If inverse translation is divided before being removed, ask which action occurred last; next undo that action first. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If inverse translation is divided before being removed, ask which action occurred last; next undo that action first.
 
 **Practice progression:** Similarity identification → mixed mapping → inverse and nonuniform counterexample. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Require experimental line/length/angle verification, arbitrary centers, contraction/enlargement and mixed pre-images; keep factors positive as specified and distinguish a line fixed as a set from every point fixed.
+
+## Decision rehearsal and fading
+
+**A fixed line need not have fixed points.** Dilate about $C=(1,2)$ by factor 3. Point $(2,2)$ maps to $(4,2)$, so line $y=2$ through C maps onto itself while that point moves. Line $y=4$ maps to $y=8$: its points have vertical displacement 2 from C, which becomes 6. The image is parallel to, and distinct from, the original line.
+
+If the learner multiplies the absolute y-coordinate by 3, cue “Which point must remain fixed?” Next write $y'=2+3(y-2)$; then evaluate the center's y-coordinate and let them handle 4. Fade to factor $1/2$ about the same center, using both lines (images $y=2$ and $y=3$). Record actual coordinate or dynamic measurements for the experimental verification; a verbal claim of invariance is not a tool trace. For an inverse mixed composition, undo the last rigid motion before the dilation.
 
 ## Evidence, feedback and handoff
 

@@ -33,3 +33,17 @@ These original keyed probes combine or stress concepts. They are calibration ref
 **Prompt:** A triangle has sides 5,7,9. Find the cosine of the angle opposite 9 and decide whether it is obtuse.
 
 **Key and required reasoning:** $\cos C=(25+49-81)/(2\cdot5\cdot7)=-1/10$, so C is obtuse. Triangle inequality holds; an acute diagram would contradict the data.
+
+## Annotated learner responses
+
+**Calibration prompt:** Find the side opposite the included $120^\circ$ angle between sides 3 and 5. For the reasoning version, add: “Choose and justify the law, retain the cosine sign, and check triangle feasibility.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “7.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “7.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| $c^2=9+25-30(1/2)=19$. | The structure is correct but cosine of the obtuse angle is negative; this is a sign/projection error evidenced by the work. |
+| Coordinates $(0,0),(5,0),(-3/2,3\sqrt3/2)$ give squared opposite distance 49. | Valid direct distance derivation; credit it without requiring a memorized law label. |
+| Tutor supplies $\cos120^\circ=-1/2$; learner then gives “7.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

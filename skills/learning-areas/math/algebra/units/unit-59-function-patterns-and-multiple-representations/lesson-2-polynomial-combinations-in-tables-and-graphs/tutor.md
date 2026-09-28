@@ -56,7 +56,7 @@ Combine two full shared-input tables; expand and collect polynomial formulas and
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Align both functions' values at the same x before combining them.
+**First conceptual cue:** What input belongs to each of the outputs being combined?
 
 If subtraction order reverses, label f−g throughout the row. If unmatched inputs are combined, leave the entry undetermined unless an additional formula genuinely supplies it.
 
@@ -109,7 +109,7 @@ Compare generic nonzero slopes; include cancellation, one constant factor and th
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Inspect possible coefficient cancellation before naming a degree.
+**First conceptual cue:** Could the leading terms cancel or a factor become constant?
 
 If every product is labeled quadratic, inspect ac. If factor values are checked only at roots, multiply back to confirm the entire polynomial and its leading scale.
 
@@ -178,6 +178,17 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Context meaning, units, justified operation, decomposition and consistent three-form domain.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+Build one row in all representations to locate the error before reteaching everything. For \(f=x+2,g=x-1\) at \(x=3\), the outputs 5 and 2 give sum 7, ordered difference 3 and product 10. The symbolic forms \(2x+1,3,x^2+x-2\) agree. If a learner gets the symbolic product right but multiplies outputs at different inputs, the target is table alignment; if the aligned row is right but expansion omits cross terms, the target is distributivity.
+
+For \(f=2x+1,g=-2x+3\), the sum is 4 and product is \(-4x^2+4x+3\). At \(x=0,1,2\), the product values 3,3,-5 have second difference -8, consistent with \(2a\) at unit spacing. The same roots do not determine the scale: \((2x+1)(-2x+3)\) and half that product vanish at the same inputs but differ elsewhere. Verify a proposed decomposition by full multiplication.
+
+For a table-alignment error, cue “What input belongs to each of these outputs?” Then supply a common input column and leave a missing value blank; work one row only if necessary. Fade with \(f=3x-2,g=-3x+5\): sum 3, product \(-9x^2+21x-10\); at \(x=1\), values 1,2 give sum 3 and product 2.
+
+In the area model \((x+2)(x-1)\), positivity of both lengths requires \(x>1\), even after expansion. A graph request must show that restricted domain, with area units on the vertical axis. A symbolic prediction of the shape or a few computed points is useful preparation, but does not establish that a requested graph was produced and inspected.
 
 ## Lesson completion
 

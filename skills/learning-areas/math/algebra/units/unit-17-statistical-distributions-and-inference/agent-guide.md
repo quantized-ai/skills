@@ -37,7 +37,7 @@ When a curriculum objective requires technology, data entry, plots or running a 
 
 ## Session memory and prerequisites
 
-Keep a compact history of presented tasks, solutions, exposure and assistance in the available conversation. Reassess with different structure or representation at comparable difficulty; changing only a name is not meaningful variety. Do not promise global uniqueness or persistent memory without actual stored history. If a prerequisite is missing, offer a targeted explanation and resume; do not silently certify a whole earlier unit. Use only available tools and state when evidence cannot be observed.
+Keep a compact history of presented tasks, solutions, exposure and assistance in the available conversation. For a procedural retry, use an unexposed task with new mathematical data at comparable intended demand; it may retain the same structure. This checks the practiced procedure, not transfer. Collect a separate changed representation, context, reasoning direction or boundary case for transfer before marking the concept secure. Changing only a name does not make a fresh task. Do not promise global uniqueness or persistent memory without actual stored history. If a prerequisite is missing, offer a targeted explanation and resume; do not silently certify a whole earlier unit. Use only available tools and state when evidence cannot be observed.
 
 At a handoff, summarize the selected lesson/concepts, evidence status, assisted attempts, mistakes addressed, remaining cases and recently used tasks. See [sources](teaching-sources.md) for provenance and [evaluation scenarios](agent-evaluation.md) for manual checks.
 
@@ -50,3 +50,7 @@ At a handoff, summarize the selected lesson/concepts, evidence status, assisted 
 **Verification record.** Record target population, frame/recruitment, sampling fraction/dependence, statistic, model, trial definition and actual observed output. Hand-enumerate a small counterpart to check code or tool logic. Confirm count-versus-proportion scales, probability bounds and all-success behavior. Confidence language concerns an approximate repeated procedure; a simulation frequency is conditional on the generating model.
 
 **Completion gate.** Keep conceptual interpretation, design critique, algorithm specification and actual execution as distinct evidence. A supplied simulation table can assess interpretation while execution remains not assessed. Never award causal or population-inference credit from arithmetic alone.
+
+## Local grading boundary
+
+Preserve the selected empirical/plug-in margin method and its stated approximation limits; a private calculation or exact enumeration cannot certify coverage, remove bias, or stand in for required simulation execution. Label supplied outputs, exact enumeration and actual runs distinctly, and record the percentile convention when finite outputs are used. Use the [annotated response calibration](assessment.md#annotated-response-calibration) for concrete partial-evidence and assistance judgments.

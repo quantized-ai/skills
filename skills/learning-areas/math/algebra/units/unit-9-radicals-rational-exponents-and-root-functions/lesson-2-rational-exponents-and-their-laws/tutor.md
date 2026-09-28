@@ -98,6 +98,12 @@ Assess justified law use, operation distinction, original-domain preservation an
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $16^{-3/4}$, the reduced denominator $4$ specifies a fourth root and the negative exponent specifies a reciprocal: $1/(\sqrt[4]{16})^3=1/2^3=1/8$. For $(-8)^{2/3}$, the odd denominator permits the negative base: $(\sqrt[3]{-8})^2=(-2)^2=4$. These decisions precede exponent arithmetic.
+
+If a learner says $-4$, cue “Does the sign belong to the base being squared?”; next set up $(\sqrt[3]{-8})^2$; then replace the root by $-2$, leaving the square. Fade with $(-27)^{2/3}$ (key $9$). For positive $x$, $x^{1/2}x^{3/2}=x^2$ follows from adding exponents; for unrestricted real $x$, retain the original requirement $x\ge0$. A simplified power cannot silently enlarge a root expression's domain.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

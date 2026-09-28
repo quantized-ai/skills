@@ -98,6 +98,12 @@ Require cancellation derivation, correct N versus N−1 roles, r=1 handling and 
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $S=3+6+12+24$, write $2S=6+12+24+48$. Subtracting aligns the shared terms and gives $S=48-3=45$. This explains the finite geometric formula's cancellation and why the last unmatched exponent is the number of terms, not one less. At ratio $1$, division by $1-r$ is forbidden; direct addition gives $Na$.
+
+Cue “Which terms are shared by the shifted sum?”; next align $S$ and $rS$; then cancel one pair, leaving the boundary terms. Fade on $2+6+18+54$ (key $80$). For $\sum_{k=2}^5(3k-1)$, expand boundaries first: $5,8,11,14$ are four terms, total $38$. If the learner uses three terms, target inclusive counting; if they use the final term as the sum, separate a term value from accumulated total.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

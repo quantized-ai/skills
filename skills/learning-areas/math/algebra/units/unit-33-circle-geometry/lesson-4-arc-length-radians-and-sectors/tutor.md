@@ -83,7 +83,7 @@ Curriculum reference: **Sector and segment areas** in [lesson.md](lesson.md#conc
 - **Diagnostic key:** No: sector 4π; segment 4π−8 after removing the central right triangle.
 - **Worked-example prompt:** Find the minor segment area cut off by a chord subtending 90 degrees in a radius-8 circle.
 - **Worked model and reasoning:** Sector area $\tfrac14\pi64=16\pi$; central triangle area $\tfrac12(8)(8)=32$; minor segment $16\pi-32$. The major segment is $64\pi-(16\pi-32)=48\pi+32$.
-- **First hint:** A sector and a circular segment have different boundaries.
+- **First hint:** Which straight edges bound the requested region: two radii or one chord?
 
 #### Learn
 
@@ -110,6 +110,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Vary central angles with computable triangle areas; derive sector area from its angular fraction and verify containment before subtraction.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**Name the region before subtracting.** In radius-6 circle with minor central sweep $\pi/3$, arc length is $6(\pi/3)=2\pi$ and sector area $\tfrac12\cdot36\cdot\pi/3=6\pi$. The central triangle is equilateral with side 6, area $9\sqrt3$, so the minor segment is $6\pi-9\sqrt3$. The major segment is the rest of the circle, $30\pi+9\sqrt3$; it is not obtained by blindly subtracting that triangle from the major sector.
+
+If the learner reports sector area for the segment, ask which straight edges bound each region. Next shade the chord-bounded cap and the central triangle separately; then give “segment = minor sector − triangle” and leave the values. Fade to radius 4 and minor sweep $\pi/2$ (arc $2\pi$, sector $4\pi$, segment $4\pi-8$). Require radians in $s=r\theta$ and the half-radius-squared formula.
 
 ## Lesson completion
 

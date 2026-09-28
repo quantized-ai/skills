@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** If DE∥BC, AD=4,DB=6,AE=5, then AD/AB=4/10=2/5=AE/AC, so AC=12.5, EC=7.5. Segment-to-segment check 4/6=5/7.5 agrees; mixing 4/10 with 5/EC would be wrong.
 
-**Misconception response and hint ladder:** If denominators mix whole and remainder, ask which segments correspond; next label AB=AD+DB and AC=AE+EC. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If denominators mix whole and remainder, ask which segments correspond; next label AB=AD+DB and AC=AE+EC.
 
 **Practice progression:** Direct proportionality → reversed unknown → converse proof and inconsistent ratios. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** With AB=8,AC=12,BD=6, the ratio BD/DC=8/12=2/3 gives DC=9. The bisector divides proportionally, not generally in half. To justify the theorem, use an auxiliary line through C parallel toAD and corresponding similar triangles; the existing proof below supplies the full construction.
 
-**Misconception response and hint ladder:** If every bisector is called median, ask whether adjacent sides are equal; next compare 8/12 with a supposed 1/1 base split. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If every bisector is called median, ask whether adjacent sides are equal; next compare 8/12 with a supposed 1/1 base split.
 
 **Practice progression:** Direct split → missing adjacent side → derivation and midpoint condition. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Cover theorem and converse proofs, an auxiliary-parallel derivation of the internal bisector theorem, whole/part ratio distinctions and equal-side special cases; retain internal incidence and positive lengths.
+
+## Decision rehearsal and fading
+
+**Choose either parts or wholes consistently.** In triangle ABC, D is interior to AB and E interior to AC, with $AD=3$, $DB=5$, $AE=6$, $EC=10$. Ratios of parts are $3/5=6/10$; ratios of whole sides are $3/8=6/16$. Either correctly establishes the same proportional division, so the converse theorem gives $DE\parallel BC$. The mixed comparison $3/8=6/10$ would be false.
+
+If the learner mixes these denominators, ask what each denominator measures. Next label $AB=AD+DB$ and $AC=AE+EC$; then compute AB=8 and leave AC. Fade to $AD=4$, $DB=7$, $AE=8$, asking for EC to make DE parallel (14). For an internal angle bisector with adjacent sides 6 and 10 and opposite side 12, the parts are 4.5 and 7.5, assigned to the matching adjacent sides; equality of parts would require equal adjacent sides.
 
 ## Evidence, feedback and handoff
 

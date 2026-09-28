@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $(6×10^5)/(2×10^{-2})=3×10^7$. Divide coefficients and subtract exponents, then check scientific coefficient lies in[1,10). A negative quantity uses a negative coefficient with magnitude in that interval.
 
-**Misconception response and hint ladder:** If dividing by10⁻² makes the number smaller, ask what dividing by0.01 means; next substitute the decimal scale. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If dividing by10⁻² makes the number smaller, ask what dividing by0.01 means; next substitute the decimal scale.
 
 **Practice progression:** Convert forms → multiply/divide scientific notation → add after matching powers. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A measured length 12.4 cm plus 0.37 cm is12.77 cm before reporting; if input decimal places indicate measurement resolution, report 12.8 cm. Keep 12.77 internally. An exact count of3 does not itself restrict measured precision.
 
-**Misconception response and hint ladder:** If leading zeros count as significant, ask whether changing units creates precision; next express the value scientifically. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If leading zeros count as significant, ask whether changing units creates precision; next express the value scientifically.
 
 **Practice progression:** Rounding place → significant figures → mixed exact/measured calculation and error estimate. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include addition requiring common powers, normalized coefficients, estimation bounds and unit-sensitive precision; distinguish rounding a display from making a measurement more accurate.
+
+## Decision rehearsal and fading
+
+**Addition needs a common scale.** For exact values $(3.2\times10^5)+(4.5\times10^4)$, rewrite the second term as $0.45\times10^5$ because adding coefficients requires equal-sized units. The sum is $3.65\times10^5$; ordinary notation checks $320000+45000=365000$. Exponent addition belongs to multiplication, not this sum.
+
+If the work adds exponents, cue “Are we counting the same power-of-ten units?” Next offer $(3.2+\square)\times10^5$; then supply $4.5\times10^4=0.45\times10^5$ and leave the sum. Fade to $(6.1\times10^{-3})-(8\times10^{-4})=5.3\times10^{-3}$. For a separate measurement check, a reading 7.4 cm rounded to the nearest tenth represents a rounding uncertainty at most 0.05 cm; writing 7.400 does not improve the measurement. State the tie rule before deciding inclusion of the interval endpoints.
 
 ## Evidence, feedback and handoff
 

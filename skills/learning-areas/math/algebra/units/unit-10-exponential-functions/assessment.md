@@ -202,3 +202,14 @@ The A/B examples above illustrate selected cases. The following checklist identi
 | [Graphical and numerical solutions](lesson-5-exponential-equations/tutor.md#graphical-and-numerical-solutions) | Assess original-side representation, evaluated continuous bracket, justified precision, approximate notation and valid uniqueness reasoning. Record required actual technology evidence separately. |
 | [Average rates of change for exponentials](lesson-6-rates-of-change-and-comparisons/tutor.md#average-rates-of-change-for-exponentials) | Require correct difference quotient, signs, units and an explanation distinguishing multiplicative consistency from constant additive rate. |
 | [Comparing exponential and polynomial growth](lesson-6-rates-of-change-and-comparisons/tutor.md#comparing-exponential-and-polynomial-growth) | Assess accurate common-input comparisons, appropriate scale changes, qualified eventual behavior and the evidence/theorem distinction. Do not grade an unsupported global claim as justified because its answer happens to be true. |
+
+## Annotated response calibration
+
+| Prompt and actual response | Evidence and next action |
+| --- | --- |
+| Construct the assumed exponential through $(1,6),(3,24)$: “$3\cdot2^x$.” | Correct formula; requested ratio reasoning and both-point checks remain incomplete if omitted. |
+| Solve $4^{x-1}=8$ by common bases and verify $x=5/2$. | Valid exact route; logarithms are not necessary. If graphical/numerical solution is itself requested, it remains separate evidence. |
+| For $80(1/2)^t$, give ratio $1/2$ as the average rate on $[0,1]$. | Correct multiplicative factor, wrong requested quantity. Preserve factor recognition and target output change per time. |
+| After the tutor supplies $b^2=4$, learner selects $b=2$ and finds $a$. | Assisted construction setup, with useful positive-base and coefficient evidence; obtain fresh independent ratio setup. |
+
+Correct answers without explanation establish results only. If reasoning was never requested, collect it neutrally; if explicitly requested but omitted, record incomplete required evidence. Self-correction before mathematical feedback stays independent; completion after a mathematical cue is assisted.

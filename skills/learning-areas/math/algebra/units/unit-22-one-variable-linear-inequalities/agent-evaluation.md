@@ -60,3 +60,14 @@ These are manual evaluation specifications, not results of completed student ses
 **Required mathematical response:** OR means union, so both rays belong; AND would be empty. Ask whetherx=−1 satisfies at least one condition, then translate into intervals.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-3-compound-inequalities-and-contextual-constraints](lesson-3-compound-inequalities-and-contextual-constraints/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| From $8+3n<23$ I got n<5, so 5 tickets is the maximum. | Credit algebra, reject the strict endpoint, and check cost at 4 and 5 before reporting feasible integers. |
+| I solved $(k-1)x\le2$ by splitting k positive and negative. | Ask which expression is the divisor; branch at k=1, with all real x when k=1. A split at zero misses relevant cases. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

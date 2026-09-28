@@ -98,6 +98,12 @@ Require component matching, whole-number negation, standard a+bi form and an add
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Write $i^{27}=(i^4)^6i^3=1^6(-i)=-i$: removing a block of four removes a factor of $1$, not four units of a coefficient. Then $(4-2i)-(-3+6i)=4-2i+3-6i=7-8i$, since the additive inverse negates both components. Adding $-3+6i$ back recovers $4-2i$.
+
+If a learner gives $i^{28}=0$, cue “What value does each block of four contribute?”; set up $(i^4)^7$; then supply $1^7$, leaving evaluation. For subtraction, use a distinct ladder: identify the whole subtracted number, write $+[-1(-3+6i)]$, then distribute one component and let the learner finish. Fade on $i^{30}-i^{31}$ (key $-1+i$), with the cycle visible initially and removed on the independent follow-up.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

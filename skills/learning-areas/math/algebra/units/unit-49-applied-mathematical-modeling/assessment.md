@@ -97,3 +97,17 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 Use the unit-specific evidence requirements and lesson routing in [agent-guide.md](agent-guide.md#evidence-specific-to-this-unit), then select missing cases from each relevant tutor’s Assessment case checklist. The separate diagnostics, lesson reasoning activities and supplemental worked comparisons are additional private calibration material; they are not unseen test items once discussed. Track the actual case and representation covered, and report remaining cases explicitly.
 
 A learner can correctly reject an invalid model or unsupported conclusion without supplying a numerical answer. Conversely, a correct number does not establish an omitted justification, practical execution or completeness claim. Use the unit’s [adversarial scenario](agent-evaluation.md#adversarial-transfer-scenario) to check this distinction before treating a generated item as a reliable assessment.
+
+## Annotated learner-response calibration
+
+Judge model construction, computation, validation and scope separately. A missing observation or tool result cannot be inferred from a correct formula.
+
+| Learner response | Evidence judgment and next move |
+| --- | --- |
+| “The tank model is exact for all time because it fits the first two observations.” | Credit the fitted line if correct; validation and extrapolation claims are unsupported. Ask which observation was held out and what physical restrictions remain. |
+| “The 2 L residual does not identify a unique replacement; I would check measurement bounds and more observations.” | Accept a reasoned limit on revision. Do not force an arbitrary quadratic merely to produce a new formula. |
+| “Tree height is 12.000000 m, therefore accurate to a millionth.” | Proportional calculation may be correct; accuracy claim is not. Ask for measurement bounds and retain the point-estimate evidence separately. |
+| Logistic parameters are correct but the learner says 100 is the initial value. | Parameter computation and parameter interpretation conflict; request substitution at zero. Mark an interpretation corrected after that cue assisted. |
+| A learner uses an equivalent sine model for the specified tide and verifies peak timing and range. | Accept it. Matching one value alone is insufficient; require the requested periodic attributes, not the author's cosine spelling. |
+| A recurrence table settles toward 6 and the learner claims every initial state converges. | Credit the observed trace. Universal convergence requires a suitable error argument; do not promote a finite observation to proof. |
+| Correct triangle reasoning is supplied but no requested dynamic-geometry artifact is available. | Credit the symbolic component and leave practical evidence not assessed. Do not infer the learner ran software. |

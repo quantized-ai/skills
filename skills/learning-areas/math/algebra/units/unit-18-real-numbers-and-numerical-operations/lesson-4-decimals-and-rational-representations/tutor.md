@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $0.24\times 0.5=(24/100)(5/10)=120/1000=0.12$. The result should be half of0.24; decimal placement follows place value, not an arbitrary digit count alone.
 
-**Misconception response and hint ladder:** If0.24·0.5 becomes 1.2, ask whether multiplying by one-half should enlarge it; next rewrite as fractions. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If0.24·0.5 becomes 1.2, ask whether multiplying by one-half should enlarge it; next rewrite as fractions.
 
 **Practice progression:** Aligned addition/subtraction → multiplication/division → contextual estimate and exact check. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Let x=0.\overline{36}. Then 100x=36.\overline{36}; subtract x to get 99x=36, so x=4/11. For 1/6, factor 3 in the reduced denominator prevents termination.
 
-**Misconception response and hint ladder:** If every infinite decimal is irrational, ask whether the digits repeat; next derive the fraction from a repeating example. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If every infinite decimal is irrational, ask whether the digits repeat; next derive the fraction from a repeating example.
 
 **Practice progression:** Fraction-to-terminating decimal → repeating-to-fraction → justify termination criterion. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -74,6 +74,12 @@ Use this reasoning as instruction or private calibration. Generate a fresh indep
 ## Further task construction
 
 Include place-value alignment, decimal operations, a nonrepeating prefix followed by repetition, and denominator tests only after reduction.
+
+## Decision rehearsal and fading
+
+**Align the repeating tails, including a prefix.** For $x=0.1\overline6$, multiplying by 10 gives $10x=1.\overline6$ and by 100 gives $100x=16.\overline6$. Subtract because the infinite tails now match: $90x=15$, hence $x=1/6$. Using $99x=16$ would incorrectly treat the initial 1 as part of the repeated block. Long division confirms a first digit 1 followed by repeated remainder 4 and digits 6.
+
+If the learner writes $16/99$, ask “Does your fraction repeat 16 or only 6?” Next have them write the first six digits of $10x$ and $100x$; then show the aligned subtraction, leaving reduction to them. Fade to $0.2\overline7$: provide the two multipliers but no subtraction (key $25/90=5/18$), then use a fresh prefix/block combination without multiplier cues. A finite display such as 0.1667 remains rational and only approximates $1/6$.
 
 ## Evidence, feedback and handoff
 

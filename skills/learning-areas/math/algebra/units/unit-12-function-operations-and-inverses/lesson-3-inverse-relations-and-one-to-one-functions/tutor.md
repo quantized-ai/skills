@@ -98,6 +98,12 @@ Assess correct pair reversal, finite membership, endpoint inclusion, domain/rang
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+The complete table $(1,4),(2,7),(5,9)$ is one-to-one because its three outputs are distinct. Swap pairs to obtain $(4,1),(7,2),(9,5)$; inverse domain is exactly $\{4,7,9\}$, not the interval between them. In contrast, adding $(6,7)$ to the original creates two inverse outputs for input $7$, although the original remains a function.
+
+Cue “Would this output identify one original input?”; next write the reversed pairs sharing input $7$; then identify one resulting output, leaving the conflict explanation. Fade by asking for a valid added original pair and one that breaks one-to-one behavior. For $f(x)=2x+3$, inverse $(x-3)/2$ undoes operations; reciprocal $1/(2x+3)$ divides by an output. Their different formulas and domains answer different operations.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

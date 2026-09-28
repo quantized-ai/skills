@@ -70,3 +70,17 @@ The examples above remain private calibration. Generate a new task for each sele
 | 21.5 — Constant-rate and motion relationships | Constant-rate assumption; common time units; direction; nonnegative feasible time; original distance check. | [Teaching plan](lesson-5-linear-equation-models/tutor.md#constant-rate-and-motion-relationships) |
 
 Record the task fingerprint, exact case, observed reasoning, assistance and status. Award only the demonstrated component; list remaining cases by name. Use an explanation/error-analysis or reversed representation for transfer, and separately observe any required graph, construction, fit or simulation.
+
+## Annotated learner responses
+
+**Calibration prompt:** Solve $(x+2)/3-x/4=2$ over the reals. For the reasoning version, add: “Show equivalent equations and verify in the original fractions.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “$x=16$.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “$x=16$.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| $4(x+2)-3x=2$, hence $x=-6$. | Denominator clearing scaled the left side but not the right. Preserve the identified multiplier and repair equality preservation. |
+| $((4x+8)-3x)/12=2$, hence $x+8=24$, $x=16$; original gives $6-4=2$. | Valid fraction-combination route; if the prompt specifically required clearing first, collect that separate method evidence. |
+| Tutor supplies $4(x+2)-3x=24$; learner then gives “$x=16$.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

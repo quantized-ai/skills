@@ -108,7 +108,7 @@ Negate one universal and one existential claim; analyze a nested statement whose
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Switch each quantifier and negate the final comparison.
+**First conceptual cue:** What would one counterexample to this quantified claim have to show?
 
 If the witness is outside the domain, reread the quantifier. If quantifiers are reversed casually, write one fixed witness versus a witness chosen separately for each input and test the difference.
 
@@ -125,6 +125,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Negation, quantifier order, valid witnesses/counterexamples and universal justification.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+Explain validity as the impossibility of a particular configuration, not as the truth of a familiar conclusion. In “p implies q; q; therefore p,” choose p false and q true: both premises are true while the conclusion is false. **Conceptual cue:** “Can the premises all hold while the conclusion fails?” **Setup:** reserve columns for each premise and the conclusion; evaluate the inner implication first. **Worked step:** on that row the implication is true; leave the other premise and conclusion to the learner. **Fade:** compare the valid argument “p implies q; p; therefore q” and ask why its counterrow cannot exist. A full truth-table objective still needs every assignment, even when one row suffices to refute a particular argument.
+
+For nested quantifiers, distinguish a witness chosen after the input from one witness fixed in advance. For every integer n, choose m=n+1 to satisfy m>n. A single integer m cannot exceed every integer n because n=m is permitted. **Cue:** “May the witness depend on the input?” **Setup:** write “for each n, choose m” beside “choose one m, then every n.” **Worked step:** negate the inner inequality to m≤n while switching its quantifier; let the learner finish the outer quantifier. Keep the integer domain throughout. A claimed counterexample outside the hypotheses is not evidence against the statement.
 
 ## Lesson completion
 

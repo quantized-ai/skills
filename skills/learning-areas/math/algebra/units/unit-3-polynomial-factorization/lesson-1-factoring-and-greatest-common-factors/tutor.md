@@ -45,7 +45,7 @@ Display an expanded expression and a product as two representations of the same 
 
 #### Respond to student reasoning
 
-**First hint:** Which coefficient system is allowed?
+**First cue:** Which multiplication could recover every term of this expression? **Completion cue, once a product is found:** Which coefficient system determines whether its factors can split further?
 
 If factors are reported as solutions, ask where an equals-zero condition was given. If any two-factor product is called complete, inspect each factor within the allowed system. If no rational pair is found, do not infer no real roots.
 
@@ -97,6 +97,14 @@ Move from two terms to three, missing variables, constant terms and negative lea
 Assess numerical and variable GCFs, all quotient terms, verification and continued factoring when applicable. Preserve the extracted coefficient throughout subsequent methods.
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
+
+## Decision model and graduated practice
+
+Start with the ordinary reverse distribution $6x^2+6x=6x(x+1)$. The quotients are $x$ and $1$: the second term equals the extracted factor, so its quotient cannot disappear. Multiplying back yields both original terms. This is an identity for all $x$; only the additional equation $6x(x+1)=0$ asks for roots, $0,-1$.
+
+For $6x^2+9x+3$, the constant prevents extracting $x$. Extract $3$, then factor $2x^2+3x+1$ to obtain $3(2x+1)(x+1)$. The numerical GCF and the later binomial factors answer different decisions.
+
+For a learner stuck choosing the GCF, cue “Which factor divides every term, including the constant?” Then set up the three quotients by $3$. Only next supply $3(2x^2+3x+1)$, leaving the learner to finish and check. If the learner already has that line, skip the GCF cues and ask what structure remains. Fade by giving $8x^2+12x=4x(\square+\square)$, then ask for independent extraction and verification on a new expression. The completion key is $2x+3$.
 
 ## Completion and handoff
 

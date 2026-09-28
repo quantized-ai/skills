@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Values 2,4,9 have total 15 and mean 5. Deviations −3,−1,4 sum 0, illustrating balance. For scores with weights 1,2,1, weighted mean (2+8+9)/4=19/4, a different distribution of weight.
 
-**Misconception response and hint ladder:** If group means are averaged equally, ask whether groups contain equal numbers; next reconstruct each total. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If group means are averaged equally, ask whether groups contain equal numbers; next reconstruct each total.
 
 **Practice progression:** Ordinary mean → missing value/total → weighted/grouped mean. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Replace 12 by120: median and mode remain 2 while mean becomes 25.6. For 2,3,3,5,5,8 there are two modes 3 and 5; median 4 need not be observed. Report a declared convention for datasets with no repeated values.
 
-**Misconception response and hint ladder:** If median means 'most frequent', ask which operation found it: position or frequency; next mark positions and counts separately. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If median means 'most frequent', ask which operation found it: position or frequency; next mark positions and counts separately.
 
 **Practice progression:** Odd/even median → one/multiple/no modes → outlier sensitivity. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Use even/odd counts, frequencies, weighted values, unknown totals and outlier changes; keep weights nonnegative with positive total.
+
+## Decision rehearsal and fading
+
+**Reconstruct totals before combining means.** A group of 4 observations has mean 6 and a group of 6 has mean 11. Their totals are 24 and 66, so the combined mean is $90/10=9$, not $(6+11)/2=8.5$. The heavier group pulls the combined mean toward 11. No individual observation must equal 9.
+
+If the learner averages means equally, ask “How many observations does each mean represent?” Next provide a group-size/mean/total table with blank totals; then work $4\cdot6=24$ and leave the other total and final denominator. Fade to sizes 3 and 9 with means 8 and 12 (combined mean 11). For center choice, changing $2,3,4,5,6$ to $2,3,4,5,26$ changes the mean from 4 to 8 while leaving the median 4; ask which feature of the context the chosen center should represent.
 
 ## Evidence, feedback and handoff
 

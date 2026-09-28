@@ -91,3 +91,13 @@ Use the [concept teaching plan](lesson-3-compound-inequalities-and-contextual-co
 **Reject/repair if these conditions are missing:** At least/at most; nonnegative quantities; explicit minimum-use assumptions; feasible rounding; original contextual verification.
 
 Use the [concept teaching plan](lesson-3-compound-inequalities-and-contextual-constraints/tutor.md#contextual-bounds-and-integer-choices) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Solve $-3x+4\le10$; key $x\ge-2$. | One subtraction, negative division, inclusive ray, and boundary checks; identical endpoints do not by themselves show transfer. |
+| Intended comparable retry | Solve $-4x+5\le13$; key $x\ge-2$. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Classify $(k-1)x\le2$ across $k>1,k<1,k=1$; this adds an unknown-sign expression and all-real zero case. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

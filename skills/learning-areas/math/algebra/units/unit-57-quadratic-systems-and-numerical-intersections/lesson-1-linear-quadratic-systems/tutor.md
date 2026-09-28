@@ -109,7 +109,7 @@ Solve zero/one/two-intersection nondegenerate cases; add cancellation to linear 
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Substitute and simplify before naming the degree.
+**First conceptual cue:** Could the highest-degree terms cancel when the constraints are combined?
 
 If a discriminant is used after the leading coefficient cancels, name the actual reduced degree. If an identity becomes the whole plane, keep the original line equation visibly in the solution description.
 
@@ -128,6 +128,15 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Substitution, actual degree, discriminant only when valid, all pairs/shared line and graphical reconciliation.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+In the rectangle model, keep coordinate meaning visible: \(x+y=10\) m and \(xy=21\) m² with \(x,y>0\). Substitution gives \(x(10-x)=21\), hence \((x-3)(x-7)=0\). Recover \(y\) to obtain \((3,7)\) and \((7,3)\). These are two ordered pairs but one unordered set of rectangle dimensions; report according to the variables' meaning. Checking only the reduced polynomial does not verify that a recovered coordinate was copied correctly.
+
+Show actual-degree cases with the same line \(y=0\). With \(x^2+y^2=1\), there are two points \((\pm1,0)\). With \(x^2+y^2=0\), only \((0,0)\) remains; this degenerate circle is not a nondegenerate tangency example. With \(x^2+y^2=-1\), there are none. With \(xy+x=2\), substitution gives the linear equation \(x=2\). With \(xy=1\), it gives a contradiction; with \(xy=0\), it gives an identity and the entire original line remains. A repeated-root tangency statement requires the stated nondegenerate-conic conditions.
+
+For an identity misread as the whole plane, cue “Which original equation still restricts the points?” Then write the retained line beside \(0=0\); supply the shared-line description only after the learner attempts it. For a missing coordinate, ask what an intersection point must contain before offering substitution. Fade with \(y=x-1\) and \(y=x^2-3\): \(x=-1,2\), pairs \((-1,-2),(2,1)\). Verify both original outputs. If graphical solution is requested, obtain and inspect an actual graph as separate evidence.
 
 ## Lesson completion
 

@@ -98,6 +98,12 @@ Assess accurate common-index comparison, first-qualifying logic in the stated do
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Under a geometric assumption, $a_0=3,a_2=12$ implies $3r^2=12$, so $r=2$ or $-2$. Both match the known even-index values, but predict $a_1=6$ or $-6$. An observed positive odd-index term can resolve the ambiguity; a positive-base requirement for continuous exponentials must not be imposed on this integer sequence without stating it.
+
+Cue “What information about sign survives an even power?”; then set up $r^2=4$; next exhibit $r=2$ as one possibility, leaving the other and checks. Fade by adding $a_1=-6$ to select $r=-2$. In comparing $2^n$ with $3n+1$ on integers $0$ through $6$, list both at common indices: equality at $0$, no strict exceedance through $3$, first exceedance at $4$. A first crossing in a finite domain does not itself prove permanent dominance.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For x+y=5 and x−y=1, adding gives 2x=6, so x=3,y=2. Each line alone has infinitely many points; their common set here is the single intersection (3,2).
 
-**Misconception response and hint ladder:** If satisfying one equation is enough, ask whether the other constraint is also true; next substitute into both explicitly. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If satisfying one equation is enough, ask whether the other constraint is also true; next substitute into both explicitly.
 
 **Practice progression:** Membership → interpret intersection → recognize empty/shared-line possibilities. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Graph y=x and y=4−2x: crossing is approximately (1.33,1.33). Algebra gives x=4/3,y=4/3. Label the graph estimate as approximate and substitute exact values to verify both equations.
 
-**Misconception response and hint ladder:** If a rounded intersection fails exact equality, ask whether it was a graph estimate; next use algebra for exact coordinates. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If a rounded intersection fails exact equality, ask whether it was a graph estimate; next use algebra for exact coordinates.
 
 **Practice progression:** Integer intersection → fractional estimate → parallel/coincident visual classification with equations. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include no-intersection and coincident-line graphs, imperfect plotting windows and exact versus approximate intersections; do not infer no solution just because an intersection is off-screen.
+
+## Decision rehearsal and fading
+
+**A window can hide an intersection.** Lines $y=x$ and $y=1.01x-1$ look nearly parallel in a window $-10\le x,y\le10$, but equality gives $0.01x=1$, so the exact intersection is $(100,100)$. A useful second window is $90\le x,y\le110$. On either graph, both axes and scales must be labeled.
+
+If the learner reports “no solution” from the first display, ask “Would an intersection outside this window appear?” Next compare the two slopes; finally set $x=1.01x-1$ and let them solve and verify. If technology is available, obtain and inspect the changed-window graph; do not invent a graphing run. Fade to $y=2x$ and $y=2.02x-2$, again intersecting at $(100,200)$, with the learner choosing a window. Algebra confirms the graphical judgment, while the actual graph provides separate execution evidence.
 
 ## Evidence, feedback and handoff
 

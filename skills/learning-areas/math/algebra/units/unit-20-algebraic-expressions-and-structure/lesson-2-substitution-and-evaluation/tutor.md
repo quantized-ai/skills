@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For a=−2,b=3, $(a-b)^2+a/b=(-5)^2-2/3=73/3$. Insert parentheses around signed substitutions before executing powers and subtraction; a decimal is optional after the exact value.
 
-**Misconception response and hint ladder:** If(−3)² is treated as−9, ask which expression is the base; next expand (−3)(−3). If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If(−3)² is treated as−9, ask which expression is the base; next expand (−3)(−3).
 
 **Practice progression:** Single substitution → several variables → negative/fractional values in grouped expressions. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For $E=\sqrt{x+2}/(x-1)$ over reals, require x≥−2 and x≠1. At−2 the numerator 0 is allowed and denominator −3 is not zero, so E=0; at−3 the root is not real.
 
-**Misconception response and hint ladder:** If simplification erases a restriction, ask what the original expression permits; next evaluate the original denominator at the excluded value. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If simplification erases a restriction, ask what the original expression permits; next evaluate the original denominator at the excluded value.
 
 **Practice progression:** Denominator condition → even-root condition → intersect restrictions and test boundary values. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Vary fractions, decimals, multiple variables, denominator restrictions and even-root restrictions; preserve original domain when an expression simplifies.
+
+## Decision rehearsal and fading
+
+**Check permission to substitute before cancellation.** Compare $E=(x^2-1)/(x-1)$ with $x+1$. At $x=-2$, direct substitution gives $(4-1)/(-3)=-1$. At $x=1$, $E$ is undefined: the original denominator is zero, even though $x+1$ is defined there. The factorization $(x-1)(x+1)$ may be supplied if factoring is not yet taught; the restriction is the evaluation target.
+
+If the learner reports 2 at $x=1$, ask “What is the original denominator?” Then write $(1^2-1)/(1-1)$; finally show $0/0$ and ask why it is not a real quotient. If the learner instead gets a sign error at $-2$, have them write $(-2)^2$ before computing. Fade to $(x+3)/(x+3)$ at $x=0,-3$ (keys 1 and undefined), with no cancellation or restriction cue.
 
 ## Evidence, feedback and handoff
 

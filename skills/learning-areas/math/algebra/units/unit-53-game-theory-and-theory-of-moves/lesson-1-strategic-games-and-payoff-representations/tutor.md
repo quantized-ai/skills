@@ -109,7 +109,7 @@ Find responses in a2×2 game with a unique equilibrium; then include ties/multip
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Hold the opponent's choice fixed when comparing one player's options.
+**First conceptual cue:** What can this player change without changing the opponent’s choice?
 
 If payoffs are compared diagonally, freeze the opponent's strategy. If only one equilibrium is reported, inspect every mutually marked cell rather than stopping at the first.
 
@@ -126,6 +126,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Dominance, both response sets, all pure equilibria and unilateral versus joint incentives.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+Build one payoff cell from a joint choice before interpreting the entire matrix: Row choosing U and Column choosing L selects UL, and the first coordinate belongs to Row. Zero sum must hold at every cell on the declared cardinal scale; one negative payoff is not enough. For ordinal data, changing ranks 1,2,3,4 to 1,2,3,100 preserves each ordering but changes arithmetic averages, illustrating why rank numbers alone do not determine expected utility.
+
+For best responses in the existing coordination matrix, **conceptual cue:** “Which player's choice stays fixed during this comparison?” **Setup:** cover the unused column when testing Row, then cover the unused row when testing Column. **Worked step:** at column L, Row compares 3 with 1 and prefers U; let the learner finish all other comparisons and identify UL and DR. **Fade:** remove the covers and require the full marked response sets. A diagonal comparison changes both players, so it cannot establish a unilateral deviation. Preserve every tied best response; finding one mutual response does not establish uniqueness.
 
 ## Lesson completion
 

@@ -97,3 +97,16 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 Use the unit-specific evidence requirements and lesson routing in [agent-guide.md](agent-guide.md#evidence-specific-to-this-unit), then select missing cases from each relevant tutor’s Assessment case checklist. The separate diagnostics, lesson reasoning activities and supplemental worked comparisons are additional private calibration material; they are not unseen test items once discussed. Track the actual case and representation covered, and report remaining cases explicitly.
 
 A learner can correctly reject an invalid model or unsupported conclusion without supplying a numerical answer. Conversely, a correct number does not establish an omitted justification, practical execution or completeness claim. Use the unit’s [adversarial scenario](agent-evaluation.md#adversarial-transfer-scenario) to check this distinction before treating a generated item as a reliable assessment.
+
+## Annotated inference responses
+
+| Work submitted | Evidence judgment and follow-up |
+| --- | --- |
+| Gives $[18.04,21.96]$ for the known-$\sigma$ mean task but no requested population-mean interpretation. | Endpoints correct; interpretation incomplete. Ask what parameter and population the interval estimates, without supplying the statement. |
+| Gives those endpoints when only computation was asked. | Credit calculation; interpretation and design checks remain unelicited. Do not infer a conceptual error from omitted unrequested work. |
+| Correctly declines the Wald method for 0/20 successes. | Method/condition judgment is correct without a substitute numerical interval. Do not force clipping or an untaught method. |
+| Solves a fixed-$C$ margin problem by recovering $C$ instead of taking ratios. | Accept if the same fixed assumptions are explicit; either derivation is valid. |
+| Calls $z=2$ with sample $s=10$, $n=25$, mean 104, null 100 a significant known-$\sigma$ test. | Standardized statistic is arithmetically correct; with unknown population SD use the stated normal-model $t_{24}$ output, $p\approx0.05694$, and fail to reject at .05. |
+| Corrects the tail probability after the tutor shades the correct tail. | Assisted tail selection; preserve unaided standardization and reassess direction independently. |
+| Defines Type I/II correctly but gives neither requested consequences nor power at the specified alternative. | Error definitions demonstrated; consequence comparison and power remain incomplete, as the corrected proficiency now states. |
+| Says rejecting a target mean proves a Type I error occurred. | A decision alone does not reveal the unknown truth; describe the error as possible under a true null. |

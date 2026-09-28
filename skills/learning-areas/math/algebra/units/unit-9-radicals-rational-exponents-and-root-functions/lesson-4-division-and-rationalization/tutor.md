@@ -98,6 +98,12 @@ Assess correct conjugate product, real-domain and nonzero checks, simplification
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $1/(\sqrt3+1)$, multiply by $(\sqrt3-1)/(\sqrt3-1)$, whose nonzero numerator equals its denominator. The denominator is $3-1=2$, giving $(\sqrt3-1)/2$. This changes the representation, not the value's irrationality.
+
+Cue “Which product cancels the radical cross terms?”; next supply the conjugate ratio; then work the denominator $2$, leaving numerator and verification. Fade with $1/(\sqrt5+2)$ (key $\sqrt5-2$). For variable $1/(\sqrt x+1)$ on $x\ge0$, the analogous conjugate is zero at $1$. The rationalized formula $(\sqrt x-1)/(x-1)$ agrees for $x\ne1$ but needs the missing value $1/2$ at $1$ to represent the original function. If a learner retains the original form to preserve all inputs, accept it when rationalization itself was not requested.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

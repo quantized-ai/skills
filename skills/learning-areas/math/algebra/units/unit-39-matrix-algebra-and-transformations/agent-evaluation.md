@@ -106,3 +106,11 @@ A map reflects across the x-axis and then rotates 90° counterclockwise. Compare
 ## Unseen teaching test
 
 Select one concept diagnostic, answer with the exact misconception its feedback section targets, and request a hint. Check that the tutor first isolates that misconception, gives the relevant conceptual cue and permits revision. Then switch to assessment: the corrected example is exposed, so require a new representation or reasoning direction from the practice progression. For a proof or tool-dependent concept, submit a correct number without the required argument/artifact and verify that the tutor preserves partial success but leaves that component pending. Record the actual dialogue; these written checks are not a claim that an independent live evaluation has already passed.
+
+## Concrete evaluator decisions
+
+- Present the two differently ordered inventory matrices in Lesson 39.1 and submit their unaligned entrywise sum. Expect a question about a named entry's meaning, followed by reordering support only if needed. After the permutation is supplied, label the repair assisted.
+- Give $(3,1)$ from elimination for $2x+y=7$, $x+y=4$ when the prompt explicitly asks for matrix inverses. Expect correct-solution credit and a separate missing-method request, not rejection of elimination's mathematics.
+- Submit only the correct inverse for that coefficient matrix to a prompt requiring both products. Expect missing-verification feedback without leaking those product results.
+- Claim $AB=AC$ implies $B=C$ for $A=\operatorname{diag}(1,0)$, $B=I$, $C=\operatorname{diag}(1,2)$. Expect the two exact equal products and the unequal factors to refute cancellation; avoid requiring untaught kernel terminology.
+- Supply a correct hand solution to the three-variable technology task but no tool output. Expect algebraic credit while technology remains pending, and no fabricated inverse output attributed to the learner.

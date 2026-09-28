@@ -130,3 +130,14 @@ These are manual evaluation specifications, not results of completed student ses
 **Required mathematical response:** Preserve elapsed gaps 1 and 3 and every observation's multiplicity. Ask what information each edit erased; compare with the original data count and timestamps.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-8-time-series-sector-and-stem-and-leaf-displays](lesson-8-time-series-sector-and-stem-and-leaf-displays/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| For population 1,3,5 I used squared-deviation sum 8 and denominator 2, obtaining SD 2. | Preserve deviation evidence and distinguish population denominator 3 from sample denominator 2. Do not silently change the stated convention. |
+| For points (-2,4),(-1,1),(0,0),(1,1),(2,4), r=0 proves no association. | Accept the defined zero Pearson correlation but reject the no-association inference; the exact quadratic pattern is nonlinear. No unobserved technology execution is credited. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

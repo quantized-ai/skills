@@ -98,6 +98,12 @@ Require both operands defined, divisor nonzero, complete reciprocal, factor simp
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $[x/(x-1)]\div[(x+2)/(x-3)]$, list three conditions before reciprocating: $x\ne1$ for the first operand, $x\ne3$ for the divisor to exist, and $x\ne-2$ for it to be nonzero. Then multiply $x/(x-1)$ by $(x-3)/(x+2)$, giving $x(x-3)/[(x-1)(x+2)]$ on all three restrictions.
+
+If the learner omits $3$, cue “Could the original divisor be evaluated there?”; next make two columns, undefined divisor and zero divisor; then supply the undefined case $x=3$, leaving the zero case. Fade with $1\div[(x-4)/(x+2)]$ (key $(x+2)/(x-4)$, exclusions $-2,4$). For multiplication, the divisor-zero condition is absent: zero factors are allowed when both operands exist. This contrast explains why a division restriction cannot be copied indiscriminately to a product.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

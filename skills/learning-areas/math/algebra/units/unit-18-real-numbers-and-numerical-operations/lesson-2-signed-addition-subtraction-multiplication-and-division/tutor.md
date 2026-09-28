@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Temperature begins −3°C, rises 8°C, then falls 4°C: −3+8−4=1°C. On a number line move right 8 then left 4; rewriting subtraction as adding an opposite produces the same result.
 
-**Misconception response and hint ladder:** If subtracting a negative moves left, ask what change undoes adding −2; next pair opposite displacements. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If subtracting a negative moves left, ask what change undoes adding −2; next pair opposite displacements.
 
 **Practice progression:** Same/opposite-sign addition → subtract negatives → contextual net change with estimate. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Distribution gives 0=(−2)(3+(−3))=−6+(−2)(−3), so (−2)(−3)=6. Division asks for a missing factor: 0/5=0 because 5·0=0, but 5/0 has no solution to0q=5.
 
-**Misconception response and hint ladder:** If two negatives are 'always positive', ask whether the operation is addition or multiplication; next compare −2+(−3) and (−2)(−3). If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If two negatives are 'always positive', ask whether the operation is addition or multiplication; next compare −2+(−3) and (−2)(−3).
 
 **Practice progression:** Signed products → signed quotients → zero and mixed-operation contrasts. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include zero, fractions, opposite signs, counterexamples to commutativity of subtraction/division, and number-line explanations of signed addition.
+
+## Decision rehearsal and fading
+
+**Separate the two uses of a minus sign.** For $-\tfrac12-(-\tfrac34)$, the second negative is part of the number being subtracted. Subtraction adds its opposite, so the expression is $-\tfrac24+\tfrac34=\tfrac14$. Starting at $-\tfrac12$, move right $\tfrac34$; this checks the sign independently. Contrast $(-\tfrac12)(-\tfrac34)=\tfrac38$: its positive sign follows a product rule, not the subtraction rule.
+
+If the learner explicitly rewrites subtraction as $-\tfrac12-\tfrac34$, cue “Which change undoes adding $-\tfrac34$?” Then offer $a-b=a+(-b)$ with $b=-\tfrac34$; finally work $-(-\tfrac34)=\tfrac34$ and leave the addition to them. A bare wrong answer does not establish this diagnosis. Fade by supplying only $-\tfrac23-(-\tfrac16)$; the independent check is $-\tfrac12+(-\tfrac16)=-\tfrac23$.
 
 ## Evidence, feedback and handoff
 

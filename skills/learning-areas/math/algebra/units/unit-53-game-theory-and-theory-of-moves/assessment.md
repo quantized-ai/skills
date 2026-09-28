@@ -103,3 +103,17 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 Use the unit-specific evidence requirements and lesson routing in [agent-guide.md](agent-guide.md#evidence-specific-to-this-unit), then select missing cases from each relevant tutor’s Assessment case checklist. The separate diagnostics, lesson reasoning activities and supplemental worked comparisons are additional private calibration material; they are not unseen test items once discussed. Track the actual case and representation covered, and report remaining cases explicitly.
 
 A learner can correctly reject an invalid model or unsupported conclusion without supplying a numerical answer. Conversely, a correct number does not establish an omitted justification, practical execution or completeness claim. Use the unit’s [adversarial scenario](agent-evaluation.md#adversarial-transfer-scenario) to check this distinction before treating a generated item as a reliable assessment.
+
+## Annotated learner-response calibration
+
+Keep three evidence types separate: simultaneous best responses, cardinal expected-payoff reasoning, and ordinal terminal-outcome comparisons.
+
+| Learner response | Judgment and next action |
+| --- | --- |
+| “UL is Nash because it has the highest sum of payoffs.” | The chosen cell may be an equilibrium, but that is not the Nash test. Ask for each unilateral comparison with the opponent fixed; do not award justified equilibrium evidence from the sum. |
+| Gives UL but omits DR in the existing coordination game when all pure equilibria were requested. | Preserve the valid equilibrium and mark completeness developing. Ask for the remaining response intersections without supplying them during an independent attempt. |
+| For matrix [[4,0],[1,3]], reports Row p=1/2 and Column q=1/3. | Probabilities are valid distributions but their ownership is swapped; correct values are p=1/3, q=1/2. Inspect the labeled expectations before diagnosing an arithmetic error. |
+| For lower envelope min(4p,4−4p,1), reports p=1/2. | Correct if one optimal mix was requested. If all optimal mixes were requested, interval [1/4,3/4] is missing. Task wording determines completeness. |
+| Corrects a best-response mark before mathematical feedback. | The revised reasoning may remain independent. If the tutor identified the fixed opponent choice first, the correction is assisted. |
+| “The first move reaches rank 4, so Row will initiate” in the CC move example. | Legal move construction may be correct, but terminal-outcome reasoning is missing. Ask what rational continuation reaches before applying the initiation comparison. |
+| Supplies only a preference ordering for a story and says this determines actual behavior. | Credit a coherent model if supported; actual human prediction is not established. Request the status quo, information and stopping assumptions for a conditional analysis. |

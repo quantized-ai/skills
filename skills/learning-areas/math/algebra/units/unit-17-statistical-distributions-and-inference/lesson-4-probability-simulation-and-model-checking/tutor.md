@@ -80,3 +80,9 @@ Simulate a fully stated chance process, specify the statistic and tail before in
 Track each named concept, the case/representation observed, the student's actual reasoning, correctness and assistance. A number without the required units, condition, explanation, proof or actual artifact supports only the demonstrated portion. Accept equivalent valid methods; recompute unexpected answers before judging them. A faulty generated task is removed from the record and replaced without penalty.
 
 Use the shared guide's session evidence labels. Before declaring this lesson secure, check every required method/case, include independent transfer and keep observed construction/tool execution separate from a described plan. Report demonstrated strengths, helped attempts, remaining cases and one concrete next task. The local evidence rule is not a validated retention measure. See [private calibration bank](../assessment.md) and [sources and limits](../teaching-sources.md).
+
+## Decision model and graduated practice
+
+For a model with success probability $0.3$, assign three of ten equally likely digits to success. One trial of four independent draws records the success count; many complete four-draw trials produce the statistic's distribution. Repeating individual draws without grouping them into trials would estimate a different object.
+
+For four fair-coin tosses, all $16$ ordered outcomes are equally likely. A prespecified high-head-count event $H\ge4$ has probability $1/16$. A prespecified two-sided distance event $|H-2|\ge2$ includes all heads and all tails, giving $2/16=1/8$. Cue “Which low outcome is equally distant from the model center?”; next write the absolute-distance rule; then identify $H=0$, leaving the tail count. Fade by defining the extremeness rule before revealing an observed count. Label enumeration as enumeration and supplied simulation counts as supplied; neither is an unperformed simulation run.

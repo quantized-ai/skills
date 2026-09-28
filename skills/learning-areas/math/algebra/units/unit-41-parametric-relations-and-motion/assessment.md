@@ -31,3 +31,14 @@ These original keyed probes combine or stress concepts. They are calibration ref
 **Prompt:** A(t)=(2t,1), B(t)=(6,4-t) for 0≤t≤5. Decide collision and time.
 
 **Key and required reasoning:** Both coordinate equations give t=3; both are at (6,1). The time lies in the common domain, so there is a collision.
+
+## Annotated response boundaries
+
+| Learner work | Evidence decision |
+| --- | --- |
+| Gives the correct restricted parabola $x=(y-1)^2$, $-1\le y\le2$, without the requested reverse-coverage argument. | Correct locus; justification incomplete. Ask how to recover an allowed parameter for any claimed point. |
+| Gives the two square-root branches with their distinct bounds $[0,4]$ and $[0,1]$. | Accept as an equivalent complete locus; do not require the implicit form. |
+| Gives both branches the bound $0\le x\le4$. | Lower branch correct; upper branch adds points such as $(4,3)$. Target the bound, preserving elimination work. |
+| Corrects the upper bound after the tutor supplies $t=y-1$. | Assisted domain recovery; reassess it on a fresh parameterization. |
+| Marks $(1,0)$ open for $(\cos t,\sin t)$ on $(0,2\pi]$. | Has noticed the excluded initial time but missed the included final preimage. Ask about all visits, not just the first endpoint. |
+| Gives maximum height 10.2 for $y=10-2t-5t^2$, after launch. | Correct unconstrained vertex height, wrong physical maximum. The vertex time is negative; physical maximum is 10. |

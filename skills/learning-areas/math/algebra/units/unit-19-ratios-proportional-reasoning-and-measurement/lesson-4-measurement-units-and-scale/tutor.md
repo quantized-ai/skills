@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Density of270 g occupying 100 cm³ is2.7 g/cm³. Since 1 g=0.001 kg and 1 cm³=10⁻⁶ m³, density becomes 2700 kg/m³. Cubic conversion factors must themselves be cubed.
 
-**Misconception response and hint ladder:** If a volume factor is only multiplied by100, ask how many centimeter edges fit along each cube dimension; next use (100 cm)³. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If a volume factor is only multiplied by100, ask how many centimeter edges fit along each cube dimension; next use (100 cm)³.
 
 **Practice progression:** Single length → rate → area/volume/density conversion. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A1:200 plan shows a rectangle 3 cm by5 cm. Actual dimensions 6 m by10 m give area 60 m². Multiplying the 15 cm² plan area by200² gives 600000 cm²=60 m², agreeing.
 
-**Misconception response and hint ladder:** If area scales by3, ask how both length and width change; next multiply (3L)(3W). If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If area scales by3, ask how both length and width change; next multiply (3L)(3W).
 
 **Practice progression:** Length scale → area → volume and mixed-unit map check. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Use multi-step conversions, derived units, affine temperature conversion when in scope, and length/area/volume scale distinctions; never apply a linear conversion factor directly to square units.
+
+## Decision rehearsal and fading
+
+**Cancel units before applying a scale.** A 1:250 plan has a 6 cm by 4 cm rectangle. Actual sides are $1500$ cm and $1000$ cm, or 15 m and 10 m, giving $150\text{ m}^2$. A second route multiplies $24\text{ cm}^2$ by $250^2$, then divides by $100^2$ to convert square centimeters to square meters. Both squares are required for different reasons: similarity scaling and unit conversion.
+
+If the learner gives $6000\text{ cm}^2$, ask “Did both lengths change?” Next write $(250\cdot6)(250\cdot4)$; then multiply the scale factors to $62500$, leaving the area and units. If only units are wrong, work $1\text{ m}^2=(100\text{ cm})^2$ instead. Fade to a 1:100 plan rectangle 8 cm by 3 cm (actual area $24\text{ m}^2$), letting the learner choose either route.
 
 ## Evidence, feedback and handoff
 

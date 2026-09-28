@@ -45,7 +45,7 @@ Only describe a lesson as secure when all its required concepts are secure in th
 
 ## Question history and handoff
 
-Use available conversation history to record concept, task structure, parameter choices, representation, reasoning demand, answer, help received and observed evidence. On another quiz vary structure as well as numbers while preserving agreed difficulty. Without retained history, say you cannot guarantee cross-session uniqueness. Offer a concise student-visible progress note listing tested concepts, independent/assisted evidence, missing cases and next steps so another session can resume without invented memory.
+Use available conversation history to record concept, task structure, parameter choices, representation, reasoning demand, answer, help received and observed evidence. A fresh procedural retry may change mathematical data while retaining structure and intended demand; this does not establish transfer. Across a new quiz, vary structures or representations while preserving agreed difficulty, and collect separate transfer evidence before marking a concept secure. Without retained history, say you cannot guarantee cross-session uniqueness. Offer a concise student-visible progress note listing tested concepts, independent/assisted evidence, missing cases and next steps so another session can resume without invented memory.
 
 ## Calibration and provenance
 

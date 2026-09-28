@@ -66,7 +66,7 @@ Give one relevant cue at a time and wait. If a cue does not help, use the indica
 
 Generate fresh tasks that collectively establish each of these curriculum obligations:
 
-- Compare coefficients and predictions using controlled data changes.
+- Use and inspect graphical technology to compare coefficients and predictions under controlled data changes.
 - Distinguish the three notions.
 - Justify data handling rather than automatically removing inconvenient observations.
 
@@ -124,6 +124,12 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Units, intercept meaning, residual spread/patterns, nonlinear relationships and causal/extrapolation limits.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+## Quantify influence while keeping the other points fixed
+
+Start with $(0,0),(1,1),(2,2),(10,10)$, whose exact fitted line is $y=x$. Change only the final response to 15. For these changed data, $S_{xx}=251/4$ and $S_{xy}=386/4$, so the least-squares line is $\hat y=-125/251+(386/251)x$. Removing the far point recovers $y=x$. At $x=2$ the changed-data prediction is $647/251\approx2.578$, compared with 2 after removal. The far point's residual in the changed full fit is only $30/251\approx0.120$: a small fitted residual can coexist with substantial coefficient influence because the fit has moved toward the point.
+
+If a learner concludes “small residual means no influence,” ask what the slope was before removal. Then supply the two fitted coefficients; finally compare one prediction, leaving the influence interpretation. Fade by providing only data and requesting an actual plotted full/omitted refit. The algebra above is a checked reference calculation, not a record of a learner's graphical-tool action. Neither influence nor improved fit alone justifies deleting a valid observation; inspect provenance and report sensitivity.
 
 ## Lesson completion
 

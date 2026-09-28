@@ -98,6 +98,12 @@ Assess distinct-input reasoning, degree degeneration, redundancy versus contradi
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For points $(0,1),(1,4),(2,9)$, substitution gives $c=1$, $a+b=3$, $4a+2b=8$. Subtract twice the second equation from the third: $2a=2$, so $a=1,b=2$. Thus $f(x)=x^2+2x+1$, checked at all three inputs. Distinct inputs secure a unique polynomial of degree at most two; the nonzero $a$ secures a quadratic.
+
+If the student only checks two points, cue “Which condition remains unused?”; then write the third equation; only next show the elimination $4a+2b-2(a+b)=8-6$, leaving coefficients. Fade with $(0,2),(1,5),(2,10)$ (key $x^2+2x+2$). Change the last point to $(2,8)$ to produce $a=0$, a line. This changes the structural case, not merely the numerical difficulty.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

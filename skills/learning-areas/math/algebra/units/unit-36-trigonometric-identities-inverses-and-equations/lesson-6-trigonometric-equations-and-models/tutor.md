@@ -46,7 +46,7 @@ Curriculum reference: **Basic periodic solution families** in [lesson.md](lesson
 - **Diagnostic key:** One, π/2; the usual two sine branches coincide there.
 - **Worked-example prompt:** Solve sin(2x)=1/2 on [0,2π).
 - **Worked model and reasoning:** $2x=\pi/6+2k\pi$ or $5\pi/6+2k\pi$, so $x=\pi/12+k\pi$ or $5\pi/12+k\pi$. In the interval: $\pi/12,5\pi/12,13\pi/12,17\pi/12$.
-- **First hint:** Solve for the full argument before restricting x.
+- **First hint:** Does the inverse value name every angle with the required trigonometric value?
 
 #### Learn
 
@@ -85,7 +85,7 @@ Curriculum reference: **Algebraic and identity-based equation methods** in [less
 - **Diagnostic key:** No: its zeros are a complete solution branch.
 - **Worked-example prompt:** Solve 2sin²x=sin x on [0,2π).
 - **Worked model and reasoning:** Factor $\sin x(2\sin x-1)=0$; solutions $0,\pi,\pi/6,5\pi/6$. Dividing by sin x would lose 0 and π.
-- **First hint:** Move everything to one side without dividing by an unknown factor.
+- **First hint:** Could the factor you want to divide by be zero at a solution?
 
 #### Learn
 
@@ -124,7 +124,7 @@ Curriculum reference: **Equations from periodic models** in [lesson.md](lesson.m
 - **Diagnostic key:** No: its modeled range is [3,7], so the target is impossible.
 - **Worked-example prompt:** A model is h(t)=7+3cos(πt/4), in meters, for 0≤t≤12 seconds. When is h=7?
 - **Worked model and reasoning:** $\cos(\pi t/4)=0$ gives $t=2+4k$; admissible times are 2,6,10 s. All lie within the model interval and substitution gives height 7.
-- **First hint:** Translate the target height into a cosine equation before using an inverse.
+- **First hint:** Is the requested height in the model's possible range?
 
 #### Learn
 
@@ -151,6 +151,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Vary target within/outside range and measured parameters; use technology for numerical roots, retain all events and label approximations.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Solve first, then count the admissible events
+
+For $\sin(2x-\pi/6)=1/2$ on $[0,\pi]$, set the full argument equal to $\pi/6+2k\pi$ or $5\pi/6+2k\pi$. Solving gives $x=\pi/6+k\pi$ or $\pi/2+k\pi$, so only $\pi/6$ and $\pi/2$ remain. The shift is applied before division by 2, and the period becomes $\pi$ in the original variable.
+
+If only the first branch is shown, cue “Which other unit-circle angle has this sine?” → supply the two argument families → solve one family and leave the other plus interval filtering. If both families are correct but a boundary is mishandled, ask for the integer bounds instead of reteaching inverse sine. Fade by supplying only the two full-argument families for a new affine argument; later remove that support. Contrast $\sin x=\cos x$ on $[0,2\pi)$: squaring gives four candidates, but direct substitution retains only $\pi/4,5\pi/4$. A numerical plot may help locate model crossings, but completeness comes from the family/window argument; record actual numerical-tool output when that component is requested.
 
 ## Lesson completion
 

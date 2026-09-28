@@ -98,6 +98,12 @@ Assess original restrictions, valid simplification, retained exclusions and the 
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Model $(x^2-1)/(x-1)$ by recording $x\ne1$ first, then factoring to $(x-1)(x+1)/(x-1)=x+1$ on that domain. Division by $x-1$ is justified there because it is nonzero. At $x=1$ the original is $0/0$, undefined; the unrestricted polynomial's value $2$ belongs to a different function.
+
+If restrictions disappear, cue “Which input could not be evaluated before simplification?”; next set up $x-1\ne0$; then work $x\ne1$, leaving the restricted answer. Fade with $(x^2-4)/(x-2)$ (key $x+2,x\ne2$). Compare $0/(x-2)$: zero numerator changes the allowed values to zero but cannot admit the forbidden input. Diagnose a response of “zero everywhere” by asking the learner to evaluate the denominator at $2$.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

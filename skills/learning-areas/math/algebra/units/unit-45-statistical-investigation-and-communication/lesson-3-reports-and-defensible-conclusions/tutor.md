@@ -66,7 +66,7 @@ Give one relevant cue at a time and wait. If a cue does not help, use the indica
 
 Generate fresh tasks that collectively establish each of these curriculum obligations:
 
-- Make the study reproducible at the design level.
+- Produce a written report and an oral explanation that make the study reproducible at the design level.
 - Match displays and summaries to variable types.
 - Describe uncertainty and scope, and adapt language without changing the evidence.
 
@@ -125,6 +125,12 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Identify the precise information gap, repair claim language, distinguish unknown from false and association from causation.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+## Repair the strength of a claim without discarding its result
+
+A hypothetical report says “20 of 25 volunteers improved with the app, compared with 30 of 100 nonusers; the app caused a 50% improvement.” The observed improvement rates are 80% and 30%, a 50-percentage-point difference, not a 50% relative increase. Relative to 30%, the observed rate is about 167% higher. Because app use was self-selected, neither calculation establishes a causal effect. A defensible revision is: “Improvement was reported by 80% of these app volunteers and 30% of these nonusers; selection and other group differences limit causal interpretation.”
+
+If a learner fixes the denominator but keeps “caused,” ask what determined app use. Then supply a claim/design/evidence outline; finally model one descriptive clause and leave its limitation. Fade by giving accurate percentages but an overstated population, then require a whole report independently. A valid alternative report can use counts, rates, or both if denominators and scope remain clear. A written script can be assessed as writing; oral delivery requires actual spoken evidence.
 
 ## Lesson completion
 

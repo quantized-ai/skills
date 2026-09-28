@@ -195,3 +195,13 @@ Use the [concept teaching plan](lesson-7-rational-and-irrational-arithmetic/tuto
 **Reject/repair if these conditions are missing:** Zero multiplier exception; irrational sums/products may be either; exact simplification; valid contradiction reasoning.
 
 Use the [concept teaching plan](lesson-7-rational-and-irrational-arithmetic/tutor.md#mixed-rational-and-irrational-operations) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Compute $3/4-1/6$; key $7/12$. | Two positive fractions, unlike denominators, common-unit reasoning and reduction. |
+| Intended comparable retry | Compute $5/6-3/8$; key $11/24$. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Prove rational sums are rational using arbitrary integer quotients; this adds generality and a nonzero-denominator argument. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

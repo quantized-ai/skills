@@ -73,3 +73,9 @@ Require explicit comparison using a common dataset, feasible predictions and a d
 Track each named concept, the case/representation observed, the student's actual reasoning, correctness and assistance. A number without the required units, condition, explanation, proof or actual artifact supports only the demonstrated portion. Accept equivalent valid methods; recompute unexpected answers before judging them. A faulty generated task is removed from the record and replaced without penalty.
 
 Use the shared guide's session evidence labels. Before declaring this lesson secure, check every required method/case, include independent transfer and keep observed construction/tool execution separate from a described plan. Report demonstrated strengths, helped attempts, remaining cases and one concrete next task. The local evidence rule is not a validated retention measure. See [private calibration bank](../assessment.md) and [sources and limits](../teaching-sources.md).
+
+## Decision model and graduated practice
+
+For a model $T(t)=18+2t$ fitted over hours $1$–$5$, predictions at $3$ and $12$ are $24$ and $42$ degrees. The first is interpolation, the second extrapolation. If a later supplied observation at $12$ is $34$, residual is $34-42=-8$ degrees: the model overpredicts there. That is evidence against extending the same warming rate so far, not enough to select one unique replacement.
+
+Cue “Which part of this prediction is supported by observed input coverage?”; next mark $[1,5]$ and the target times; then classify $3$, leaving $12$ and the assumption needed there. Fade by comparing two candidate models on the same held-out observations. If a learner chooses solely by training SSE, ask what independent prediction evidence says. A defensible revision can narrow the usable domain while documenting the new discrepancy; it need not invent an unsupported nonlinear fit or a numerical uncertainty interval.

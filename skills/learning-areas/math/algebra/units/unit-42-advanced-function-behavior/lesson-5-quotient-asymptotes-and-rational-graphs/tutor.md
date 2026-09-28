@@ -44,13 +44,13 @@ Curriculum reference: **Division and quotient asymptotes** in [lesson.md](lesson
 - **Diagnostic key:** It tends to zero, so y=x is the quotient asymptote.
 - **Worked-example prompt:** Find the quotient asymptote of (x³+2x)/(x²+1) and any crossings.
 - **Worked model and reasoning:** Division gives $x+x/(x^2+1)$. Difference tends to zero at both ends, so y=x is an oblique asymptote. At x=0 remainder is zero and denominator nonzero, giving a crossing at (0,0).
-- **First hint:** Divide first, then analyze the remainder term and its domain.
+- **First hint:** What must happen to the difference between the function and its proposed asymptote?
 
 #### Learn
 
 - Perform polynomial division and verify P=QS+R with lower-degree remainder.
 - Study R/Q at each unbounded end to justify approaching the quotient graph.
-- Solve R=0 together with Q≠0 for crossings.
+- Solve R=0 together with Q≠0 for intersections, then test the sign of R/Q on either side to distinguish crossing from touching.
 - Preserve all original exclusions, including exact-division holes; a zero remainder means equality only on the original domain.
 
 #### Practice progression
@@ -67,7 +67,7 @@ If the quotient alone is called the exact rational function, substitute an input
 
 Generate fresh questions without showing the method or key. Use this explicit coverage checklist; a single worked example does not cover every case:
 
-- Produce a correct quotient and proper remainder, verify the vanishing difference, retain all original denominator exclusions, and distinguish an allowed crossing from an excluded input.
+- Produce a correct quotient and proper remainder, verify the vanishing difference, retain all original denominator exclusions, and distinguish a crossing or touching intersection from an excluded input.
 
 **Task range to sample:** Include higher-degree quotients, zero remainder and excluded apparent crossings; require a vanishing-difference argument at each end.
 
@@ -83,7 +83,7 @@ Curriculum reference: **Complete rational graph analysis** in [lesson.md](lesson
 - **Diagnostic key:** Yes; it may give a hole even though it is absent from the reduced formula.
 - **Worked-example prompt:** Analyze f(x)=(x²-1)/(x²-x).
 - **Worked model and reasoning:** Original x≠0,1; reduced form (x+1)/x. Hole at (1,2), vertical asymptote x=0 with left -∞ and right +∞, horizontal asymptote y=1. x-intercept (-1,0); no y-intercept. Sign positive on (-∞,-1) and (0,1)∪(1,∞), negative on (-1,0).
-- **First hint:** Record original exclusions before cancelling a factor.
+- **First hint:** Does rewriting a formula assign a value where the original denominator was zero?
 
 #### Learn
 
@@ -110,6 +110,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Coordinate holes, poles, signs, intercepts and end behavior; include multiplicity changes and use plotting as verification, not proof.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## A removed factor can leave either a hole or a pole
+
+For $f(x)=(x-1)/[(x-1)^2(x+2)]$, the original exclusions are 1 and $-2$. Cancelling one factor gives $1/[(x-1)(x+2)]$; $x=1$ remains a pole because a denominator factor survives. Near 1, $x+2>0$, so the left side tends to $-\infty$ and the right to $+\infty$. Contrast $\frac{x-1}{(x+2)(x-1)}$: there the reduced value is $1/(x+2)$ and the hole height is $1/3$.
+
+If the learner labels every canceled factor a hole, ask what denominator remains after full cancellation. Then supply factor multiplicities; finally cancel just one common copy and leave local behavior. Fade with a fresh numerator/denominator sharing unequal powers. For quotient asymptotes, solve the remainder equation for intersections and test sign change separately: touching the quotient is possible without crossing it.
 
 ## Lesson completion
 

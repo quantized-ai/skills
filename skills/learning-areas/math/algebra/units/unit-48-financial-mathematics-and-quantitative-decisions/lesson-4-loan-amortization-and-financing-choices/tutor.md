@@ -56,7 +56,7 @@ Build a three-row spreadsheet with formulas rather than typed answers; solve the
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Split each payment into interest on the beginning balance and principal.
+**First conceptual cue:** Does the whole payment reduce the amount borrowed?
 
 If a negative principal repayment is called impossible, recompute payment minus interest. If a small residual balance is hidden by rounding, show its origin and calculate the adjusted final payment.
 
@@ -125,6 +125,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Buy/rent and buy/lease, time alignment, ownership/debt, full cost assumptions and sensitivity.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+For amortization, justify the row identity from money owed: interest adds to the beginning balance, and payment then removes money. With the existing 1000 loan, show \(1000+10-600=410\), then ask why only 590 of that payment reduced principal. **Conceptual cue:** “Does the payment first cover all interest charged this month?” **Setup:** label interest \(iB\) and principal \(d-iB\). **Worked step:** next interest is \(0.01(410)=4.10\); leave the learner to determine the payoff and check that total payments minus 1000 equals total interest. On a fresh spreadsheet task, supply column names but let the learner enter formulas and provide an actual result; a typed theoretical row is not technology evidence.
+
+For financing comparison, use a ledger that counts each cash flow once. In the existing cash-purchase example, \(22000-V\) is the purchase net cost at resale value \(V\); lease cost is 10200. Equality occurs at \(V=11800\). Ask which option has the lower modeled cost above and below that value, and which assumptions could move it. **Fade:** remove the completed ledger on the next comparison. For a financed purchase, count down payment and actual installments, then add remaining debt and subtract asset value at the horizon; do not also add the full original purchase price to those same payments.
 
 ## Lesson completion
 

@@ -38,3 +38,14 @@ Each row distinguishes ways to vary a task from the mathematical evidence that m
 Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
 
 If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable arithmetic construction | $a_3=10,a_7=22$ gives $d=3,a_n=3n+1$; $a_2=5,a_6=17$ gives $d=3,a_n=3n-1$. | Skipped-index difference and anchored rule in both. |
+| Increased demand | Geometric $a_0=3,a_2=12$ gives $r=\pm2$. | Adds sign ambiguity under an even index gap; cannot silently assume a positive exponential base. |
+| Timing transfer | Three end-year deposits of $100$ at hypothetical $10\%$ give $331$; beginning-year timing at the same valuation gives $364.10$. | Same sum machinery, different event-to-exponent modeling. |
+| Boundary | Finite geometric $2+6+18+54=80$. | Ratio greater than one is valid; no infinite convergence criterion belongs in the task. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

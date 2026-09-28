@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A point lies on the y-axis and 3 below the origin: coordinates (0,−3). Its x-coordinate is zero because there is no horizontal displacement; swapping coordinates produces a different point.
 
-**Misconception response and hint ladder:** If coordinates are reversed, ask which named axis receives the first coordinate; next project to each axis. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If coordinates are reversed, ask which named axis receives the first coordinate; next project to each axis.
 
 **Practice progression:** Plot/read → axis points → unequal scales and contextual labels. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For x+y=4, points (0,4),(1,3),(4,0) satisfy the equation. The graph contains every real pair satisfying it, not only these samples; linearity justifies drawing the full line.
 
-**Misconception response and hint ladder:** If points are connected for any relation without justification, ask what pairs between them satisfy the equation; next test one intermediate pair. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If points are connected for any relation without justification, ask what pairs between them satisfy the equation; next test one intermediate pair.
 
 **Practice progression:** Membership → construct graph → read solutions/intercepts. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include axis points, negative coordinates, relation membership, vertical/horizontal equations and conversion among tables, graph points and equations; inspect actual plotted points when graphing is required.
+
+## Decision rehearsal and fading
+
+**A scale changes the picture, not the pair.** On axes with horizontal ticks every 2 units and vertical ticks every 1 unit, $(4,-3)$ is two horizontal tick intervals right and three vertical intervals down. For $2x+y=5$, the intercepts are $(0,5)$ and $(5/2,0)$; they need not land on integer ticks. Because the equation is linear, the full line through these two points is its graph.
+
+If a learner plots $(4,-3)$ four horizontal intervals right, ask “What numerical value does one interval represent?” Then mark the first two horizontal labels; finally locate $x=4$ and let them set $y$. If they only supply intercept values, ask for coordinates and an actual plotted line before recording graph-construction evidence. Fade to $x+2y=6$ on the same scales, with intercepts $(6,0),(0,3)$; verify a nonintercept point such as $(2,2)$.
 
 ## Evidence, feedback and handoff
 

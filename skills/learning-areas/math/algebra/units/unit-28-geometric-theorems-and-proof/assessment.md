@@ -71,3 +71,17 @@ The examples above remain private calibration. Generate a new task for each sele
 | 28.5 — Triangle side constraints | Strict inequalities; positive lengths; equivalent interval; opposite correspondence; degenerate equality excluded. | [Teaching plan](lesson-5-polygon-angles-and-triangle-inequalities/tutor.md#triangle-side-constraints) |
 
 Record the task fingerprint, exact case, observed reasoning, assistance and status. Award only the demonstrated component; list remaining cases by name. Use an explanation/error-analysis or reversed representation for transfer, and separately observe any required graph, construction, fit or simulation.
+
+## Annotated learner responses
+
+**Calibration prompt:** In a triangle, two side midpoints are joined and the third side has length 12. Find the joining length. For the reasoning version, add: “Prove both the half-length and parallelism conclusions rather than cite the target theorem.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “6.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “6.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| “It is 6 because the midsegment theorem says so.” | Correct application, but not the requested proof; theorem recall remains usable evidence. |
+| With general coordinates $(0,0),(b,0),(u,v)$, the midpoint difference is $(b/2,0)$; lengths scale by half and directions agree. | Valid coordinate proof when $b>0,v\ne0$ and general placement are justified; an auxiliary congruence proof is also acceptable. |
+| Tutor supplies The midpoint coordinate expressions; learner then gives “6.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

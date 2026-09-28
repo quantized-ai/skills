@@ -56,7 +56,7 @@ Compute both error totals for two supplied lines; next construct a third candida
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Subtract predicted y from observed y before taking absolute values or squares.
+**First conceptual cue:** What does the vertical discrepancy between a data point and its fitted point measure?
 
 If residual signs are reversed, ask which value is observed. If best of two is called least squares, ask whether every allowable slope/intercept has been considered or an optimizing method was used.
 
@@ -108,7 +108,7 @@ Group datasets of sizes 6,7,8; next carry a full numerical fit through residual 
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Compute a median of x and a separate median of y inside each group.
+**First conceptual cue:** Must a point summarizing the center of a group be one of its observed pairs?
 
 If the middle point is ignored, ask which step allows its vertical position to influence the line. If median x is paired with its original y rather than median y, calculate both medians independently and compare definitions.
 
@@ -125,6 +125,12 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** All grouping remainders, ties, medians, adjusted intercept, residual comparison and undefined-slope case.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+## Explain the median-median intercept adjustment
+
+For the existing summary points $(1.5,2),(3.5,4),(5.5,8)$, the outer line is $y=1.5x-0.25$. It misses the middle summary by $4-5=-1$. Shifting the line down by one third of that discrepancy gives intercept $-1/4-1/3=-7/12$. Equivalently, the three intercepts at the fixed slope are $-1/4,-5/4,-1/4$, whose average is $-7/12$. The middle summary affects the intercept while the outer summaries retain control of slope; this construction is not a least-squares optimization over the original observations.
+
+If the learner stops at the outer line, ask where the middle summary influenced the result. Then supply the middle residual $-1$; finally show the one-third shift, leaving its addition to the intercept. If the summary points are wrong, return first to separate coordinate medians. Fade by supplying the group boundaries but no medians, then require grouping independently on a fresh dataset. For error-criterion comparisons, show signed residuals first: reversing every sign leaves absolute and squared totals unchanged, so correct totals alone cannot establish the residual convention.
 
 ## Lesson completion
 

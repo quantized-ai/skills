@@ -72,3 +72,16 @@ Required coverage: Earliest/latest times, all zero-slack tasks/paths, merges and
 **Check before release:** Check each reported walk edge-by-edge, Euler edge multiplicities, Hamiltonian vertex counts and final return. Sum weights directly. Verify a spanning tree has all vertices, n−1 edges and no cycle. For small tours enumerate all permutations up to reversal as an independent optimum check. For critical paths compute each earliest start as the maximum predecessor finish.
 
 A second pass must target the likely failure above, not simply repeat the same arithmetic. Retain the checked result, decisive assumption and accepted equivalent responses before exposing the task.
+
+## Task demand anchors
+
+The anchors use explicit undirected graphs. A same-demand retake preserves the type of coverage, number of decisions and proof burden.
+
+| Demand | Checked anchor |
+| --- | --- |
+| Routine inspection | Triangle AB=1, BC=2, CA=3 with pendant CD=4: original cost 10, required duplicated bridge 4, optimum closed inspection cost 14. |
+| Comparable intended variant | Same shape with AB=2, BC=3, CA=4, CD=1: original cost 10, added cost 1, optimum 11. The same bridge argument applies; this is not transfer merely because weights change. |
+| Added demand | Four odd vertices require all three pairings using shortest path costs, not just direct edges. The complete graph in Lesson 50.2 has pairing costs 4, 8 and 7 and optimum inspection cost 25. |
+| Transfer | Give a proposed route and ask whether it proves feasibility, algorithm execution, or optimality; request the missing certificate. Preserve the graph convention and objective. |
+
+Keep separate cases for loops/parallel edges, directed reachability, isolated versus disconnected edge components, premature TSP subtours, missing edges, tied MST choices, critical-path merges and tied critical paths. Do not use a nonmetric counterexample to refute a guarantee that assumes metric distances.

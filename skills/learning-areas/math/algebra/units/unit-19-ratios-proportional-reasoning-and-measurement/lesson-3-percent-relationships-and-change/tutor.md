@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A40-credit item discounted 15% costs 40(1−0.15)=34. The discount is6; distinguish the amount changed from the final amount and identify the original 40 as reference whole.
 
-**Misconception response and hint ladder:** If30/18 gives the whole, ask which product should reconstruct 18; next write part=rate×whole. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If30/18 gives the whole, ask which product should reconstruct 18; next write part=rate×whole.
 
 **Practice progression:** Find part → find whole/rate → contextual discount/tax with reference whole. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A price rises from 80 to100: increase 20/80=25%. Returning from 100 to80 is a20% decrease. Same absolute change uses different reference wholes; successive multipliers 1.25·0.8=1 here.
 
-**Misconception response and hint ladder:** If equal percentages cancel, ask whether both use the same whole; next compute the intermediate value. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If equal percentages cancel, ask whether both use the same whole; next compute the intermediate value.
 
 **Practice progression:** Single change → reverse percent change → successive unequal/equal changes. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -66,7 +66,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A measurement 9.6 compared with accepted 10 has absolute percent error|9.6−10|/10×100%=4%. Signed relative error would be−4%, a different convention. For interest I=Prt, months must first become years when r is annual.
 
-**Misconception response and hint ladder:** If experimental value is the error denominator, ask what value is treated as accepted; next compare deviations relative to that reference. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If experimental value is the error denominator, ask what value is treated as accepted; next compare deviations relative to that reference.
 
 **Practice progression:** Interest → missing time/rate → measurement percent error with stated convention. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -92,6 +92,12 @@ Use this reasoning as instruction or private calibration. Generate a fresh indep
 ## Further task construction
 
 Include unknown part/whole/percent, reverse discounts, percentage-point comparisons, simple-interest time conversion and successive multipliers; keep this curriculum's simple interest separate from compounding.
+
+## Decision rehearsal and fading
+
+**Reverse the multiplier, not the percentage amount.** After a 20% discount a price is 72 credits. If $P$ is the original price, $0.8P=72$, so $P=90$; checking $90-18=72$ verifies the base. Adding 20% to 72 gives 86.40, because that uses a different whole. A later 10% tax on the discounted price gives $72(1.1)=79.20$.
+
+If the learner writes $72(1.2)$, ask “Which price was the discount a percentage of?” Then provide $\text{final}=0.8\times\text{original}$; finally set $P=72/0.8$ and leave computation/checking. Fade to a final price 102 after a 15% decrease (original 120). Keep percent and percentage points distinct: a rate rising from 20% to 25% rises 5 percentage points, or 25% relative to its original rate. An explanation naming the reference whole is stronger evidence than the numerical result alone.
 
 ## Evidence, feedback and handoff
 

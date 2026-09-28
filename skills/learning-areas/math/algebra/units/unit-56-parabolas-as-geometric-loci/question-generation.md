@@ -48,3 +48,15 @@ Required coverage: Equivalent square completion, signed geometry attributes and 
 **Check before release:** Derive squared point-to-focus distance equals squared perpendicular distance to the directrix, expand and simplify independently. Check focus/vertex/directrix midpoint relations and a nonvertex point in both the equation and distance equality. A drawing must correspond to the equation; record actual dynamic-construction evidence separately.
 
 A second pass must target the likely failure above, not simply repeat the same arithmetic. Retain the checked result, decisive assumption and accepted equivalent responses before exposing the task.
+
+## Task demand anchors
+
+| Demand | Anchor and checked result |
+| --- | --- |
+| Direct conversion | \((x-1)^2=8(y+2)\): vertex \((1,-2)\), focus \((1,0)\), directrix \(y=-4\). |
+| Comparable retest | \((x+3)^2=-12(y-1)\): vertex \((-3,1)\), focus \((-3,-2)\), directrix \(y=4\). |
+| Added algebra | \(2y^2-12y-8x+10=0\) requires compensated completion before reading horizontal attributes. |
+| Reverse construction | Vertex \((1,2)\), focus \((-1,2)\): \((y-2)^2=-8(x-1)\). |
+| Insufficient data | Vertex and left-opening direction alone leave every \(p<0\) possible. Ask what magnitude information is missing. |
+
+Vary orientation and sign independently of arithmetic difficulty. For each new item, check coefficient equivalence and both distances at a nonvertex point. If dynamic construction is requested, specify the observable output; a prose plan alone is not that output. Replace exposed anchors for assessment.

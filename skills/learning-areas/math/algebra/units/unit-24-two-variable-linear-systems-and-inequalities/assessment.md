@@ -83,3 +83,17 @@ The examples above remain private calibration. Generate a new task for each sele
 | 24.6 — Formulating contextual feasible sets | Complete model; at least/at most; nonnegativity/integrality; units; feasible witness and rejection; assumptions explicit. | [Teaching plan](lesson-6-linear-inequalities-and-feasible-regions/tutor.md#formulating-contextual-feasible-sets) |
 
 Record the task fingerprint, exact case, observed reasoning, assistance and status. Award only the demonstrated component; list remaining cases by name. Use an explanation/error-analysis or reversed representation for transfer, and separately observe any required graph, construction, fit or simulation.
+
+## Annotated learner responses
+
+**Calibration prompt:** Solve $x+y=7$, $2x-y=2$. For the reasoning version, add: “Show elimination, retain a second equation, and explain how the removed equation is recovered.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “$(3,4)$.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “$(3,4)$.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| “Adding gives x=3, so all $(3,y)$ solve.” | The x consequence is correct but a constraint has been lost; y=4 still follows from the retained equation. |
+| $y=7-x$ leads to $3x-7=2$ and $(3,4)$, checked in both originals. | Valid solution by substitution; the explicitly requested elimination-equivalence proof remains unassessed by this alternative. |
+| Tutor supplies $3x=9$; learner then gives “$(3,4)$.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

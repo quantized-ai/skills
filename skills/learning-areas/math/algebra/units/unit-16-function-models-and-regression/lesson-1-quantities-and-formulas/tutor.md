@@ -80,3 +80,9 @@ Include repeated-variable formulas such as $p=at+bt$, division-zero cases, squar
 Track each named concept, the case/representation observed, the student's actual reasoning, correctness and assistance. A number without the required units, condition, explanation, proof or actual artifact supports only the demonstrated portion. Accept equivalent valid methods; recompute unexpected answers before judging them. A faulty generated task is removed from the record and replaced without penalty.
 
 Use the shared guide's session evidence labels. Before declaring this lesson secure, check every required method/case, include independent transfer and keep observed construction/tool execution separate from a described plan. Report demonstrated strengths, helped attempts, remaining cases and one concrete next task. The local evidence rule is not a validated retention measure. See [private calibration bank](../assessment.md) and [sources and limits](../teaching-sources.md).
+
+## Decision model and graduated practice
+
+For $V=18+2.5t$ liters with $t$ in minutes, $2.5$ has units L/min so $2.5t$ can be added to $18$ L. At four minutes, $V=28$ L. Converting to seconds $s$ uses $t=s/60$, giving $V=18+s/24$; changing the input unit requires changing the numerical rate. To solve for time, $t=(V-18)/2.5$; for a symbolic rate $r$, division is justified only when $r\ne0$.
+
+Cue “Which units cancel when rate multiplies time?”; set up $(2.5\text{ L/min})(1\text{ min}/60\text{ s})$; next simplify the units to L/s, leaving the number. Fade with $3$ L/min (key $0.05$ L/s). For $p=(a+b)t$, first factor the repeated unknown. If $a+b=0$, return to $p=0$: all permitted times if $p=0$, none otherwise. A failed division is not itself proof of no solution.

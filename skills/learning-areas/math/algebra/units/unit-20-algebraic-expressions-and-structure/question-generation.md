@@ -113,3 +113,13 @@ Use the [concept teaching plan](lesson-4-like-terms-and-equivalent-linear-expres
 **Reject/repair if these conditions are missing:** Domain; all-input equivalence; counterexample validity; structural proof; useful contextual form.
 
 Use the [concept teaching plan](lesson-4-like-terms-and-equivalent-linear-expressions/tutor.md#equivalence-and-contextual-form) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Simplify $-2(3x-4)+x=-5x+8$. | One negative distribution and collection of like terms. |
+| Intended comparable retry | Simplify $-3(2x-5)+2x=-4x+15$. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Given a claim that two expressions agree for every input, ask for a general property-based proof or one permitted counterexample; checking one input cannot prove an identity. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

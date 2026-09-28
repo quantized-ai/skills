@@ -56,7 +56,7 @@ Refine a valid crossing to a stated tolerance; then reject an asymptote artifact
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Check continuity on the entire proposed bracket before using its endpoint signs.
+**First conceptual cue:** Is the difference function defined and continuous throughout this interval?
 
 If a tiny residual is called a tight input bound, compare function slope/flatness or use a bracket. If absence of sign change means no root, test a squared function touching zero.
 
@@ -110,7 +110,7 @@ Use equal leading coefficients giving one linear intersection; then genuine quad
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Combine like coefficients before applying a quadratic method.
+**First conceptual cue:** Which terms disappear when the two outputs are compared?
 
 If “two quadratics” is treated as always two intersections, inspect the difference equation. If identical formulas are reported as one root, describe the entire shared graph with its domain.
 
@@ -128,6 +128,15 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Actual simplified degree, zero/one/two or identical graph sets and limitation to quadratic functions.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+For \(x^2=2\), first name the common domain and distinguish the positive root from the complete pair. On \([1.41,1.42]\), the continuous difference \(h(x)=x^2-2\) has endpoint values -0.0119 and 0.0164. Therefore a positive root lies in the interval; midpoint 1.415 has input error at most 0.005. Its residual is 0.002225, a separate output discrepancy. If an output tolerance tighter than this is requested, refine again; the input guarantee alone does not promise that tolerance. Algebra gives the second root \(-\sqrt2\), which a positive-only window misses.
+
+Contrast residual and input error with \(h(x)=0.001(x-100)\). At \(x=0\), the residual magnitude is 0.1 although the root is 100 units away. A small output difference becomes an input guarantee only with additional control, such as a valid narrow bracket. Contrast \(1/x\) across zero (discontinuous, no root) with \((x-1)^2\) at 1 (a root without a sign change).
+
+For a root-count misconception, cue “What remains when the two outputs are subtracted?” Next offer \((a-d)x^2+(b-e)x+(c-k)=0\). Only then work a cancellation: \(x^2=x^2+2x\) leaves \(x=0\), hence \((0,0)\). Fade with \(x^2+1=x^2-2x+5\), giving \((2,5)\). For the limit of the counting claim, the relations \(x^2+y^2=5\) and \(xy=2\) meet at \((1,2),(2,1),(-1,-2),(-2,-1)\); neither is a quadratic function of the same input in the required form. Do not generalize the at-most-two bound to arbitrary quadratic relations.
 
 ## Lesson completion
 

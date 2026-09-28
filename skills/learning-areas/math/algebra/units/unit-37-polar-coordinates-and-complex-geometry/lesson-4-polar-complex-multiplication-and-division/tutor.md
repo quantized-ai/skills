@@ -112,6 +112,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
 
+## Recover the operation from its effect
+
+A fixed multiplier takes $1+i$ to $-2+2i$. Solve $m(1+i)=-2+2i$ by division: $m=(-2+2i)/(1+i)=2i$. In polar form the modulus changes from $\sqrt2$ to $2\sqrt2$ and the argument increases by $\pi/2$, agreeing with a dilation by 2 and a quarter-turn. Verify by multiplying back; one nonzero input determines the multiplier, whereas an input of zero would not.
+
+For a reversed quotient, cue “Which multiplier must reproduce the output when multiplied by the input?” → supply $m=z_{\text{out}}/z_{\text{in}}$ → model conjugate multiplication in the numerator only, leaving simplification. If the scale is correct but the angle is wrong, check subtraction order instead. Fade with input $2\operatorname{cis}(\pi/6)$ and output $6\operatorname{cis}(2\pi/3)$: the learner should obtain $3i$ and verify it without a supplied quotient.
+
 ## Lesson completion
 
 Apply [the shared evidence rule](../agent-guide.md#evidence-and-completion) to each concept and its listed cases. Report which methods and representations were independently demonstrated, which needed support, and what is still untested. Do not mark the lesson secure from a short sample or an unobserved graph/proof/tool action. Offer the next lesson or focused repair according to the student's request and evidence.

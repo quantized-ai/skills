@@ -85,3 +85,10 @@ Expected mathematical check: A runs 0–3, B 0–5, C 5–9; project duration 9.
 **Required behavior and mathematics:** Expected: reject the premature subtour, restore the first invalid choice and continue legally. Cheap edges establish neither a valid Hamiltonian tour nor optimality. A replacement task must include the complete graph/tie rules.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
+
+## Concrete response and support checks
+
+- Present the same vertex sequence A–B–A first on a single-edge graph, then with two identified parallel edges. Expect the classification to change when the second traversal uses a different edge.
+- On the complete inspection graph AB=1, AC=4, AD=5, BC=2, BD=6, CD=3, submit pairing cost AC+BD=10 using direct edges. Expect correction to shortest-path cost 8 for that pairing and comparison with minimum pairing cost 4; optimal total is 25.
+- Submit a correct alternative tied MST. Expect acceptance with mathematical checks, not exact edge-set matching to one key.
+- In the A=3, B=3, C=4 precedence example, report only A–C as critical. Expect credit for that path and identification that B–C is also critical, with independent completeness evidence still missing until repaired.

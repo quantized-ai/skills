@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** The line parallel to3x−2y=8 through (0,5) has slope 3/2, so y=(3/2)x+5. The same slope and same intercept would instead be the same line. Distinct vertical lines are also parallel.
 
-**Misconception response and hint ladder:** If equal slopes alone prove distinct parallelism, ask whether the intercepts also agree; next compare equations fully. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If equal slopes alone prove distinct parallelism, ask whether the intercepts also agree; next compare equations fully.
 
 **Practice progression:** Recognize parallel lines → construct through a point → vertical/coincident cases. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A perpendicular through (2,1) to y=−2x+4 has slope 1/2, giving y−1=(1/2)(x−2), hence y=x/2. Horizontal and vertical lines form a perpendicular pair; the negative-reciprocal calculation does not apply to undefined slope.
 
-**Misconception response and hint ladder:** If only the sign changes, ask whether products of slopes equal −1; next compare 2/3 and −2/3. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If only the sign changes, ask whether products of slopes equal −1; next compare 2/3 and −2/3.
 
 **Practice progression:** Recognize slope pairs → construct a line → horizontal/vertical and geometric explanation. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include distinct parallel versus coincident lines, horizontal/vertical exceptions, point constraints and geometric justification for negative reciprocal slopes.
+
+## Decision rehearsal and fading
+
+**Test distinctness as well as direction.** A line parallel to $y=2x+1$ through $(3,7)$ has equation $y-7=2(x-3)$, which simplifies to the original line. Therefore no *distinct* parallel through that point exists. A perpendicular through the same point has slope $-1/2$ and equation $y-7=-\tfrac12(x-3)$; the product of slopes is $-1$.
+
+If the learner names the coincident line a distinct parallel, ask “Does the given point already satisfy the original equation?” Next substitute $(3,7)$; then simplify their proposed equation and ask what its intercept shows. For a wrong perpendicular slope of $-2$, ask for the slope product before supplying the reciprocal. Fade to a perpendicular through $(4,-2)$ to the horizontal line $y=5$: the answer $x=4$ requires a vertical-line argument, not division by slope zero.
 
 ## Evidence, feedback and handoff
 

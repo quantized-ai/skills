@@ -195,3 +195,8 @@ These are reviewer prompts with private keys in the linked tutors. For a teachin
 ## Reassessment comparison
 
 Save two actual generated quizzes at the same requested scope and difficulty. Compare mathematical data and reasoning demands, not just wording. Independently solve every presented item, list its curriculum cases and check that feedback on one item has not silently supplied independent evidence for another. Report coverage and failures per concept; this specification is not a record that those tests have passed.
+
+## Response-dependent decision checks
+
+- Submit correct synthetic division for an explicitly requested long-division item. Expect correct result credit with long-division evidence unassessed.
+- Give the inequality solution $(-\infty,-2]$ for $(x-1)^2(x+2)\le0$. Expect targeted attention to the isolated zero $1$, preserving the correct interval.

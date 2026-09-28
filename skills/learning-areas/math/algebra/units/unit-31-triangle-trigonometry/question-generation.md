@@ -32,3 +32,13 @@ State degree or radian units. Label each side opposite its angle and check posit
 | [31.3 Law of Cosines](lesson-3-laws-for-general-triangles/tutor.md#law-of-cosines) | Alternate SAS and SSS, check triangle inequalities and arccos input range, and require a coordinate derivation. |
 | [31.4 SSA ambiguity](lesson-4-triangle-data-and-ambiguity/tutor.md#ssa-ambiguity) | Generate zero/one/two SSA cases using height thresholds; verify each candidate has positive third angle and satisfies original data. |
 | [31.4 Existence, uniqueness, and triangle models](lesson-4-triangle-data-and-ambiguity/tutor.md#existence-uniqueness-and-triangle-models) | Mix degenerate equality, inconsistent angles, AAA, ASA, SAS, SSS and SSA; distinguish uniqueness up to congruence from position in the plane. |
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Adjacent sides 3,5 and included $120^\circ$: opposite side 7. | Same SAS selection and negative-cosine sign; the second retains a radical, so align expected answer form and arithmetic support. |
+| Intended comparable retry | Adjacent sides 4,6 and included $120^\circ$: opposite side $2\sqrt{19}$. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | SSA $A=30^\circ,a=5,b=8$ has two shapes, with $c=4\sqrt3\pm3$. Complete candidate enumeration adds inverse-sine ambiguity and cannot silently replace SAS at the same difficulty. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

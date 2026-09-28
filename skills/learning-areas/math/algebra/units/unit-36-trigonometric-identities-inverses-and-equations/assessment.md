@@ -41,3 +41,13 @@ These original keyed probes combine or stress concepts. They are calibration ref
 **Prompt:** A student divides sin²x=1-cos x by 1-cos x and claims only cos x=0 remains. Find all solutions on [0,2π).
 
 **Key and required reasoning:** Use $1-\cos^2x=1-\cos x$, hence $\cos x(1-\cos x)=0$. Solutions 0,π/2,3π/2; division lost x=0. Endpoint 2π is excluded.
+
+## Annotated learner responses
+
+| Prompt and learner work | Evidence judgment and next step |
+| --- | --- |
+| Evaluate $\tan(\arccos(-3/5))$ with a branch explanation; learner writes only $-4/3$. | Value is correct; the requested branch justification is incomplete. Ask neutrally for the angle's principal range and signs. Do not infer a misconception from missing work. |
+| Prove the addition identities; learner gives a valid distance-based derivation instead of rotated components. | Accept the general proof after checking its assumptions; the preferred representation is not compulsory. A decimal check of $75^\circ$ is application evidence only. |
+| Solve $\sin(2x-\pi/6)=1/2$ on $[0,\pi]$; learner gives $\{\pi/6\}$. | One correct solution; the second branch is missing. Preserve the first-family algebra, and distinguish omitted branch selection from faulty interval arithmetic by requesting the angle families. |
+| Learner supplies $\pi/2$ after the tutor provides $2x-\pi/6=5\pi/6+2k\pi$. | Correct assisted completion. It does not independently demonstrate selecting the second branch; obtain a fresh unassisted item for that component. |
+| Learner simplifies $(1-\cos x)/\sin x$ to $\sin x/(1+\cos x)$ and includes $x=0$. | Algebra agrees on the common domain, but the original exclusion was lost. A correct simplified value cannot establish the original expression's domain. |

@@ -98,6 +98,12 @@ Assess asymptotes, mapped points, branch orientation, domain/range and justified
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $g(x)=-2/(x-3)+1$, a parent point $(u,1/u)$ moves to $(u+3,-2/u+1)$. Thus $(1,1)$ and $(-1,-1)$ become $(4,-1),(2,3)$. The denominator vanishes at $3$, while the reciprocal term is never zero, so domain excludes $3$ and range excludes $1$. As $x$ grows far from $3$, that term approaches zero, explaining the horizontal asymptote.
+
+If asymptotes are interchanged, cue “Which exclusion concerns an input and which an output?”; then set up $x-3=0$ and $g(x)-1=-2/(x-3)$; next solve only the input equation, leaving output reasoning. Fade by constructing $a/(x-2)-1$ through $(3,4)$ (key $a=5$). Asymptotes alone leave $a$ free; the extra point fixes it.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

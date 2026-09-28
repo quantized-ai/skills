@@ -98,6 +98,14 @@ Assess mixed-term accounting, input constraints, leg/hypotenuse identification, 
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+To prove $(x+2)(x-2)+4=x^2$, transform the left side through distribution to $x^2-4+4=x^2$ for every real $x$. To refute $(x+2)^2=x^2+4$, one allowed counterexample suffices: at $x=1$, the sides are $9$ and $5$. Agreement at $x=0$ proves neither identity nor inequivalence.
+
+Cue “Does the claim concern one input or every input?”; then set up the left-side expansion; next show the cross terms $2x+2x$, leaving the student to repair the false identity. Fade by asking them to repair $(x-3)^2=x^2+9$ (missing $-6x$).
+
+For the numerical-relationship identity, expand $(u^2-v^2)^2+(2uv)^2$ to $u^4-2u^2v^2+v^4+4u^2v^2=(u^2+v^2)^2$. With $u=2,v=1$, legs $3,4$ and hypotenuse $5$ give a primitive triple because their common divisor is $1$. Positive integer $u>v$ supplies positive triangle sides; the symbolic identity itself also holds for real $u,v$.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

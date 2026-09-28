@@ -98,6 +98,12 @@ Assess the positive-base argument hypothesis, correct coefficient extraction, ab
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Derive the product rule using $M=b^u,N=b^v$: then $MN=b^{u+v}$, so $\log_b(MN)=u+v$. Separate logs require $M,N>0$. At $x=-2,y=-3$, $\ln(xy)=\ln6$ exists while $\ln x+\ln y$ does not; expansion loses that branch.
+
+For $\ln(x^2)$ on $x\ne0$, write $x^2=|x|^2$ and use the positive argument $|x|$ to obtain $2\ln|x|$. Cue “Does the proposed separate argument exist for a negative input?”; next evaluate domain conditions at $x=-1$; then supply $x^2=|x|^2$, leaving the legal power rule. Fade with $\ln((x-3)^2)$ (key $2\ln|x-3|$, $x\ne3$). A correct expansion restricted to $x>3$ is valid there but does not cover the requested full original domain.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

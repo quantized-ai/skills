@@ -176,7 +176,7 @@ Generate new tasks based on the complete curriculum and tutor coverage guidance.
 
 **A — Prompt:** Find phase shift and period of $2\sin(3x-\pi)+1$.
 
-**Key:** Factor $3(x-\pi/3)$: shift π/3 and period 2π/3, not shift π.
+**Key:** Factoring $3(x-\pi/3)$ gives right shift $\pi/3$ and period $2\pi/3$. Right shift $\pi$ is also equivalent because it differs by one whole period; accept it unless the prompt specifies a principal-phase convention.
 
 **B — Prompt:** Are $\cos x$ and $\sin(x+\pi/2)$ different graphs?
 
@@ -234,3 +234,15 @@ The A/B examples above illustrate selected cases. The following checklist identi
 | [Phase shift and transformed graphs](lesson-6-sinusoidal-transformations/tutor.md#phase-shift-and-transformed-graphs) | Assess inside factoring, phase/period distinction, checked anchors and recognition of nonunique equivalent forms. Do not demand one phase answer without declaring a convention. |
 | [Parameter estimation from periodic data](lesson-7-periodic-function-models/tutor.md#parameter-estimation-from-periodic-data) | Require justified parameter estimates, phase event/direction, units, all-feature checks and identification of insufficient timing data. Do not infer a unique model from one cycle fragment without needed assumptions. |
 | [Model checking and limitations](lesson-7-periodic-function-models/tutor.md#model-checking-and-limitations) | Assess correctly signed residuals, units, multiple-data interpretation and qualified prediction limits. Do not claim real observations, successful tool checks or long-term stability without evidence. |
+
+## Annotated response calibration
+
+| Prompt and actual response | Evidence and next action |
+| --- | --- |
+| Find $\cos(5\pi/6)$: “$-\sqrt3/2$.” | Correct exact value; if geometric reasoning is requested, reference magnitude and quadrant sign still need evidence. |
+| Give $\tan(\pi/6)=1/\sqrt3$ instead of $\sqrt3/3$. | Equivalent exact form; accept it unless a requested normalization itself is the objective. |
+| For $2\sin(3x-\pi)+1$, give amplitude $2$, midline $1$, right shift $\pi/2$. | Vertical attributes correct, phase incorrect. Factoring gives a right shift $\pi/3$; $\pi/2$ differs by neither zero nor a whole period $2\pi/3$. Preserve the established features. |
+| For the same function, give right shift $\pi$. | Accept the equivalent phase: $\pi-\pi/3=2\pi/3$ is one full period. If justification was requested, ask for this equivalence; do not impose an unstated principal-phase convention. |
+| After quadrant II is supplied as a sign cue, learner corrects cosine from $4/5$ to $-4/5$. | Assisted sign selection, with previously correct magnitude retained. Use a fresh quadrant task for independent sign reasoning. |
+
+Correct answers without explanation establish results only. If reasoning was never requested, collect it neutrally; if explicitly requested but omitted, record incomplete required evidence. Self-correction before mathematical feedback stays independent; completion after a mathematical cue is assisted.

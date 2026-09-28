@@ -74,3 +74,14 @@ These are manual evaluation specifications, not results of completed student ses
 **Required mathematical response:** Except equator, latitude circles are not great circles. All distinct great circles meet at antipodal points; ask whether their planes pass through the sphere's center.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-4-euclidean-and-spherical-geometry](lesson-4-euclidean-and-spherical-geometry/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| AB=7 and BC=4, so AC=11. Nobody stated the order of A,B,C. | Identify insufficient betweenness information, not an arithmetic error. AC could be 3 for collinear order A,C,B; a sketch alone cannot fix it. |
+| I dragged a parallelogram 100 times and its diagonal midpoints matched. I have a proof. | Credit observed investigation only if its artifact/trace exists; ask for a general deduction and distinguish empirical support from proof. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

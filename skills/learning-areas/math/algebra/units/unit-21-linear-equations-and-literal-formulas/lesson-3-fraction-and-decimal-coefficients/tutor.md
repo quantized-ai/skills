@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $(x-1)/4+(x+1)/6=2$ multiplied entirely by12 becomes 3(x−1)+2(x+1)=24, then 5x−1=24 and x=5. Both denominators are fixed nonzero numbers; every term must be scaled.
 
-**Misconception response and hint ladder:** If only fraction terms are multiplied, ask what happens to the other side; next mark one multiplication over the whole equation. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If only fraction terms are multiplied, ask what happens to the other side; next mark one multiplication over the whole equation.
 
 **Practice progression:** One numerical denominator → several denominators → negative numerators and verification. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $0.15x+0.4=1.3$ multiplied by100 gives 15x+40=130, then x=6. These are exact decimal coefficients as stated; rounding 0.15 to0.2 changes the equation.
 
-**Misconception response and hint ladder:** If only x's coefficient is scaled, ask whether the equality is unchanged; next rewrite all decimals as fractions over 100. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If only x's coefficient is scaled, ask whether the equality is unchanged; next rewrite all decimals as fractions over 100.
 
 **Practice progression:** Single decimal → mixed decimal places → exact versus approximate-data interpretation. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Mix signed fractions and decimals, keep exact arithmetic until final rounding, and include models whose decimal coefficients are measured so a numerical tolerance is appropriate.
+
+## Decision rehearsal and fading
+
+**Scale the equality, including the un-fractioned term.** For $(x+2)/3-x/4=2$, multiply both sides by 12: $4(x+2)-3x=24$. The factors 4 and 3 arise from $12/3$ and $12/4$; the right side must also be multiplied. Simplification gives $x+8=24$, hence $x=16$. Original substitution checks $18/3-16/4=6-4=2$.
+
+For observed work $4(x+2)-3x=2$, cue “What operation did you apply to the entire equality?” Next write $12[(x+2)/3-x/4]=12\cdot2$; then simplify only the right side and let the learner repair the left. Fade to $(x-1)/2+x/3=7$ with no multiplier supplied (key $x=9$). Accept direct fraction arithmetic or a larger common multiple when correct; if denominator-clearing technique is the target, ask for that demonstration explicitly.
 
 ## Evidence, feedback and handoff
 

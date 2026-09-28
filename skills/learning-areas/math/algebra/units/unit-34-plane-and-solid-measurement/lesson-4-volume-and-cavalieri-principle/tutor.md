@@ -164,7 +164,7 @@ Curriculum reference: **Composite volumes** in [lesson.md](lesson.md#concepts). 
 - **Diagnostic key:** No; only the intersection actually removed counts.
 - **Worked-example prompt:** A cylinder of radius 5 and height 6 has a coaxial cylindrical through-hole of radius 2. Find remaining volume.
 - **Worked model and reasoning:** Outer minus removed volume gives $\pi(25-4)6=126\pi$. The hole runs the whole height; a partial cavity would use its own depth.
-- **First hint:** State the extent of the removed solid before subtracting.
+- **First hint:** Does the cavity pass through the whole solid or stop inside it?
 
 #### Learn
 
@@ -192,6 +192,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include combinations of cone/prism/sphere pieces, partial cavities and missing dimensions; verify no overlaps or negative physical dimensions.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**Cavalieri needs every corresponding height.** Compare a sphere of radius 4 with a radius-4 cylinder of height 8 after removing two cones whose common vertex is the cylinder's center and whose bases are its end disks. At height z from the center, $-4\le z\le4$, the sphere's slice has area $\pi(16-z^2)$. The comparison slice removes a radius-$|z|$ disk from a radius-4 disk, giving the same area. Equal height and equality for arbitrary z justify equal volumes: $128\pi-2(64\pi/3)=256\pi/3$.
+
+If the learner checks only the equator, ask what happens at an arbitrary height. Next label z and the sphere's section radius; then write $\rho^2+z^2=16$ and leave both area expressions. Fade to radius r with no numeric substitution. The existing cube-dissection argument supplies the cone/pyramid one-third factor; do not silently assume the target sphere formula to prove it.
 
 ## Lesson completion
 

@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For 2,3,5,7,11, exclude overall median 5 before halving: Q1=2.5,Q3=9,IQR=6.5,range 9. State convention; different legitimate algorithms can differ for small datasets.
 
-**Misconception response and hint ladder:** If IQR is max −min, ask which 50% it summarizes; next mark Q1 and Q3 on the ordered list. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If IQR is max −min, ask which 50% it summarizes; next mark Q1 and Q3 on the ordered list.
 
 **Practice progression:** Even size → odd size → compare datasets using one consistent convention. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Dataset 1,2,3,4,5,6,7,20 under median-of-halves gives median 4.5,Q1=2.5,Q3=6.5,IQR 4; fences −3.5,12.5. Modified whiskers end 1 and 7;20 is a flagged point, not automatically an error.
 
-**Misconception response and hint ladder:** If a whisker ends at12.5, ask whether 12.5 was observed; next locate the greatest nonflagged value. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If a whisker ends at12.5, ask whether 12.5 was observed; next locate the greatest nonflagged value.
 
 **Practice progression:** Five-number summary → modified box plot → compare and investigate flagged values. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -66,7 +66,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Data 1,1,4 have mean 2 and deviations −1,−1,2. Signed deviations sum 0; absolute values sum 4, so MAD 4/3. MAD has original units and need not be an observed distance.
 
-**Misconception response and hint ladder:** If MAD is0 because deviations cancel, ask whether values actually coincide; next take absolute values before adding. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If MAD is0 because deviations cancel, ask whether values actually coincide; next take absolute values before adding.
 
 **Practice progression:** Small exact MAD → compare equal-center spreads → explain units and zero case. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -85,6 +85,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include duplicate values, odd sizes, no-outlier and multiple-outlier cases; distinguish numerical min/max from modified-box-plot whiskers and IQR from total range.
+
+## Decision rehearsal and fading
+
+**Fences are thresholds; whiskers are observations.** For sorted data $1,2,3,4,5,6,7,18$, the median-of-halves convention gives median 4.5, $Q_1=2.5$, $Q_3=6.5$, IQR 4. Fences are $-3.5$ and 12.5, so 18 is flagged and modified whiskers end at 1 and 7. A basic box plot would instead extend to 18. Neither display proves that 18 is erroneous.
+
+If a whisker is drawn at 12.5, cue “Was that number observed?” Next list observations inside the fences; then mark 7 as the largest unflagged value and leave the lower whisker. Fade to $2,3,4,5,6,7,8,19$ (quartiles 3.5,7.5, fences $-2.5,13.5$, whiskers 2 and 8). Require the specified quartile convention; when none was specified, a consistent documented alternative is not an arithmetic misconception.
 
 ## Evidence, feedback and handoff
 

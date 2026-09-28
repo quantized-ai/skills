@@ -74,3 +74,14 @@ These are manual evaluation specifications, not results of completed student ses
 **Required mathematical response:** 13 is whole hypotenuse; altitude √(4·9)=6 from small-triangle similarity. Ask which corresponding sides yield the product, then verify legs viaa²=cp,b²=cq.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-4-right-triangle-metric-relationships](lesson-4-right-triangle-metric-relationships/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| A factor-3 dilation about (1,2) leaves line y=2 unchanged, so every point on it is fixed. | Use (2,2) mapping to (4,2) to distinguish set invariance from pointwise fixation; center alone is fixed for this factor. |
+| For hypotenuse parts 2 and 8, I used $h^2=(2+8)2$ and got $2\sqrt5$. | That computes the adjacent original leg; restore triangle correspondence and use $h^2=16$ for altitude 4. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

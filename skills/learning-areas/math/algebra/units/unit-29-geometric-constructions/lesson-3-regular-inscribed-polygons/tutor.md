@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Six radius-length chords partition a full turn into 6·60°. Alternate hexagon vertices are 120° apart; equal chords form an equilateral triangle. For a square, construct perpendicular diameters: four 90° central angles give equal chords and right inscribed vertex angles.
 
-**Misconception response and hint ladder:** If hexagon side equals diameter, ask how an equilateral central triangle's sides compare; next label both radii and chord. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If hexagon side equals diameter, ask how an equilateral central triangle's sides compare; next label both radii and chord.
 
 **Practice progression:** Hexagon → alternate-vertex triangle → perpendicular-diameter square with proof. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -49,6 +49,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Vary circle placement/radius and starting point, require exact unmarked-straightedge/compass constraints and proofs of both equal sides and equal angles; do not generalize radius stepping to arbitrary polygons.
+
+## Decision rehearsal and fading
+
+**Explain why stepping the radius closes.** In a circle centered O with radius 3, start at A and use the same compass width to locate the next point B. OA=OB=AB=3, so triangle OAB is equilateral and its central angle is $60^\circ$. Repeating in one consistent direction creates six equal central angles totaling $360^\circ$. Alternate vertices then have $120^\circ$ central separations and equal chords, making an equilateral triangle.
+
+If the learner uses width 6, ask what central triangle the proposed chord would form; it is a diameter with a $180^\circ$ central angle, not a side of the hexagon. Next compare radius and diameter on the given circle; transfer one radius and leave the next chord. Fade to constructing the inscribed square with perpendicular diameters and explaining both equal sides and right vertex angles. Inspect actual arcs, intersections, and cyclic vertex order; six approximately spaced marks do not demonstrate exact construction.
 
 ## Evidence, feedback and handoff
 

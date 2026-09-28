@@ -32,3 +32,13 @@ Supply incidence, point order, vertex location and intercepted arcs in words or 
 | [33.3 Secant and tangent products](lesson-3-circle-segment-products/tutor.md#secant-and-tangent-products) | Include two-secant cases and a similarity proof, extraneous negative roots, and the distinction between inside and whole length. |
 | [33.4 Arcs and radian measure](lesson-4-arc-length-radians-and-sectors/tutor.md#arcs-and-radian-measure) | Alternate degrees/radians, major/minor/full arcs and recovery of radius; keep angle measure distinct from length units. |
 | [33.4 Sector and segment areas](lesson-4-arc-length-radians-and-sectors/tutor.md#sector-and-segment-areas) | Vary central angles with computable triangle areas; derive sector area from its angular fraction and verify containment before subtraction. |
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Exterior secant parts 3 and 9 give power 36; another exterior part 4 gives interior 5. | Exterior-plus-interior assembly, equal products, then subtract the second exterior part. |
+| Intended comparable retry | Exterior secant parts 2 and 10 give power 24; another exterior part 3 gives interior 5. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Derive the product relationship from AA with labeled near/far endpoints. A missing diagram correspondence or an unknown in both factors adds demand beyond this direct calculation. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

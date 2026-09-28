@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Through vertex A draw a line parallel BC. Alternate interior angles on this line equal angles B and C; together with A they form a straight angle, yielding A+B+C=180°. An exterior supplement of A is therefore B+C.
 
-**Misconception response and hint ladder:** If exterior angle is equated to only one remote angle, ask which two complete the straight angle with A; next substitute triangle sum. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If exterior angle is equated to only one remote angle, ask which two complete the straight angle with A; next substitute triangle sum.
 
 **Practice progression:** Missing measures → exterior-angle explanation → proof with auxiliary parallel. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** To prove base angles equal, bisect angle A meeting BC atD. Triangles ABD and ACD have AB=AC, shared AD, included angles equal, so SAS; corresponding base angles equal. Conversely equal base angles with the same bisector give AAS and hence AB=AC.
 
-**Misconception response and hint ladder:** If equal angles are matched to adjacent sides, ask which side is opposite each angle; next color corresponding opposite pairs. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If equal angles are matched to adjacent sides, ask which side is opposite each angle; next color corresponding opposite pairs.
 
 **Practice progression:** Numeric isosceles → theorem proof → converse/equilateral consequences. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -66,7 +66,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For A=(0,0),B=(8,0),C=(2,6), midpoints of AC and BC are M=(1,3),N=(5,3). MN is horizontal like AB and length 4, half 8. General C=(u,v),B=(b,0) gives horizontal difference b/2, proving the general relation.
 
-**Misconception response and hint ladder:** If one midpoint alone is enough, ask what constrains the other endpoint; next move it along its side to break parallelism. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If one midpoint alone is enough, ask what constrains the other endpoint; next move it along its side to break parallelism.
 
 **Practice progression:** Numeric use → coordinate proof → detect missing midpoint hypothesis/converse needs. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -85,6 +85,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Require triangle angle-sum and exterior-angle proofs, isosceles theorem/converse and midsegment proof; vary orientation and distinguish midsegments from medians.
+
+## Decision rehearsal and fading
+
+**Two midpoint hypotheses produce two conclusions.** In a nondegenerate triangle let $A=(0,0)$, $B=(b,0)$, $C=(u,v)$ with $b>0$, $v\ne0$. Midpoints M of AC and N of BC are $(u/2,v/2)$ and $((b+u)/2,v/2)$. Equal y-coordinates give $MN\parallel AB$; the horizontal difference $b/2$ gives $MN=AB/2$. Translation and rotation can place any such triangle in this form without changing the claim.
+
+If the learner proves only the half-length, ask what the equal second coordinates show. If they use only one midpoint, ask what determines the other endpoint. Setup the two midpoint coordinate pairs; work just M if needed. Fade to the midsegment joining midpoints of AB and AC: let the learner compute its direction vector $(C-B)/2$. Numerical examples support application, while the free parameters supply the general proof.
 
 ## Evidence, feedback and handoff
 

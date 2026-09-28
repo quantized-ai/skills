@@ -85,7 +85,7 @@ Curriculum reference: **Inverse trigonometric graphs** in [lesson.md](lesson.md#
 - **Diagnostic key:** No; π/2 is a limiting horizontal asymptote.
 - **Worked-example prompt:** Compare graphs of arcsin x and arccos x at x=-1,0,1.
 - **Worked model and reasoning:** Arcsin values $-\pi/2,0,\pi/2$, increasing and odd. Arccos values $\pi,\pi/2,0$, decreasing and neither even nor odd. Arctan is increasing and odd on all reals, with unattained horizontal asymptotes ±π/2.
-- **First hint:** Reflect the chosen original branch across y=x.
+- **First hint:** What happens to a point's input and output when a function is inverted?
 
 #### Learn
 
@@ -123,7 +123,7 @@ Curriculum reference: **Principal values and inverse compositions** in [lesson.m
 - **Diagnostic key:** No: its principal range gives π/3.
 - **Worked-example prompt:** Evaluate cos(arcsin(-3/5)) and arccos(cos(7π/4)).
 - **Worked model and reasoning:** The arcsine angle lies in $[-\pi/2,\pi/2]$, so cosine is nonnegative: $4/5$. Arccos must lie in [0,π], giving π/4.
-- **First hint:** Determine the principal angle's quadrant before taking a square root.
+- **First hint:** Which angle is the inverse function allowed to return?
 
 #### Learn
 
@@ -150,6 +150,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include mixed compositions and out-of-domain inputs, branch folding and approximate values with explicit angle units.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Branch selection with reduced support
+
+For $\tan(\arccos(-3/5))$, set $\theta=\arccos(-3/5)$. Since $\theta\in[0,\pi]$ and cosine is negative, $\theta$ is in quadrant II. Hence $\sin\theta=4/5$ and $\tan\theta=-4/3$. The positive square root for sine comes from the principal range, not from a rule that square roots always give a positive trigonometric value. At input $u=0$, $\tan(\arccos u)$ is undefined, although arccos itself is defined.
+
+A response $4/3$ is ambiguous until work is shown. If the learner used a positive cosine, cue “Which coordinate is given as negative?” If the learner selected quadrant III, cue “Which quadrants belong to arccos's range?” Next supply $\sin^2\theta=1-9/25$; only then show $\sin\theta=4/5$, leaving the quotient to the learner. Fade with $\sin(\arccos(-5/13))$: supply the principal interval but no triangle, then use a fresh composition without the interval. A correct exact value does not establish the separately required reflected inverse graph.
 
 ## Lesson completion
 

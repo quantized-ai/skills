@@ -98,6 +98,12 @@ Assess exact domain, point mapping, full range for nondegenerate transforms, asy
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Reverse parent exponential points $(0,1),(1,2),(-1,1/2)$ to get points $(1,0),(2,1),(1/2,-1)$ on $\log_2 x$. Swapping coordinates explains the positive input domain, all-real range, and vertical asymptote at zero. For $g(x)=\log_2(3-x)$, the argument must be positive, so $x<3$. The log's increasing dependence on its argument combines with the decreasing argument to make $g$ decrease.
+
+Cue “Which side of $3$ keeps the full argument positive?”; set up $3-x>0$; next show $-x>-3$, leaving reversal and graph direction. Fade with $\log_2(x+2)$ (domain $x>-2$, asymptote $x=-2$, intercept $(-1,0)$). If the intercept is reported at the asymptote, ask which argument produces log output zero.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

@@ -45,7 +45,7 @@ Name the repeated power U only when every term can be represented without losing
 
 #### Respond to student reasoning
 
-**First hint:** After substitution back, are any factors still reducible?
+**Recognition cue:** What whole expression appears both squared and unsquared? **Setup if needed:** Name that expression $U$ and rewrite every term. **Completion cue, after restoration:** Are any restored factors still reducible?
 
 If U is substituted for x instead of x², annotate each original power beside its replacement. If a U remains in the answer, restore it before assessing completion. If x²−4 is left over, apply the square-structure lesson.
 
@@ -82,7 +82,7 @@ Use a decision sequence based on evidence: common factor, recognized square/cube
 
 #### Respond to student reasoning
 
-**First hint:** Which method applies after the common factor is removed?
+**First cue:** What shared factor or recognizable structure appears in the whole expression? Once a common factor is removed, inspect the remaining expression before choosing the next method.
 
 If the student tries many patterns without inspecting a GCF, compare all terms for a shared factor first. If one unsuccessful attempt becomes an irreducibility claim, ask what cases were ruled out. If a valid different method works, preserve it.
 
@@ -97,6 +97,14 @@ Mix factorable expressions so the method is not announced, then include justifie
 Assess strategic selection, retained common factors, repeated inspection, verification and supported completeness. A correct product with no explanation does not demonstrate the strategy objective by itself.
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
+
+## Decision model and graduated practice
+
+For $(x^2+x)^2-5(x^2+x)+4$, cue “Which whole expression occurs squared and unsquared?” If needed set $U=x^2+x$ and have the learner rewrite every term. Only then supply $U^2-5U+4=(U-1)(U-4)$, leaving restoration: $(x^2+x-1)(x^2+x-4)$. Exhaustive integer pair searches give no pair with product $-1$ or $-4$ and sum $1$, so both monic quadratics stop over the rationals. Discriminants $5,17$ are an optional internal check. Fade with $(x^2+x)^2-3(x^2+x)+2$: supply $U$ only; the key restores to $(x^2+x-1)(x+2)(x-1)$.
+
+Use the existing $x^6+3x^3+2$ example only after explaining this bounded prerequisite: a rational root of a monic integer polynomial is an integer divisor of its constant. For $x^3+2$, candidates $1,-1,2,-2$ give $3,1,10,-6$, none zero. A reducible cubic over the rationals must have a rational linear factor; therefore it is irreducible. If that argument is unfamiliar, use the biquadratic model first.
+
+For unannounced strategy practice, mix $x^2-x-12$, $x^3-2x^2-4x+8$, $9x^2-25$, and $x^3+8$. Ask for the structural reason for each first move before execution; do not label the methods in the prompt. A completed factorization needing only a stopping check should receive a residual-factor cue, not a restart at substitution.
 
 ## Completion and handoff
 

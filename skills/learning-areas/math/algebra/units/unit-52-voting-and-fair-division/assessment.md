@@ -97,3 +97,17 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 Use the unit-specific evidence requirements and lesson routing in [agent-guide.md](agent-guide.md#evidence-specific-to-this-unit), then select missing cases from each relevant tutor’s Assessment case checklist. The separate diagnostics, lesson reasoning activities and supplemental worked comparisons are additional private calibration material; they are not unseen test items once discussed. Track the actual case and representation covered, and report remaining cases explicitly.
 
 A learner can correctly reject an invalid model or unsupported conclusion without supplying a numerical answer. Conversely, a correct number does not establish an omitted justification, practical execution or completeness claim. Use the unit’s [adversarial scenario](agent-evaluation.md#adversarial-transfer-scenario) to check this distinction before treating a generated item as a reliable assessment.
+
+## Annotated learner-response calibration
+
+Apply the stated procedure and the claimed fairness property separately, always retaining whose values or preferences are being used.
+
+| Learner response | Judgment and next action |
+| --- | --- |
+| “A has a majority with 4 of 9 first choices.” | The count may be correct; majority interpretation is wrong. Credit the tally, distinguish it from plurality, and ask for the threshold. |
+| “Approval elects B” using only a ranked schedule without approval sets. | The requested result is undetermined. A learner who identifies the missing approval data should receive credit for that limitation, not be forced to invent votes. |
+| “Arrow means every election is unfair.” | The conclusion exceeds the theorem. Ask for its input/output assumptions and incompatible conditions; preserve any correctly recalled condition. |
+| Banzhaf powers are correct, but no coalition or criticality reasoning was requested or shown. | Credit the numbers; enumeration and criticality remain unassessed until elicited. If the trace was expressly required, record it as incomplete requested evidence. |
+| A proportional three-person allocation is called envy-free using the one-third test alone. | Proportionality is a valid component; envy needs comparisons within each participant's valuation row. Request those comparisons rather than erase the valid guarantee. |
+| The adjusted-winner equation uses the correct own valuations and produces 1/11, but fractional transfer rights are unspecified. | Mathematical balancing is supported; practical feasibility is unresolved. Do not equate a fraction with permission or ability to split the object. |
+| After the tutor supplies the 10-per-person bonus, the learner gets correct final Knaster payments. | Credit supported settlement arithmetic, not independent surplus-distribution reasoning. Reassess with new data and no supplied bonus. |

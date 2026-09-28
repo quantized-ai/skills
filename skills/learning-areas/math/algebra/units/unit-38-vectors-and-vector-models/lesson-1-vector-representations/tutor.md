@@ -110,6 +110,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
 
+## Check direction through reconstruction
+
+For $P=(2,-1)$ and $Q=(-4,7)$, the displacement is $\langle-6,8\rangle$, magnitude 10. It points into quadrant II, so a standard direction is $180^\circ-\arctan(4/3)\approx126.87^\circ$. Reconstructing $P+\langle-6,8\rangle=Q$ checks orientation; a length check alone would also accept the reversed arrow.
+
+If the learner gives $\langle6,-8\rangle$, ask which endpoint their vector reaches from $P$. Then cue “terminal minus initial”; if needed show only $v_x=-4-2$, leaving $v_y$ and magnitude. If components are correct but the angle is $-53.13^\circ$, keep component evidence and cue quadrant selection instead. Fade by giving only the initial point and displacement and asking for the terminal point, then return to an unsupplied endpoint pair. The reversed task checks the meaning of displacement rather than only subtraction fluency.
+
 ## Lesson completion
 
 Apply [the shared evidence rule](../agent-guide.md#evidence-and-completion) to each concept and its listed cases. Report which methods and representations were independently demonstrated, which needed support, and what is still untested. Do not mark the lesson secure from a short sample or an unobserved graph/proof/tool action. Offer the next lesson or focused repair according to the student's request and evidence.

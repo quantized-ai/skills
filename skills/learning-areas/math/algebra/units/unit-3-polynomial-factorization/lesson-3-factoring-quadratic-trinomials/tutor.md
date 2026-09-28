@@ -98,6 +98,16 @@ Require a valid split, signed grouping, retained common factors, complete verifi
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $x^2-x-12$, expanding $(x+r)(x+s)$ forces both $r+s=-1$ and $rs=-12$. Opposite signs are required; the negative magnitude is larger. Of magnitude pairs $(1,12),(2,6),(3,4)$, only the last differ by $1$. Hence $(x-4)(x+3)$, checked by $x^2+3x-4x-12$. For the zero-constant case, $x^2-5x=x(x-5)$. For $x^2+x+1$, the integer pairs with product $1$ have sums $2,-2$, neither $1$; this exhaustive monic integer search rules out rational linear factors.
+
+For the nonmonic model, retain every consequential step:
+$4x^2-10x+6=2(2x^2-5x+3)=2(2x^2-2x-3x+3)=2[2x(x-1)-3(x-1)]=2(2x-3)(x-1)$.
+The split numbers multiply to $ac$ because, in $(px+q)(rx+s)$, the cross coefficients $ps,qr$ have product $(pr)(qs)=ac$ and sum $b$.
+
+For $6x^2+x-2$, cue “Which terms create the middle coefficient?”; then supply $m+n=1,mn=-12$; only then give $6x^2+4x-3x-2$, leaving grouping to the learner. The completion is $(3x+2)(2x-1)$. This supplied split is faded practice, not independent technique evidence. If the product is already found, ask for expansion instead. Inspection with correct expansion earns factorization credit; an explicitly requested split-and-group demonstration remains unassessed until shown.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

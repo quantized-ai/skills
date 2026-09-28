@@ -202,3 +202,14 @@ The A/B examples above illustrate selected cases. The following checklist identi
 | [Derivation of finite geometric sums](lesson-5-finite-sums/tutor.md#derivation-of-finite-geometric-sums) | Require cancellation derivation, correct N versus N−1 roles, r=1 handling and valid finite-domain use. Keep infinite-series claims out of this lesson's finite-sum evidence. |
 | [Totals from repeated proportional change](lesson-6-finite-geometric-models/tutor.md#totals-from-repeated-proportional-change) | Assess physical accounting, first term/ratio/count, exact finite total, units and reasonableness. Correct use of a sum formula cannot repair an incorrectly modeled list. |
 | [Repeated deposits and accumulation timing](lesson-6-finite-geometric-models/tutor.md#repeated-deposits-and-accumulation-timing) | Require timeline, compatible rate period, correct exponents, total/principal distinction and boundary handling. Formula recall without correct timing is insufficient. |
+
+## Annotated response calibration
+
+| Prompt and actual response | Evidence and next action |
+| --- | --- |
+| Find arithmetic rule from $a_3=10,a_7=22$: “$a_n=3n+1$.” | Correct rule; requested per-step and domain reasoning needs to be elicited. Preserve the formula. |
+| Sum $3+6+12+24$ by direct addition, obtaining $45$. | Valid total. If cancellation derivation of the finite-sum formula was requested, it remains unassessed. |
+| Under geometric assumption $a_0=3,a_2=12$: “$r=2$.” | One valid possibility, missing $-2$ unless positivity was stated. Ask whether both signs meet the data. |
+| After the tutor supplies deposit growth periods $2,1,0$, learner computes $331$. | Assisted timing model, correct accumulation arithmetic. Reassess the timeline independently later. |
+
+Correct answers without explanation establish results only. If reasoning was never requested, collect it neutrally; if explicitly requested but omitted, record incomplete required evidence. Self-correction before mathematical feedback stays independent; completion after a mathematical cue is assisted.

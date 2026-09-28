@@ -53,3 +53,10 @@ Expected mathematical check: (x-2)²=8(y-1), vertex (2,1), p=2, focus (2,3), dir
 **Required behavior and mathematics:** Expected: horizontal left-opening relation, p=−2, vertex(1,2), focus(−1,2), directrix x=3. For x=−1 there are y=−2 and 6, so the full relation fails the vertical-line test.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
+
+## Concrete response and support checks
+
+- Present the claim that the distance to directrix \(y=0\) is \(\sqrt{x^2+y^2}\). Expect a point-to-line diagnosis and perpendicular distance, not approval of the resulting curve.
+- Give correct \(p=-2\) but “focal distance -2.” Expect credit for signed orientation and correction of the nonnegative distance.
+- Present one vertex output as proof that a horizontal parabola is \(y=f(x)\). Expect an interior input with two outputs and distinction from a selected branch.
+- Supply a proposed dynamic construction without a produced construction. Expect mathematical reasoning credit while execution stays unverified; do not report that a tool ran.

@@ -37,3 +37,14 @@ These original keyed probes combine or stress concepts. They are calibration ref
 **Prompt:** A matrix has columns (1,2) and (3,4). Map (2,-1), find its determinant and image area of a unit square.
 
 **Key and required reasoning:** Matrix [[1,3],[2,4]] maps to (-1,0). Determinant -2 gives area 2 and reverses orientation; columns, not rows, are the basis images.
+
+## Annotated matrix responses
+
+| Work submitted | Evidence judgment |
+| --- | --- |
+| Reports $A^{-1}=\begin{pmatrix}1&-1\\-1&2\end{pmatrix}$ for $A=\begin{pmatrix}2&1\\1&1\end{pmatrix}$ but omits both requested product checks. | Correct inverse; verification incomplete. Ask for the checks without giving entries. |
+| Solves $2x+y=7$, $x+y=4$ by elimination, obtaining $(3,1)$. | Correct solution and valid method. A specifically requested inverse-method demonstration remains pending; do not mark the solution wrong. |
+| Says determinant zero means no solution for $x+2y=3$, $2x+4y=6$. | Correct singularity recognition but wrong consistency conclusion; the solutions are $(3-2t,t)$. Ask about the augmented row rather than invent a failed inverse output. |
+| Directly adds differently ordered inventory columns and obtains a numerically correct entrywise sum. | Arithmetic is usable evidence, but contextual alignment failed. Request the meaning of a particular resulting entry. |
+| Produces the correct aligned sum after the tutor supplies the column permutation. | Assisted label alignment; retain unaided arithmetic and reassess setup on a new labeled table. |
+| Computes image area as $-6$ from a unit-area figure and determinant $-6$. | Magnitude 6 is the area; the minus sign encodes orientation. Distinguish these components in feedback. |

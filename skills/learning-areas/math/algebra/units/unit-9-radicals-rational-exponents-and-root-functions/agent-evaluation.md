@@ -159,3 +159,8 @@ These are reviewer prompts with private keys in the linked tutors. For a teachin
 ## Reassessment comparison
 
 Save two actual generated quizzes at the same requested scope and difficulty. Compare mathematical data and reasoning demands, not just wording. Independently solve every presented item, list its curriculum cases and check that feedback on one item has not silently supplied independent evidence for another. Report coverage and failures per concept; this specification is not a record that those tests have passed.
+
+## Response-dependent decision checks
+
+- Explain that $-1$ is rejected from $\sqrt{x+2}=x$ because the radical is undefined. Expect correction: the radical is defined but has the wrong sign relative to the right side.
+- Return the variable-conjugate formula while dropping $x=1$. Expect preservation of that valid original value, not a new exclusion.

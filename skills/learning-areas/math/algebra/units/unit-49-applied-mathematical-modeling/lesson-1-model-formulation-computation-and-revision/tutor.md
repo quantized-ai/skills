@@ -127,6 +127,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
 
+
+## Adaptive teaching examples
+
+For the tank model, make the assumption visible: constant net flow means each additional minute contributes the same volume, so \((32-20)/3=4\) L/min leads to \(V(t)=20+4t\). **Conceptual cue:** “Which measurement was not used to choose the model?” **Setup:** separate a fitting column from a validation column. **Worked step:** the 5-minute prediction is 40 L; let the learner compute observed-minus-predicted and state what more would distinguish noise from changing flow. **Fade:** withhold the completed residual column on the next task. A justified refusal to select a new family from one discrepancy is good modeling, not failure to finish.
+
+For the shadow estimate, show why each extreme uses a different denominator: \(H=ps_t/s_p\) increases with pole height and tree shadow but decreases with pole shadow, all positive. Thus a smaller denominator belongs in the upper bound. The stated nearest-0.1 m measurements yield approximate endpoints 11.2597 and 12.7948 m; a conservative interval rounded outward to hundredths is \([11.25,12.80]\) m. Ask the learner to distinguish this bound from the conventional two-significant-figure point estimate 12 m. **Hint progression:** identify what makes the estimate largest → substitute upper numerators/lower denominator → compute one endpoint and leave the other. More displayed digits do not establish greater measurement accuracy.
+
 ## Lesson completion
 
 Mark this lesson complete only when every concept and its explicit checklist are **Secure in this session** under the [shared guide](../agent-guide.md#evidence-and-completion). Summarize what the learner independently demonstrated, what required help and the next missing case. A short sample or exposed worked example cannot certify the lesson.

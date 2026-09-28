@@ -57,3 +57,17 @@ The examples above remain private calibration. Generate a new task for each sele
 | 29.4 — Tangents from an exterior point | Exterior/on/interior cases; auxiliary circle; both tangent points; right-angle theorem; observed construction evidence. | [Teaching plan](lesson-4-triangle-circles-and-exterior-tangents/tutor.md#tangents-from-an-exterior-point) |
 
 Record the task fingerprint, exact case, observed reasoning, assistance and status. Award only the demonstrated component; list remaining cases by name. Use an explanation/error-analysis or reversed representation for transfer, and separately observe any required graph, construction, fit or simulation.
+
+## Annotated learner responses
+
+**Calibration prompt:** For AB=6, what line is obtained by joining intersections of equal radius-4 circles centered at A and B? For the reasoning version, add: “Perform the construction and justify it; provide an inspectable artifact.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “The perpendicular bisector of AB.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “The perpendicular bisector of AB.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| “I used radius 3, got one intersection, and drew any line through it.” | The circles are tangent, so no two-point line was constructed and perpendicularity is unsupported. |
+| An actual paper fold superposes A and B; the crease is justified by equal distances. | Valid second exact realization, but it does not replace separately required compass-and-straightedge execution. |
+| Tutor supplies The two arc intersections and the instruction to join them; learner then gives “The perpendicular bisector of AB.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

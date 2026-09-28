@@ -97,3 +97,17 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 Use the unit-specific evidence requirements and lesson routing in [agent-guide.md](agent-guide.md#evidence-specific-to-this-unit), then select missing cases from each relevant tutor’s Assessment case checklist. The separate diagnostics, lesson reasoning activities and supplemental worked comparisons are additional private calibration material; they are not unseen test items once discussed. Track the actual case and representation covered, and report remaining cases explicitly.
 
 A learner can correctly reject an invalid model or unsupported conclusion without supplying a numerical answer. Conversely, a correct number does not establish an omitted justification, practical execution or completeness claim. Use the unit’s [adversarial scenario](agent-evaluation.md#adversarial-transfer-scenario) to check this distinction before treating a generated item as a reliable assessment.
+
+## Annotated learner-response calibration
+
+Apply the shared evidence labels to components and preserve what the response actually establishes. These are private calibration cases, not fresh quiz items.
+
+| Actual response and task | Judgment and next action |
+| --- | --- |
+| Under the fictional brackets, “Tax on 1500 is 300 because 20% is the top bracket.” | The higher rate was identified, but its base is wrong. Mark bracket allocation developing; ask which portion enters that bracket before demonstrating the split. A correction after that mathematical cue is assisted. |
+| A learner gives the correct tax 200 when asked only for a number. | Credit that result; piecewise construction and marginal/effective interpretation were not elicited. Ask a neutral request for reasoning before inferring those capabilities. If reasoning was explicitly requested but omitted, record incomplete required evidence. |
+| Account comparison uses a correct table for every allowed count in a stated finite range instead of solving an inequality. | Accept it for that finite range. A few sample rows do not prove preference for every unbounded transaction count; ask for a general comparison if that is the target. |
+| “The second balance is 819.10” after the tutor supplied the recurrence and first balance. | Supported calculation is correct, but model construction was supplied. Preserve unaided arithmetic and later obtain a fresh independent timing/model task. |
+| Correct amortization rows are typed by hand, with no spreadsheet output for an explicitly technology-based task. | Symbolic row reconciliation may be demonstrated; technology execution remains not assessed. Do not invent an executed workbook or erase the valid mathematics. |
+| “Buying always wins” after correctly finding costs 8000 and 10200 in the stated scenario. | Credit the conditional cost arithmetic. The universal decision claim is unsupported; request the assumptions and a resale-value sensitivity check. |
+| “Expected insured cost 150 means I cannot pay more than 150.” | Expectation arithmetic can be correct while the risk interpretation is developing. Compare the specified severe-loss cost 600; do not conflate the two components. |

@@ -98,6 +98,12 @@ Assess vertex, axis, opening, attained range and a constructed formula with a st
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Use one quadratic to connect the forms: $2x^2-8x+6=2(x-1)(x-3)=2(x-2)^2-2$. The standard constant gives $(0,6)$; factored form gives $(1,0),(3,0)$; vertex form gives vertex $(2,-2)$ and range $[-2,\infty)$ on $\mathbb R$. Each feature follows from the role of its form, and expansion checks their equivalence.
+
+If a learner says the range starts at $2$, cue “Which coordinate is the minimum output?”; then set up $2(x-2)^2\ge0$; next derive $f(x)\ge-2$, leaving attainment at $x=2$. Fade by matching features to $-(x+1)^2+4$ (vertex $(-1,4)$, range $(-\infty,4]$). If a domain is restricted, recompute attainable outputs; the full-real range cannot simply be copied.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

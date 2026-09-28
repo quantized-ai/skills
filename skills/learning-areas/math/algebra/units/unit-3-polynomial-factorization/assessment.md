@@ -204,9 +204,9 @@ Generate new tasks based on the complete curriculum and tutor coverage guidance.
 
 [Curriculum](lesson-7-factored-equations-and-zeros/lesson.md#concepts) · [Tutor guidance](lesson-7-factored-equations-and-zeros/tutor.md#connecting-zeros-factors-and-polynomial-equations)
 
-**A — Prompt:** Solve $x^2=3x+4$ by factoring and relate the roots to a graph.
+**A — Prompt:** Solve $x^2=3x+4$ by factoring, check both solutions in the original equation, and give the horizontal intercepts of $f(x)=x^2-3x-4$.
 
-**Key:** $x^2-3x-4=(x-4)(x+1)=0$, so $x=4,-1$; these are x-intercept inputs of the difference polynomial.
+**Key:** $x^2-3x-4=(x-4)(x+1)=0$, so $x=4,-1$. Original checks give $16=16$ and $1=1$; the specified graph has intercepts $(4,0),(-1,0)$.
 
 **B — Prompt:** Does a graph in a small window establish that a cubic has no other real zeros?
 
@@ -234,3 +234,17 @@ The A/B examples above illustrate selected cases. The following checklist identi
 | [Selecting a factoring strategy](lesson-6-substitution-and-a-complete-strategy/tutor.md#selecting-a-factoring-strategy) | Assess strategic selection, retained common factors, repeated inspection, verification and supported completeness. A correct product with no explanation does not demonstrate the strategy objective by itself. |
 | [The zero-product property](lesson-7-factored-equations-and-zeros/tutor.md#the-zero-product-property) | Require legitimate zero form, every relevant factor equation, union without duplicates, and preservation of cases lost by division. Substitute candidates in the original equation. |
 | [Connecting zeros, factors, and polynomial equations](lesson-7-factored-equations-and-zeros/tutor.md#connecting-zeros-factors-and-polynomial-equations) | Assess equivalent zero form, factor-to-zero reasoning, complete solutions, original substitution and correct intercept notation restricted to real inputs. |
+
+## Annotated response calibration
+
+| Actual response and prompt | Evidence judgment and next action |
+| --- | --- |
+| “Factor $6x^2+7x+2$.” Response: “$(3x+2)(2x+1)$.” | Correct product; method and checking were not elicited. Ask neutrally “How did you obtain and check it?” rather than infer guessing or full proficiency. If split-and-group and verification were explicitly requested, the omitted reasoning is incomplete required evidence. |
+| Same expression: “I tried binomials and checked $6x^2+3x+4x+2$.” | Valid alternative factorization and verification. Credit these components; an explicitly assessed split-and-group technique still needs its own demonstration. |
+| Complete rational factorization of $x^3-2x^2-4x+8$: “$(x-2)(x^2-4)$.” | Equivalent partial factorization. Preserve grouping evidence; completion is developing. A cue about the residual square makes the subsequent repair assisted. |
+| Solve $x(x-4)=0$: “Divide by $x$, so $x=4$.” | One valid root with an incomplete set and an unsupported nonzero assumption. Teach the lost zero case, then reassess on a fresh equation. |
+| “I changed my minus to a plus after expanding, before you replied.” | Self-correction before mathematical feedback remains independent. Judge the final reasoning and retain the history. |
+| “Using your split $4x-3x$, I got $(3x+2)(2x-1)$.” | Assisted success on $6x^2+x-2$. Preserve prior unaided work; obtain a fresh independent item for the supplied decision. |
+| To the former unspecified graph request: “The intersections are $(-1,1),(4,16)$.” | Correct for the two original curves. Do not penalize the ambiguous wording; specify the difference graph and collect that missing component separately. |
+
+The stopping proofs in Lesson 3.5 and Lesson 3.6 tutor guidance bound what a learner can fairly be asked to justify. A private discriminant or rational-root check does not make that method an unstated prerequisite.

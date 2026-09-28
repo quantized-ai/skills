@@ -170,3 +170,14 @@ The A/B examples above illustrate selected cases. The following checklist identi
 | [The rectangular complex plane](lesson-4-complex-division-and-rectangular-coordinates/tutor.md#the-rectangular-complex-plane) | Require bidirectional point-number translation, axis roles, signs and geometric conjugation. Do not claim a student's plotted artifact was inspected when only a verbal location was provided. |
 | [Solving quadratics with complex roots](lesson-5-complex-quadratic-roots-and-method-choice/tutor.md#solving-quadratics-with-complex-roots) | Require both verified complex roots where present, standard-form simplification and accurate real-intercept conclusions. No rounding is needed when an exact radical form is available. |
 | [Choosing and comparing quadratic methods](lesson-5-complex-quadratic-roots-and-method-choice/tutor.md#choosing-and-comparing-quadratic-methods) | Assess valid method choice and reasoning, preservation of equality, complete roots and agreement of methods. Efficiency is contextual; do not impose one preferred route as the only valid solution. |
+
+## Annotated response calibration
+
+| Prompt and actual response | Evidence and next action |
+| --- | --- |
+| Simplify $(3+i)/(1-2i)$: “$1/5+7i/5$.” | Correct quotient; a requested justification needs the nonzero conjugate ratio or another valid derivation. Ask for the missing reasoning without suggesting the conjugate. |
+| Same division: solve $(1-2i)(a+bi)=3+i$ and obtain $a=1/5,b=7/5$. | Valid alternative method by component equations. Credit division; if conjugate use itself was requested, that procedure remains unshown. |
+| Solve $x^2-6x+13=0$: “$3+2i$.” | One correct root, incomplete solution set. Ask whether the response is the complete set before teaching the missing conjugate. |
+| After the tutor supplies $(x-3)^2=-4$, learner returns $3\pm2i$. | Correct assisted completion; completing the square was supplied. Reassess that component on a fresh equation. |
+
+Correct answers without explanation establish results only. If reasoning was never requested, collect it neutrally; if explicitly requested but omitted, record incomplete required evidence. Self-correction before mathematical feedback stays independent; completion after a mathematical cue is assisted.

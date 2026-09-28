@@ -223,3 +223,15 @@ Use the [concept teaching plan](lesson-9-probability-based-decisions/tutor.md#fa
 **Reject/repair if these conditions are missing:** Correct denominators; base rates; reversed conditionals; zero-conditioning case; consequences and uncertainty; no uniquely optimal choice without criteria.
 
 Use the [concept teaching plan](lesson-9-probability-based-decisions/tutor.md#conditional-probabilities-and-decision-tradeoffs) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable spread calculations | Sample $2,4,6$ has mean $4$, SD $2$; sample $12,14,16$ has mean $14$, SD $2$. | Shift preserves arithmetic demand and tests center versus spread; require the same sample convention. |
+| Added design demand | Compare population SD $\sqrt{8/3}$ with sample SD $2$ for $2,4,6$. | Must select denominator from the stated inferential purpose, not pattern-match numbers. |
+| Exact-to-simulation progression | Four fair tosses: high extreme $1/16$, absolute-distance extreme $2/16$. | Writing and running a valid repeated-trial simulation adds mechanism, statistic, repetitions and Monte Carlo variation beyond enumerating this space. |
+| Randomization boundary | Fixed outcomes $2,4,6,8$, two per group: differences $-4,-2,0,0,2,4$. | Two-sided $\lvert D\rvert\ge4$ gives $1/3$; matched-pair assignment would require a different allocation space. |
+| Decision transfer | Of 27 flagged items, 9 defective: $P(\text{defective}\mid\text{flagged})=1/3$. | Comparing decisions adds explicit error costs; do not infer a preferred action from sensitivity alone. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

@@ -90,3 +90,14 @@ For A=30°, a=4,b=6, one solution reports only B=arcsin(3/4). Ask what other tri
 ## Unseen teaching test
 
 Select one concept diagnostic, answer with the exact misconception its feedback section targets, and request a hint. Check that the tutor first isolates that misconception, gives the relevant conceptual cue and permits revision. Then switch to assessment: the corrected example is exposed, so require a new representation or reasoning direction from the practice progression. For a proof or tool-dependent concept, submit a correct number without the required argument/artifact and verify that the tutor preserves partial success but leaves that component pending. Record the actual dialogue; these written checks are not a claim that an independent live evaluation has already passed.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| SSA has A=30°, a=5, b=8. I got B≈53.13° and stopped. | Preserve the first triangle work but require the supplementary B≈126.87° with C≈23.13°; both are admissible. A cue supplying the second branch makes the completion assisted. |
+| I used coordinates (0,0),(5,0),(-3/2,3√3/2) for sides 3,5 and included120°, obtaining side7. | Accept the valid coordinate-distance route; do not force the Law of Cosines by name. General-law derivation remains a separate requirement. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

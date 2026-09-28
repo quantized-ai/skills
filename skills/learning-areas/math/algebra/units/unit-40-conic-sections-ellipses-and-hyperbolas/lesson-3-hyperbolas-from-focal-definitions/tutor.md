@@ -150,6 +150,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
 
+## Distinguish branch completion from parameter recovery
+
+For $x^2/9-y^2/16=1$, the equation forces $|x|\ge3$. On the right branch the recovered distances are $5x/3+3$ and $5x/3-3$; both are positive since $x\ge3$. On the left branch reflection reverses which distance is larger, so the absolute difference is still 6. Reporting only the signed difference $d_--d_+=6$ would omit the left branch even though both satisfy the squared equation.
+
+If the learner's derivation covers only $x\ge3$, cue “What happens to the two focal distances at $(-x,y)$?” → supply that the distances exchange → show the signed difference changes sign, leaving the absolute-difference conclusion. Fade by giving a vertical focal pair and asking for the analogous two-branch argument. For asymptote errors use the leading relation $x^2/9=y^2/16$ before offering a slope rule; a correct $a,b,c$ calculation does not establish correct asymptotes or both branches.
+
 ## Lesson completion
 
 Apply [the shared evidence rule](../agent-guide.md#evidence-and-completion) to each concept and its listed cases. Report which methods and representations were independently demonstrated, which needed support, and what is still untested. Do not mark the lesson secure from a short sample or an unobserved graph/proof/tool action. Offer the next lesson or focused repair according to the student's request and evidence.

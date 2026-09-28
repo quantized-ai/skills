@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A count n satisfies 2n+3≤12 and n≥2. Algebra gives 2≤n≤4.5, but integer feasibility is{2,3,4}. An OR joins alternatives; an AND must meet both simultaneously.
 
-**Misconception response and hint ladder:** If AND is treated as union, ask whether a proposed point satisfies both originals; next test an endpoint lying in only one set. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If AND is treated as union, ask whether a proposed point satisfies both originals; next test an endpoint lying in only one set.
 
 **Practice progression:** Overlapping bounded intersection → disjoint union → contextual integer bounds. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Renting equipment costs 12 plus 7 per hour with a40-credit budget. The bound 12+7h≤40 gives h≤4. If only whole hours can be booked, h∈{0,1,2,3,4}; if at least one hour is required, remove 0. State which booking rule applies.
 
-**Misconception response and hint ladder:** If a fractional count is accepted, ask what is being counted; next test the floor and ceiling in the original constraint. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If a fractional count is accepted, ask what is being counted; next test the floor and ceiling in the original constraint.
 
 **Practice progression:** One contextual bound → multiple bounds → integer decision and endpoint justification. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include overlapping/disjoint unions and intersections and contexts with integrality, strict capacity or minimum purchases; distinguish the continuous bound from valid count choices.
+
+## Decision rehearsal and fading
+
+**Strict thresholds must be tested before rounding.** A fixed fee of 8 credits plus 3 per ticket must total less than 23 credits. With nonnegative integer $n$, $8+3n<23$ gives $n<5$, so the feasible counts are $0,1,2,3,4$. Five tickets cost exactly 23 and are excluded; four cost 20 and satisfy the original condition. If the wording were “at most 23,” five would be included.
+
+If the learner includes 5, cue “Does exactly 23 meet ‘less than 23’?” Next ask them to calculate costs for 4 and 5; then work the cost for 5 and leave the membership decision. If the continuous inequality is wrong, repair that earlier step first. Fade to a 7-credit fee plus 4 per ticket with a strict 27-credit limit (again $n=0,1,2,3,4$), then change to an inclusive 27-credit limit to probe the endpoint distinction without increasing arithmetic demand.
 
 ## Evidence, feedback and handoff
 

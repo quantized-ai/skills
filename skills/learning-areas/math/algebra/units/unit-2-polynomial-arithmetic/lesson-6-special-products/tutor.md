@@ -98,6 +98,12 @@ Collect symbolic justification, complete-component squaring and a numerical cent
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Derive $(3x-2)^2$ as $(3x-2)(3x-2)$: the products are $9x^2,-6x,-6x,4$, hence $9x^2-12x+4$. Compare $(3x-2)(3x+2)$: opposite cross products cancel, leaving $9x^2-4$. This makes the sign of the constant and the presence of a middle term consequences of multiplication.
+
+If a learner writes $9x^2+4$ for the square, cue “Where are both cross products?”; then supply a two-by-two product grid; next fill one cross cell $-6x$, leaving the other and collection. Fade with $(2x+5)^2=4x^2+\square x+25$ (key $20$), then use composite components $(x^2+1-2)(x^2+1+2)=(x^2+1)^2-4$. A correct conjugate identity still requires expanding the whole squared component if standard form is requested; final key $x^4+2x^2-3$.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

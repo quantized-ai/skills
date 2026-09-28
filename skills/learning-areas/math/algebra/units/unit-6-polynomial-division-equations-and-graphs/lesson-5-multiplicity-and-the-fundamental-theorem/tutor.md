@@ -98,6 +98,12 @@ Require the number system, nonconstant hypothesis, multiplicity count and valid 
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $p=(x-1)^3(x+2)^2$, the remaining factor at $1$ is $9\ne0$, so multiplicity there is exactly $3$; at $-2$ the remaining factor is $-27\ne0$, giving multiplicity $2$. Near $1$, an odd power changes sign while the other factor stays positive. Near $-2$, the even power stays nonnegative, so the sign does not switch. There are two distinct roots but five counted with multiplicity.
+
+If a learner says five intercepts, cue “Are the repeated entries different input values?”; then list $1,1,1,-2,-2$; next group one repeated value, leaving the distinct set and graph behavior. Fade by analyzing $(x-3)^2(x+1)^3$. For the quadratic case of the Fundamental Theorem, contrast $x^2-1$, $(x-1)^2$, and $x^2+1$: two simple real roots, one double real root, and two nonreal roots each give total count two, illustrating rather than proving the general theorem.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

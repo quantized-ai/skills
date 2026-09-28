@@ -69,3 +69,11 @@ Expected mathematical check: The direction and amount cannot be checked without 
 **Required behavior and mathematics:** Expected: calculate 80% versus 30%, ask what the compared groups and success definitions are, and repair the proportion comparison. If the student then says the treatment caused the difference, check assignment rather than validating that stronger claim.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
+
+## Concrete grading boundaries
+
+- Submit only “stratified” when asked to classify and describe random selection of 10 students in each grade. Expect correct classification with missing procedure requested neutrally. A valid SRS must be accepted when the prompt permits any suitable probability sample.
+- Pool equal grade samples with means 10 and 20 when population sizes are 100 and 300. Expect a distinction between pooled sample mean 15 and population-weighted estimate 17.5; weighting must not be claimed to eliminate nonresponse bias.
+- Give 48 independent replicates per fertilizer for six treated trays each holding eight seedlings. Expect a cue about which objects receive independently variable assignments before revealing the count. After supplying the tray unit, mark a corrected answer assisted.
+- Submit an accurate, qualified written report and claim oral proficiency. Expect writing credit and oral performance pending; no invented speech. A full collection plan without collected records likewise cannot establish execution.
+- Correct the app headline to 80% versus 30% but retain “caused.” Expect the numerical correction preserved and the causal claim repaired using self-selection, without concluding the app has no effect.

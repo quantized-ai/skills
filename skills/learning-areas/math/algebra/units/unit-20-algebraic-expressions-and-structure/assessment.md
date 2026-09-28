@@ -58,3 +58,17 @@ The examples above remain private calibration. Generate a new task for each sele
 | 20.4 — Equivalence and contextual form | Domain; all-input equivalence; counterexample validity; structural proof; useful contextual form. | [Teaching plan](lesson-4-like-terms-and-equivalent-linear-expressions/tutor.md#equivalence-and-contextual-form) |
 
 Record the task fingerprint, exact case, observed reasoning, assistance and status. Award only the demonstrated component; list remaining cases by name. Use an explanation/error-analysis or reversed representation for transfer, and separately observe any required graph, construction, fit or simulation.
+
+## Annotated learner responses
+
+**Calibration prompt:** Simplify $3(2x-1)-2(x+4)$. For the reasoning version, add: “Justify equivalence for every real x using operation properties.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “$4x-11$.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “$4x-11$.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| “At x=0 both equal -11, so they are equivalent for every x.” | The spot-check is correct but insufficient for the requested universal justification. |
+| $3(2x-1)-2(x+4)=2[3x-(x+4)]-3=4x-11$. | Valid regrouping and distribution; expanded terms need not appear in the reference order. |
+| Tutor supplies $6x-3-2x-8$; learner then gives “$4x-11$.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

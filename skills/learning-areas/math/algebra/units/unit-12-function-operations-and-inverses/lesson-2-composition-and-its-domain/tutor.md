@@ -98,6 +98,12 @@ Assess complete substitution, both-stage inequalities/exclusions, explicit domai
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Let $f(u)=1/(u-1)$ and $g(x)=\sqrt x$. Composition means first produce $\sqrt x$, then feed it into $f$, giving $1/(\sqrt x-1)$. The first stage needs $x\ge0$; the second excludes $\sqrt x=1$, so domain is $[0,1)\cup(1,\infty)$. Reversing the order gives $\sqrt{1/(x-1)}$, whose domain is $x>1$, showing why order matters.
+
+Cue “What value enters the outer function?”; set up $f(\sqrt x)$ and list the inner domain; then replace the outer input by the whole root, leaving its forbidden-output condition. Fade with outer $\sqrt u$ and inner $x-2$ (key $\sqrt{x-2}$, $x\ge2$). If a table omits the required outer value, stop at that missing information instead of inferring a formula.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

@@ -42,7 +42,7 @@ Curriculum reference: **Circle similarity and chord relationships** in [lesson.m
 - **Diagnostic key:** No; corresponding chords scale with the radius.
 - **Worked-example prompt:** A circle of radius 13 has a chord whose perpendicular distance from the center is 5. Find its length and explain the bisection.
 - **Worked model and reasoning:** Right-triangle congruence splits the chord equally; half-length $\sqrt{169-25}=12$, total 24. Translation plus dilation by $r_2/r_1$ maps any circle onto another. Equal chord comparisons across circles require equal radii.
-- **First hint:** Join the center to both chord endpoints.
+- **First hint:** Which equal distances from the center could help explain the chord relationship?
 
 #### Learn
 
@@ -107,6 +107,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include converse tangency tests using shortest distance and interior/on-circle/exterior point cases; do not invent a tangent from an interior point.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**Use a radius to choose a right triangle.** In a radius-10 circle, a chord is 6 units from the center, measured perpendicularly. The perpendicular bisects the chord, so its half-length is $\sqrt{10^2-6^2}=8$ and the full chord is 16. The whole chord is not the leg in that right triangle. Equal perpendicular distances imply equal chord lengths only within the same circle or equal-radius circles.
+
+If the learner answers 8 for the chord, ask which endpoints bound the segment they calculated. Next name chord endpoints A,B and foot M; then state AM=MB and let them recover AB. Fade to radius 13 and distance 12 (chord 10). For tangent data, distinguish the perpendicular radius to the tangency point from center-to-exterior distance; the latter is the hypotenuse in the tangent-length triangle. These numeric checks do not replace the similarity or tangent theorem proofs.
 
 ## Lesson completion
 

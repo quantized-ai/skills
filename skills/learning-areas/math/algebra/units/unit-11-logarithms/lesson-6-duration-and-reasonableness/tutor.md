@@ -98,6 +98,12 @@ Assess formulation, reachability, continuous solution, schedule-aware conversion
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $A=A_0e^{-0.2t}$ with $A_0>0$, half-life solves $A_0e^{-0.2H}=A_0/2$. Dividing by the positive initial amount gives $-0.2H=\ln(1/2)$, hence $H=\ln2/0.2>0$ in the model's time unit. Cancellation explains independence from initial amount.
+
+Cue “What ratio is the target to the initial amount?”; set up $e^{-0.2H}=1/2$; then take logs, leaving signs and duration. Fade with doubling under $A_0e^{0.3t}$ (key $\ln2/0.3$). For integer observations $A(n)=100\cdot2^n$, equality to $800$ occurs at $n=3$. “Exceeds” first qualifies at $4$, whereas “at least” qualifies at $3$. Neighboring observations and monotonicity establish the first time; ordinary rounding of a continuous crossing does not.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

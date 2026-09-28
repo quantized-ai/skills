@@ -44,7 +44,7 @@ Curriculum reference: **Intersecting chord products** in [lesson.md](lesson.md#c
 - **Diagnostic key:** No: equal products give x=6, while chord totals need not match.
 - **Worked-example prompt:** Chords AB and CD meet at P inside a circle, with PA=3, PB=8, PC=4. Find PD and explain the product.
 - **Worked model and reasoning:** $PD=6$ because $3\cdot8=4\cdot PD$. Triangles APC and DPB are similar: vertical angles at P and inscribed angles intercepting matching arcs give AA; corresponding sides imply $PA/PD=PC/PB$.
-- **First hint:** Pair the two subsegments lying on the same chord.
+- **First hint:** Which endpoints belong to each chord through the intersection?
 
 #### Learn
 
@@ -110,6 +110,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include two-secant cases and a similarity proof, extraneous negative roots, and the distinction between inside and whole length.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**Measure both secant factors from the exterior point.** For exterior P, a secant meets the circle first at A, then B, with PA=3 and AB=9. Thus PB=12 and the power product is $3\cdot12=36$. A second secant with exterior segment PC=4 has full PD=9 and interior CD=5. A tangent from P has length 6. Using $3\cdot9$ instead would multiply exterior by interior.
+
+If the learner answers CD=9, ask where the computed length starts. Next list $PD=PC+CD$; then supply $4(4+CD)=36$ and leave solving and positivity checks. Fade to exterior 2 and interior 10 on one secant, exterior 3 on another (whole 8, interior 5, tangent $2\sqrt6$). The similarity proof still needs ordered triangles and angle correspondences; arithmetic alone supports only the application component.
 
 ## Lesson completion
 

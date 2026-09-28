@@ -98,6 +98,12 @@ Require bidirectional point-number translation, axis roles, signs and geometric 
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Model $(3+i)/(1-2i)$ by multiplying by $(1+2i)/(1+2i)$, a ratio equal to one because $1+2i\ne0$. The denominator becomes $1+4=5$ and the numerator $3+6i+i+2i^2=1+7i$. Thus the quotient is $1/5+7i/5$. Multiplication by $1-2i$ recovers $3+i$; modulus squared explains why the denominator is positive.
+
+Cue “Which multiplier cancels the denominator's imaginary part?”; next supply the conjugate ratio; then work the denominator $5$, leaving numerator distribution. Fade with $(2+i)/(1-i)$ (key $1/2+3i/2$). If the learner already has the correct fraction but swapped plotted coordinates, address only representation: $1/5+7i/5$ is $(1/5,7/5)$, and conjugation reflects it to $(1/5,-7/5)$.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

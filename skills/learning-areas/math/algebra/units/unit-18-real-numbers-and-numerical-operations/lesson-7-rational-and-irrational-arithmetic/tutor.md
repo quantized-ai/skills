@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** If a/b and c/d are rational, sum=(ad+bc)/(bd), an integer ratio with bd≠0. Their quotient is ad/(bc) only when c≠0. Thus rational division is closed only when the divisor is nonzero.
 
-**Misconception response and hint ladder:** If0/0 is used as a rational example, ask whether its denominator meets the definition; next return to allowed integer ratios. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If0/0 is used as a rational example, ask whether its denominator meets the definition; next return to allowed integer ratios.
 
 **Practice progression:** Numeric examples → general closure proof → division exception. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** If r is rational and u irrational, r+u cannot be rational: otherwise u=(r+u)−r would be rational by closure. A nonzero rational multiple ru is also irrational; r=0 is the necessary exception. Two irrationals can sum to0 or multiply to2.
 
-**Misconception response and hint ladder:** If any expression containing an irrational is called irrational, ask about √2−√2; next simplify before classifying. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If any expression containing an irrational is called irrational, ask about √2−√2; next simplify before classifying.
 
 **Practice progression:** Compute mixed cases → produce counterexamples → prove the nonzero rational-multiple claim. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -74,6 +74,12 @@ Use this reasoning as instruction or private calibration. Generate a fresh indep
 ## Further task construction
 
 Include nonzero rational times irrational, zero times irrational, sums/products of two irrationals with contrasting results, and short contradiction proofs.
+
+## Decision rehearsal and fading
+
+**Find the assumption doing the work.** To prove $3\sqrt2$ irrational, suppose $q=3\sqrt2$ were rational. Dividing by the nonzero rational 3 would make $\sqrt2=q/3$ rational, contradicting the given irrationality of $\sqrt2$. For $r\sqrt2$, this reasoning requires $r\ne0$; $r=0$ gives the rational value 0. Two irrational factors are different: $\sqrt2\cdot\sqrt2=2$, but $\sqrt2\cdot(2\sqrt2+1)=4+\sqrt2$ is irrational.
+
+If a learner lists several examples as a closure proof, ask “What represents an arbitrary rational input?” Then set $r=a/b$, $s=c/d$ with nonzero integer denominators; work only the sum's numerator $ad+bc$ and ask why both numerator and denominator meet the definition. Fade the mixed-product proof by giving only the assumption “$ru$ is rational” and asking for the inverse operation, restriction, and contradiction. Do not count recalling the numeric example as a general proof.
 
 ## Evidence, feedback and handoff
 

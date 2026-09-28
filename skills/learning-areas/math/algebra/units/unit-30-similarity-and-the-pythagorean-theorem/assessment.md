@@ -59,3 +59,17 @@ The examples above remain private calibration. Generate a new task for each sele
 | 30.4 — Special right triangles | Both special families; angle-side correspondence; positive scale; exact radical simplification; derivation not memorized labels alone. | [Teaching plan](lesson-4-right-triangle-metric-relationships/tutor.md#special-right-triangles) |
 
 Record the task fingerprint, exact case, observed reasoning, assistance and status. Award only the demonstrated component; list remaining cases by name. Use an explanation/error-analysis or reversed representation for transfer, and separately observe any required graph, construction, fit or simulation.
+
+## Annotated learner responses
+
+**Calibration prompt:** Right-triangle hypotenuse parts are 2 and 8. Find the altitude to the hypotenuse. For the reasoning version, add: “Justify the geometric-mean relationship using the smaller similar triangles.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “4.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “4.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| “Altitude squared is $(2+8)2=20$, so altitude is $2\sqrt5$.” | That is the adjacent original leg, not the altitude. Preserve valid positive-root arithmetic and repair correspondence. |
+| $h/2=8/h$ from ordered AA-similar triangles gives $h^2=16$, so $h=4$ since length is positive. | Valid ratio route; accept a complete equivalent triangle correspondence. |
+| Tutor supplies $h^2=2\cdot8$; learner then gives “4.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

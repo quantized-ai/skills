@@ -126,6 +126,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
 
+
+## Adaptive teaching examples
+
+Separate readiness from priority using the existing two-processor case A=4, B=3, C=2 with C depending on A. At time 3 a processor is free, but C is not ready until time 4; the idle interval 3–4 is required, and C finishes at 6. **Conceptual cue:** “Which prerequisite is still unfinished at this event?” **Setup:** make separate columns for unfinished and ready tasks. **Worked step:** record A finishing at 4; leave C's assignment and makespan to the learner. Finish all tasks ending simultaneously before rebuilding the ready set. **Fade:** supply only the event times on a new trace, then ask the learner to generate them independently.
+
+For bounds, ask which obstruction each bound describes. Work divided by processors assumes ideal load sharing, whereas a longest task cannot be split in the nonpreemptive model. For independent durations 4,3,3 on two processors, the work bound 5 is unattainable: subset sums nearest to 5 are 4 and 6, yielding makespan 6. Explain that integrality and the partition argument strengthen the lower bound; a numerical gap by itself is neither proof that 6 is optimal nor proof that 5 is feasible. If the learner gives a different valid optimal schedule, accept it unless execution of a fixed priority list is the specific target.
+
 ## Lesson completion
 
 Mark this lesson complete only when every concept and its explicit checklist are **Secure in this session** under the [shared guide](../agent-guide.md#evidence-and-completion). Summarize what the learner independently demonstrated, what required help and the next missing case. A short sample or exposed worked example cannot certify the lesson.

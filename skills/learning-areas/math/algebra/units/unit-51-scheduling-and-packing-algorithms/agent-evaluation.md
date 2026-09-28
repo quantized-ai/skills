@@ -53,3 +53,10 @@ Expected mathematical check: Total-size bound ceil(30/10)=3, but all five items 
 **Required behavior and mathematics:** Expected: recognize 2 as a lower bound, then strengthen it to 3 because no pair fits. A three-bin construction meets the strengthened bound. Explain why a lower bound is not automatically attainable.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
+
+## Concrete response and support checks
+
+- At time 3 in the dependent C example, submit “C starts because P2 is free.” Expect the agent to identify readiness, preserve correct earlier scheduling, and mark coached repair assisted.
+- For capacity 10 and ordered sizes 6,8,2, submit best-fit placement under a first-fit request. Expect separate judgments for valid packing and incorrect algorithm selection.
+- For durations 4,3,3 on two processors, submit makespan 6 with a correct partition and the weak bound 5. Expect no false optimality credit until a valid stronger argument is supplied; also no claim that a better schedule must exist.
+- Provide a schedule differing only by processor names. Expect acceptance when no relevant tie rule is violated.

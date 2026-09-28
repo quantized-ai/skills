@@ -133,6 +133,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
 
+## A restricted window changes the conversion answer
+
+For $r=4\cos\theta$ with $0\le\theta\le\pi/2$, multiplying by $r$ gives $(x-2)^2+y^2=4$, but the stated interval traces only its upper semicircle from $(4,0)$ to the pole. Indeed $x=2+2\cos2\theta$ and $y=2\sin2\theta$ with $0\le2\theta\le\pi$. The full circle equation alone therefore enlarges this restricted locus; add $y\ge0$.
+
+When a learner reports the full circle, ask whether $(2,-2)$ can occur in the original window. If needed, cue the signs of $r$ and $\sin\theta$; then supply $y=4\cos\theta\sin\theta$, leaving its sign and endpoint check. If the learner has the correct upper semicircle but reverses travel, ask for the first and last parameter values. Fade by supplying the circle equation for $r=2\sin\theta$, $0\le\theta\le\pi/2$, and asking which half is traced: the right half, from the pole to $(0,2)$. Require the existing actual-tool check separately.
+
 ## Lesson completion
 
 Apply [the shared evidence rule](../agent-guide.md#evidence-and-completion) to each concept and its listed cases. Report which methods and representations were independently demonstrated, which needed support, and what is still untested. Do not mark the lesson secure from a short sample or an unobserved graph/proof/tool action. Offer the next lesson or focused repair according to the student's request and evidence.

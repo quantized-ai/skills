@@ -109,3 +109,11 @@ Expected mathematical check: Orientation UL→DL→DR→UR→UL has movers Row,C
 **Required behavior and mathematics:** Expected: rank gaps do not determine cardinal utility differences, so this arithmetic does not justify a mixed-strategy prediction. Continue the appropriate ordinal best-response/move analysis, or require an explicitly supplied cardinal utility model.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
+
+## Concrete response and support checks
+
+- Ask for both optimal distributions for [[4,0],[1,3]] and submit swapped probabilities. Expect the tutor to recompute labeled expectations, obtain p=1/3 and q=1/2, and distinguish ownership from normalization.
+- On the flat lower envelope, ask first for one optimal mix and then for the complete optimal set. Expect p=1/2 to be accepted for the first request but recognized as incomplete for the second.
+- Submit a highest-payoff-sum argument for Nash. Expect a unilateral best-response check even if the named cell happens to be an equilibrium.
+- In the CC move example, supply an immediate gain and omit anticipated continuation. Expect the agent to preserve the legal first move while withholding terminal-outcome credit, without summing intermediate ordinal ranks.
+- Supply a legal four-cell loop with a best-ranked scheduled mover. Expect separate tests for legal moves, stop-at-best cyclic classification and first-return termination; those claims must not be conflated.

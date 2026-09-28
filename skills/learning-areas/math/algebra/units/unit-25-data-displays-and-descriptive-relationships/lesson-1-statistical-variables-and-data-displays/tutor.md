@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** 'What color is each student's bag?' yields categorical values; 'How heavy is each bag?' yields quantitative measurements. Assigning colors numeric codes does not make the category labels measurable amounts. Define the observational unit as a student/bag before collecting data.
 
-**Misconception response and hint ladder:** If a numeric ID is quantitative, ask whether differences or averages of IDs mean an amount; next compare ID with measured mass. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If a numeric ID is quantitative, ask whether differences or averages of IDs mean an amount; next compare ID with measured mass.
 
 **Practice progression:** Classify questions → classify variables → refine a vague investigative question. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Survey 12 students:5 walk,4 bus,3 cycle. A bar chart has separate labeled categories and heights 5,4,3; relative heights 5/12,1/3,1/4 total 1. Do not average arbitrary category codes or omit a category from the denominator.
 
-**Misconception response and hint ladder:** If category bars are treated as histogram intervals, ask whether their ordering is numerical; next explain why category labels can be rearranged. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If category bars are treated as histogram intervals, ask whether their ordering is numerical; next explain why category labels can be rearranged.
 
 **Practice progression:** Counts → relative frequencies → critique a misleading categorical display. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -66,7 +66,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Data 1,2,2,5,7,9 give counts 3 and 3 in those bins. A dot plot preserves each value and duplicate; histogram groups them and loses exact positions. Choose equal bin widths here; counts are not directly comparable by height for unequal-width density displays.
 
-**Misconception response and hint ladder:** If5 is counted twice, ask which interval includes its endpoint; next apply the declared half-open rule. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If5 is counted twice, ask which interval includes its endpoint; next apply the declared half-open rule.
 
 **Practice progression:** Dot plot → equal-width histogram → changed-bin interpretation. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -85,6 +85,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include discrete/continuous variables, ambiguous bin boundaries, unequal group totals and display choice; for unequal-width bins distinguish frequency density from raw-height frequency.
+
+## Decision rehearsal and fading
+
+**Assign a boundary observation once.** For travel times $0,2,5,5,9,10$ minutes, use bins $[0,5)$, $[5,10)$, $[10,15)$: counts are 2, 3, 1. Both 5s belong to the second bin, and 10 to the third. A dot plot must retain both dots at 5; the histogram loses their exact positions within the bin but keeps their combined count.
+
+If a learner's frequencies sum to 8, ask which values appear in more than one bin. Next have them mark open and closed endpoints; then assign one 5 to the second bin and leave the duplicate and 10. Fade to $1,4,4,8,12$ with bins $[0,4),[4,8),[8,12),[12,16)$ (counts 1,2,1,1). Ask for axis units and an actual display, not just a frequency list. Numerical category codes would instead require categorical interpretation and separate bars.
 
 ## Evidence, feedback and handoff
 

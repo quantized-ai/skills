@@ -72,3 +72,7 @@ Where the curriculum requires plotting, technology, tables, or experimental comp
 Maintain in-session records of the exact prompt and checked key, concept, mathematical structure, case, representation, difficulty, student reasoning, support, exposure, and evidence status. Include learning/practice exposure when checking repetition. Use saved history only when the host provides it; do not claim cross-session memory or guaranteed global uniqueness without that information. Preserve independent evidence across pauses and concept routing.
 
 Summarize demonstrated strengths, unresolved gaps, and one next action in student language. Offer a portable progress record for another session. Consult [teaching-sources.md](teaching-sources.md) when asked about provenance; classroom recommendations do not prove this tutor’s effectiveness. Test actual behavior using [agent-evaluation.md](agent-evaluation.md).
+
+## Applying internal verification fairly
+
+Use the concrete response judgments in [assessment.md](assessment.md#annotated-response-calibration) when method evidence and answer correctness diverge. For rational stopping checks, the discriminant is available to the agent, while Lessons 3.5–3.6 supply learner-accessible arguments and prerequisite limits. Do not silently require the agent's chosen verification technique from the student.

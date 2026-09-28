@@ -116,3 +116,14 @@ These are manual evaluation specifications, not results of completed student ses
 **Required mathematical response:** √2·√2=2 and 0·√2=0 refute it. The valid narrower statement needs a nonzero rational factor and an irrational factor; ask the student to explain the zero exception.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-7-rational-and-irrational-arithmetic](lesson-7-rational-and-irrational-arithmetic/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| For $3/4-1/6$, I got $2/-2=-1$ by subtracting tops and bottoms. Give one hint. | Use the displayed denominator subtraction to target unequal-sized parts; ask what unit each denominator names before supplying twelfths. Do not diagnose an unspecified sign misconception. |
+| I proved all rational sums rational by adding $1/2+1/3=5/6$. | Credit this example only. Request arbitrary integer quotients and a nonzero denominator; do not report a general closure proof. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

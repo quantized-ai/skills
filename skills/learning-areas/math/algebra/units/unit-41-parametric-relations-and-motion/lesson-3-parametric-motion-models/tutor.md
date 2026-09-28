@@ -46,7 +46,7 @@ Curriculum reference: **Constant-velocity motion** in [lesson.md](lesson.md#conc
 - **Diagnostic key:** No; collision requires equal positions at the same allowed time.
 - **Worked-example prompt:** A(t)=(t,0), B(t)=(2,t-3) for t≥0. Do their paths intersect, and do the objects collide?
 - **Worked model and reasoning:** Paths share (2,0), but A visits at t=2 and B at t=3. Simultaneous equality would require both t=2 and t=3, impossible, so no collision.
-- **First hint:** Use one shared time variable for both coordinate equalities.
+- **First hint:** Does occupying the same place at different times count as a collision?
 
 #### Learn
 
@@ -124,7 +124,7 @@ Curriculum reference: **Idealized projectile motion** in [lesson.md](lesson.md#c
 - **Diagnostic key:** No; retain only times in the physical interval.
 - **Worked-example prompt:** Use x=6t, y=10+8t-5t² for a projectile above level ground, in meters and seconds. Find impact time, maximum height and range.
 - **Worked model and reasoning:** Positive impact root $T=(4+\sqrt{66})/5\approx2.425$ s; other root is negative. Vertex t=0.8 is in [0,T], maximum 13.2 m, range $6T\approx14.549$ m. Model assumes constant g=10 and no air resistance; launch and impact heights differ.
-- **First hint:** Solve y=0 and keep only times allowed by the model.
+- **First hint:** Which event ends the modeled flight, and which times are physically allowed?
 
 #### Learn
 
@@ -152,6 +152,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Vary launch/landing heights and horizontal direction, including vertical launch; verify maxima on the actual flight interval and do not use a same-height shortcut automatically.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## A constrained maximum can occur at launch
+
+For $x=3t$, $y=10-2t-5t^2$ above level ground, the positive impact time is $T=(-1+\sqrt{51})/5\approx1.2283$ seconds. The quadratic vertex is at $t=-0.2$, outside $[0,T]$. Completing the square gives $y=10.2-5(t+0.2)^2$; on the allowed interval the squared term grows, so maximum physical height is 10 at launch, not 10.2. Range is $3T\approx3.6849$ meters.
+
+If the learner reports 10.2, ask when that height occurs before discussing the formula. Then supply the allowed interval; finally compare the vertex time with zero, leaving the constrained maximum. Fade with a downward launch from another height and only the impact interval supplied, then remove it. For collision tasks use a shared clock even when objects start at different times; a separately solved path-intersection pair is not enough. For circular motion check radius-times-angle uses radians and distinguish distance traveled from endpoint displacement.
 
 ## Lesson completion
 

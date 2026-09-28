@@ -74,3 +74,14 @@ These are manual evaluation specifications, not results of completed student ses
 **Required mathematical response:** The angle must be included. Ask which two sides bound it; SSA may allow noncongruent triangles, while HL additionally requires both right triangles.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-4-triangle-congruence-criteria](lesson-4-triangle-congruence-criteria/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| I rotate (5,2) clockwise about (2,1) using (y,-x), so the answer is (2,-5). | Identify origin-centered rule misuse, ask whether the stated center stays fixed, then guide recentering. Correct image (3,-2). |
+| Two sides match and angle B matches angle E, so SAS, even though the sides given are AB,AC and DE,DF. | Reject the criterion: angles B and E are not the included angles between the named side pairs. Ask for correspondence and sufficient data; do not infer congruence from appearance. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

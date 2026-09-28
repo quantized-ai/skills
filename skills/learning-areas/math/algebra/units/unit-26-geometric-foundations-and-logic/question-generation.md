@@ -121,3 +121,13 @@ Use the [concept teaching plan](lesson-3-conjecture-and-deductive-proof/tutor.md
 **Reject/repair if these conditions are missing:** Great-circle lines; no parallels; minor-arc/hemisphere setting; angle sum>180°; antipodal exception.
 
 Use the [concept teaching plan](lesson-4-euclidean-and-spherical-geometry/tutor.md#spherical-lines-and-triangles) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Is “square implies rectangle” reversible? A 2-by-3 rectangle refutes the converse. | Both use an inclusive definition and one admissible counterexample; no tool investigation or general theorem proof is elicited. |
+| Intended comparable retry | Is “equilateral triangle implies isosceles” reversible? Sides 5,5,6 refute the converse. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Prove a vertical-angle theorem from two linear pairs and translate its dependency chain into another proof format; this adds deduction and representation. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

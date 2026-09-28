@@ -249,3 +249,15 @@ The A/B examples above illustrate selected cases. The following checklist identi
 | [Products of conjugate binomials](lesson-6-special-products/tutor.md#products-of-conjugate-binomials) | Collect symbolic justification, complete-component squaring and a numerical center/offset application. A recalled formula without identifying its components is incomplete evidence. |
 | [Proving and disproving polynomial identities](lesson-7-polynomial-identities-and-equivalence/tutor.md#proving-and-disproving-polynomial-identities) | Require a domain statement, a noncircular proof and a valid refutation. Distinguish proof of expression equivalence from finding particular solutions of an equation. |
 | [Identities and numerical relationships](lesson-7-polynomial-identities-and-equivalence/tutor.md#identities-and-numerical-relationships) | Assess mixed-term accounting, input constraints, leg/hypotenuse identification, exact verification and the common-factor criterion. Do not add an unproved general primitive-triple classification requirement. |
+
+## Annotated response calibration
+
+| Prompt and actual response | Judgment and next action |
+| --- | --- |
+| Expand $(3x-2)^2$: “$9x^2-12x+4$.” | Correct result; if no reasoning was requested, cross-product understanding remains unassessed. Request a neutral derivation rather than infer it. |
+| Expand $(x-2)(x^2+3x+4)$ using a complete grid and collect correctly. | Valid distributive method; no requirement to reproduce the key's row layout. Credit all pairings and collection. |
+| Subtract $(2x^2-3x+1)-(x^2+4x-6)$: “$2x^2-3x+1-x^2-4x+6$.” | Correct negation, unfinished collection if standard form was requested. Preserve sign evidence and identify the missing step. |
+| “$(x+2)^2=x^2+4$ is true because both equal 4 at zero.” | The evaluation is correct; identity justification fails. Ask what “for every real input” requires before teaching a counterexample. |
+| After one missing multiplication row is supplied, learner collects correctly. | Assisted multiplication completion; independently demonstrated collection may be retained, but full distributive mastery needs a fresh task. |
+
+Agent coefficient reconstruction may check a key by software; the learner can establish it by valid distribution. A tool check must not silently become the required learner method.

@@ -127,6 +127,13 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
 
+
+## Adaptive teaching examples
+
+For Kruskal, connect “avoid cycles” to components: an edge within an existing component closes a cycle, while one joining components expands connectivity. **Conceptual cue:** “Are these endpoints already joined by selected edges?” **Setup:** maintain component sets rather than rely on the drawing. **Worked step:** after AB and BC, the set is {A,B,C}; AC stays inside it and is rejected. Let the learner determine how D joins. For a triangle with all weights 1, any two edges form an optimum tree of cost 2; accept valid alternative tied choices. Equal objective value does not require identical edge sets.
+
+For the precedence example A=3, B=5, C=4 after both, draw A and B on parallel lanes. **Cue:** “Which unfinished predecessor prevents C from starting?” **Setup:** write \(ES_C=\max(EF_A,EF_B)\). **Worked step:** C starts at 5; leave its finish and the backward calculation to the learner. **Faded variation:** change B to 3, so project duration is 7 and both A–C and B–C are critical. Require all tied paths. Any processor limit is a separate scheduling constraint; it does not change the meaning of the unlimited-resource calculation.
+
 ## Lesson completion
 
 Mark this lesson complete only when every concept and its explicit checklist are **Secure in this session** under the [shared guide](../agent-guide.md#evidence-and-completion). Summarize what the learner independently demonstrated, what required help and the next missing case. A short sample or exposed worked example cannot certify the lesson.

@@ -112,6 +112,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
 
+## The same numerator can answer different questions
+
+In the existing 50-person chess/music table, 9 do both, 11 chess only, 6 music only, and 24 neither. Among musicians there are 15 people, so $P(C\mid M)=9/15$; among chess players there are 20, so $P(M\mid C)=9/20$. The joint fraction $9/50$ answers a third question. To test independence within this finite-group model, compare $9/50$ with $(20/50)(15/50)=6/50$: unequal, so the modeled events are dependent.
+
+If a learner writes $9/50$ for the conditional, ask which people remain eligible after learning “music.” Then supply the conditioned margin 15; finally write $9/15$ only at worked-step level. Fade by providing the interior table cells but no margins, then ask the learner to construct the table. If these are sampled people, the observed unequal proportions describe the sample; they do not by themselves prove population dependence or causation.
+
 ## Lesson completion
 
 Apply [the shared evidence rule](../agent-guide.md#evidence-and-completion) to each concept and its listed cases. Report which methods and representations were independently demonstrated, which needed support, and what is still untested. Do not mark the lesson secure from a short sample or an unobserved graph/proof/tool action. Offer the next lesson or focused repair according to the student's request and evidence.

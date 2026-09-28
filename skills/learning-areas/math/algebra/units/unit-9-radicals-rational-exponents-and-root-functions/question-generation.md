@@ -40,3 +40,14 @@ Each row distinguishes ways to vary a task from the mathematical evidence that m
 Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
 
 If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable square-root equations | $\sqrt{x+2}=x$ gives $2$, rejects $-1$; $\sqrt{x+6}=x$ gives $3$, rejects $-2$. | One squaring, two integer candidates, one sign rejection and original checks. |
+| Increased demand | $\sqrt{x+5}-\sqrt x=1$ gives $4$. | Requires isolating one radical, full binomial square and another root step. |
+| Domain boundary | $1/(\sqrt3+1)=(\sqrt3-1)/2$; variable version loses $x=1$ if conjugate-zero is ignored. | Variable rationalization adds whole-domain preservation; do not disguise it as a routine numeric retake. |
+| Model transfer | Endpoint $(1,2)$ and point $(5,8)$ in the stated family give $3\sqrt{x-1}+2$. | Requires construction and target attainability; actual technology verification remains a separate component. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

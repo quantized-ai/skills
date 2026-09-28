@@ -38,3 +38,13 @@ Each row distinguishes ways to vary a task from the mathematical evidence that m
 Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
 
 If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable vertex construction | Vertex $(2,-1)$ through $(0,7)$ gives $2(x-2)^2-1$; vertex $(-1,2)$ through $(1,10)$ gives $2(x+1)^2+2$. | Same squared displacement and one scale equation. |
+| Increased demand | Through $(0,1),(1,4),(2,9)$ gives $x^2+2x+1$. | Requires three coefficient equations and elimination rather than a supplied vertex. |
+| Structural boundary | $(0,2),(1,5),(2,8)$ gives the line $3x+2$. | Tests whether the leading coefficient is nonzero; three distinct points alone do not force a quadratic. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

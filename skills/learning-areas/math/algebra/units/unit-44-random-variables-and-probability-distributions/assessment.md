@@ -32,3 +32,15 @@ These original keyed probes combine or stress concepts. They are calibration ref
 **Prompt:** Compare Binomial(n=4,p=1) and geometric first-success trial with p=1.
 
 **Key and required reasoning:** Binomial count is 4 with probability one, mean 4, SD 0. Geometric trial count is 1 with probability one, mean 1. Interpret endpoints directly rather than relying on ambiguous zero-to-zero powers.
+
+## Annotated response calibration
+
+| Learner response | Evidence judgment |
+| --- | --- |
+| Gives binomial $P(X=2)=3/8$ for four fair independent trials with no requested explanation. | Correct probability; assumptions and event derivation remain unelicited. |
+| Gives that probability alone when asked to derive it from patterns and compare an actual simulation. | Correct calculation, incomplete derivation and simulation evidence. Request each missing component without inventing observations. |
+| Sums six pattern probabilities instead of using $\binom42$. | Valid alternative exact method; credit when every pattern is counted once. |
+| Uses a combination multiplier for first success on trial 3. | The stopping event allows only FFS. Diagnose event construction before factorial arithmetic. |
+| Repairs the geometric probability after the tutor supplies FFS. | Assisted event setup; later collect a new unassisted waiting-time event. |
+| Gives 130 as total cost of a 1500 loss under premium 30, deductible 100, payment cap 900. | Premium and deductible recognized, excess retained loss omitted. Correct cost is 630. |
+| Computes exact model probabilities and calls them simulated frequencies. | Mathematical model values may count; actual simulation remains unassessed. Request the run method and observed output. |

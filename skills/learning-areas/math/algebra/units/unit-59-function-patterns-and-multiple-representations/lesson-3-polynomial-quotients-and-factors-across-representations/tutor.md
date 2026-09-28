@@ -56,7 +56,7 @@ Divide a cubic by a line with nonzero remainder; divide a quartic by a quadratic
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Reconstruct p from divisor times quotient plus remainder.
+**First conceptual cue:** What part of the dividend is left after divisor times quotient?
 
 If the table uses q alone, compute the remainder fraction at one permitted input. If a canceled root is filled in, substitute it into the original denominator before discussing an extension.
 
@@ -108,7 +108,7 @@ Recover factors of a quadratic from exact zeros and a scale condition; factor a 
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Extract a common factor and multiply the full proposal back.
+**First conceptual cue:** Do the proposed roots determine the whole polynomial, including its scale?
 
 If scale is lost, evaluate at a nonzero test input after multiplying back. If a touching root is omitted because the graph never crosses, test its exact polynomial value and multiplicity.
 
@@ -178,6 +178,17 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 **Required case selection:** Evidence limits, degree-bound exceptions, reconstruction checks and exclusions.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+
+## Adaptive teaching examples
+
+Separate a polynomial identity from division at a point. From \(x^3+1=(x-1)(x^2+x+1)+2\), the identity is valid at every real input, including 1. The ratio \((x^3+1)/(x-1)=x^2+x+1+2/(x-1)\) is defined only for \(x\ne1\). At 2, values 9 and 7 are respectively the original ratio and the polynomial quotient; the difference is exactly the remainder fraction 2. Neither disagreement invalidates the division.
+
+Extend beyond linear divisors with \(x^4+1=(x^2-1)(x^2+1)+2\). The remainder degree 0 is below 2, and the original ratio excludes \(x=\pm1\). At 2 it equals \(17/3=5+2/3\). For a zero remainder, \((x^3-x)/x=x^2-1\) on \(x\ne0\); cancellation does not fill the original hole at zero.
+
+For omitted remainder contribution, cue “What portion of the dividend has not been included in divisor times quotient?” Next offer the identity \(p=dq+r\) and ask the learner to divide each term; only then show \(q+r/d\). Fade with \(x^3-1\) divided by \(x+1\): quotient \(x^2-x+1\), remainder -2, excluded input -1; at 2 the ratio is \(7/3=3-2/3\).
+
+For scale and evidence, \(2x^2(x-3)\) has a double zero at 0 and simple zero at 3, but the factors without the 2 halve its nonzero values. Multiplication verifies the whole polynomial. Four distinct exact agreements establish equality of two degree-at-most-three polynomials; four screen estimates do not supply four exact conditions. Ask the learner which kind of evidence they actually have.
 
 ## Lesson completion
 

@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A line has slope 2 and passes through (0,−4), so y=2x−4. Plot (0,−4), then move 1 right and 2 up to(1,−2); the line crosses the x-axis at2. The slope-intercept equation follows y−(−4)=2(x−0).
 
-**Misconception response and hint ladder:** If7 is labeled slope in y=−3x+7, ask which value changes output per added input; next compare x=0 and 1. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If7 is labeled slope in y=−3x+7, ask which value changes output per added input; next compare x=0 and 1.
 
 **Practice progression:** Read form → derive/graph → convert from a different equation. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For y=−2x+6, zero occurs x=3. Outputs are positive for x<3 and negative for x>3. The zero is an input; the x-intercept is the point (3,0). A nonzero constant function has no zero.
 
-**Misconception response and hint ladder:** If intercept coordinates are swapped, ask which axis forces which coordinate to0; next substitute the proposed point. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If intercept coordinates are swapped, ask which axis forces which coordinate to0; next substitute the proposed point.
 
 **Practice progression:** Intercepts → zero/sign intervals → horizontal and vertical exceptions. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -74,6 +74,12 @@ Use this reasoning as instruction or private calibration. Generate a fresh indep
 ## Further task construction
 
 Include positive/negative/zero slopes and restricted domains; derive the slope-intercept relationship from a fixed rate and an initial value before relying on a mnemonic.
+
+## Decision rehearsal and fading
+
+**Intersect graph features with the domain.** For $f(x)=-2x+6$ on $[1,3)$, the algebraic zero is 3, but it is not an allowed input. Thus the restricted graph has no x-intercept and is positive everywhere in its domain. Its maximum is $f(1)=4$; it has no minimum because 0 is approached but never attained. Draw a closed point at $(1,4)$ and an open point at $(3,0)$ joined by the line segment.
+
+If the learner calls 0 the minimum, ask “Which permitted input produces 0?” Next compare $x=2.9$ and $2.99$; finally show their outputs 0.2 and 0.02 and ask why neither is smallest. Fade to $g(x)=x-2$ on $(2,5]$ (positive, maximum 3, no minimum). Distinguish a correct full-line analysis from the additional domain restriction; preserve both evidence components separately.
 
 ## Evidence, feedback and handoff
 

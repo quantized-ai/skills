@@ -44,7 +44,7 @@ Curriculum reference: **Slope and parallelism** in [lesson.md](lesson.md#concept
 - **Diagnostic key:** Yes; their directions agree and their x constants differ.
 - **Worked-example prompt:** Explain why lines through (0,1),(3,7) and (0,-4),(2,0) are parallel.
 - **Worked model and reasoning:** Both have slope 2 and distinct intercepts 1 and -4. Rise/run equals tangent of the common direction angle for nonvertical lines. Equal slopes also permit coincident lines, so distinctness matters. Vertical lines need a separate x=constant test.
-- **First hint:** Compare direction and then decide whether the lines could coincide.
+- **First hint:** Do the equations describe distinct lines, or only the same direction?
 
 #### Learn
 
@@ -111,6 +111,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Require a geometric or coordinate proof; include horizontal-vertical pairs and parallel lines through supplied points.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Decision rehearsal and fading
+
+**Quarter-turn directions include the vertical case.** A line direction $(3,2)$ turns $90^\circ$ to $(-2,3)$, so slopes $2/3$ and $-3/2$ multiply to $-1$. A perpendicular through $(1,4)$ therefore has $y-4=-\tfrac32(x-1)$. For a horizontal direction $(1,0)$ the same turn gives $(0,1)$, a vertical line through that point, $x=1$, without dividing by zero.
+
+If the learner merely negates $2/3$, ask what happens to horizontal and vertical changes under a quarter-turn. Next supply the vector pair; then form the turned rise/run and leave the point-slope equation. Fade to a perpendicular to $x=5$ through $(-2,7)$ (y=7), requiring point membership and direction reasoning. To prove the general criterion, keep $(u,v)$ symbolic and state the finite, nonzero-slope assumptions; a numerical product alone is an example.
 
 ## Lesson completion
 

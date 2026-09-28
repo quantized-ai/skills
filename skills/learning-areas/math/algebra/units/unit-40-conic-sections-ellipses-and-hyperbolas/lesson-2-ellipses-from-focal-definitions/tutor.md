@@ -152,6 +152,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
 
+## Close the reverse implication in the derivation
+
+In the existing derivation, the reconstructed distances are $a\pm cx/a$. A point on $x^2/a^2+y^2/b^2=1$ satisfies $|x|\le a$, so $a\pm cx/a\ge a-c>0$. Their squares equal the original squared distances, and nonnegativity therefore identifies the distances themselves. Their sum is $2a$. This explains why the squaring did not add a second unwanted locus.
+
+If a learner writes the standard equation correctly but calls one vertex check a proof for all points, ask what bounds $x$ over the entire ellipse. Then supply $x^2/a^2\le1$; finally show $|cx/a|\le c$ and leave the sign conclusion. Fade with a vertical major axis, supplying only the reconstructed form $a\pm cy/a$ before requiring the argument independently. During construction, measure a vertex and focus from the center rather than copying their coordinates as $a,c$; verify all supplied data after forming the equation.
+
 ## Lesson completion
 
 Apply [the shared evidence rule](../agent-guide.md#evidence-and-completion) to each concept and its listed cases. Report which methods and representations were independently demonstrated, which needed support, and what is still untested. Do not mark the lesson secure from a short sample or an unobserved graph/proof/tool action. Offer the next lesson or focused repair according to the student's request and evidence.

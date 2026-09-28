@@ -125,6 +125,12 @@ Generate fresh tasks that collectively establish each of these curriculum obliga
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
 
+## Explain precision with a ratio, then qualify the comparison
+
+For margin $M=C/\sqrt n$ with fixed $C$, $M_2/M_1=\sqrt{n_1/n_2}$. Reducing margin from 6 to 4 therefore requires $n_2/n_1=(6/4)^2=9/4$; from $n_1=100$, use $n_2=225$. This ratio argument explains why the sample size changes quadratically. It applies only when the critical value, variability, and independence/FPC assumptions stay fixed.
+
+If the learner gives 150, ask whether margin depends on $n$ or its square root. Then supply the ratio equation; finally square both sides, leaving the new sample size. Fade by supplying $C$ but not the ratio, then remove $C$ through a fresh two-margin comparison. A narrow interval from a volunteer poll can still systematically miss the population target; shrinking a sampling margin does not remove selection bias. Interpret confidence through repeated interval coverage of a fixed parameter, not by moving the parameter or treating the interval as covering individual data.
+
 ## Lesson completion
 
 Mark this lesson complete only when every concept and its explicit checklist are **Secure in this session** under the [shared guide](../agent-guide.md#evidence-and-completion). Summarize what the learner independently demonstrated, what required help and the next missing case. A short sample or exposed worked example cannot certify the lesson.

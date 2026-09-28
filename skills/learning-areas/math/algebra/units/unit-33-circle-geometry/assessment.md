@@ -32,4 +32,18 @@ These original keyed probes combine or stress concepts. They are calibration ref
 
 **Prompt:** A circle radius is 6 and a minor sector has sweep π/3 radians. Find its arc length, sector area and minor segment area.
 
-**Key and required reasoning:** Arc $2\pi$, sector $6\pi$, central triangle $	frac12(6)(6)\sin(\pi/3)=9\sqrt3$, segment $6\pi-9\sqrt3$.
+**Key and required reasoning:** Arc $2\pi$, sector $6\pi$, central triangle $\tfrac12(6)(6)\sin(\pi/3)=9\sqrt3$, segment $6\pi-9\sqrt3$.
+
+## Annotated learner responses
+
+**Calibration prompt:** An exterior secant has outside length 3 and inside length 9. Another from the same point has outside length 4. Find its inside length. For the reasoning version, add: “Label near/far endpoints, justify exterior-times-whole, and verify positive lengths.” These examples calibrate the existing component-level evidence labels; they do not add a scoring scale.
+
+| Actual response or support state | Judgment and next action |
+| --- | --- |
+| Bare prompt; learner replies “5.” | Correct result for what was asked. Reasoning was not elicited and remains unassessed; do not infer guessing or a misconception. Ask a neutral explanation follow-up if that evidence is needed. |
+| Reasoning version; learner gives only “5.” | Result correct; specifically requested justification is missing. Name that omission, preserve the result evidence, and invite an explanation without supplying the method. |
+| “The second full length is 9, so its inside length is 9.” | Power computation may be correct; the endpoint interpretation is incomplete. Subtract the exterior 4. |
+| $3(3+9)=4(4+x)$ leads directly to x=5. | Valid direct unknown-interior equation; a separate full-length variable is unnecessary. |
+| Tutor supplies The equation $4(4+x)=36$; learner then gives “5.” | Supported success. Preserve any earlier unaided work, but reassess the supplied decision on an unseen item before recording independent proficiency. |
+
+A correction made before mathematical feedback remains independent under the guide. A clarification that merely asks the learner to show existing work does not itself supply a mathematical step; a targeted hint that teaches one does. A bare incorrect answer calls for working before selecting a misconception diagnosis.

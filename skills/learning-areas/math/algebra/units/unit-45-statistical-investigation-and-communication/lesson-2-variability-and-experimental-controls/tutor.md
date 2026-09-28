@@ -119,12 +119,18 @@ Give one relevant cue at a time and wait. If a cue does not help, use the indica
 Generate fresh tasks that collectively establish each of these curriculum obligations:
 
 - Preserve assignment within blocks or pairs.
-- Identify the experimental unit.
+- Identify the experimental unit and justify independent replication and controls addressing variation or bias.
 - Distinguish causal evidence from population representativeness and from certainty about every individual.
 
 **Required case selection:** Assignment within blocks/pairs, unit of treatment, replication, controls/blinding and causal versus generalization claims.
 
 At least one independent task must transfer the reasoning to a changed representation, context, exception or reversed question. Separate numerical correctness from missing proof, assumptions, construction, reporting or technology evidence. An unavailable practical component stays pending; do not replace it with an invented result.
+
+## Trace the independent assignment, not the measurement count
+
+Twelve trays each contain eight seedlings. If six trays are randomly assigned fertilizer A and six B, there are 12 experimental units, with six assigned units per treatment; the 96 seedlings are subsamples. A tray-level summary can compare assigned units without pretending each seedling received an independent assignment. If trays are paired by light exposure, randomly choose A versus B within each of the six pairs; assigning every sunny tray A would confound treatment with light.
+
+If the learner claims 48 independent replicates per fertilizer, ask which treatment assignments could have changed independently. Then supply a tray-by-treatment layout; finally mark one tray as a single assignment and leave the count. If assignment is correct but all-school or all-species claims follow, ask how trays entered the study instead. Fade by supplying block membership but no assignment plan, then remove the block labels on a fresh design task. An error term can describe remaining variation, but writing it does not establish independence, zero mean, or successful control.
 
 ## Lesson completion
 

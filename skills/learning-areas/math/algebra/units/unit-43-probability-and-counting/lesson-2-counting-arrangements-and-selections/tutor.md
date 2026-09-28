@@ -112,6 +112,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
 
+## Explain the division by a factorial
+
+Choosing two people from five distinct volunteers gives $5\cdot4=20$ ordered pairs. Each unordered team appears exactly twice, as AB and BA, so there are $20/2=10$ teams. If two of the five are designated red-shirted, the all-red event has 2 ordered outcomes out of 20 or 1 unordered team out of 10; both give $1/10$. Dividing only one part of a probability ratio changes the event's weight.
+
+If the learner writes $2/10$, ask what one numerator outcome and one denominator outcome mean. Then supply the AB/BA pairing; finally convert one count and leave the other. Fade by supplying the ordered total but not the duplicate count for teams of three, then require the convention and counts independently. Repeated-symbol arrangements need their own multiplicity correction: AAB has three distinct arrangements, not six, because exchanging the two A symbols leaves the word unchanged.
+
 ## Lesson completion
 
 Apply [the shared evidence rule](../agent-guide.md#evidence-and-completion) to each concept and its listed cases. Report which methods and representations were independently demonstrated, which needed support, and what is still untested. Do not mark the lesson secure from a short sample or an unobserved graph/proof/tool action. Offer the next lesson or focused repair according to the student's request and evidence.

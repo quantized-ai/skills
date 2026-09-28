@@ -56,7 +56,7 @@ Classify linear/quadratic/cubic equal-step tables; test exponential ratios and a
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Check the input step before comparing output differences.
+**First conceptual cue:** Are the changes in input equally spaced?
 
 If a single repeated difference establishes a family, calculate every available layer. If a negative output ratio is called a positive-base real exponential, inspect the stipulated base/domain conditions.
 
@@ -108,7 +108,7 @@ Reconstruct one table with h=1; repeat with shifted start and nonunit spacing; t
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Convert x to a step counter before using forward differences.
+**First conceptual cue:** How many equal input steps have passed since the first row?
 
 If the degree formula uses x as the step index, substitute the first two rows to reveal the mismatch. If domain/range are just listed sample values for a continuous model, distinguish the fitted function's stated domain from the observed table.
 
@@ -160,7 +160,7 @@ Calculate rates on equal and unequal intervals; compare a model's point errors w
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Divide each displacement by its own time interval.
+**First conceptual cue:** Do these displacements cover equal amounts of time, and what units should a velocity have?
 
 If small point errors are called sufficient validation, compare neighboring differences. If averaged changes are described as instantaneous derivatives, restate the finite intervals and what was actually measured.
 
@@ -188,6 +188,15 @@ Use this comparison after a quadratic reconstruction. In each row the family is 
 | Exponential $A r^{(x-1)/2}$ with positive ratio; inputs 1,3,5 and outputs 2,8,32 | Each input step is 2 and output ratio 4. Thus $A=2$, $r=4$ and $f(x)=2\cdot4^{(x-1)/2}=2^x$. | Substitute every point; the ratio 4 is for a two-unit step, not a one-unit step. |
 
 Ask the student to explain why using $48/6$ as the cubic leading coefficient or $2\cdot4^x$ as the exponential rule fails. Then change the starting input and spacing, construct the table from a privately chosen model, and have the learner recover it. For noisy measured outputs, exact constant differences generally disappear; discuss a supported approximate fit rather than rounding until a desired family appears.
+
+
+## Adaptive teaching examples
+
+Use differences to reveal structure, then state the family assumption that permits reconstruction. At \(x=1,3,5\), outputs 2,6,14 have first differences 4,8 and initial second difference 4. With \(t=(x-1)/2\), write \(p=2+4t+4t(t-1)/2\). Expanding gives \((x^2+3)/2\), not a formula with \(t=x\). An extra row at \(x=7\) must equal 26 if that quadratic model is to fit all supplied data. Do not omit an inconvenient extra row or quietly round it to fit.
+
+For a learner who uses 4 as an exponential base per unit of \(x\) when the step is 2, cue “How many input units pass between these two outputs?” Next mark a step counter under the input row; only then show an exponent \((x-x_0)/h\). Fade with inputs 2,5,8 and outputs 3,12,48: the positive-base exponential candidate is \(3\cdot4^{(x-2)/3}\). Its mathematical domain is all reals and range is positive reals; a contextual restriction can change both.
+
+For measured positions at 0,2,4 seconds, observed 0,4,12 m and predicted 0,5,11 m, compare average velocities 2,4 versus 2.5,3 m/s. A quadratic interpolating the observed positions is \(s(t)=t^2/2+t\); it reproduces both interval rates, but three samples alone do not prove the true motion is quadratic. Ask for a held-out measurement before treating improved in-sample fit as better prediction. If noisy data disturb exact differences, retain the noise assumption rather than forcing an exact degree label. Use new starting inputs and spacing for independent reconstruction after these examples.
 
 ## Lesson completion
 

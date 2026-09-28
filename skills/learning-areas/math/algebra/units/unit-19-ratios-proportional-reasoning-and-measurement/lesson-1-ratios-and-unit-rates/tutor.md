@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A mix uses flour:water=5:3. With 24 cups total, eight ratio parts correspond to3 cups each, so flour 15 and water 9. Check both sum and ratio;5/3 is not the flour fraction of the whole.
 
-**Misconception response and hint ladder:** If5/3 of the total is used, ask how many ratio parts form the whole; next draw 5+3 equal parts. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If5/3 of the total is used, ask how many ratio parts form the whole; next draw 5+3 equal parts.
 
 **Practice progression:** Simplify ratios → missing equivalent part → reconstruct a total. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Travel 150 km in2.5 hours gives 60 km/h. In reciprocal form this is1/60 hour/km, not 60 hours/km. Both unit rates describe the same relationship with different meanings.
 
-**Misconception response and hint ladder:** If cheaper package implies cheaper unit cost, ask whether package sizes match; next divide each cost by its own amount. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If cheaper package implies cheaper unit cost, ask whether package sizes match; next divide each cost by its own amount.
 
 **Practice progression:** Compute rate → convert units → compare options and reciprocal interpretations. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Vary units before comparing rates, scale recipes and use noninteger scale factors; require units and a nonzero denominator.
+
+## Decision rehearsal and fading
+
+**Choose the rate whose units answer the question.** Compare 600 g for 4.80 credits and 900 g for 6.75 credits. Converting masses first gives $4.80/0.6=8$ credits/kg and $6.75/0.9=7.5$ credits/kg; the larger package is cheaper per kilogram. Equally valid reciprocal rates are 125 and $133\tfrac13$ g/credit, where the larger rate is better. Comparing an 8 credits/kg rate with a g/credit rate is meaningless.
+
+For an observed comparison of package prices alone, ask “How much does one kilogram cost in each?” Next provide the two mass conversions; then work the first quotient and leave the second. If the learner uses reciprocals correctly, ask what a larger rate means instead of forcing inversion. Fade to 400 g for 3.20 credits versus 750 g for 5.70 credits (8 versus 7.6 credits/kg). Have the learner select and label the rate orientation.
 
 ## Evidence, feedback and handoff
 

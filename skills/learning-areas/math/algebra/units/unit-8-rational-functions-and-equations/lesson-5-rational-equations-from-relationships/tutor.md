@@ -98,6 +98,12 @@ Assess variable definitions, compatible units, rational formulation, complete al
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+With two pumps filling one tank in $4$ and $12$ hours separately, their rates are $1/4$ and $1/12$ tanks/hour. Add contributions to obtain $1/3$ tank/hour; one tank therefore takes $1\div(1/3)=3$ hours. Units explain why times cannot be added. This model assumes constant simultaneous additive rates and is reasonable because $3$ is shorter than either solo time.
+
+If the learner answers $16$ hours, cue “What part of the tank does each pump fill in one hour?”; next set up $1/t=1/4+1/12$; then combine the rates to $1/3$, leaving inversion and interpretation. Fade on solo times $6,3$ hours (key $2$ hours). For inverse variation, distinguish evidence from assumption: given the model and $(3,8)$, $xy=24$ forces $y=4$ at $x=6$; merely decreasing pairs do not establish that model.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

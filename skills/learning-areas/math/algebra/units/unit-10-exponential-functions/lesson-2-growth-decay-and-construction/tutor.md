@@ -98,6 +98,12 @@ Assess positive-base recovery, coefficient, both point checks, complete recursio
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $200$ units losing $15\%$ each year, one year leaves $200(1-0.15)=170$ and the next leaves $170(0.85)=144.5$. Therefore $A(t)=200(0.85)^t$: the percentage is of the current amount. For a model through $(1,6),(3,24)$, division cancels $a$ to give $b^2=4$; $b=2,a=3$, checked in both points. Recursion is $u_0=3,u_{n+1}=2u_n$.
+
+Cue “What fraction remains after one decrease?”; set up $200(1-r)^t$ with $r=0.15$; then work the first retained amount $170$, leaving the second. Fade on $80$ units declining $25\%$ each period (key $80(3/4)^t$, first two values $60,45$). If model parameters are correct but the recurrence starts at $u_1=a$, target the indexing origin only.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

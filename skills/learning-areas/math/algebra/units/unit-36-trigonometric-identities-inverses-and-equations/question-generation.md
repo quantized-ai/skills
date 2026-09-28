@@ -40,3 +40,14 @@ Declare angle units and principal inverse ranges. Check natural domains before u
 | [36.6 Basic periodic solution families](lesson-6-trigonometric-equations-and-models/tutor.md#basic-periodic-solution-families) | Include sine/cosine/tangent, affine arguments, no-solution targets and extrema where branches coincide; enumerate endpoints exactly. |
 | [36.6 Algebraic and identity-based equation methods](lesson-6-trigonometric-equations-and-models/tutor.md#algebraic-and-identity-based-equation-methods) | Include factoring, substitutions, squared extraneous roots, reciprocal exclusions and identity/inconsistent cases; substitute into originals. |
 | [36.6 Equations from periodic models](lesson-6-trigonometric-equations-and-models/tutor.md#equations-from-periodic-models) | Vary target within/outside range and measured parameters; use technology for numerical roots, retain all events and label approximations. |
+
+## Checked demand anchors
+
+| Intended use | Task and private key | Demand held or changed |
+| --- | --- | --- |
+| Routine branch and interval task | Solve $\sin(2x-\pi/6)=1/2$ on $[0,\pi]$: $\{\pi/6,\pi/2\}$. | Two sine branches, one affine argument, and one interval filter. |
+| Comparable intended retake | Solve $\sin(2x-\pi/3)=1/2$ on $[0,\pi]$: $\{\pi/4,7\pi/12\}$. | Same operation chain and branch count; changing coefficients alone is fresh execution, not transfer. |
+| Higher demand | Solve $2\sin^2x=\sin x$ on $[0,2\pi)$: $\{0,\pi/6,5\pi/6,\pi\}$. | Adds factorization and preservation of the zero branch; do not silently substitute it for a basic-family retry. |
+| Transfer | Explain why the two tangent half-angle quotients behave differently at $u=0$. | Requires natural-domain comparison; the key is 0 versus undefined, not a new inverse calculation. |
+
+Retakes retain the same support and proof/graph requirements. Deriving the addition identities is a different demand from using supplied identities. Computed decimal roots require an actual numerical method and a recorded tolerance; invented calculator output is not evidence.

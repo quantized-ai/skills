@@ -40,3 +40,15 @@ Each row distinguishes ways to vary a task from the mathematical evidence that m
 Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
 
 If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Intended demand | Example and checked key | Reason for classification |
+| --- | --- | --- |
+| Routine monic | $x^2-x-12=(x-4)(x+3)$ | Two coefficient constraints and expansion. Reverse construction from constant $-12$ and middle coefficient $-1$ changes reasoning direction. |
+| Nonmonic routine and comparable retake | $6x^2+7x+2=(3x+2)(2x+1)$; $6x^2-11x+3=(3x-1)(2x-3)$ | Both permit split-and-group with similar factor search; sign choice changes deliberately. Match requested method and support conditions. |
+| Increased demand | $12x^4-22x^2+6=2(3x^2-1)(2x^2-3)$ over the rationals | Adds GCF, substitution, restoration and rational stopping arguments. It is not a same-demand replacement for a quadratic. |
+| Boundary cases | $x^2-5x=x(x-5)$; $x^4-8x^2+16=(x-2)^2(x+2)^2$ | Exposes zero constant and retained multiplicities; do not hide these cases behind two routine trinomials. |
+| Mixed selection | Trinomial, grouping, square and cube items from Lesson 3.6, without method labels | The first-move explanation supplies strategy evidence; a named-method worksheet cannot supply it by itself. |
+
+Independently recheck factors after substitution. For example, $U^2+4$ is rationally irreducible, yet $U=x^2$ gives $x^4+4=(x^2-2x+2)(x^2+2x+2)$. This is a generator safeguard, not a compulsory new student identity. Use routine residuals with taught stopping arguments; label deeper cases as extensions. Intended comparable demand is an editorial judgment, not measured equivalence.

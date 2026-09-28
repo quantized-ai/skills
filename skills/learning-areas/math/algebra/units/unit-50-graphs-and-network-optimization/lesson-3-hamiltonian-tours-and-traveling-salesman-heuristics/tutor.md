@@ -108,7 +108,7 @@ Use one graph for two starting vertices and cheapest link; then introduce a tie 
 
 ### Responsive hints and misconceptions
 
-**First conceptual cue:** Record why each edge is accepted or skipped.
+**First conceptual cue:** Would choosing this edge break the degree rule or close a cycle too early?
 
 If a partial route cost is reported, ask for the final return edge. If a cheap edge is rejected without reason, test endpoint degrees and whether it closes a component too early.
 
@@ -135,6 +135,13 @@ After a correct small tour trace, present this complete, symmetric, **nonmetric*
 3. Enumerate the three tours up to reversal from A: ABCDA costs 105, ABDCA costs 106, and ACBDA costs $2+2+3+2=9$. This exhaustive enumeration certifies 9 as the optimum for this graph.
 
 Have the learner explain the precise rejected edge at each greedy step, then compare the certificates: a valid completed tour proves feasibility, whereas enumeration proves optimality here. The large approximation failure uses nonmetric weights; it does not refute a theorem whose hypothesis requires metric distances. For transfer, change a weight or the starting vertex, privately rerun every trace, and ask whether the old conclusion still follows.
+
+
+## Adaptive teaching examples
+
+Before choosing a tour algorithm, have the learner name what must be covered: customers are vertices, road segments are edges. A customer-to-customer graph edge may stand for a road path; distinguish those levels before rejecting a repeated road. If the input omits a connection, ask whether a permitted route and cost define it rather than silently completing the graph.
+
+For the existing four-vertex heuristic trace, use a decision ledger with candidate edge, endpoint degrees, premature-cycle test, and reason. **Conceptual cue:** “Would this choice prevent the remaining vertices from joining one tour?” **Setup:** draw the currently selected path AB–BC and list the two constrained endpoints separately from its interior vertex. **Worked step:** AC would close A–B–C–A before D joins; reject it for that reason at that stage, then let the learner continue. After CD has also been selected, AC additionally violates C's degree bound; explanations depend on the current state. **Fade:** ask for one rejection reason without the ledger headings on the next graph. A valid different tour deserves feasibility credit, but following a named algorithm and proving optimality are separate evidence components.
 
 ## Lesson completion
 

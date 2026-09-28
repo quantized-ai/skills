@@ -98,6 +98,12 @@ Assess mapping, domain/range, asymptote side, existing intercepts and end behavi
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+For $g(x)=-3\cdot2^{x-1}+4$, parent points $(0,1),(1,2),(-1,1/2)$ map to $(1,1),(2,-2),(0,5/2)$. Since $2^{x-1}>0$, all outputs are below $4$; the reflected graph decreases, approaching $4$ from below on the left and falling without bound on the right. Positivity explains both the range and the asymptote side.
+
+If the learner reports $y>4$, cue “What is the sign of the term added to $4$?”; then set up $g(x)-4=-3\cdot2^{x-1}$; next establish this is negative, leaving range notation. Fade with $2^{x-2}-8$ (asymptote $-8$, range $(-8,\infty)$, intercept $(5,0)$). The asymptote is unattained here because the exponential term cannot equal zero.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

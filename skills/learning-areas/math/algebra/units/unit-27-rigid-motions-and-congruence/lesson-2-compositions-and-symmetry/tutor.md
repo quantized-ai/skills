@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Let T shift right 2 then R rotate 90° counterclockwise: P=(1,0)→(3,0)→(0,3). Inverse rotates clockwise first to(3,0), then shifts left 2 to(1,0). Reverse operation order is necessary.
 
-**Misconception response and hint ladder:** If order is ignored, ask for the intermediate point; next compare both chains on the same input. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If order is ignored, ask for the intermediate point; next compare both chains on the same input.
 
 **Practice progression:** Two motions → inverse → construct full polygon correspondence. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A regular pentagon has 5 reflection axes and rotations by0°,72°,144°,216°,288° modulo 360°. A general parallelogram has identity/180° rotational symmetry but generally no reflection symmetry. Extra symmetry must follow shape conditions.
 
-**Misconception response and hint ladder:** If every diagonal is called a symmetry axis, ask whether it swaps adjacent sides of unequal lengths; next test a nonsquare rectangle. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If every diagonal is called a symmetry axis, ask whether it swaps adjacent sides of unequal lengths; next test a nonsquare rectangle.
 
 **Practice progression:** Detect symmetries → list full regular-polygon group elements → compare special/general quadrilaterals. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Generate inverse compositions, off-coordinate motion descriptions, regular polygons, general parallelograms and general versus isosceles trapezoids; list identities explicitly and use defining features to exclude extra symmetries.
+
+## Decision rehearsal and fading
+
+**Order matters even when each step is rigid.** Let $T(x,y)=(x+3,y)$ and $R(x,y)=(-x,y)$. For $P=(1,2)$, $R(T(P))=(-4,2)$, whereas $T(R(P))=(2,2)$. To undo $R\circ T$, reflect first and then translate left 3: $(-4,2)\to(4,2)\to(1,2)$.
+
+If the learner undoes the translation first, cue “Which operation happened last?” Next draw two empty intermediate-point boxes; then undo the reflection and leave the translation. Fade by giving final point $(-5,4)$ under the same sequence and asking for its preimage (2,4) without the intermediate point. For a whole triangle, repeat the rule on every defining vertex; one successful point does not establish correspondence of the full figure. Keep the separate task of listing all symmetries, including identity, distinct from finding one motion.
 
 ## Evidence, feedback and handoff
 

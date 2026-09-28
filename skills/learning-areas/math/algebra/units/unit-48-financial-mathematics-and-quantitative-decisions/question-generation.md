@@ -84,3 +84,16 @@ Required coverage: Weighted calculation, reference scales/periods, missing weigh
 **Check before release:** Verify an account or loan formula against at least two steps of its balance recurrence. Sum cash flows and reconcile principal, interest and final balance. Apply each marginal tax band only to its own slice; check discontinuities/boundaries explicitly. Compare net costs over the same horizon and state omitted resale, fees or risk quantities.
 
 A second pass must target the likely failure above, not simply repeat the same arithmetic. Retain the checked result, decisive assumption and accepted equivalent responses before exposing the task.
+
+## Task demand anchors
+
+Use these as intended demand anchors, not statistically equated test forms. Keep the fictional rules, payment timing, required representation, and available support explicit.
+
+| Demand | Checked example and preserved reasoning |
+| --- | --- |
+| Routine timing | Starting balance 500, interest 2%, payment 60 after interest: interest 10, ending balance 450. Requires one ordered recurrence step. |
+| Comparable intended variant | Starting balance 800, interest 1%, payment 90 after interest: interest 8, ending balance 718. Same one-step structure; not transfer by itself. |
+| Added demand | Continue the first case for a second month: interest 9, ending balance 399. Add a rate reset or a final capped payoff only when that increased modeling demand is intended. |
+| Reverse/interpretive transfer | Given beginning balance 500, ending balance 450 and 2% interest before payment, recover payment 60 and explain the principal/interest split. If this reverse step was just modeled, use a different unexposed demand for transfer. |
+
+Sample other required cases deliberately: bracket boundary and credit order; fee-waiver basis; zero-rate deposits; final loan payoff; ownership and debt at a common horizon; insurance below deductible and above payout cap; normalization and ranking sensitivity. A harder multi-feature comparison should not silently replace a routine recurrence question on a same-difficulty retake.

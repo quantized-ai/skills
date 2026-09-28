@@ -98,6 +98,12 @@ Assess a,b identification, signed imaginary coefficients, embedded real numbers 
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Model $\sqrt{-18}=i\sqrt{18}=3\sqrt2\,i$. Squaring this one principal value gives $-18$; solving $z^2=-18$ also allows its negative. In $-4+3\sqrt2\,i$, the imaginary part is the real coefficient $3\sqrt2$. For $(a-1)+(b+2)i=3-5i$, equality of components gives $a=4,b=-7$.
+
+If the learner appends $\pm$ to the radical, cue “Is the question asking for a value or all solutions?”; then place $\sqrt{-18}=\square$ beside $z^2=-18$; only next supply the positive-imaginary principal value, leaving both equation roots. Fade with $\sqrt{-12}$ versus $w^2=-12$ (keys $2\sqrt3\,i$ and $\pm2\sqrt3\,i$). Do not repair a correct root simplification by reteaching component notation unless their response shows that separate confusion.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

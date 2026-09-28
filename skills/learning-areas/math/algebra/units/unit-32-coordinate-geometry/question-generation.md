@@ -31,3 +31,13 @@ Keep directed ratios and endpoint order explicit. Treat vertical/horizontal line
 | [32.3 Perimeters and coordinate areas](lesson-3-coordinate-proofs-and-polygon-measures/tutor.md#perimeters-and-coordinate-areas) | Include translated/rotated rectangles and triangles; preserve vertex order, distinguish perimeter from area, and use absolute area. |
 | [32.4 Standard and expanded circle equations](lesson-4-circle-equations-and-intersections/tutor.md#standard-and-expanded-circle-equations) | Generate real circles, point loci and empty loci; never take a negative squared radius as a real radius. |
 | [32.4 Circle incidence and intersections](lesson-4-circle-equations-and-intersections/tutor.md#circle-incidence-and-intersections) | Cover line-circle and circle-circle zero/one/two intersections, plus coincident circles; verify every candidate in both originals. |
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Intersect $x^2+y^2=25$ with $(x-6)^2+y^2=25$: $(3,\pm4)$. | Subtract squares, solve one linear coordinate, recover both signs, verify originals. |
+| Intended comparable retry | Intersect $x^2+y^2=25$ with $(x-8)^2+y^2=25$: $(4,\pm3)$. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Use center $(10,0)$ for tangency, $(12,0)$ for no intersection, or identical equations for a whole-circle solution. Classification changes are deliberate transfer, not just coefficient size. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

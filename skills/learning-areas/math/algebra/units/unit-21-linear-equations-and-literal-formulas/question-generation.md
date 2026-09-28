@@ -135,3 +135,13 @@ Use the [concept teaching plan](lesson-5-linear-equation-models/tutor.md#additiv
 **Reject/repair if these conditions are missing:** Constant-rate assumption; common time units; direction; nonnegative feasible time; original distance check.
 
 Use the [concept teaching plan](lesson-5-linear-equation-models/tutor.md#constant-rate-and-motion-relationships) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
+
+## Checked demand anchors
+
+These are intended demand comparisons, not empirically equated tests. Treat an exposed anchor as practice. Match the requested reasoning, representation, tool access and support when making a fresh retry; use the concept checklists above for the rest of the unit.
+
+| Anchor | Private task and key | Demand decision |
+| --- | --- | --- |
+| Initial case | Solve $(x+2)/3-x/4=2$; key $x=16$. | Same fixed denominators, one grouped numerator, same clearing/collection chain. |
+| Intended comparable retry | Solve $(x+1)/3-x/4=2$; key $x=20$. | Preserve the same support and explanation request; changing values alone is not transfer. |
+| Deliberate increase or transfer | Solve $(a-b)x=4$ for all real parameters: nonzero coefficient gives $4/(a-b)$, equal parameters give none. Symbolic case analysis is not a same-demand arithmetic retry. | Announce the changed reasoning demand and check its prerequisites before assigning it. |

@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Solve 4/(x-1)=2/3 with x≠1. Multiplication by3(x−1) gives 12=2(x−1), so x=7. Original ratios 4/6 and 2/3 agree. Equivalently scale 2/3 by2 to4/6; that identifies x−1=6.
 
-**Misconception response and hint ladder:** If cross multiplication is applied to a sum of fractions, ask whether two ratios are actually equated; next multiply the whole equation by the denominator rather than drawing diagonal arrows. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If cross multiplication is applied to a sum of fractions, ask whether two ratios are actually equated; next multiply the whole equation by the denominator rather than drawing diagonal arrows.
 
 **Practice progression:** Equivalent-ratio scaling → unit-rate solution → variable denominator with justified cross multiplication. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Doubling x in y=4x doubles y; adding 2 to x increases y by8. These are compatible multiplicative/additive views. A graph with constant slope but nonzero intercept is linear, but not direct variation.
 
-**Misconception response and hint ladder:** If all direct variation must increase, ask whether k can be negative in an abstract model; next plot k=−2. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If all direct variation must increase, ask whether k can be negative in an abstract model; next plot k=−2.
 
 **Practice progression:** Read k from each representation → convert representations → contextual domain and sign. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include missing values, tables, graphs, equations and nonproportional decoys; require equal nonzero ratios rather than merely equal differences.
+
+## Decision rehearsal and fading
+
+**Test the invariant before writing a rule.** A table $(x,y)=(2,6),(4,12),(5,15)$ has $y/x=3$ in every nonzero-input row, so $y=3x$ fits all supplied data and predicts $(0,0)$ if zero is in the stated domain. The table $(2,7),(4,13),(5,16)$ instead fits $y=3x+1$; its constant rate of change is not a constant ratio. Finite data support the proposed model on the supplied values; they do not establish unseen physical behavior without a modeling assumption.
+
+If the learner calls the second table proportional because differences match, ask “What should stay fixed when $x$ doubles?” Next have them compare $7/2$ and $13/4$; work the first ratio only if needed. Fade to $(3,12),(6,24),(8,32)$ with no suggested test. A separate proportion $3/5=9/t$ can be solved by scaling, unit rate, or multiplying by $5t$ with $t\ne0$; all give $t=15$.
 
 ## Evidence, feedback and handoff
 

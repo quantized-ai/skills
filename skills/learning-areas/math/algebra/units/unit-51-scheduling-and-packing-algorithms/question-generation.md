@@ -48,3 +48,17 @@ Required coverage: Both lower bounds, attainability, resource/objective distinct
 **Check before release:** Replay scheduling at every completion event, check each predecessor finish and processor exclusivity, and reconcile total busy time. Replay packing item by item, checking feasibility of every earlier bin for first fit and residual capacities for best fit. Count each item once. Independently compute work/processor, longest-path, volume and large-item bounds as applicable; claim optimality only with a matching feasible construction or proof.
 
 A second pass must target the likely failure above, not simply repeat the same arithmetic. Retain the checked result, decisive assumption and accepted equivalent responses before exposing the task.
+
+## Task demand anchors
+
+These anchors describe intended reasoning demand, not measured difficulty equivalence.
+
+| Demand | Checked anchor |
+| --- | --- |
+| Routine list trace | Independent A=4, B=3, C=2 on two processors, priority A,B,C: makespan 5, with C following B at time 3. |
+| Comparable intended variant | Independent A=5, B=4, C=2, same rules: makespan 6, with C following B at 4. |
+| Added demand | Add dependency A→C to the first task: one processor is idle from 3 to 4 and makespan is 6. Readiness adds a decision absent from the routine example. |
+| Packing contrast | Capacity 10, items 4,4,6,6: first fit uses 3 bins; first-fit decreasing uses 2. Naming and tracing the sorting step is required. |
+| Transfer | Give a feasible packing and a lower bound; ask whether optimality is proved and what changes if bins are interpreted as processors with a fixed deadline. |
+
+Do not announce “use the work bound” in an assessment intended to test bound selection. Include longest-task/critical-path restrictions, simultaneous completion, all six packing variants across the session, and a large-item bound exceeding the volume bound. A task requiring optimality proof has greater demand than executing a disclosed heuristic.

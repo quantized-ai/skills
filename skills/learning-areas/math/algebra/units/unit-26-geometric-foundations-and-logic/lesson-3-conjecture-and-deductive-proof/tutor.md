@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For a circle, construct several chords and their midpoints; draw each center-to-midpoint segment. Drag endpoints while retaining the circle and non-diameter chord. The apparent perpendicularity motivates a conjecture; independently constructing a perpendicular would bake the conclusion into the setup.
 
-**Misconception response and hint ladder:** If a dynamic drag is called proof, ask which untested cases remain; next request a theorem chain explaining the invariant. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If a dynamic drag is called proof, ask which untested cases remain; next request a theorem chain explaining the invariant.
 
 **Practice progression:** Angle investigation → congruence/triangle segments → polygon angles, diagonals and circle investigations with preserved constraints. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For parallelogram A=(0,0),B=(a,0),C=(a+b,c),D=(b,c), a,c≠0, both diagonal midpoints equal ((a+b)/2,c/2). Thus they bisect. Paragraph: explain midpoint equality; two-column: coordinates→midpoint formula→equal points→bisection; flow: two midpoint branches merge at equality.
 
-**Misconception response and hint ladder:** If a conclusion is inserted as a premise, ask what previously known result licenses it; next replace that step with a definition/theorem or leave an explicit gap. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If a conclusion is inserted as a premise, ask what previously known result licenses it; next replace that step with a definition/theorem or leave an explicit gap.
 
 **Practice progression:** Complete a missing reason → write proof → translate formats and compare methods. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Require actual investigations across every listed family in the curriculum (angles, congruence, triangle segments, polygon angles, diagonals, circles), then deductive arguments in each specified format/method; one coordinate example does not certify all of them.
+
+## Decision rehearsal and fading
+
+**Replace a picture with a dependency.** Suppose two lines intersect, creating adjacent angles $\alpha,\beta$ and the angle $\gamma$ vertically opposite $\alpha$. Linear-pair relationships give $\alpha+\beta=180^\circ$ and $\gamma+\beta=180^\circ$; subtracting yields $\alpha=\gamma$. This proof uses only straight-angle addition, not the vertical-angle theorem it establishes. A flow proof has the two linear-pair equations feeding equality; a two-column proof assigns the same reasons to those steps.
+
+If the learner says “vertical angles are equal” as the justification, ask which earlier fact can replace the target theorem. Next identify the shared supplementary angle; then supply one linear-pair equation and leave the other and subtraction. Fade by having them recast the proof as a paragraph. Tool measurements may motivate this conjecture; record actual investigated configurations separately, and do not claim this single proof or one drag covers all required investigation families or proof methods.
 
 ## Evidence, feedback and handoff
 

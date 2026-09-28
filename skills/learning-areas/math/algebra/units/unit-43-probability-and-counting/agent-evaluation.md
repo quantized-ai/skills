@@ -106,3 +106,11 @@ Uniform digits 0–9 are mapped by remainder modulo 3 to three people. Count all
 ## Unseen teaching test
 
 Select one concept diagnostic, answer with the exact misconception its feedback section targets, and request a hint. Check that the tutor first isolates that misconception, gives the relevant conceptual cue and permits revision. Then switch to assessment: the corrected example is exposed, so require a new representation or reasoning direction from the practice progression. For a proof or tool-dependent concept, submit a correct number without the required argument/artifact and verify that the tutor preserves partial success but leaves that component pending. Record the actual dialogue; these written checks are not a claim that an independent live evaluation has already passed.
+
+## Specific evaluator cases
+
+- Give $3/5$ alone first to a probability-only prompt, then to a prompt explicitly asking for a tree. Expect correct-answer credit both times, but unelicited reasoning versus incomplete requested construction distinguished. A valid combination method must be accepted for the probability.
+- Submit only RB with probability $3/10$ for the one-of-each event. Expect a cue about the other order before revealing BR. After supplying BR, treat the revised total as assisted.
+- Use $9/50$ as $P(C\mid M)$ in the 50-person table. Expect a conditioning-population probe leading to denominator 15, not an arithmetic misconception label.
+- Claim a detector's 90% sensitivity means 90% of flags are defective. Expect the 180 true flags and 490 false flags, posterior $18/67$, then the stipulated cost comparison. Changing a prevalence or cost must be allowed to change the recommendation.
+- Submit equal sample conditional proportions as proof of population independence. Expect sample-level acknowledgment with the population claim withheld; no causal inference follows.

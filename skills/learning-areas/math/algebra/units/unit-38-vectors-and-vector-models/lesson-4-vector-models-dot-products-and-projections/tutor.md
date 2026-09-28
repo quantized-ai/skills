@@ -46,7 +46,7 @@ Curriculum reference: **Velocity, force, and bearing models** in [lesson.md](les
 - **Diagnostic key:** From north clockwise under the bearing convention, unlike standard counterclockwise-from-east angles.
 - **Worked-example prompt:** A boat moves 12 km/h due north relative to water flowing 5 km/h east. Find ground velocity and bearing.
 - **Worked model and reasoning:** Ground velocity $\langle5,12\rangle$ km/h east/north, speed 13. Bearing measured clockwise from north is $\arctan(5/12)\approx22.62^\circ$, written 022.62 degrees.
-- **First hint:** Identify the reference frame for each velocity.
+- **First hint:** Relative to what observer is each velocity measured?
 
 #### Learn
 
@@ -151,6 +151,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 **Task range to sample:** Include negative work, oblique projections and zero displacement; retain the nonzero target-vector condition.
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
+
+## Derive the projection coefficient from its purpose
+
+Project $\mathbf u=\langle1,2\rangle$ onto $\mathbf v=\langle2,1\rangle$. Write the projection as $c\mathbf v$ because it must lie along the target. Require the residual perpendicular to the target: $(\mathbf u-c\mathbf v)\cdot\mathbf v=0$, hence $4-5c=0$ and $c=4/5$. Thus the vector projection is $\langle8/5,4/5\rangle$, scalar component $4/\sqrt5$, and residual $\langle-3/5,6/5\rangle$, whose dot product with $\mathbf v$ is zero.
+
+If a learner uses $\lVert\mathbf v\rVert$ as the coefficient denominator, ask whether the requested output is a scalar length or the coefficient multiplying a nonunit vector. Then supply $(\mathbf u-c\mathbf v)\cdot\mathbf v=0$; only next expand it, leaving $c$ and the residual. Fade with an oblique target and the coefficient equation supplied, then remove it. In a motion model, establish the velocity reference-frame equation before this arithmetic; a correct dot product does not establish a correct physical setup.
 
 ## Lesson completion
 

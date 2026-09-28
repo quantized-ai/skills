@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** From 2x+y=9 write y=9−2x; substitute into 3x−2y=−4:3x−2(9−2x)=−4 gives 7x=14, x=2,y=5. Parentheses preserve the substituted expression; both originals then hold.
 
-**Misconception response and hint ladder:** If−2(9−2x) is mishandled, ask what whole expression equals y; next distribute after inserting parentheses. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If−2(9−2x) is mishandled, ask what whole expression equals y; next distribute after inserting parentheses.
 
 **Practice progression:** Already isolated → isolate first → fractional/signed substitution. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Systems y=2x+1 and 2y=4x+2 are dependent: all (x,2x+1) solve. Replacing the second with 2y=4x+3 yields 2=3 after substitution, so no pair solves. Retain the first relation when parameterizing an identity case.
 
-**Misconception response and hint ladder:** If0=0 means x=y=0, test that pair in the originals; next write one free variable and its linked partner. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If0=0 means x=y=0, test that pair in the originals; next write one free variable and its linked partner.
 
 **Practice progression:** Unique case → dependent parameterization → inconsistent case. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -67,6 +67,12 @@ This previously checked composite example can connect concepts after instruction
 ## Further task construction
 
 Include isolated coefficients ±1, fractions and cancellations; represent infinitely many solutions parametrically or by the common line, never merely as “all ordered pairs.”
+
+## Decision rehearsal and fading
+
+**An identity leaves a relation.** Substitution in $y=3x-4$ and $2y=6x-8$ gives $6x-8=6x-8$. Every real choice of $x=t$ works only with its linked partner $y=3t-4$, so the solution set is $\{(t,3t-4):t\in\mathbb R\}$. It is a line, not the entire plane: $(0,0)$ fails the first equation.
+
+If the learner says “all numbers,” ask whether they mean all x-values with linked y-values or all ordered pairs. Then ask them to test $(0,0)$; only if needed provide $x=t$ and leave $y$ for them. Fade to $x=2y+1$, $3x=6y+3$ with the other coordinate free (key $(2t+1,t)$). Accept a correct common-line equation instead of parameter notation unless the prompt specifically requires parametrization.
 
 ## Evidence, feedback and handoff
 

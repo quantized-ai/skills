@@ -98,6 +98,12 @@ Assess row meaning, full-system consistency, pivot/free distinction, complete pa
 
 Use the [fresh-question policy](../question-generation.md); the two calibration examples above are exposed learning material, not the default quiz. Collect the curriculum's full proficiency evidence, retain demonstrated components, and reassess unresolved cases with new tasks.
 
+## Decision model and graduated practice
+
+Interpret reduced rows $x+2z=4$, $y-z=1$, $0=0$ in variable order $x,y,z$. The third row is redundant, while the unpivoted variable $z$ is free. Set $z=t$: every solution is $(4-2t,1+t,t)$ for real $t$. Substituting gives $4$ and $1$ for all $t$; conversely every solution has some value $t=z$, proving completeness beyond one numerical example.
+
+Cue “Which column has no pivot, and which row merely says an identity?”; next supply $z=t$; then solve $x=4-2t$, leaving $y$ and family verification. Fade with $x+y+z=3$ alone: two independent parameters yield $(3-s-t,s,t)$. The actual matrix-technology requirement remains distinct: obtain and inspect real output, preserving zero coefficient positions. A hand-written reduced form cannot be reported as tool output.
+
 ## Completion and handoff
 
 Apply the [shared evidence rubric](../agent-guide.md#evidence-rubric) separately to each referenced curriculum concept. Completion requires independent evidence covering all required proficiency, including transfer and any tool-dependent component. Summarize demonstrated strengths, unresolved gaps, support used, and the next task; never infer durable retention from this session.

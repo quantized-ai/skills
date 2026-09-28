@@ -109,6 +109,12 @@ Generate fresh questions without showing the method or key. Use this explicit co
 
 Required proof, construction, graphing or technology components need actual evidence of that action. When help teaches a mathematical step, mark the attempt assisted and collect a fresh independent task later; preserve successful components while missing cases remain pending.
 
+## Separate radius choice from angle choice
+
+Convert $(-2,-2\sqrt3)$ with $r\ge0$ and $\theta\in(-\pi,\pi]$. The radius is 4; both coordinates are negative, so the principal angle is $-2\pi/3$, not the principal arctangent $\pi/3$. Reconstruct $4\cos(-2\pi/3)=-2$ and $4\sin(-2\pi/3)=-2\sqrt3$. If negative radius is requested instead, $(-4,\pi/3)$ describes this same point.
+
+If a learner writes $(4,\pi/3)$, ask for its rectangular coordinates before diagnosing the inverse-tangent shortcut. Hint by stage: “Which quadrant has both coordinates negative?” → “Choose between $\pi/3$ and $\pi/3+\pi$, then normalize” → show $4\pi/3-2\pi=-2\pi/3$, leaving reconstruction. Fade by supplying only the radius for $(2,-2\sqrt3)$; then remove it. For $(0,0)$ accept any polar angle label but no claim of a unique argument.
+
 ## Lesson completion
 
 Apply [the shared evidence rule](../agent-guide.md#evidence-and-completion) to each concept and its listed cases. Report which methods and representations were independently demonstrated, which needed support, and what is still untested. Do not mark the lesson secure from a short sample or an unobserved graph/proof/tool action. Offer the next lesson or focused repair according to the student's request and evidence.

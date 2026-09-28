@@ -141,3 +141,8 @@ These are reviewer prompts with private keys in the linked tutors. For a teachin
 ## Reassessment comparison
 
 Save two actual generated quizzes at the same requested scope and difficulty. Compare mathematical data and reasoning demands, not just wording. Independently solve every presented item, list its curriculum cases and check that feedback on one item has not silently supplied independent evidence for another. Report coverage and failures per concept; this specification is not a record that those tests have passed.
+
+## Response-dependent decision checks
+
+- Submit a two-step ratio as the per-unit base. Expect an input-spacing cue before a worked root.
+- Supply a bracket straddling a rounding boundary and request a rounded answer. Expect further refinement or an honest unresolved precision claim, not invented numerical output.

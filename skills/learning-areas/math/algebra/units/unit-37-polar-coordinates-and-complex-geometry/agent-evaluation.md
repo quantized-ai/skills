@@ -106,3 +106,10 @@ A solution of w³=1 lists only w=1. Generate the missing roots and explain why k
 ## Unseen teaching test
 
 Select one concept diagnostic, answer with the exact misconception its feedback section targets, and request a hint. Check that the tutor first isolates that misconception, gives the relevant conceptual cue and permits revision. Then switch to assessment: the corrected example is exposed, so require a new representation or reasoning direction from the practice progression. For a proof or tool-dependent concept, submit a correct number without the required argument/artifact and verify that the tutor preserves partial success but leaves that component pending. Record the actual dialogue; these written checks are not a claim that an independent live evaluation has already passed.
+
+## Exact calibration scenarios
+
+- Give $(4,4\pi/3)$ for the point $(-2,-2\sqrt3)$ when the prompt sets no interval. Expect acceptance; with an explicit $(-\pi,\pi]$ convention expect correct-point credit plus normalization to $-2\pi/3$.
+- Submit $(x-2)^2+y^2=4$ as the complete locus of $r=4\cos\theta$ on $[0,\pi/2]$. Expect preservation of the algebra and identification of the missing $y\ge0$ restriction, tested with $(2,-2)$.
+- Request a hint after listing only $-2$ for $w^3=-8$. Expect attention to all argument representatives before giving the other roots. After the angle family is supplied, expect assisted status; a valid independent rectangular factorization must also receive credit.
+- Claim the calculated rose table proves actual graphing-tool use. Expect the symbolic mathematics to be acknowledged with the tool component still pending; no invented display or observation.

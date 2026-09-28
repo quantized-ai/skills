@@ -102,3 +102,14 @@ These are manual evaluation specifications, not results of completed student ses
 **Required mathematical response:** Feasibility requires every constraint. Use a membership table across all originals, then retain lattice points if quantities are counts.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-6-linear-inequalities-and-feasible-regions](lesson-6-linear-inequalities-and-feasible-regions/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
+
+## Concrete response audit
+
+These are specified scenarios for a future evaluator, not a report of executed learner or agent trials.
+
+| Actual audit input | Expected judgment |
+| --- | --- |
+| I kept only the sum $3x=9$ from $x+y=7$, $2x-y=2$, so y can be anything. | Identify the lost retained equation and recover y=4. A consequence alone is not an equivalent system. |
+| My screen shows no crossing for y=x and y=1.01x-1 on [-10,10]. Therefore no solution. | Do not endorse a window-limited conclusion. Algebra gives (100,100); obtain an actual wider graph if graphing is being assessed. |
+
+After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.
