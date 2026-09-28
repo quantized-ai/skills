@@ -1,0 +1,50 @@
+# Unit 11: generating fresh questions
+
+Read the [agent guide](agent-guide.md) and the selected curriculum/tutor pair via [SKILL.md](SKILL.md#lessons). Generate new questions for every quiz, including the first. The [bank](assessment.md) calibrates correctness and coverage; it is not a fixed test sequence.
+
+## Construction and validation
+
+Select the exact curriculum concept and required proficiency before choosing numbers. Use the task families below and the tutor’s concept guidance. Keep arithmetic, step count, abstraction, and prerequisites appropriate to the requested difficulty. On a retake preserve difficulty unless the student requests a change. A longer quiz can cover several task families; a short quiz reports sampled coverage only.
+
+Construct a complete prompt and independently solve that final prompt. Specify domain, parameters, units, geometry or graph information, and exact versus approximate expectations. Check every restriction, degenerate case, and claimed solution count. Reject underdetermined or contradictory data unless diagnosing that defect is explicitly the task. Verify by an appropriate independent computation or derivation; do not grade from an intended answer alone.
+
+Vary representation, reasoning direction, sign patterns, boundary cases, contextual assumptions, and coefficient data. A numerical variant can support procedural practice but does not by itself demonstrate transfer from a worked template. For transfer, ask for construction, interpretation, critique, or a different representation while retaining the same curriculum concept. Never add later topics solely for novelty.
+
+## Construction recipes for this unit
+
+Construct logs only with valid bases and original positive arguments, except intentional invalidity-diagnosis tasks. When condensing, retain separate restrictions. Generate exponential/logarithmic equations and solve every candidate against the originals; include constant parameter cases intentionally. Duration tasks need a positive initial amount, a reachable target and matched rate/time units. For discrete thresholds verify the candidate and its predecessor; ordinary rounding does not identify the first qualifying observation.
+
+## Task families and evidence checks
+
+Each row distinguishes ways to vary a task from the mathematical evidence that must survive that variation. Choose missing cases deliberately. A short quiz samples these requirements; it must not pretend to cover the full unit. Read the linked tutor and curriculum pair before generating.
+
+| Curriculum concept | Practice-to-transfer progression | Key and evidence checks |
+| --- | --- | --- |
+| [Logarithms as exponents](lesson-1-definition-and-basic-evaluation/tutor.md#logarithms-as-exponents) | Convert both directions, evaluate recognizable powers and determine domains of composite arguments. Include invalid bases and arguments for explanation. | Require correct three-way roles, valid-base conditions, full positive-argument domain and acceptance of valid negative/zero outputs. |
+| [Base 2, common logarithms, and natural logarithms](lesson-1-definition-and-basic-evaluation/tutor.md#base-2-common-logarithms-and-natural-logarithms) | Mix exact powers, reciprocals, zero output at argument one and bracketed estimates with explicitly named bases. | Assess notation, inverse evaluation, exact versus approximate reporting and an exponential-value reasonableness check. Do not infer a base from an unlabeled software function without confirming its convention. |
+| [Parent logarithms and reflection](lesson-2-logarithmic-graphs/tutor.md#parent-logarithms-and-reflection) | Match exponential/logarithmic pairs, reverse exact points and compare both valid base intervals, including tails and intercepts. | Require domain-range exchange, correct reflection, asymptote, intercepts, monotonicity and both end directions. A logarithmic output can be any real number. |
+| [Transformations of logarithmic graphs](lesson-2-logarithmic-graphs/tutor.md#transformations-of-logarithmic-graphs) | Vary reflected arguments, shifts/scales and positive/negative outside coefficients. Recover features from formulas and verify proposed points in the original rule. | Assess exact domain, point mapping, full range for nondegenerate transforms, asymptote side/direction and all existing intercepts. Handle zero scales separately without repairing undefined arguments. |
+| [Product and quotient properties](lesson-3-logarithm-properties-with-domains/tutor.md#product-and-quotient-properties) | Use numerical identities, symbolic expansion/condensation and domain-comparison tasks. Include negative-factor points valid only in the condensed expression. | Require exponent-based justification, correct signs in quotient rules, each original positive argument and explicit preservation of domain in any equivalence claim. |
+| [Power properties and absolute values](lesson-3-logarithm-properties-with-domains/tutor.md#power-properties-and-absolute-values) | Begin with positive arguments and integer powers, then even-power expressions with unrestricted nonzero inputs, supplied sign domains and invalid sum expansions. | Assess the positive-base argument hypothesis, correct coefficient extraction, absolute values where needed and domain comparison. A valid restricted identity must state its restriction. |
+| [Change-of-base formula](lesson-4-change-of-base-and-inverse-identities/tutor.md#change-of-base-formula) | Derive the formula, evaluate exact recognizable powers through it and estimate unfamiliar bases with a final power check. | Require derivation, all base/argument conditions, justified division, consistent auxiliary base and reasonable final rounding. |
+| [Inverse identities and their domains](lesson-4-change-of-base-and-inverse-identities/tutor.md#inverse-identities-and-their-domains) | Alternate both identities, composite arguments, mismatched bases and original restrictions that vanish from the simplified formula. | Assess base matching, admissible intermediate values, each identity's complete input set and equality only on that set. |
+| [Solving exponential equations with logarithms](lesson-5-exponential-and-logarithmic-equations/tutor.md#solving-exponential-equations-with-logarithms) | Use outside shifts, nonunit exponent slopes, impossible targets and constant cases. Add units and an allowed time interval in contextual tasks. | Require isolation, positivity, all scales/shifts, degeneracy classification, exact solution and original/context verification. Rounding is not a substitute for checking reachability. |
+| [Solving logarithmic equations and rejecting invalid roots](lesson-5-exponential-and-logarithmic-equations/tutor.md#solving-logarithmic-equations-and-rejecting-invalid-roots) | Progress from one log to sums/differences, resulting quadratics and a contextual equation with a reference scale. Include a candidate invalid in only one original logarithm. | Assess original-domain intersection, justified conversion, every candidate check and correct model units/meaning. Condensation must not admit inputs excluded by the original equation. |
+| [Doubling time and half-life](lesson-6-duration-and-reasonableness/tutor.md#doubling-time-and-half-life) | Use growth/decay in e and other positive bases, constant models and mismatched target-direction cases. Ask for units and a proportional verification. | Require positive initial amount, appropriate rate direction, exact duration, units and independence from initial size. Distinguish algebraic negative time from a permitted future duration. |
+| [Formulating and validating logarithmic solutions](lesson-6-duration-and-reasonableness/tutor.md#formulating-and-validating-logarithmic-solutions) | Vary inclusive/strict targets, discrete versus continuous observation and reachable/unreachable amounts. Require both the first qualifying observation and evidence that no earlier one qualifies under monotonicity. | Assess formulation, reachability, continuous solution, schedule-aware conversion and adjacent checks. State time units and avoid claiming a first observation without a defined starting index. |
+
+## Exposure and recovery
+
+Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
+
+If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable log equations | $\ln(x-1)+\ln(x+1)=\ln8$ gives $3$; $\ln(x-2)+\ln(x+2)=\ln5$ gives $3$. | Two argument conditions, quadratic candidates $\pm3$, one valid root in each. |
+| Increased demand | $3\cdot2^{2t-1}=15$ gives $(1+\ln5/\ln2)/2$. | Adds outside scaling and a shifted nonunit exponent; not equivalent to evaluating one recognizable logarithm. |
+| Interpretation transfer | $100\cdot2^n\ge600$ first qualifies at $3$; $100\cdot2^n>800$ first qualifies at $4$. | Requires integer schedule, threshold direction, and neighboring checks rather than rounding a continuous answer. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

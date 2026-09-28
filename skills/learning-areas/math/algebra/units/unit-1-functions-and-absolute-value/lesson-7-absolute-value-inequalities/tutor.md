@@ -91,6 +91,12 @@ Do not include the conversion rules in the prompt.
 - **No reversal during isolation:** Dividing by a negative value without reversing the comparison.
 - **Strictness disappears:** Including boundary points for $<$ or $>$, or excluding them for $\le$ or $\ge$.
 
+## Decision model and graduated practice
+
+Model $5-2|x-1|\ge-1$: subtract $5$ and divide by $-2$, reversing direction to $|x-1|\le3$. Distance at most $3$ from $1$ means $-3\le x-1\le3$, hence $[-2,4]$. Both boundaries give $-1$ in the original; an interior input $1$ gives $5$ and an exterior input $5$ gives $-3$.
+
+If the learner gives two outside rays, ask them to show the isolated inequality before diagnosing the connector. Cue “Did dividing by a negative reverse the comparison?”; then supply $-2|x-1|\ge-6$; only next work $|x-1|\le3$, leaving the interval. For a correct isolation but wrong connector, ask whether distance $0$ qualifies. Fade with $5-2|x-1|>-1$ (key $(-2,4)$), then independently vary the center or the sign of the isolated bound. Do not use the positive-bound two-branch rule for $|x-1|<0$, which is impossible.
+
 ## Lesson completion
 
 Mark this lesson complete only when the criterion is **Secure in this session** under the [shared evidence rubric](../agent-guide.md#evidence-rubric), with evidence across positive, zero, and negative bounds and both interior and exterior conditions.

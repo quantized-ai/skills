@@ -93,7 +93,7 @@ Curriculum reference: **Evaluating and interpreting function notation** in the [
 - **Diagnostic prompt:** For $f(x)=x^2-2x$, find $f(-3)$ and explain what is substituted.
 - **Key:** $(-3)^2-2(-3)=15$; the complete input replaces both occurrences of $x$.
 - **Worked model:** Let $C(n)=4n+3$ dollars for whole-number ticket counts $0\le n\le8$. Then $C(2)=11$ means two tickets cost 11 dollars; $C(2.5)$ is undefined in this model even though the expression $4(2.5)+3$ can be evaluated. For allowed $t+1$, $C(t+1)=4(t+1)+3=4t+7$, with $t+1$ a whole number in $[0,8]$.
-- **First hint:** “Put the entire input in parentheses wherever the variable appears.” For contextual errors, ask which quantity is counted and which is measured in dollars.
+- **First cue:** “What is the complete input, and which occurrences of the variable receive it?” **Setup if needed:** Put that entire input in parentheses at each occurrence. For contextual errors, ask which quantity is counted and which is measured in dollars.
 - **Generation check:** Supply domain restrictions rather than silently introducing rational-domain techniques. Accept an exact substituted expression when the prompt does not require expansion.
 
 #### Learn
@@ -126,6 +126,12 @@ Require independent performance on:
 - **Partial substitution:** Replacing only one occurrence of the variable.
 - **Lost grouping:** Substituting a negative or algebraic input without needed parentheses.
 - **Reversed quantities:** Treating the output as the input or assigning the wrong units.
+
+## Decision model and graduated practice
+
+For $p(t)=2t^2-t$, model $p(a+1)=2(a+1)^2-(a+1)$ before simplifying to $2a^2+3a+1$. Every occurrence receives the same complete input; parentheses preserve subtraction of both $a$ and $1$. If a student gives $2a^2+3a+3$, ask for the substitution line: a correct line followed by this result is arithmetic evidence, not evidence that function notation is misunderstood.
+
+Cue “What complete input replaces $t$?”; then supply $2(\square)^2-(\square)$; finally fill both boxes with $a+1$, leaving expansion. Fade with $p(a-1)=2(a-1)^2-\square$ (key $a-1$, final $2a^2-5a+3$). For classification, use the same insistence on input identity: $(-1,2),(1,2)$ is a function, but adding $(1,3)$ gives input $1$ conflicting outputs. Ask for that witness rather than accepting “there is a repeat.”
 
 ## Lesson completion
 

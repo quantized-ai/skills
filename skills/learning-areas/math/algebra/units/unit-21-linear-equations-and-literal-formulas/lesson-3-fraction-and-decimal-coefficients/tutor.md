@@ -1,0 +1,81 @@
+# Tutor: Lesson 21.3: Fraction and decimal coefficients
+
+Read [lesson.md](lesson.md) for authoritative scope and objectives, then use this file as the agent's teaching plan. Read [agent-guide.md](../agent-guide.md) for mode/evidence rules and [question-generation.md](../question-generation.md) before creating tasks. Keys and worked solutions below are private until the student submits or requests instruction. These are calibration examples, not a reusable quiz.
+
+## Readiness and routing
+
+Check fraction LCD and decimal place scaling; clear every term together before solving. Check only the prerequisite needed for the chosen concept; preserve the student's requested learn, practice or assess mode. A failed prerequisite calls for a short repair and return, not automatic completion or restart of an earlier unit. Stay within this lesson's curriculum; defer advanced methods that bypass its required reasoning.
+
+## How to run this lesson
+
+In **learn**, honor a direct explanation request immediately with the relevant teaching sequence and worked model. Use a short diagnostic only when it would help select the next teaching step; do not make it a prerequisite for receiving an explanation. When using a diagnostic, ask and wait before showing its key. Reveal one step at a time and ask for the reason or next step. In **practice**, use the three-stage progression for that concept, adapt the next case to the student's work, and fade assistance. In **assess**, skip compulsory preteaching and generate a new verified task covering a named case; keep its key hidden. Reference examples exposed here cannot supply independent reassessment evidence.
+
+## Reasoning and error-analysis activity
+
+**Ask:** Multiplying x/2+1=4 by 2 gives x+1=4. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+
+**Private reasoning and response:** Correct scaling gives x+2=8, so x=6. Ask which terms were left unscaled; use original substitution to reject x=3.
+
+If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
+
+## Concept teaching plans
+
+### Clearing numerical denominators
+
+**Diagnostic — ask and wait:** Solve x/3+x/2=5.
+
+**Private diagnostic key:** x=6.
+
+**Teach in this order:** Identify LCD; multiply the entire equality; retain grouped numerators; solve and verify with fractions.
+
+**Distinct worked model — reveal in steps:** $(x-1)/4+(x+1)/6=2$ multiplied entirely by 12 becomes 3(x−1)+2(x+1)=24, then 5x−1=24 and x=5. Both denominators are fixed nonzero numbers; every term must be scaled.
+
+**Misconception response and hint ladder:** If only fraction terms are multiplied, ask what happens to the other side; next mark one multiplication over the whole equation.
+
+**Practice progression:** One numerical denominator → several denominators → negative numerators and verification. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
+
+**Assessment case checklist:** Correct LCD; every term scaled; nonzero numerical denominators; signs; original check. Select independent tasks that collectively cover these cases and the curriculum row's full proficiency; a short session may leave named cases unassessed.
+
+**Curriculum evidence contract:** Identify every denominator, apply the multiplier across complete sides, retain signs and grouping, and verify the exact result in the fractional equation.
+
+### Decimal scaling and exactness
+
+**Diagnostic — ask and wait:** Solve 0.2x=1.4.
+
+**Private diagnostic key:** x=7.
+
+**Teach in this order:** Determine decimal place scale; multiply every term by one power of 10; solve exact integers; distinguish exact stated decimals from measured approximations.
+
+**Distinct worked model — reveal in steps:** $0.15x+0.4=1.3$ multiplied by 100 gives 15x+40=130, then x=6. These are exact decimal coefficients as stated; rounding 0.15 to 0.2 changes the equation.
+
+**Misconception response and hint ladder:** If only x's coefficient is scaled, ask whether the equality is unchanged; next rewrite all decimals as fractions over 100.
+
+**Practice progression:** Single decimal → mixed decimal places → exact versus approximate-data interpretation. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
+
+**Assessment case checklist:** Whole-equation scaling; exact arithmetic; power-of-ten choice; no premature rounding; substitution. Select independent tasks that collectively cover these cases and the curriculum row's full proficiency; a short session may leave named cases unassessed.
+
+**Curriculum evidence contract:** Scale both sides uniformly, avoid premature rounding, and check the result and its contextual precision in the original equation.
+
+## Extended private calibration
+
+**Prompt:** Solve $x/3-1/2=5/6$ and $0.4x+0.15=1.35$.
+
+**Private worked key:** Multiply every term of the first equation by 6: $2x-3=5$, so $x=4$. Multiply the second by 100: $40x+15=135$, so $x=3$. Original substitutions verify both. The terminating decimals are exact as stated, not rounded measurements.
+
+This previously checked composite example can connect concepts after instruction. Split it into manageable turns; it does not replace the distinct diagnostic and worked model for each concept.
+
+## Further task construction
+
+Mix signed fractions and decimals, keep exact arithmetic until final rounding, and include models whose decimal coefficients are measured so a numerical tolerance is appropriate.
+
+## Decision rehearsal and fading
+
+**Scale the equality, including the un-fractioned term.** For $(x+2)/3-x/4=2$, multiply both sides by 12: $4(x+2)-3x=24$. The factors 4 and 3 arise from $12/3$ and $12/4$; the right side must also be multiplied. Simplification gives $x+8=24$, hence $x=16$. Original substitution checks $18/3-16/4=6-4=2$.
+
+For observed work $4(x+2)-3x=2$, cue “What operation did you apply to the entire equality?” Next write $12[(x+2)/3-x/4]=12\cdot2$; then simplify only the right side and let the learner repair the left. Fade to $(x-1)/2+x/3=7$ with no multiplier supplied (key $x=9$). Accept direct fraction arithmetic or a larger common multiple when correct; if denominator-clearing technique is the target, ask for that demonstration explicitly.
+
+## Evidence, feedback and handoff
+
+Track each named concept, the case/representation observed, the student's actual reasoning, correctness and assistance. A number without the required units, condition, explanation, proof or actual artifact supports only the demonstrated portion. Accept equivalent valid methods; recompute unexpected answers before judging them. A faulty generated task is removed from the record and replaced without penalty.
+
+Use the shared guide's session evidence labels. Before declaring this lesson secure, check every required method/case, include independent transfer and keep observed construction/tool execution separate from a described plan. Report demonstrated strengths, helped attempts, remaining cases and one concrete next task. The local evidence rule is not a validated retention measure. See [private calibration bank](../assessment.md) and [sources and limits](../teaching-sources.md).

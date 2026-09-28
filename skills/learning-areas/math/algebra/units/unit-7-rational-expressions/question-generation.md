@@ -1,0 +1,50 @@
+# Unit 7: generating fresh questions
+
+Read the [agent guide](agent-guide.md) and the selected curriculum/tutor pair via [SKILL.md](SKILL.md#lessons). Generate new questions for every quiz, including the first. The [bank](assessment.md) calibrates correctness and coverage; it is not a fixed test sequence.
+
+## Construction and validation
+
+Select the exact curriculum concept and required proficiency before choosing numbers. Use the task families below and the tutor’s concept guidance. Keep arithmetic, step count, abstraction, and prerequisites appropriate to the requested difficulty. On a retake preserve difficulty unless the student requests a change. A longer quiz can cover several task families; a short quiz reports sampled coverage only.
+
+Construct a complete prompt and independently solve that final prompt. Specify domain, parameters, units, geometry or graph information, and exact versus approximate expectations. Check every restriction, degenerate case, and claimed solution count. Reject underdetermined or contradictory data unless diagnosing that defect is explicitly the task. Verify by an appropriate independent computation or derivation; do not grade from an intended answer alone.
+
+Vary representation, reasoning direction, sign patterns, boundary cases, contextual assumptions, and coefficient data. A numerical variant can support procedural practice but does not by itself demonstrate transfer from a worked template. For transfer, ask for construction, interpretation, critique, or a different representation while retaining the same curriculum concept. Never add later topics solely for novelty.
+
+## Construction recipes for this unit
+
+Construct factored operands and record each original denominator zero before expanding or reducing. For division also solve where the entire divisor is zero. For LCD tasks compare factor multiplicities; for complex fractions separately inspect inner denominators and the outer denominator. Independently expand a reduced equality or cross-multiply on the allowed domain, then inspect every excluded input; numerical sampling alone cannot recover a missing restriction.
+
+## Task families and evidence checks
+
+Each row distinguishes ways to vary a task from the mathematical evidence that must survive that variation. Choose missing cases deliberately. A short quiz samples these requirements; it must not pretend to cover the full unit. Read the linked tutor and curriculum pair before generating.
+
+| Curriculum concept | Practice-to-transfer progression | Key and evidence checks |
+| --- | --- | --- |
+| [Rational expressions and allowed inputs](lesson-1-definitions-and-restrictions/tutor.md#rational-expressions-and-allowed-inputs) | Classify expressions, list excluded inputs from factored denominators, then include zero numerators, constants and multiple roots. | Require quotient structure, nonzero-denominator-polynomial condition, input restrictions and undefined evaluations. Do not cancel before recording the original exclusions. |
+| [Original domains and equivalent formulas](lesson-1-definitions-and-restrictions/tutor.md#original-domains-and-equivalent-formulas) | Simplify removable factors, compare original/reduced evaluations and ask whether two formula-domain pairs define the same function. Include constant reduced results. | Assess original restrictions, valid simplification, retained exclusions and the exact sense of equivalence claimed. A wider reduced formula must not silently redefine the original object. |
+| [Canceling factors, not terms](lesson-2-simplification-by-factoring/tutor.md#canceling-factors-not-terms) | Start with visible factors, then require factoring and retain canceled restrictions. Contrast valid cancellation with visually similar invalid term cancellation and reverse-build equivalent restricted formulas. | Require complete-factor cancellation, all original exclusions, a justified equivalence and an error diagnosis. A coincident value at one input cannot validate an invalid cancellation rule. |
+| [Opposite factors and signs](lesson-2-simplification-by-factoring/tutor.md#opposite-factors-and-signs) | Vary odd/even multiplicities, opposite-factor locations and constant reductions. Ask for the sign of a result before the complete arithmetic. | Assess opposite-factor identification, parity, cancellation and inherited restrictions. Numerical checking supplements a symbolic factor argument rather than replacing it. |
+| [Multiplication of rational expressions](lesson-3-products-and-quotients/tutor.md#multiplication-of-rational-expressions) | Use products with common factors in opposite operands, several restrictions and exact polynomial reductions. Include an excluded input that disappears from every final denominator. | Require operand-domain intersection, factor-based simplification and a fully restricted answer. Verify the product at allowed inputs and reject evaluations at original holes. |
+| [Division and nonzero divisors](lesson-3-products-and-quotients/tutor.md#division-and-nonzero-divisors) | Move from simple to factored divisors, canceled factors and divisors with separate zero/undefined inputs. Ask the learner to explain each exclusion's source. | Require both operands defined, divisor nonzero, complete reciprocal, factor simplification and the union of all exclusion sources. Distinguish a zero rational function from isolated zero values. |
+| [Common denominators](lesson-4-addition-and-subtraction/tutor.md#common-denominators) | Use addition, subtraction, numerator cancellation and zero/constant results. Reverse the problem by supplying a difference and asking for one missing numerator under stated restrictions. | Assess common-denominator reasoning, full signed numerator combination, valid reduction and retained exclusions. Correct arithmetic alone does not excuse a lost domain condition. |
+| [Least common denominators](lesson-4-addition-and-subtraction/tutor.md#least-common-denominators) | Start with coprime linear denominators, then shared factors, repeated powers and numerical coefficients. Include subtraction and a reducible combined result. | Require a justified common denominator, equivalent numerator scaling, signed combination, simplification and all restrictions. Accept a valid nonleast common denominator unless leastness itself is assessed. |
+| [Complex fractions by division](lesson-5-complex-rational-expressions/tutor.md#complex-fractions-by-division) | Begin with monomial inner fractions, then sums in one or both outer parts and a lower expression that vanishes at a new input. Compare an unsimplified and reduced evaluation at an allowed input. | Assess structural parsing, both levels of restrictions, complete reciprocal and verified simplification. The final domain must describe the original complex fraction. |
+| [Complex fractions by clearing inner denominators](lesson-5-complex-rational-expressions/tutor.md#complex-fractions-by-clearing-inner-denominators) | Use one-variable sums first, then repeated factors and two-variable cases. Ask the learner to choose between clearing and division and verify agreement. | Require equivalent whole-part multiplication, complete distribution, original restrictions including outer zeros, and a justified simplified expression. A cleared formula may have a larger natural domain than the original. |
+| [Quotient-plus-remainder forms](lesson-6-structure-and-closure/tutor.md#quotient-plus-remainder-forms) | Use improper rational expressions, exact division and lower-degree numerators. Reverse the task by constructing a numerator from a given quotient and remainder. | Require division identity, proper remainder degree, quotient-plus-fraction representation and preserved original domain. Use reconstruction rather than asymptotic appearance as verification. |
+| [Closure and rational-number analogies](lesson-6-structure-and-closure/tutor.md#closure-and-rational-number-analogies) | Compare arithmetic with numerical fractions, prove a general operation's form and diagnose zero-divisor versus undefined-input cases. | Assess general-form reasoning, polynomial closure, nonzero-polynomial requirements and pointwise domain restrictions. Do not treat an operation's symbolic form as permission at every real input. |
+
+## Exposure and recovery
+
+Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
+
+If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable simplification | $(x^2+3x)/(x^2-9)=x/(x-3)$; $(x^2-2x)/(x^2-4)=x/(x+2)$. | Both require GCF and difference-of-squares factoring plus two original exclusions. |
+| Increased demand | $[x/(x-1)]\div[(x+2)/(x-3)]=x(x-3)/[(x-1)(x+2)]$, excluding $1,3,-2$. | Adds whole-divisor reciprocation and a separate zero-divisor restriction. |
+| Reverse/domain transfer | Compare $(x^2-4)/(x-2)$ with unrestricted $x+2$. | Agree for $x\ne2$ but differ as functions; tests formula-domain reasoning rather than another cancellation. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

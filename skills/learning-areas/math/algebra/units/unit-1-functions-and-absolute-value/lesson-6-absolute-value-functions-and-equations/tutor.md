@@ -128,6 +128,12 @@ Require fresh tasks covering:
 - **Branch before isolating:** Applying sign cases to an equation that still has outside operations.
 - **Verification is unnecessary:** Retaining candidates that fail the original equation after an invalid manipulation or arithmetic error.
 
+## Decision model and graduated practice
+
+Connect the branches of $g(x)=2|x-3|-4$ to distance: left of $3$, $|x-3|=3-x$, so $g(x)=2-2x$; at and right of $3$, $g(x)=2x-10$. Both meet at $(3,-4)$. The slopes $-2,2$ explain the V and the minimum, hence range $[-4,\infty)$. Setting output $0$ gives distance $2$, so the intercepts are $(1,0),(5,0)$.
+
+If the learner has one root only, cue “How many positions are distance $2$ from $3$?”; next set up $x-3=2$ or $x-3=-2$; then work the first root $5$, leaving the other and original checks. If isolation is the obstacle instead, work only $2|x-3|=4$ first. Fade with $2|x-3|-4=2$ (key $0,6$). A restricted input domain $x\ge3$ retains only $6$; two algebraic branches do not override the stated domain.
+
 ## Lesson completion
 
 Mark this lesson complete only when both graph analysis and equation solving are **Secure in this session** under the [shared evidence rubric](../agent-guide.md#evidence-rubric).

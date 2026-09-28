@@ -1,0 +1,53 @@
+# Unit 15: generating fresh questions
+
+Read the [agent guide](agent-guide.md) and the selected curriculum/tutor pair via [SKILL.md](SKILL.md#lessons). Generate new questions for every quiz, including the first. The [bank](assessment.md) calibrates correctness and coverage; it is not a fixed test sequence.
+
+## Construction and validation
+
+Select the exact curriculum concept and required proficiency before choosing numbers. Use the task families below and the tutor’s concept guidance. Keep arithmetic, step count, abstraction, and prerequisites appropriate to the requested difficulty. On a retake preserve difficulty unless the student requests a change. A longer quiz can cover several task families; a short quiz reports sampled coverage only.
+
+Construct a complete prompt and independently solve that final prompt. Specify domain, parameters, units, geometry or graph information, and exact versus approximate expectations. Check every restriction, degenerate case, and claimed solution count. Reject underdetermined or contradictory data unless diagnosing that defect is explicitly the task. Verify by an appropriate independent computation or derivation; do not grade from an intended answer alone.
+
+Vary representation, reasoning direction, sign patterns, boundary cases, contextual assumptions, and coefficient data. A numerical variant can support procedural practice but does not by itself demonstrate transfer from a worked template. For transfer, ask for construction, interpretation, critique, or a different representation while retaining the same curriculum concept. Never add later topics solely for novelty.
+
+## Construction recipes for this unit
+
+Construct exact angle tasks from verified unit-circle or special-triangle coordinates, with explicit degrees/radians and tangent exclusions. For sinusoidal models choose nonzero amplitude/frequency unless testing constant cases, specify consecutive phase events and verify quarter-cycle anchors. For travel distance state whether rotation reverses. For model fitting label observed versus simulated data, compute residuals with signs and do not infer long-term validity from one fitted cycle.
+
+## Task families and evidence checks
+
+Each row distinguishes ways to vary a task from the mathematical evidence that must survive that variation. Choose missing cases deliberately. A short quiz samples these requirements; it must not pretend to cover the full unit. Read the linked tutor and curriculum pair before generating.
+
+| Curriculum concept | Practice-to-transfer progression | Key and evidence checks |
+| --- | --- | --- |
+| [Directed angles and arc length](lesson-1-radian-measure/tutor.md#directed-angles-and-arc-length) | Use positive/negative and multiple-turn rotations, radius changes and explicitly described paths. Require units and the direction convention. | Assess radian ratio, signed rotation, nonnegative arc length, scale invariance and the no-reversal condition for the simple distance formula. |
+| [Degree conversion and coterminal angles](lesson-1-radian-measure/tutor.md#degree-conversion-and-coterminal-angles) | Convert both directions, reduce negative and multi-turn measures and compare intervals such as [0,2π) and (−π,π]. | Require correct units, exact conversion, integer full-turn adjustment, interval membership and terminal-point versus total-rotation distinction. |
+| [Sine, cosine, and tangent as coordinates](lesson-2-unit-circle-definitions/tutor.md#sine-cosine-and-tangent-as-coordinates) | Move from unit-circle coordinates to axis angles and nonunit points with known radius, then recover a missing coordinate under sign information. | Assess coordinate definitions, normalization, exact ratios and tangent exclusions. An unlabelled drawing must not supply guessed exact coordinates. |
+| [Quadrant signs, periodicity, and symmetry](lesson-2-unit-circle-definitions/tutor.md#quadrant-signs-periodicity-and-symmetry) | Use rotations and reflections to predict signs and values, then justify parent periods and symmetry without relying solely on a table. | Require quadrant signs, period/least-period distinction, parity identities and defined-domain conditions, with a coordinate-based explanation. |
+| [Special triangles](lesson-3-exact-special-angle-values/tutor.md#special-triangles) | Derive each triangle, evaluate its acute angles, then explain complementary swaps and exact rationalized equivalents. | Require both geometric derivations, consistent side roles and all three ratios at the special acute angles. Accept equivalent exact radical forms. |
+| [Reference angles and reflected coordinates](lesson-3-exact-special-angle-values/tutor.md#reference-angles-and-reflected-coordinates) | Use all quadrants, negative/multiple turns and axis cases, then reconstruct an angle family from signed special coordinates within a specified interval. | Assess reference-angle selection, exact magnitudes, signs, coordinate pairing and tangent domain. Correct memorized magnitude alone does not show full-angle understanding. |
+| [Proof and algebraic use of the identity](lesson-4-pythagorean-identity/tutor.md#proof-and-algebraic-use-of-the-identity) | Explain the geometric proof, perform basic rearrangements and critique a false identity using a permitted counterexample. | Require a general circle-based derivation, correct notation and identity-versus-equation reasoning. Samples can refute a claim but cannot establish the full identity. |
+| [Recovering ratios with quadrant information](lesson-4-pythagorean-identity/tutor.md#recovering-ratios-with-quadrant-information) | Recover ratios from sine, cosine or tangent, vary quadrants and include impossible or insufficient sign information. Verify the recovered values in both the identity and supplied ratio. | Assess magnitudes, justified signs, consistency checks and all recovered ratios. If the quadrant is absent, retain valid alternatives rather than inventing a unique answer. |
+| [Sine and cosine graphs](lesson-5-parent-trigonometric-graphs/tutor.md#sine-and-cosine-graphs) | Sketch several cycles, read features from exact graph descriptions and connect a unit-circle position with its graph point. Compare sine and cosine phase shifts. | Require consistent anchors, smooth shape, zeros/extrema, range and period, plus a coordinate interpretation. Record actual graph-tool observations separately when required. |
+| [Tangent graph and asymptotes](lesson-5-parent-trigonometric-graphs/tutor.md#tangent-graph-and-asymptotes) | Draw or describe successive branches, locate zeros/asymptotes in a stated interval and compare with bounded sine/cosine behavior. | Assess domain exclusions, period, zeros, branch monotonicity and range/no-amplitude distinction. Do not plot infinity as an attained output. |
+| [Amplitude, midline, period, and frequency](lesson-6-sinusoidal-transformations/tutor.md#amplitude-midline-period-and-frequency) | Vary signs, scales and time units, then recover parameters from stated extrema and period. Include constant degeneracies explicitly. | Require amplitude/midline/range, justified period, frequency units and boundary-case classification. Numerical parameter reading without units is insufficient in a time model. |
+| [Phase shift and transformed graphs](lesson-6-sinusoidal-transformations/tutor.md#phase-shift-and-transformed-graphs) | Compare factored/unfactored rules, signed coefficients, point construction and equivalent phase representations. Recover one acceptable model from sufficient features. | Assess inside factoring, phase/period distinction, checked anchors and recognition of nonunique equivalent forms. Do not demand one phase answer without declaring a convention. |
+| [Parameter estimation from periodic data](lesson-7-periodic-function-models/tutor.md#parameter-estimation-from-periodic-data) | Construct from extrema plus consecutive peaks, then crossings with direction and approximate data with tolerances. Compare equivalent valid models rather than forcing one form. | Require justified parameter estimates, phase event/direction, units, all-feature checks and identification of insufficient timing data. Do not infer a unique model from one cycle fragment without needed assumptions. |
+| [Model checking and limitations](lesson-7-periodic-function-models/tutor.md#model-checking-and-limitations) | Evaluate a fitted model on held-out points, compare residual patterns and explain where a prediction is supported or speculative. Include measurement tolerance when judging fit. | Assess correctly signed residuals, units, multiple-data interpretation and qualified prediction limits. Do not claim real observations, successful tool checks or long-term stability without evidence. |
+
+## Exposure and recovery
+
+Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
+
+If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable exact values | At $5\pi/6$: $(\cos,\sin)=(-\sqrt3/2,1/2)$; at $7\pi/6$: $(-\sqrt3/2,-1/2)$. | Same reference triangle, changed quadrant signs. |
+| Increased demand | $-13\pi/6$ has representative $11\pi/6$ in $[0,2\pi)$ and coordinates $(\sqrt3/2,-1/2)$. | Adds negative multi-turn reduction before reference-angle evaluation. |
+| Graph construction | $2\sin(3x-\pi)+1$ has shift $\pi/3$, period $2\pi/3$, range $[-1,3]$. | Recovering a formula from consecutive peaks reverses the direction and may have multiple equivalent phase forms. |
+| Model transfer | Maximum $9$, minimum $1$, consecutive peaks $2,8$: $5+4\cos[(\pi/3)(t-2)]$. | Adds parameter meaning, units and phase choice; residual checking requires additional observations. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.

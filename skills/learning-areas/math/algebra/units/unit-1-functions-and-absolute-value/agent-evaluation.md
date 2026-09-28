@@ -82,3 +82,9 @@ Apply the [generation specification](question-generation.md). Compare exact prom
 Before deployment, run these scenarios against each intended tutor model and retrieval setup. Repeat the hint, exposure, pause, and handoff sequences across multiple turns. Inspect whether the agent actually loaded the shared guide, curriculum concept, and companion tutor guidance, and whether its evidence record matches the conversation. A failed mathematical or independence check needs correction and a rerun of the affected scenarios before relying on its mastery report.
 
 Structural link checks and recalculation of answer keys can validate these files. They do not measure student learning, reliable retrieval, consistent agent behavior, or long-term retention. Those require observed agent sessions and learner evaluation. Keep the broader curriculum's existing standards mappings distinct from these local behavioral checks.
+
+## Teaching decision scenarios
+
+- Submit the correct transformed output and an incorrect input correspondence. The tutor must retain vertical evidence and ask for the inside input equation, rather than restart every transformation.
+- Give $[0,4]$ as the range of $x^2$ on $(-2,1]$ and say “I included 4 because it is an endpoint.” Expect a witness-input question, then assistance recorded if the excluded inputs are supplied.
+- Explain an absolute-value equation entirely by distance and verify both roots. Expect acceptance of the valid method, with graphing evidence kept separate when required.

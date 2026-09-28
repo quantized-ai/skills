@@ -90,6 +90,12 @@ Do not name the symmetry test in the prompt.
 - **Both is impossible:** Failing to recognize the zero function on a symmetric domain.
 - **A few matching pairs prove the identity:** Extending sampled evidence to an unspecified larger domain.
 
+## Decision model and graduated practice
+
+For $f(x)=x^3-2x$ on $\mathbb R$, the domain contains $-x$ whenever it contains $x$. Substitute the whole negative input: $f(-x)=(-x)^3-2(-x)=-x^3+2x=-f(x)$, proving oddness for every input. Checking $x=1,-1$ illustrates the identity but is not its proof. On $[0,2]$ the same formula is neither under this lesson's domain requirement.
+
+For a learner who writes $f(-x)=-x^3-2x$, cue “What happens to the second occurrence of the input?”; then supply $(-x)^3-2(\square)$; finally fill $-x$, leaving simplification and comparison. Fade with $q(x)=x^4-3x^2$ (key even on $\mathbb R$), asking the learner to write the domain check and substitution. If a learner classifies $q$ as even from several samples only, credit the observation and ask for a statement covering all allowed inputs.
+
 ## Lesson completion
 
 Mark this lesson complete only when the criterion is **Secure in this session** under the [shared evidence rubric](../agent-guide.md#evidence-rubric), with evidence across algebraic and nonalgebraic representations.

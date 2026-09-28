@@ -130,6 +130,12 @@ Require:
 - **Average equals constant behavior:** Assuming the function has the same rate at every interior point.
 - **Zero rate means constant function:** Ignoring equal endpoints with nonconstant behavior between them.
 
+## Decision model and graduated practice
+
+For $h(t)=6-2t$ meters on $[0,4]$ minutes, $h(1)=4$ and $h(3)=0$. The average rate $(0-4)/(3-1)=-2$ m/min records lost height per elapsed minute. The graph is positive for $t<3$ within its domain but decreases throughout; sign and direction answer different questions. Its absolute maximum is $6$ m at $0$ min and minimum $-2$ m at $4$ min.
+
+If a learner writes $0/3=0$, cue “Which two heights are being compared?”; then set up $(h(3)-h(1))/(3-1)$; only next substitute $(0-4)/2$. Leave interpretation to the learner. If the quotient is correct but units are reversed, keep the calculation and ask what one denominator unit measures. Fade using the same rule from $t=0$ to $2$, leaving both differences blank. Then change to a complete bent graph to test why equal average rates need not imply identical interior behavior.
+
 ## Lesson completion
 
 Mark this lesson complete only when both criteria are **Secure in this session** under the [shared evidence rubric](../agent-guide.md#evidence-rubric), including interpretation rather than calculation alone.

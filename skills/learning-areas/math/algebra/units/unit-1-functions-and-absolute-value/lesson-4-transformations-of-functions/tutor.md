@@ -85,7 +85,7 @@ Curriculum reference: **Reflections and scale factors** in the [concept table](l
 - **Diagnostic prompt:** Map $(6,-2)$ under $g(x)=-3f(2x)$ and name the scale factors.
 - **Key:** $(3,6)$; horizontal factor $1/2$, vertical factor $3$, and reflection across the horizontal axis.
 - **Worked model:** Under $g(x)=2f(-x/2)$, $(u,v)$ maps to $(-2u,2v)$. Thus $(1,3)$ maps to $(-2,6)$. Horizontal distances double and input locations reflect across the vertical axis; vertical distances double. If $f$ is even, the inside reflection alone is concealed by symmetry.
-- **First hint:** “Solve the inside input equation for the new coordinate before changing the output.”
+- **First cue:** “What new input would make the function receive the old input?” **Setup if needed:** Write the inside expression equal to the old input coordinate.
 - **Generation check:** Use a nonsymmetric parent or actual correspondences to expose reflections. For zero multipliers, evaluate the original expression's domain first; multiplying an undefined value by zero is not defined.
 
 #### Learn
@@ -121,7 +121,7 @@ Curriculum reference: **Combined transformations and experimental checks** in th
 - **Diagnostic prompt:** Factor the inside of $g(x)=2f(-3x+6)+1$ and map a point $(3,4)$ on $f$.
 - **Key:** $-3(x-2)$; mapping $(u,v)\mapsto(2-u/3,2v+1)$ sends $(3,4)$ to $(1,9)$.
 - **Worked model:** Suppose $D_f=[-2,4)$ and $R_f=(-1,3]$. For $g(x)=-2f(-2(x-1))+5$, mapping is $(u,v)\mapsto(1-u/2,5-2v)$. Domain is $(-1,2]$ and range $[-1,7)$: each negative multiplier reverses order while inclusion follows the original endpoint. For $f(x)=|x|$, the graph of $af(bx)$ reveals only $a|b|$, so $a$ and $b$ cannot generally be recovered separately.
-- **First hint:** “Track each endpoint together with whether it is included, then put the mapped endpoints in increasing order.”
+- **Endpoint cue, after the mapping is known:** “Which original endpoint produced each new endpoint, and was it included?” **Setup if needed:** Make an old-endpoint/new-endpoint table before ordering the new values.
 - **Generation check:** Use feasible domain/range data and independent correspondences. Obtain a real plotted result for technology evidence; never invent an observation. Check discrepancies by substituting into the unfactored original formula.
 
 #### Learn
@@ -153,6 +153,12 @@ Require the student to:
 - **Fixed transformation order as a shortcut:** Applying memorized graph moves inconsistently instead of using the coordinate mapping.
 - **Negative interval endpoints stay ordered:** Failing to reorder mapped endpoints.
 - **Graph appearance proves parameters:** Ignoring symmetry or insufficient correspondence information.
+
+## Decision model and graduated practice
+
+To map $(4,3)$ under $g(x)=-2f(2x-6)+1$, solve $2x-6=4$, obtaining $x=5$; transform the output to $-2(3)+1=-5$. Thus $(5,-5)$ corresponds because the new formula calls $f$ at the old input. Factoring $2x-6=2(x-3)$ explains the shift $3$ and horizontal factor $1/2$ without memorizing an order of moves.
+
+If a learner maps to $(2,-5)$, cue “Which new input makes the inside equal $4$?”; then supply $2x-6=4$; then work $2x=10$, leaving the coordinate and formula check. Preserve the correct output component. Fade by mapping another known point $(0,-1)$ (key $(3,3)$), then remove the supplied input equation. If the parent domain is $[0,4)$, the mapped endpoints are $3$ included and $5$ excluded. This correspondence reasoning supports prediction; the required graphing experiment still needs an actual plot and an observed comparison.
 
 ## Lesson completion
 

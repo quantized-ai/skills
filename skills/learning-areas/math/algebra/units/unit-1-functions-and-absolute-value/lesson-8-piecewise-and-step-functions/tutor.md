@@ -123,6 +123,12 @@ Require:
 - **Threshold equality is arbitrary:** Failing to assign exact boundary inputs from the contextual rule.
 - **Step range is continuous:** Including values between constant outputs.
 
+## Decision model and graduated practice
+
+For the complete rule $f(x)=x+1$ when $x<2$ and $f(x)=5$ when $x\ge2$, choose the condition before computing: $f(2)=5$, while the first branch approaches $3$ without attaining it. Domain is $\mathbb R$ and range is $(-\infty,3)\cup\{5\}$; neither $3$ nor $4$ is attained. If the student gives $(-\infty,5]$, ask which allowed input produces $4$ rather than merely correcting the notation.
+
+Cue “Which condition includes the requested input?”; then list $2<2$ and $2\ge2$ for evaluation; next mark only the second true, leaving substitution. Fade at $x=1.9$ and $2.1$ (keys $2.9,5$). For floor, $\lfloor-1.2\rfloor=-2$ because $-2\le-1.2<-1$, not because digits are removed. Scaffold $\lfloor x\rfloor=-2$ as $-2\le x<\square$, leaving $-1$; the resulting interval is $[-2,-1)$.
+
 ## Lesson completion
 
 Mark this lesson complete only when both criteria are **Secure in this session** under the [shared evidence rubric](../agent-guide.md#evidence-rubric), including exact-boundary and negative-input cases.

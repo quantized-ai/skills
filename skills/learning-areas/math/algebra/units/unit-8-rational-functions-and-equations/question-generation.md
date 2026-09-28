@@ -1,0 +1,49 @@
+# Unit 8: generating fresh questions
+
+Read the [agent guide](agent-guide.md) and the selected curriculum/tutor pair via [SKILL.md](SKILL.md#lessons). Generate new questions for every quiz, including the first. The [bank](assessment.md) calibrates correctness and coverage; it is not a fixed test sequence.
+
+## Construction and validation
+
+Select the exact curriculum concept and required proficiency before choosing numbers. Use the task families below and the tutor’s concept guidance. Keep arithmetic, step count, abstraction, and prerequisites appropriate to the requested difficulty. On a retake preserve difficulty unless the student requests a change. A longer quiz can cover several task families; a short quiz reports sampled coverage only.
+
+Construct a complete prompt and independently solve that final prompt. Specify domain, parameters, units, geometry or graph information, and exact versus approximate expectations. Check every restriction, degenerate case, and claimed solution count. Reject underdetermined or contradictory data unless diagnosing that defect is explicitly the task. Verify by an appropriate independent computation or derivation; do not grade from an intended answer alone.
+
+Vary representation, reasoning direction, sign patterns, boundary cases, contextual assumptions, and coefficient data. A numerical variant can support procedural practice but does not by itself demonstrate transfer from a worked template. For transfer, ask for construction, interpretation, critique, or a different representation while retaining the same curriculum concept. Never add later topics solely for novelty.
+
+## Construction recipes for this unit
+
+Construct numerator/denominator factors with controlled multiplicities for hole-versus-pole cases and preserve the original domain. For range tasks solve y=f(x) and verify every excluded/attained output; deleting one input need not delete its output. For rational equations reconstruct the original equation after solving and check every candidate, including identities and contradictions. For work/travel models define compatible units, positive times and constant-rate assumptions before choosing numbers.
+
+## Task families and evidence checks
+
+Each row distinguishes ways to vary a task from the mathematical evidence that must survive that variation. Choose missing cases deliberately. A short quiz samples these requirements; it must not pretend to cover the full unit. Read the linked tutor and curriculum pair before generating.
+
+| Curriculum concept | Practice-to-transfer progression | Key and evidence checks |
+| --- | --- | --- |
+| [The reciprocal parent function](lesson-1-reciprocal-functions-and-transformations/tutor.md#the-reciprocal-parent-function) | Use exact values, branch descriptions and table-to-graph correspondences, then justify domain, range and origin symmetry from the formula. | Require both branches, excluded input/output zero, asymptotes and odd symmetry with a domain check. A short table supports plotting but does not alone prove the entire range. |
+| [Transformations of reciprocal graphs](lesson-1-reciprocal-functions-and-transformations/tutor.md#transformations-of-reciprocal-graphs) | Vary signed scales and shifts, recover a rule from asymptotes plus a valid point, and compare insufficient or impossible data. | Assess asymptotes, mapped points, branch orientation, domain/range and justified construction. Do not infer a unique scale from asymptotes alone. |
+| [Holes and vertical asymptotes](lesson-2-discontinuities-and-intercepts/tutor.md#holes-and-vertical-asymptotes) | Contrast full and partial cancellation, multiple exclusions and numerator-only zeros. Ask for hole coordinates and asymptote equations with reasons. | Require original exclusions, multiplicity-aware reduction and correct classification/coordinates. An excluded input is not itself enough to decide hole versus vertical asymptote. |
+| [Rational-function intercepts and signs](lesson-2-discontinuities-and-intercepts/tutor.md#rational-function-intercepts-and-signs) | Move from simple rational intercepts to holes, poles at zero and repeated factors, then provide sign sets and critique false intercept claims. | Assess allowed intercept coordinates, zero versus undefined values, complete sign intervals and justified boundary behavior. Preserve holes in any reported solution or graph domain. |
+| [Horizontal asymptotes and end behavior](lesson-3-end-behavior-domain-and-range/tutor.md#horizontal-asymptotes-and-end-behavior) | Cover lower/equal/higher numerator degrees, above/below approach and crossing/noncrossing examples. Distinguish a polynomial asymptote from a horizontal one when division produces a nonconstant quotient. | Require justified end behavior, correct asymptote type and a finite-crossing check. Do not use asymptotes alone to infer an entire range. |
+| [Domain and range in three notations](lesson-3-end-behavior-domain-and-range/tutor.md#domain-and-range-in-three-notations) | Begin with reciprocal transforms, then a restricted rational example with repeated output values and equivalent set notations. Ask the learner to justify each excluded output. | Assess original domain, actual attainable range and consistent three-notation descriptions. A finite sample table or a rough plot cannot establish a global output set. |
+| [Clearing denominators and checking candidates](lesson-4-rational-equations/tutor.md#clearing-denominators-and-checking-candidates) | Progress from linear cleared equations to canceled restrictions, identities and contradictions. Ask the student to describe why clearing is safe only on the allowed set. | Require domain ledger, complete LCD multiplication, classification, all candidate checks and a justified final set. Do not silently discard inconvenient roots without explaining their invalidity. |
+| [Multiple solutions and graphical confirmation](lesson-4-rational-equations/tutor.md#multiple-solutions-and-graphical-confirmation) | Generate zero-, one- and two-valid-root cases, including an excluded quadratic candidate. Compare exact algebra with actual graph observations and stated display precision. | Assess all candidates, original verification, exact versus approximate reporting and any required tool evidence. A finite plot alone neither proves completeness nor repairs an undefined point. |
+| [Inverse variation](lesson-5-rational-equations-from-relationships/tutor.md#inverse-variation) | Move from a stated model and one pair to tables requiring validation, missing values and comparisons with other decreasing relationships. | Require model assumption, constant product and units, nonzero input, verified predictions and an evidence-based acceptance or rejection of proposed data. |
+| [Formulating rational equations and testing reasonableness](lesson-5-rational-equations-from-relationships/tutor.md#formulating-rational-equations-and-testing-reasonableness) | Start with joint-time calculations, then missing solo rates and compatible travel relationships. Include impossible specifications that imply a nonpositive rate. | Assess variable definitions, compatible units, rational formulation, complete algebraic solution and contextual rejection of invalid roots. These models assume constant rates unless explicitly changed. |
+
+## Exposure and recovery
+
+Compare exact mathematical data and required reasoning with all available learning, practice, and assessment exposure. Rewording a story or renaming a character does not create a fresh item. Keep the exact prompt, checked key, concept, case, representation, and difficulty in the current record. Without supplied past-session history, generate a new task but do not promise it cannot coincide with an unseen prior question. Replace a reported repeat.
+
+If the student asks for a familiar example, use it as review and label the exposure. After hints or taught feedback, choose a genuinely fresh independent task for the affected evidence. If a defect appears after presentation, acknowledge it, invalidate the item without penalty, and generate a checked replacement. This policy supplies many useful variations; it does not establish statistical equivalence of quiz forms or guarantee infinitely many distinct valid questions.
+
+## Checked demand anchors
+
+| Demand | Example and checked key | What changes |
+| --- | --- | --- |
+| Comparable rational equations | $1/(x-1)=2/(x+1)$ gives $3$; $2/(x-1)=3/(x+1)$ gives $5$. | Same restrictions and linear cleared equation, with original checks. |
+| Increased demand | $x=2/x$ gives $\pm\sqrt2$, with $x\ne0$. | Adds quadratic candidates and two original verifications; not the same solution structure as the preceding pair. |
+| Cancellation boundary | $(x^2-4)/(x-2)$ has hole $(2,4)$; $(x-2)/(x-2)^2$ has vertical asymptote $x=2$. | Similar visible cancellation but different surviving denominator multiplicity. |
+| Context transfer | Solo fill times $4,12$ hours give joint time $3$ hours. | Formulation adds rate interpretation and positivity assumptions to rational arithmetic. |
+
+These are intended demand comparisons, not measured equivalence. Match the assessed cases, permitted tools, and assistance as well as coefficient size; a numerical variant alone does not establish transfer.
