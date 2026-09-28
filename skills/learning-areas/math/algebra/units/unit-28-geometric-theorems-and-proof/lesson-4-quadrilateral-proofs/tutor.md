@@ -85,11 +85,11 @@ Use the shared guide's session evidence labels. Before declaring this lesson sec
 
 Take a nondegenerate simple quadrilateral ABCD in boundary order. State the hypothesis for each argument separately; do not borrow the desired classification as a premise.
 
-**Forward from a parallelogram.** Draw AC. Alternate interior angle pairs and shared AC give ASA congruence of triangles BAC and DCA, hence opposite sides and opposite angles B,D are equal. Parallel-line supplementary relationships give consecutive-angle sums180° and the remaining opposite-angle equality. If diagonals meet at O, compare AOB and COD: AB=CD is already proved, and the two angle pairs adjacent to those sides follow from AB∥CD. ASA gives AO=CO and BO=DO, so the diagonals bisect each other.
+**Forward from a parallelogram.** Draw AC. Alternate interior angle pairs and shared AC give ASA congruence of triangles BAC and DCA, hence opposite sides and opposite angles B,D are equal. Parallel-line supplementary relationships give consecutive-angle sums 180° and the remaining opposite-angle equality. If diagonals meet at O, compare AOB and COD: AB=CD is already proved, and the two angle pairs adjacent to those sides follow from AB∥CD. ASA gives AO=CO and BO=DO, so the diagonals bisect each other.
 
 **Both pairs of opposite sides equal.** Use the SSS diagonal proof in the concept plan: triangles ABC and CDA give the two alternate-angle pairs establishing both parallel pairs.
 
-**Both pairs of opposite angles equal.** Write A=C and B=D. The quadrilateral sum is360°, so2(A+B)=360° and A+B=180°. The same holds for B+C. The same-side-interior-angle converses applied to the appropriate side transversals give AD∥BC and AB∥CD.
+**Both pairs of opposite angles equal.** Write A=C and B=D. The quadrilateral sum is 360°, so 2(A+B)=360° and A+B=180°. The same holds for B+C. The same-side-interior-angle converses applied to the appropriate side transversals give AD∥BC and AB∥CD.
 
 **Diagonals bisect each other.** With intersection O, AO=CO and BO=DO. Vertical angles AOB and COD are equal, so SAS gives triangle AOB congruent to COD. Its corresponding angles establish AB∥CD. Apply SAS again to AOD and COB to obtain AD∥BC. The bisection hypothesis is given here, unlike the forward proof above.
 
@@ -97,7 +97,7 @@ Take a nondegenerate simple quadrilateral ABCD in boundary order. State the hypo
 
 ### Special parallelograms: both directions and angle bisection
 
-For a rectangle, compare triangles ABC and BAD: AB is common, BC=AD follows from the parallelogram property, and included angles B,A are right. SAS gives AC=BD. Conversely, in a parallelogram with AC=BD, the same triangles are SSS congruent; angles ABC and BAD are equal and consecutive supplementary, so each is90°. Thus the parallelogram is a rectangle.
+For a rectangle, compare triangles ABC and BAD: AB is common, BC=AD follows from the parallelogram property, and included angles B,A are right. SAS gives AC=BD. Conversely, in a parallelogram with AC=BD, the same triangles are SSS congruent; angles ABC and BAD are equal and consecutive supplementary, so each is 90°. Thus the parallelogram is a rectangle.
 
 For a rhombus, AB=AD and CB=CD: A and C are equidistant from B,D, so AC is their perpendicular bisector and AC⊥BD. The converse, parallelogram plus perpendicular diagonals implies rhombus, is established in the concept's right-triangle congruence model.
 

@@ -12,7 +12,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** A sample SD is reported as−2 meters because the sample has mostly below-mean values. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** A sample SD is reported as −2 meters because the sample has mostly below-mean values. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
 **Private reasoning and response:** Deviations may be negative but squared-average-root spread cannot be. Ask the student to calculate each squared deviation; follow by comparing SD units with variance units.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Center values, square deviations, choose N or n−1 from purpose, then take a root; track units and derive shift/scale behavior.
 
-**Distinct worked model — reveal in steps:** Population 1,3,5 has mean 3 and variance 8/3, SD√(8/3). As a sample its variance is4 and s=2. Transform y=−3x+7: mean becomes −2 and sample SD6, never −6.
+**Distinct worked model — reveal in steps:** Population 1,3,5 has mean 3 and variance 8/3, SD√(8/3). As a sample its variance is 4 and s=2. Transform y=−3x+7: mean becomes −2 and sample SD6, never −6.
 
 **Misconception response and hint ladder:** If SD uses squared units, ask which step returns to original units; if negative, ask whether distances can be negative. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
 

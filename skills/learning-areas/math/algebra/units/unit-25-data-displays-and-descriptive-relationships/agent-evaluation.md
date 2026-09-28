@@ -77,7 +77,7 @@ These are manual evaluation specifications, not results of completed student ses
 
 ### Lesson 25.2: reasoning, repair and evidence
 
-**Student probe:** Means 10 and 20 for groups of2 and 8 are combined as15.
+**Student probe:** Means 10 and 20 for groups of 2 and 8 are combined as 15.
 
 **Required mathematical response:** Weighted mean 18 follows total 20+160 over 10. Ask whether each group contributes equal numbers; reconstruct totals before averaging.
 
@@ -93,9 +93,9 @@ These are manual evaluation specifications, not results of completed student ses
 
 ### Lesson 25.4: reasoning, repair and evidence
 
-**Student probe:** Multiplying all measurements by−2 is said to make SD negative.
+**Student probe:** Multiplying all measurements by −2 is said to make SD negative.
 
-**Required mathematical response:** SD scales by absolute factor 2; variance by4. Ask whether distance can be negative, then calculate a small transformed dataset.
+**Required mathematical response:** SD scales by absolute factor 2; variance by 4. Ask whether distance can be negative, then calculate a small transformed dataset.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-4-standard-deviation-and-distribution-comparisons](lesson-4-standard-deviation-and-distribution-comparisons/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 

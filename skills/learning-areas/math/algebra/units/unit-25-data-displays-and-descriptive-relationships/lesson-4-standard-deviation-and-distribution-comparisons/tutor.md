@@ -12,9 +12,9 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** Multiplying all measurements by−2 is said to make SD negative. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** Multiplying all measurements by −2 is said to make SD negative. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** SD scales by absolute factor 2; variance by4. Ask whether distance can be negative, then calculate a small transformed dataset.
+**Private reasoning and response:** SD scales by absolute factor 2; variance by 4. Ask whether distance can be negative, then calculate a small transformed dataset.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -58,7 +58,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Shifting and scaling data
 
-**Diagnostic — ask and wait:** Shift every datum by7. What changes?
+**Diagnostic — ask and wait:** Shift every datum by 7. What changes?
 
 **Private diagnostic key:** center/location+7; spread unchanged.
 

@@ -40,13 +40,13 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Constant-rate and motion relationships
 
-**Diagnostic — ask and wait:** At60 km/h for 2.5 hours, distance?
+**Diagnostic — ask and wait:** At 60 km/h for 2.5 hours, distance?
 
 **Private diagnostic key:** 150 km under constant speed.
 
 **Teach in this order:** Draw positions/directions and time origin; write each distance=rate×time; translate the geometric relationship before solving.
 
-**Distinct worked model — reveal in steps:** Two travelers start 180 km apart and move toward each other at40 and 50 km/h. Combined closing rate 90 km/h gives meeting time 2 h; distances 80 and 100 sum 180. If they move in the same direction, subtraction rather than addition may apply.
+**Distinct worked model — reveal in steps:** Two travelers start 180 km apart and move toward each other at 40 and 50 km/h. Combined closing rate 90 km/h gives meeting time 2 h; distances 80 and 100 sum 180. If they move in the same direction, subtraction rather than addition may apply.
 
 **Misconception response and hint ladder:** If rates are always added, ask whether the separation grows or shrinks; next track positions after one hour.
 

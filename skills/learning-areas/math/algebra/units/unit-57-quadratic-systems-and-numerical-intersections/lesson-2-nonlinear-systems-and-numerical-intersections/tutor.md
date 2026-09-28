@@ -28,7 +28,7 @@ Curriculum reference: **Equations as intersections and successive approximations
 
 ### Separate diagnostic
 
-**Prompt:** The values of 1/x at−1 and 1 have opposite signs. Does the intermediate-value argument give a root between them?
+**Prompt:** The values of 1/x at −1 and 1 have opposite signs. Does the intermediate-value argument give a root between them?
 
 **Agent-only key:** No;1/x is not continuous on the interval and is undefined at 0.
 

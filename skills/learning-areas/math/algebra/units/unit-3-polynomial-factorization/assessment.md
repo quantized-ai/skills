@@ -164,7 +164,7 @@ Generate new tasks based on the complete curriculum and tutor coverage guidance.
 
 **Key:** Set $U=x^2$: $(U-1)(U-4)$ restores to $(x-1)(x+1)(x-2)(x+2)$.
 
-**B — Prompt:** Factor $x^6+3x^3+2$.
+**B — Prompt:** Factor $x^6+3x^3+2$ completely over the rationals.
 
 **Key:** With $U=x^3$, obtain $(U+1)(U+2)$, then $(x+1)(x^2-x+1)(x^3+2)$. The last cubic has no rational root.
 

@@ -30,11 +30,11 @@ Curriculum reference: **Doubling time and half-life** in the [curriculum concept
 
 #### Calibration and worked reasoning
 
-**Diagnostic prompt:** Find doubling time for $A(t)=A_0e^{0.3t}$, where $A_0>0$ and t is in years.
+**Diagnostic prompt:** Find the exact doubling time for $A(t)=A_0e^{0.3t}$, where $A_0>0$ and t is in years.
 
 **Agent key:** $e^{0.3T}=2$ gives $T=\ln2/0.3$ years, independent of positive $A_0$.
 
-**Worked example:** Find half-life for $A_0e^{-0.2t}$, where $A_0>0$.
+**Worked example:** Find the exact half-life for $A_0e^{-0.2t}$, where $A_0>0$.
 
 **Worked reasoning:** $H=\ln(1/2)/(-0.2)=\ln2/0.2$, a positive duration in the model's time unit.
 

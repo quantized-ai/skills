@@ -133,7 +133,7 @@ Use this after the test-family model. Ask the learner to select the method and i
 
 | Situation | Private computation and checked output | Interpretation at .05 |
 | --- | --- | --- |
-| 60 successes in 100 trials; $H_0:p=.5$ | Null counts 50/50; $SE_0=\sqrt{.5(.5)/100}=.05$; $z=(.60-.50)/.05=2$; $p\approx.04550$. | Reject the specified null; this does not give the probability that it is false. |
+| 60 successes in 100 trials; $H_0:p=.5$ | Null counts 50/50; $SE_0=\sqrt{.5(.5)/100}=.05$; $z=(.60-.50)/.05=2$; $p\approx.04550$ (z test without continuity correction). | Reject the specified null; this does not give the probability that it is false. |
 | $\bar x=104$, known population $\sigma=10$, $n=25$; $H_0:\mu=100$ | $SE=10/5=2$; $z=2$; $p\approx.04550$. | Reject. Known population variability is essential to this stated z method. |
 | Same mean and sample size, but only sample $s=10$ is known | $t=(104-100)/(10/5)=2$, $df=24$; $p\approx.05694$. | Fail to reject. Substituting a sample SD does not preserve the z reference distribution. |
 | Independent group means 12 and 10, both sample SDs 5 and sizes 50; $H_0:\mu_1-\mu_2=0$ | Welch $SE=\sqrt{25/50+25/50}=1$; $t=2$; Satterthwaite $df=(.5+.5)^2/[.5^2/49+.5^2/49]=98$; $p\approx.04827$. | Reject for the ordered difference $\mu_1-\mu_2$ under these assumptions. |

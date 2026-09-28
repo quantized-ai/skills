@@ -4,7 +4,7 @@ Read with [the curriculum](lesson.md), [shared interaction rules](../agent-guide
 
 ## Prerequisites and routing
 
-Check periods and percentages:6% annually compounded monthly uses.005 per month and 12 periods per year. Review exponent evaluation before compound models.
+Check periods and percentages:6% annually compounded monthly uses .005 per month and 12 periods per year. Review exponent evaluation before compound models.
 
 This lesson can be entered directly when its entry probe is secure; review only demonstrated gaps, not a mandatory sequence of unrelated units.
 
@@ -16,9 +16,9 @@ Use supplied hypothetical rules and rates only. Tax/legal/product advice, unprov
 
 **Purpose:** make the student test a consequential claim before accepting a procedure. Use after its relevant concept has been introduced; it is learning/practice evidence, not an unexposed assessment.
 
-**Prompt:** For three year-end 100 deposits at 10%, a learner computes 100(1.1+1.1²+1.1³)=364.10. Diagnose the timeline.
+**Prompt:** For three year-end 100 deposits at 10%, valued just after the third deposit, a learner computes 100(1.1+1.1²+1.1³)=364.10. Diagnose the timeline.
 
-**Agent-only reasoning:** That gives beginning-of-year timing; just after the third year-end deposit the exponents are 2,1,0 and value 331.
+**Agent-only reasoning:** That matches beginning-of-year deposits valued at the end of year 3, or year-end deposits valued one year late; just after the third year-end deposit the exponents are 2,1,0 and value 331.
 
 Ask for the first unjustified step, invite a corrected explanation, and retain correct components of the original response. Then use a different representation or new case for independent evidence.
 
@@ -28,7 +28,7 @@ Curriculum reference: **Simple, compound, and effective rates** in [lesson.md](l
 
 ### Separate diagnostic
 
-**Prompt:** A nominal annual rate 12% compounded monthly means a12% monthly rate: true or false?
+**Prompt:** A nominal annual rate 12% compounded monthly means a 12% monthly rate: true or false?
 
 **Agent-only key:** False; the stated periodic rate is 1%, and 12 compounding periods make one year.
 
@@ -90,7 +90,7 @@ Use the response to choose where to begin the teaching sequence. A correct short
 
 **Prompt:** Deposit 100 at each year end for three years at a hypothetical 10% annual rate. What is its value just after the third deposit?
 
-**Agent-only worked reasoning:** Value=100(1.1²+1.1+1)=331. Beginning-of-year deposits instead yield 364.10. At zero interest the value is 300. Real investment comparisons also need explicit fee, liquidity, risk and guarantee assumptions.
+**Agent-only worked reasoning:** Value=100(1.1²+1.1+1)=331. Beginning-of-year deposits, valued at the end of year 3, instead yield 364.10. At zero interest the value is 300. Real investment comparisons also need explicit fee, liquidity, risk and guarantee assumptions.
 
 Reveal the explanation in the sequence below, asking the learner to justify a consequential step before moving to the next one.
 

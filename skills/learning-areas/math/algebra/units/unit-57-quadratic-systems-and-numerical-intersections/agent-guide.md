@@ -45,7 +45,7 @@ Use the following probes only when the learner needs placement or their work rev
 
 | Lesson | Entry probe and response | Targeted review if needed |
 | --- | --- | --- |
-| [57.1: Linear–quadratic systems](lesson-1-linear-quadratic-systems/tutor.md) | Check substitution with grouping and quadratic solving. For y=x+1, replacing y² requires(x+1)², not x²+1. | Only the observed entry gap |
+| [57.1: Linear–quadratic systems](lesson-1-linear-quadratic-systems/tutor.md) | Check substitution with grouping and quadratic solving. For y=x+1, replacing y² requires (x+1)², not x²+1. | Only the observed entry gap |
 | [57.2: Nonlinear systems and numerical intersections](lesson-2-nonlinear-systems-and-numerical-intersections/tutor.md) | Check domains, continuity of the selected elementary model and interval bounds. Return to substitution/classification for exact quadratic systems before comparing numerical methods. | 57.1 |
 
 ## Evidence specific to this unit

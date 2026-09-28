@@ -4,7 +4,7 @@ Read with [the curriculum](lesson.md), [shared interaction rules](../agent-guide
 
 ## Prerequisites and routing
 
-Check a task timeline and readiness: a3-unit task starting 2 finishes 5, and a successor cannot start before 5. Introduce graph/precedence notation directly if needed.
+Check a task timeline and readiness: a 3-unit task starting 2 finishes 5, and a successor cannot start before 5. Introduce graph/precedence notation directly if needed.
 
 This lesson can be entered directly when its entry probe is secure; review only demonstrated gaps, not a mandatory sequence of unrelated units.
 

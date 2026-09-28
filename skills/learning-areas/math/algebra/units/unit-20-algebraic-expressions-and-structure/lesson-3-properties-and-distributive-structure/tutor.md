@@ -12,9 +12,9 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** −3(a−2) is expanded as−3a−6. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** −3(a−2) is expanded as −3a−6. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** Both products must be taken:−3a+6. Ask for the product of−3 and −2, then check at a=0.
+**Private reasoning and response:** Both products must be taken:−3a+6. Ask for the product of −3 and −2, then check at a=0.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $6x+9=3(2x+3)$ because both terms contain 3. Expanding checks the factorization. For $a(b+c)$, multiplication reaches each addend; distributing a negative factor changes each product sign.
 
-**Misconception response and hint ladder:** If−2(x−5) becomes −2x−10, ask for (−2)(−5); next write both products before combining.
+**Misconception response and hint ladder:** If −2(x−5) becomes −2x−10, ask for (−2)(−5); next write both products before combining.
 
 **Practice progression:** Positive distribution → negative/fractional factor → extract common linear structure. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 

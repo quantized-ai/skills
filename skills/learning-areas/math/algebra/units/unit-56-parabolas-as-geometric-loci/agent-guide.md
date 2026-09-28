@@ -45,7 +45,7 @@ Use the following probes only when the learner needs placement or their work rev
 
 | Lesson | Entry probe and response | Targeted review if needed |
 | --- | --- | --- |
-| [56.1: Focus, directrix, and vertical parabolas](lesson-1-focus-directrix-and-vertical-parabolas/tutor.md) | Check point distance and perpendicular line distance; distance from(2,5) to y=1 is 4. Review square completion only when converting a formula requires it. | Only the observed entry gap |
+| [56.1: Focus, directrix, and vertical parabolas](lesson-1-focus-directrix-and-vertical-parabolas/tutor.md) | Check point distance and perpendicular line distance; distance from (2,5) to y=1 is 4. Review square completion only when converting a formula requires it. | Only the observed entry gap |
 | [56.2: Horizontal parabolas and general equations](lesson-2-horizontal-parabolas-and-general-equations/tutor.md) | Check signed focal parameter and completing squares. Return to vertical equidistance derivation if the role of focus/directrix is unclear, then exchange coordinate roles deliberately. | 56.1 |
 
 ## Evidence specific to this unit

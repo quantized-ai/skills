@@ -57,9 +57,9 @@ These are manual evaluation specifications, not results of completed student ses
 
 ### Lesson 24.1: reasoning, repair and evidence
 
-**Student probe:** An intersection read as(1.3,1.3) is declared the exact solution of y=x,y=4−2x.
+**Student probe:** An intersection read as (1.3,1.3) is declared the exact solution of y=x,y=4−2x.
 
-**Required mathematical response:** Exact pair is(4/3,4/3); the rounded graph estimate fails exact equality. Keep the approximation useful but label its precision and verify algebraically.
+**Required mathematical response:** Exact pair is (4/3,4/3); the rounded graph estimate fails exact equality. Keep the approximation useful but label its precision and verify algebraically.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-1-systems-and-graphical-solutions](lesson-1-systems-and-graphical-solutions/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 
@@ -75,7 +75,7 @@ These are manual evaluation specifications, not results of completed student ses
 
 **Student probe:** After adding x+y=5 and 2x−y=4, only 3x=9 is kept, and any y is accepted.
 
-**Required mathematical response:** The sum is a consequence, not a complete equivalent system alone. Retain x+y=5 to gety=2; explain recovery of the removed equation by subtraction.
+**Required mathematical response:** The sum is a consequence, not a complete equivalent system alone. Retain x+y=5 to get y=2; explain recovery of the removed equation by subtraction.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-3-solving-systems-by-elimination](lesson-3-solving-systems-by-elimination/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 

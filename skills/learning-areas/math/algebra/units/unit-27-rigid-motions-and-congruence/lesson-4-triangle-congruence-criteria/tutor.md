@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Derive AAS from angle sum; identify hypotenuse opposite right angle for HL; establish congruence before using corresponding parts.
 
-**Distinct worked model — reveal in steps:** AAS data angles 40°,70° and corresponding nonincluded side 5 imply third angles 70°. The data then provide an ASA configuration, so triangles are congruent. By contrast AAA at40°,60°,80° permits any uniform scale; corresponding lengths need not match.
+**Distinct worked model — reveal in steps:** AAS data angles 40°,70° and corresponding nonincluded side 5 imply third angles 70°. The data then provide an ASA configuration, so triangles are congruent. By contrast AAA at 40°,60°,80° permits any uniform scale; corresponding lengths need not match.
 
 **Misconception response and hint ladder:** If CPCTC is used to prove the same congruence, ask which prior criterion was established; next separate proof stages.
 
@@ -99,4 +99,4 @@ Use the shared guide's session evidence labels. Before declaring this lesson sec
 
 **HL justification:** align equal corresponding legs on a baseline and place both right-angle vertices at the same endpoint. Each remaining vertex lies on the perpendicular at that endpoint and on a circle about the other endpoint with the common hypotenuse radius. The two possible positions are reflections across the baseline; choose the matching side. This uses the right-angle premises and the hypotenuse being longer than the leg. Once congruence is established, infer the remaining corresponding parts; do not use those desired equalities as premises.
 
-A concrete SSA ambiguity can be constructed without trigonometry. Put A=(0,0), B=(4,3), and take the positive horizontal ray from A. A circle centered B with radius4 meets that ray at two distinct points C and D on opposite sides of the foot(4,0); both are to the right of A. The triangles ABC and ABD share side AB, have BC=BD=4, and share the same angle at A, because AC and AD are the same ray. Yet AC≠AD, so they are not congruent. The given angle A is not the angle included between the given sides AB and BC/BD. Optional coordinate verification gives C,D at x=4±√7; both are positive.
+A concrete SSA ambiguity can be constructed without trigonometry. Put A=(0,0), B=(4,3), and take the positive horizontal ray from A. A circle centered B with radius 4 meets that ray at two distinct points C and D on opposite sides of the foot (4,0); both are to the right of A. The triangles ABC and ABD share side AB, have BC=BD=4, and share the same angle at A, because AC and AD are the same ray. Yet AC≠AD, so they are not congruent. The given angle A is not the angle included between the given sides AB and BC/BD. Optional coordinate verification gives C,D at x=4±√7; both are positive.

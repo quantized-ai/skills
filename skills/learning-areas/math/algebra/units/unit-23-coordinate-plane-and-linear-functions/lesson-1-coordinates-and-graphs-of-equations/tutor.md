@@ -14,7 +14,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 **Ask:** A student declares (2,4) on y=3x−1 because its x-coordinate fits the table. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** The pair must satisfy the equation: atx=2,y=5. Ask to substitute both coordinates and distinguish input from complete solution pair.
+**Private reasoning and response:** The pair must satisfy the equation: at x=2,y=5. Ask to substitute both coordinates and distinguish input from complete solution pair.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -40,7 +40,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Equation graphs as solution sets
 
-**Diagnostic — ask and wait:** Is(2,5) on y=2x+1?
+**Diagnostic — ask and wait:** Is (2,5) on y=2x+1?
 
 **Private diagnostic key:** yes,5=2·2+1.
 

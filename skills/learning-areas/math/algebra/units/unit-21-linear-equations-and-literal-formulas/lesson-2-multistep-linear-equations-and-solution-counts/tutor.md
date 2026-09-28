@@ -12,9 +12,9 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** 2(x+1)=2x+2 is said to have onlyx=0 because variables cancel. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** 2(x+1)=2x+2 is said to have only x=0 because variables cancel. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** It reduces 2=2, true for every real x. Ask whetherx=5 also satisfies the original; then contrast 2=3.
+**Private reasoning and response:** It reduces 2=2, true for every real x. Ask whether x=5 also satisfies the original; then contrast 2=3.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -28,9 +28,9 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Simplify each side; collect variable terms through equality operations; isolate; substitute into both original sides.
 
-**Distinct worked model — reveal in steps:** $5-2(x+1)=x-6$ becomes 3−2x=x−6, so9=3x and x=3. Substituting original sides gives −3 each. Keeping signs through distribution matters more than choosing which side receives x.
+**Distinct worked model — reveal in steps:** $5-2(x+1)=x-6$ becomes 3−2x=x−6, so 9=3x and x=3. Substituting original sides gives −3 each. Keeping signs through distribution matters more than choosing which side receives x.
 
-**Misconception response and hint ladder:** If−2(x+1) becomes −2x+1, ask which terms the factor reaches; next write −2x−2.
+**Misconception response and hint ladder:** If −2(x+1) becomes −2x+1, ask which terms the factor reaches; next write −2x−2.
 
 **Practice progression:** Variables both sides → parentheses → signed/fractional coefficients and alternative routes. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 

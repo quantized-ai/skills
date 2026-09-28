@@ -28,7 +28,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Derive vertical equality from two supplements of the same angle; label transversal angle positions; identify whether using theorem or converse.
 
-**Distinct worked model — reveal in steps:** If two parallel lines are cut by a transversal, a corresponding angle to68° is68°, while its adjacent interior partner is112°. Conversely equal alternate interior angles establish parallelism. Equality cannot be assumed merely because lines look parallel.
+**Distinct worked model — reveal in steps:** If two parallel lines are cut by a transversal, a corresponding angle to 68° is 68°, while its adjacent interior partner is 112°. Conversely equal alternate interior angles establish parallelism. Equality cannot be assumed merely because lines look parallel.
 
 **Misconception response and hint ladder:** If all transversal angles are set equal, ask whether the pair is corresponding or adjacent; next mark the shared straight angle.
 

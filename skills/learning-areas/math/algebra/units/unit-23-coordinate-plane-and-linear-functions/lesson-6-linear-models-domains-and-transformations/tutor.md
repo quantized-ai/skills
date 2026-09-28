@@ -14,7 +14,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 **Ask:** For f(x)=2x+1, f(x+3) is called a shift 3 right. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** Old input 0 occurs at newx=−3, so shift left 3; f(x+3)=2x+7. Ask for a mapped point to verify the direction.
+**Private reasoning and response:** Old input 0 occurs at new x=−3, so shift left 3; f(x+3)=2x+7. Ask for a mapped point to verify the direction.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -42,11 +42,11 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Diagnostic — ask and wait:** For f(x)=2x+1, expand f(x−3).
 
-**Private diagnostic key:** 2x−5, a3-unit right shift.
+**Private diagnostic key:** 2x−5, a 3-unit right shift.
 
 **Teach in this order:** Apply changes to inputs before outputs; use a mapped point to check signs; compare symbolic and geometric descriptions.
 
-**Distinct worked model — reveal in steps:** Let g(x)=−2f(x+1)+4. Substitute to get −2(2x+3)+4=−4x−2. Point (0,1) on f maps to(−1,2) on g; the coordinate rule verifies the horizontal/vertical transformations together.
+**Distinct worked model — reveal in steps:** Let g(x)=−2f(x+1)+4. Substitute to get −2(2x+3)+4=−4x−2. Point (0,1) on f maps to (−1,2) on g; the coordinate rule verifies the horizontal/vertical transformations together.
 
 **Misconception response and hint ladder:** If x+1 is called a right shift, ask which new input makes the old input 0; next solve x+1=0.
 

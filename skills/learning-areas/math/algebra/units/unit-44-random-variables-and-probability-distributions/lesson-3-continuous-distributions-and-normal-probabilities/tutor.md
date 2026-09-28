@@ -82,7 +82,7 @@ Curriculum reference: **Normal probabilities and inverse percentiles** in [lesso
 - **Diagnostic prompt:** For mean 20 and SD 3, is x=26 two standard deviations above the mean?
 - **Diagnostic key:** Yes: z=(26−20)/3=2.
 - **Worked-example prompt:** For a normal model with mean 50 and standard deviation 8, estimate P(X≤58) and the 97.5th percentile.
-- **Worked model and reasoning:** Standardized threshold z=1 gives probability about 0.8413. Quantile $50+1.959964(8)\approx65.68$. These numerical normal values presume the model; bounded or skewed data can undermine it.
+- **Worked model and reasoning:** Standardized threshold z=1 gives probability about 0.8413. Quantile $50+1.959964(8)\approx65.68$. If no table or technology is required, the 68-95-99.7 estimates (about 0.84 and 66) are acceptable. These numerical normal values presume the model; bounded or skewed data can undermine it.
 - **First hint:** Is the problem asking for a cumulative probability or the cutoff producing one?
 
 #### Learn

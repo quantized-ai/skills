@@ -26,7 +26,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Private diagnostic key:** 90°,90°,180°.
 
-**Teach in this order:** Choose time order or part-whole purpose; preserve time spacing; convert fractions to360° sectors; label scale and assumptions between readings.
+**Teach in this order:** Choose time order or part-whole purpose; preserve time spacing; convert fractions to 360° sectors; label scale and assumptions between readings.
 
 **Distinct worked model — reveal in steps:** At times 0,1,4, readings 2,3,9 must have horizontal gaps 1 and 3. Equal spacing would distort rate impressions. A sector display with counts 2,3,5 uses 72°,108°,180°; categories must sum to the whole.
 

@@ -39,7 +39,7 @@ For each lesson below, present its reference question as an agent-audit task. Re
 
 **Audit input:** For a normal model with mean 50 and standard deviation 8, estimate P(X≤58) and the 97.5th percentile.
 
-**Expected mathematical response:** Standardized threshold z=1 gives probability about 0.8413. Quantile $50+1.959964(8)\approx65.68$. These numerical normal values presume the model; bounded or skewed data can undermine it.
+**Expected mathematical response:** Standardized threshold z=1 gives probability about 0.8413. Quantile $50+1.959964(8)\approx65.68$. If no table or technology is required, the 68-95-99.7 estimates (about 0.84 and 66) are acceptable. These numerical normal values presume the model; bounded or skewed data can undermine it.
 
 **Stress variation:** Vary lower/upper/two-sided areas and quantiles; use verified normal tools/tables, state approximation and never confuse variance with standard deviation.
 
@@ -71,7 +71,7 @@ X is −1 or 3 with equal probability. A student says expected value 1 is imposs
 
 ### Error analysis 44.2: Binomial and geometric distributions
 
-A variable counts successes in ten trials; another counts attempts until first success. Both use p=0.2. Why is one not a renamed version of the other?
+A variable counts successes in ten trials; another counts trials up to and including the first success. Both use p=0.2. Why is one not a renamed version of the other?
 
 [Canonical reasoning and response guidance](lesson-2-binomial-and-geometric-distributions/tutor.md#reasoning-and-error-analysis-activity).
 

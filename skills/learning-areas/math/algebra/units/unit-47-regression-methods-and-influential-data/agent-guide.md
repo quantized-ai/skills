@@ -45,7 +45,7 @@ Use the following probes only when the learner needs placement or their work rev
 
 | Lesson | Entry probe and response | Targeted review if needed |
 | --- | --- | --- |
-| [47.1: Comparing fitting criteria](lesson-1-comparing-fitting-criteria/tutor.md) | Check signed residual: observed 7 minus predicted 9 is−2. Repair subtraction direction before comparing absolute/squared summaries. | Only the observed entry gap |
+| [47.1: Comparing fitting criteria](lesson-1-comparing-fitting-criteria/tutor.md) | Check signed residual: observed 7 minus predicted 9 is −2. Repair subtraction direction before comparing absolute/squared summaries. | Only the observed entry gap |
 | [47.2: Influence, residual variation, and model interpretation](lesson-2-influence-residual-variation-and-model-interpretation/tutor.md) | Check slope units and scatter coordinates; an x in years and y in kilograms gives kilograms/year. Review the fitted-line calculation if controlled refits cannot be interpreted. | 47.1 |
 
 ## Evidence specific to this unit

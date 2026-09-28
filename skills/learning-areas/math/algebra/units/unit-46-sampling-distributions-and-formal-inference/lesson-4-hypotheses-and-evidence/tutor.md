@@ -16,9 +16,9 @@ Do not require paired-sample inference, Bayesian posterior probabilities, causal
 
 **Purpose:** make the student test a consequential claim before accepting a procedure. Use after its relevant concept has been introduced; it is learning/practice evidence, not an unexposed assessment.
 
-**Prompt:** A test returns p=.03 and a learner says “There is a97% chance the alternative is true.” Rewrite it.
+**Prompt:** A test with prespecified α=.05 returns p=.03 and a learner says “There is a 97% chance the alternative is true.” Rewrite it.
 
-**Agent-only reasoning:** Under the null and stated tail rule, the probability of a statistic at least as incompatible as observed is.03. Reject at prespecified α=.05, without assigning posterior truth probabilities.
+**Agent-only reasoning:** Under the null and stated tail rule, the probability of a statistic at least as incompatible as observed is .03. Reject at prespecified α=.05, without assigning posterior truth probabilities.
 
 Ask for the first unjustified step, invite a corrected explanation, and retain correct components of the original response. Then use a different representation or new case for independent evidence.
 
@@ -38,7 +38,7 @@ Use the response to choose where to begin the teaching sequence. A correct short
 
 **Prompt:** Before data collection, a manufacturer asks whether mean fill exceeds 500 mL. State hypotheses and the direction of evidence.
 
-**Agent-only worked reasoning:** H0: μ=500 mL; H1: μ>500 mL for the target production population. Large positive standardized differences support the alternative. The parameter is not the observed sample mean; direction is chosen from the question before inspecting data.
+**Agent-only worked reasoning:** H0: μ=500 mL (H0: μ≤500 mL is an accepted equivalent); H1: μ>500 mL for the target production population. Large positive standardized differences support the alternative. The parameter is not the observed sample mean; direction is chosen from the question before inspecting data.
 
 Reveal the explanation in the sequence below, asking the learner to justify a consequential step before moving to the next one.
 

@@ -52,7 +52,7 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 
 **Reference prompt:** Deposit 100 at each year end for three years at a hypothetical 10% annual rate. What is its value just after the third deposit?
 
-**Checked key:** Value=100(1.1²+1.1+1)=331. Beginning-of-year deposits instead yield 364.10. At zero interest the value is 300. Real investment comparisons also need explicit fee, liquidity, risk and guarantee assumptions.
+**Checked key:** Value=100(1.1²+1.1+1)=331. Beginning-of-year deposits, valued at the end of year 3, instead yield 364.10. At zero interest the value is 300. Real investment comparisons also need explicit fee, liquidity, risk and guarantee assumptions.
 
 [Delivery guidance](lesson-3-interest-and-investment-growth/tutor.md#annuities-and-investment-options). For complete coverage also apply its Assessment case checklist.
 

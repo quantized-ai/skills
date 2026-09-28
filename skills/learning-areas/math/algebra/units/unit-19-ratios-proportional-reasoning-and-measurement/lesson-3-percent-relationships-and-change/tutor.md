@@ -12,9 +12,9 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** A20% rise followed by20% fall is assumed to restore the original price. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** A 20% rise followed by 20% fall is assumed to restore the original price. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** Multipliers 1.2·0.8=0.96 give a4% net fall. Ask which current whole each percentage uses; label each stage before calculating.
+**Private reasoning and response:** Multipliers 1.2·0.8=0.96 give a 4% net fall. Ask which current whole each percentage uses; label each stage before calculating.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -22,15 +22,15 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Parts, wholes, and percents
 
-**Diagnostic — ask and wait:** 18 is30% of what number?
+**Diagnostic — ask and wait:** 18 is 30% of what number?
 
 **Private diagnostic key:** 60, since 0.30W=18.
 
 **Teach in this order:** Name part, rate and whole before choosing operations; convert percentage to a multiplier; estimate whether the result should grow or shrink.
 
-**Distinct worked model — reveal in steps:** A40-credit item discounted 15% costs 40(1−0.15)=34. The discount is6; distinguish the amount changed from the final amount and identify the original 40 as reference whole.
+**Distinct worked model — reveal in steps:** A 40-credit item discounted 15% costs 40(1−0.15)=34. The discount is 6; distinguish the amount changed from the final amount and identify the original 40 as reference whole.
 
-**Misconception response and hint ladder:** If30/18 gives the whole, ask which product should reconstruct 18; next write part=rate×whole.
+**Misconception response and hint ladder:** If 30/18 gives the whole, ask which product should reconstruct 18; next write part=rate×whole.
 
 **Practice progression:** Find part → find whole/rate → contextual discount/tax with reference whole. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -40,13 +40,13 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Percent increase, decrease, and successive changes
 
-**Diagnostic — ask and wait:** A100 value rises 20% then falls 20%. Final?
+**Diagnostic — ask and wait:** A 100 value rises 20% then falls 20%. Final?
 
 **Private diagnostic key:** 96, not 100.
 
 **Teach in this order:** Label each stage's current base; apply multiplicative factors in order; compare with additive percentage-point changes.
 
-**Distinct worked model — reveal in steps:** A price rises from 80 to100: increase 20/80=25%. Returning from 100 to80 is a20% decrease. Same absolute change uses different reference wholes; successive multipliers 1.25·0.8=1 here.
+**Distinct worked model — reveal in steps:** A price rises from 80 to 100: increase 20/80=25%. Returning from 100 to 80 is a 20% decrease. Same absolute change uses different reference wholes; successive multipliers 1.25·0.8=1 here.
 
 **Misconception response and hint ladder:** If equal percentages cancel, ask whether both use the same whole; next compute the intermediate value.
 
@@ -58,13 +58,13 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Simple interest and percent error
 
-**Diagnostic — ask and wait:** Simple interest on500 at4% annually for 3 years?
+**Diagnostic — ask and wait:** Simple interest on 500 at 4% annually for 3 years?
 
 **Private diagnostic key:** 60; amount 560.
 
 **Teach in this order:** Identify principal/accepted reference; synchronize time units; separate interest from total and absolute from signed error.
 
-**Distinct worked model — reveal in steps:** A measurement 9.6 compared with accepted 10 has absolute percent error|9.6−10|/10×100%=4%. Signed relative error would be−4%, a different convention. For interest I=Prt, months must first become years when r is annual.
+**Distinct worked model — reveal in steps:** A measurement 9.6 compared with accepted 10 has absolute percent error|9.6−10|/10×100%=4%. Signed relative error would be −4%, a different convention. For interest I=Prt, months must first become years when r is annual.
 
 **Misconception response and hint ladder:** If experimental value is the error denominator, ask what value is treated as accepted; next compare deviations relative to that reference.
 

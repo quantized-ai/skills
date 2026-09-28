@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Dataset 1,2,3,4,5,6,7,20 under median-of-halves gives median 4.5,Q1=2.5,Q3=6.5,IQR 4; fences −3.5,12.5. Modified whiskers end 1 and 7;20 is a flagged point, not automatically an error.
 
-**Misconception response and hint ladder:** If a whisker ends at12.5, ask whether 12.5 was observed; next locate the greatest nonflagged value.
+**Misconception response and hint ladder:** If a whisker ends at 12.5, ask whether 12.5 was observed; next locate the greatest nonflagged value.
 
 **Practice progression:** Five-number summary → modified box plot → compare and investigate flagged values. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -58,7 +58,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Mean absolute deviation
 
-**Diagnostic — ask and wait:** Find MAD of2,4,6.
+**Diagnostic — ask and wait:** Find MAD of 2,4,6.
 
 **Private diagnostic key:** mean 4, absolute deviations 2,0,2; MAD 4/3.
 
@@ -66,7 +66,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Data 1,1,4 have mean 2 and deviations −1,−1,2. Signed deviations sum 0; absolute values sum 4, so MAD 4/3. MAD has original units and need not be an observed distance.
 
-**Misconception response and hint ladder:** If MAD is0 because deviations cancel, ask whether values actually coincide; next take absolute values before adding.
+**Misconception response and hint ladder:** If MAD is 0 because deviations cancel, ask whether values actually coincide; next take absolute values before adding.
 
 **Practice progression:** Small exact MAD → compare equal-center spreads → explain units and zero case. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 

@@ -42,7 +42,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Diagnostic — ask and wait:** Counts red 4,blue 6,total 10: red relative frequency?
 
-**Private diagnostic key:** 0.4 or40%.
+**Private diagnostic key:** 0.4 or 40%.
 
 **Teach in this order:** Tally one category per unit when categories are exclusive; reconcile totals; choose count or relative-frequency scale; label chart.
 
@@ -58,7 +58,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Dot plots and histograms
 
-**Diagnostic — ask and wait:** With bins[0,5),[5,10), where does 5 go?
+**Diagnostic — ask and wait:** With bins [0,5),[5,10), where does 5 go?
 
 **Private diagnostic key:** second bin only.
 
@@ -66,7 +66,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Data 1,2,2,5,7,9 give counts 3 and 3 in those bins. A dot plot preserves each value and duplicate; histogram groups them and loses exact positions. Choose equal bin widths here; counts are not directly comparable by height for unequal-width density displays.
 
-**Misconception response and hint ladder:** If5 is counted twice, ask which interval includes its endpoint; next apply the declared half-open rule.
+**Misconception response and hint ladder:** If 5 is counted twice, ask which interval includes its endpoint; next apply the declared half-open rule.
 
 **Practice progression:** Dot plot → equal-width histogram → changed-bin interpretation. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 

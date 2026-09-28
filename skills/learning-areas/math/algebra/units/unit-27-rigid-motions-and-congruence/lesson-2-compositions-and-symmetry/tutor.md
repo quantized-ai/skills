@@ -22,13 +22,13 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Compositions and inverse motions
 
-**Diagnostic — ask and wait:** Apply translation (1,0) then reflection in y-axis to(2,3).
+**Diagnostic — ask and wait:** Apply translation (1,0) then reflection in y-axis to (2,3).
 
 **Private diagnostic key:** (−3,3); reverse order gives (−1,3).
 
 **Teach in this order:** Name intermediate images; execute in stated order; derive inverse by undoing last step first; verify on all defining vertices.
 
-**Distinct worked model — reveal in steps:** Let T shift right 2 then R rotate 90° counterclockwise: P=(1,0)→(3,0)→(0,3). Inverse rotates clockwise first to(3,0), then shifts left 2 to(1,0). Reverse operation order is necessary.
+**Distinct worked model — reveal in steps:** Let T shift right 2 then R rotate 90° counterclockwise: P=(1,0)→(3,0)→(0,3). Inverse rotates clockwise first to (3,0), then shifts left 2 to (1,0). Reverse operation order is necessary.
 
 **Misconception response and hint ladder:** If order is ignored, ask for the intermediate point; next compare both chains on the same input.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Define onto-itself mapping; test a proposed axis/turn on every vertex; distinguish regular and special cases.
 
-**Distinct worked model — reveal in steps:** A regular pentagon has 5 reflection axes and rotations by0°,72°,144°,216°,288° modulo 360°. A general parallelogram has identity/180° rotational symmetry but generally no reflection symmetry. Extra symmetry must follow shape conditions.
+**Distinct worked model — reveal in steps:** A regular pentagon has 5 reflection axes and rotations by 0°,72°,144°,216°,288° modulo 360°. A general parallelogram has identity/180° rotational symmetry but generally no reflection symmetry. Extra symmetry must follow shape conditions.
 
 **Misconception response and hint ladder:** If every diagonal is called a symmetry axis, ask whether it swaps adjacent sides of unequal lengths; next test a nonsquare rectangle.
 

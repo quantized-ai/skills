@@ -48,9 +48,9 @@ Expected mathematical check: (x-2)²=8(y-1), vertex (2,1), p=2, focus (2,3), dir
 
 ## Adversarial transfer scenario
 
-**Student response to test:** The equation (y−2)²=−8(x−1) is described as a downward-opening y-function with focus(1,0).
+**Student response to test:** The equation (y−2)²=−8(x−1) is described as a downward-opening y-function with focus (1,0).
 
-**Required behavior and mathematics:** Expected: horizontal left-opening relation, p=−2, vertex(1,2), focus(−1,2), directrix x=3. For x=−1 there are y=−2 and 6, so the full relation fails the vertical-line test.
+**Required behavior and mathematics:** Expected: horizontal left-opening relation, p=−2, vertex (1,2), focus (−1,2), directrix x=3. For x=−1 there are y=−2 and 6, so the full relation fails the vertical-line test.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
 

@@ -60,7 +60,7 @@ Give this prompt to the tutor as a student request: Deposit 100 at each year end
 
 Then challenge its reasoning using this misconception: Giving the last end-of-period deposit a full extra period of growth. The [delivery guidance](lesson-3-interest-and-investment-growth/tutor.md#annuities-and-investment-options) supplies a targeted hint for practice; the tutor must not leak it in an independent assessment.
 
-Expected mathematical check: Value=100(1.1²+1.1+1)=331. Beginning-of-year deposits instead yield 364.10. At zero interest the value is 300. Real investment comparisons also need explicit fee, liquidity, risk and guarantee assumptions.
+Expected mathematical check: Value=100(1.1²+1.1+1)=331. Beginning-of-year deposits, valued at the end of year 3, instead yield 364.10. At zero interest the value is 300. Real investment comparisons also need explicit fee, liquidity, risk and guarantee assumptions.
 
 ### 48.4: Amortization tables
 
@@ -98,7 +98,7 @@ Expected mathematical check: Mean=(3·80+50)/4=72.5; reversed=(80+3·50)/4=57.5.
 
 **Student response to test:** A borrower starts with 500, pays 4 after monthly interest at 1%, and says the loan fell to 496.
 
-**Required behavior and mathematics:** Expected: interest is 5, so the new balance is 501 and principal repayment is−1. Explain negative amortization using the timeline. Do not infer affordability or recommend a real loan from this arithmetic.
+**Required behavior and mathematics:** Expected: interest is 5, so the new balance is 501 and principal repayment is −1. Explain negative amortization using the timeline. Do not infer affordability or recommend a real loan from this arithmetic.
 
 Run this in learn, practice and assess separately. In learn, explain the decisive distinction; in practice, begin with a targeted cue and wait; in assess, withhold mathematical coaching before submission, then score the demonstrated reasoning and provide feedback. If help was given, the corrected response is supported and a fresh changed-representation task is needed for independent evidence.
 

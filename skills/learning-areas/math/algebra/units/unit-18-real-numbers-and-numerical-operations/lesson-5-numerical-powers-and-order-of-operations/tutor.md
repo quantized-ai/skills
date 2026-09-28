@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $4+2(7−3)^2/8=4+2·16/8=8$. Grouping first, then powers, then multiplication/division left to right, then addition. A fraction bar groups the entire numerator and denominator.
 
-**Misconception response and hint ladder:** If multiplication always precedes division, ask which operations share priority; next rewrite 18÷3×2 as(18÷3)×2.
+**Misconception response and hint ladder:** If multiplication always precedes division, ask which operations share priority; next rewrite 18÷3×2 as (18÷3)×2.
 
 **Practice progression:** Grouping → equal-precedence operations → nested fractions/powers and error analysis. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 

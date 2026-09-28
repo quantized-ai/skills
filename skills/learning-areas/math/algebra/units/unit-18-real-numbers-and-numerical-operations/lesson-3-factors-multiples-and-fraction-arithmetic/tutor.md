@@ -12,9 +12,9 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** A student adds 1/2+1/3 as2/5. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** A student adds 1/2+1/3 as 2/5. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** Parts differ in size; convert to sixths to get 5/6. Ask whether adding a positive 1/3 to1/2 could produce something less than 1/2; then build the common whole.
+**Private reasoning and response:** Parts differ in size; convert to sixths to get 5/6. Ask whether adding a positive 1/3 to 1/2 could produce something less than 1/2; then build the common whole.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For 36=$2^2·3^2$ and 60=$2^2·3·5$, common minimum exponents give GCF 12; maximum exponents give LCM 180. Verify 12 divides both and 180 is a multiple of both.
 
-**Misconception response and hint ladder:** If1 is called prime, ask how many positive divisors it has; if all factors are multiplied for GCF, identify factors absent from one number.
+**Misconception response and hint ladder:** If 1 is called prime, ask how many positive divisors it has; if all factors are multiplied for GCF, identify factors absent from one number.
 
 **Practice progression:** Divisibility tests → prime factorization → GCF/LCM with reasons. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -64,7 +64,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Choose the operation first; use equal-sized parts for sums; interpret quotient as missing factor; simplify exact factors before multiplication.
 
-**Distinct worked model — reveal in steps:** $(3/5)\div (−9/10)=(3/5)(−10/9)=−2/3$. Check by multiplying −2/3 by−9/10 to recover 3/5. Common denominators are needed for addition, not multiplication.
+**Distinct worked model — reveal in steps:** $(3/5)\div (−9/10)=(3/5)(−10/9)=−2/3$. Check by multiplying −2/3 by −9/10 to recover 3/5. Common denominators are needed for addition, not multiplication.
 
 **Misconception response and hint ladder:** If the wrong fraction is inverted, ask which divisor must become 1; next write multiplication by its reciprocal on both sides of a division equation.
 

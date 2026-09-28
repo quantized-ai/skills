@@ -28,7 +28,7 @@ Curriculum reference: **Common-input polynomial operations** in [lesson.md](less
 
 ### Separate diagnostic
 
-**Prompt:** A table gives f(1)=4 and g(2)=5 but no other values. Can(f+g)(1) be computed as 9?
+**Prompt:** A table gives f(1)=4 and g(2)=5 but no other values. Can (f+g)(1) be computed as 9?
 
 **Agent-only key:** No; g(1) is missing. Pointwise operations require the same input.
 

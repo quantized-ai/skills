@@ -47,7 +47,7 @@ Use the following probes only when the learner needs placement or their work rev
 | --- | --- | --- |
 | [48.1: Income, deductions, taxes, and budgets](lesson-1-income-deductions-taxes-and-budgets/tutor.md) | Check rate×time and percent deduction:12/hour for 5h gives 60, then 10% deduction leaves 54. Keep all figures hypothetical. | Only the observed entry gap |
 | [48.2: Banking, credit, and purchasing comparisons](lesson-2-banking-credit-and-purchasing-comparisons/tutor.md) | Check a linear cost model: fee 3 plus 2 per transaction gives 3+2n. Repair fixed-versus-variable terms before break-even comparisons. | 48.1 |
-| [48.3: Interest and investment growth](lesson-3-interest-and-investment-growth/tutor.md) | Check periods and percentages:6% annually compounded monthly uses.005 per month and 12 periods per year. Review exponent evaluation before compound models. | Only the observed entry gap |
+| [48.3: Interest and investment growth](lesson-3-interest-and-investment-growth/tutor.md) | Check periods and percentages:6% annually compounded monthly uses .005 per month and 12 periods per year. Review exponent evaluation before compound models. | Only the observed entry gap |
 | [48.4: Loan amortization and financing choices](lesson-4-loan-amortization-and-financing-choices/tutor.md) | Check beginning balance and percent interest:2% of 500 is 10. Review payment timelines and periodic rates before amortization. | 48.3 |
 | [48.5: Insurance, indices, and weighted comparisons](lesson-5-insurance-indices-and-weighted-comparisons/tutor.md) | Check probability-weighted totals and weighted means:weights 1,3 total 4, not 2; scenario probabilities must sum to 1. | 48.1 |
 

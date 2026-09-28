@@ -59,7 +59,7 @@ These are manual evaluation specifications, not results of completed student ses
 
 **Student probe:** A student declares (2,4) on y=3x−1 because its x-coordinate fits the table.
 
-**Required mathematical response:** The pair must satisfy the equation: atx=2,y=5. Ask to substitute both coordinates and distinguish input from complete solution pair.
+**Required mathematical response:** The pair must satisfy the equation: at x=2,y=5. Ask to substitute both coordinates and distinguish input from complete solution pair.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-1-coordinates-and-graphs-of-equations](lesson-1-coordinates-and-graphs-of-equations/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 
@@ -73,9 +73,9 @@ These are manual evaluation specifications, not results of completed student ses
 
 ### Lesson 23.3: reasoning, repair and evidence
 
-**Student probe:** In y=2x−6, the zero is reported as−6.
+**Student probe:** In y=2x−6, the zero is reported as −6.
 
-**Required mathematical response:** −6 is y-intercept output; solve 0=2x−6 for zero input 3. Ask which coordinate must be0 for each intercept.
+**Required mathematical response:** −6 is y-intercept output; solve 0=2x−6 for zero input 3. Ask which coordinate must be 0 for each intercept.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-3-slope-intercept-form-and-graph-features](lesson-3-slope-intercept-form-and-graph-features/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 
@@ -99,7 +99,7 @@ These are manual evaluation specifications, not results of completed student ses
 
 **Student probe:** For f(x)=2x+1, f(x+3) is called a shift 3 right.
 
-**Required mathematical response:** Old input 0 occurs at newx=−3, so shift left 3; f(x+3)=2x+7. Ask for a mapped point to verify the direction.
+**Required mathematical response:** Old input 0 occurs at new x=−3, so shift left 3; f(x+3)=2x+7. Ask for a mapped point to verify the direction.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-6-linear-models-domains-and-transformations](lesson-6-linear-models-domains-and-transformations/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 

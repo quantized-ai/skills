@@ -16,9 +16,9 @@ Solve over the reals; complex-root calculation, calculus and higher-degree metho
 
 **Purpose:** make the student test a consequential claim before accepting a procedure. Use after its relevant concept has been introduced; it is learning/practice evidence, not an unexposed assessment.
 
-**Prompt:** A positive-width garden gives roots 5 and−8. A learner changes−8 to 8 because lengths are positive. Explain the valid filtering.
+**Prompt:** A positive-width garden gives roots 5 and −8. A learner changes −8 to 8 because lengths are positive. Explain the valid filtering.
 
-**Agent-only reasoning:** Reject−8; taking its absolute value is not an equivalent operation and 8 need not solve the equation. Width 5 and length 8 satisfy both dimensions and area.
+**Agent-only reasoning:** Reject −8; taking its absolute value is not an equivalent operation and 8 need not solve the equation. Width 5 and length 8 satisfy both dimensions and area.
 
 Ask for the first unjustified step, invite a corrected explanation, and retain correct components of the original response. Then use a different representation or new case for independent evidence.
 
@@ -80,7 +80,7 @@ Curriculum reference: **Quadratic constraints in context** in [lesson.md](lesson
 
 ### Separate diagnostic
 
-**Prompt:** A model for a length gives roots−6 and 4 metres. Which should be retained if the length must be positive?
+**Prompt:** A model for a length gives roots −6 and 4 metres. Which should be retained if the length must be positive?
 
 **Agent-only key:** Only 4;−6 fails the contextual domain even if it solves the equation.
 

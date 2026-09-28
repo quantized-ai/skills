@@ -30,7 +30,7 @@ Curriculum reference: **Interval estimates and confidence** in [lesson.md](lesso
 
 **Prompt:** A confidence interval is [8,12] minutes. What are its center and margin, and what quantity must be named?
 
-**Agent-only key:** Center 10, margin 2 minutes; the target population parameter, such as its mean duration, must be named.
+**Agent-only key:** Center 10, margin 2 minutes; the target population parameter, such as its mean duration, must be named. Also accept noting that the confidence level is missing.
 
 Use the response to choose where to begin the teaching sequence. A correct short diagnostic does not establish the concept’s complete proficiency.
 

@@ -71,7 +71,7 @@ These are manual evaluation specifications, not results of completed student ses
 
 **Student probe:** For hypotenuse segments 4 and 9, a student gives altitude 13.
 
-**Required mathematical response:** 13 is whole hypotenuse; altitude √(4·9)=6 from small-triangle similarity. Ask which corresponding sides yield the product, then verify legs viaa²=cp,b²=cq.
+**Required mathematical response:** 13 is whole hypotenuse; altitude √(4·9)=6 from small-triangle similarity. Ask which corresponding sides yield the product, then verify legs via a²=cp,b²=cq.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-4-right-triangle-metric-relationships](lesson-4-right-triangle-metric-relationships/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 

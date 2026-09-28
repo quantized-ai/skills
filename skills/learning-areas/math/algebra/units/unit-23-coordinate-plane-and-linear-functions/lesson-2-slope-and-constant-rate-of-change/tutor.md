@@ -40,13 +40,13 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Rates across linear representations
 
-**Diagnostic — ask and wait:** A table increases y by6 when x increases by2. Rate?
+**Diagnostic — ask and wait:** A table increases y by 6 when x increases by 2. Rate?
 
 **Private diagnostic key:** 3 y-units/x-unit.
 
 **Teach in this order:** Read compatible coordinate units; calculate rate; connect repeated table differences with graph rise/run and equation coefficient.
 
-**Distinct worked model — reveal in steps:** A tank graph goes from (2 min,9 L) to(6 min,21 L). Rate 12/4=3 L/min. Its initial volume is3 L if the linear rule extends to t=0; slope alone does not equal the starting volume.
+**Distinct worked model — reveal in steps:** A tank graph goes from (2 min,9 L) to (6 min,21 L). Rate 12/4=3 L/min. Its initial volume is 3 L if the linear rule extends to t=0; slope alone does not equal the starting volume.
 
 **Misconception response and hint ladder:** If total volume is mistaken for rate, ask what unit 'per minute' requires; next divide a volume change by elapsed time.
 

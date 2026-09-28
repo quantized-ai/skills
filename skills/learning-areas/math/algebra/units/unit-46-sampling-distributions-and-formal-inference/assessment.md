@@ -62,7 +62,7 @@ These are checked reference tasks and keys for the agent. Do not present this fi
 
 **Reference prompt:** Before data collection, a manufacturer asks whether mean fill exceeds 500 mL. State hypotheses and the direction of evidence.
 
-**Checked key:** H0: μ=500 mL; H1: μ>500 mL for the target production population. Large positive standardized differences support the alternative. The parameter is not the observed sample mean; direction is chosen from the question before inspecting data.
+**Checked key:** H0: μ=500 mL (H0: μ≤500 mL is an accepted equivalent); H1: μ>500 mL for the target production population. Large positive standardized differences support the alternative. The parameter is not the observed sample mean; direction is chosen from the question before inspecting data.
 
 [Delivery guidance](lesson-4-hypotheses-and-evidence/tutor.md#null-and-alternative-hypotheses). For complete coverage also apply its Assessment case checklist.
 

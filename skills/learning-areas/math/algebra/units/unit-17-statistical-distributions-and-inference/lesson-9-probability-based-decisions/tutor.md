@@ -22,13 +22,13 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Fair random allocation
 
-**Diagnostic — ask and wait:** How can one of5 students be selected fairly using a die?
+**Diagnostic — ask and wait:** How can one of 5 students be selected fairly using a die?
 
 **Private diagnostic key:** assign 1–5 and reroll 6; do not award 6 to one student.
 
 **Teach in this order:** Define what fairness means (equal selection or allocation probabilities); enumerate allowed outcomes; map generator states evenly; preserve required group sizes.
 
-**Distinct worked model — reveal in steps:** Randomly allocate 4 students to two labeled teams of2: choose uniformly one of6 subsets for team A, remainder B. Each student has inclusion probability 1/2. Alternating arrivals may systematically separate arrival patterns and is not the same random mechanism.
+**Distinct worked model — reveal in steps:** Randomly allocate 4 students to two labeled teams of 2: choose uniformly one of 6 subsets for team A, remainder B. Each student has inclusion probability 1/2. Alternating arrivals may systematically separate arrival patterns and is not the same random mechanism.
 
 **Misconception response and hint ladder:** If a redraw is called unfair, ask for each student's eventual probability; next show symmetry among the five accepted faces. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Rule A correctly flags 16 true cases and 8 false positives; Rule B flags 12 true cases and 2 false positives. A detects more cases; B causes fewer false alarms. A preferable decision needs consequences/costs, not only overall accuracy or one conditional rate.
 
-**Misconception response and hint ladder:** If16/20 answers the reversed conditional, ask which group is already known; next circle only 24 positive cases. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
+**Misconception response and hint ladder:** If 16/20 answers the reversed conditional, ask which group is already known; next circle only 24 positive cases. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
 
 **Practice progression:** Conditional table → unequal base rates → compare false-positive/negative tradeoffs without inventing values. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 

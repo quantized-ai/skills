@@ -28,7 +28,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Draw repeated samples using identical n/design; record one mean per sample; build a second distribution and compare center/spread with individuals.
 
-**Distinct worked model — reveal in steps:** Population values 0 and 4 are equally likely. Independent samples of size 2 yield means 0,2,4 with probabilities 1/4,1/2,1/4. Population SD is2; mean SD is√2. The center remains 2 while variability decreases.
+**Distinct worked model — reveal in steps:** Population values 0 and 4 are equally likely. Independent samples of size 2 yield means 0,2,4 with probabilities 1/4,1/2,1/4. Population SD is 2; mean SD is √2. The center remains 2 while variability decreases.
 
 **Misconception response and hint ladder:** If all sampled observations are pooled, ask which one number should represent each sample; next calculate and retain its mean only. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
 
@@ -40,13 +40,13 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Simulation-based margin of error for a mean
 
-**Diagnostic — ask and wait:** For observed 4,6,8, may a bootstrap sample be4,4,8?
+**Diagnostic — ask and wait:** For observed 4,6,8, may a bootstrap sample be 4,4,8?
 
 **Private diagnostic key:** yes; empirical sampling is with replacement, size 3.
 
 **Teach in this order:** Resample observed values with replacement at original n; store means; center errors at observed mean; choose declared percentile; interpret repeated-procedure uncertainty.
 
-**Distinct worked model — reveal in steps:** Suppose explicitly supplied bootstrap absolute mean errors are 0,0.2,0.4,0.5,0.7,0.8,1,1.2,1.4,1.8. With nearest-rank 90th percentile, m is the ninth value 1.4; observed mean 6 gives[4.6,7.4]. This is an illustration of calibration, not a claimed simulation run or guaranteed 90% coverage.
+**Distinct worked model — reveal in steps:** Suppose explicitly supplied bootstrap absolute mean errors are 0,0.2,0.4,0.5,0.7,0.8,1,1.2,1.4,1.8. With nearest-rank 90th percentile, m is the ninth value 1.4; observed mean 6 gives [4.6,7.4]. This is an illustration of calibration, not a claimed simulation run or guaranteed 90% coverage.
 
 **Misconception response and hint ladder:** If the interval is said to contain 90% of individuals, ask which statistic the simulation recorded; next contrast raw values and resample means. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
 

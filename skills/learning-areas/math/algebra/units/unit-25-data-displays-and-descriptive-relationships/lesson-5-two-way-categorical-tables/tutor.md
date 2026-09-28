@@ -22,7 +22,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Joint and marginal frequencies
 
-**Diagnostic — ask and wait:** In a2×2 table, does a joint frequency use one cell or a margin?
+**Diagnostic — ask and wait:** In a 2×2 table, does a joint frequency use one cell or a margin?
 
 **Private diagnostic key:** one cell; a marginal frequency sums a row/column.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Identify conditioning words; restrict table to that group; compute/comparatively interpret rates; distinguish association from cause.
 
-**Distinct worked model — reveal in steps:** Group C has 8 yes out of10 and D has 12 yes out of30. D has more yes responses but lower yes rate (40% versus 80%). Compare conditional proportions using each group's denominator; counts alone mislead when sizes differ.
+**Distinct worked model — reveal in steps:** Group C has 8 yes out of 10 and D has 12 yes out of 30. D has more yes responses but lower yes rate (40% versus 80%). Compare conditional proportions using each group's denominator; counts alone mislead when sizes differ.
 
 **Misconception response and hint ladder:** If overall total is used, ask which group is already known; next circle only its row/column.
 

@@ -14,7 +14,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 **Ask:** To solve 2x+3=11, a student subtracts 3 only from the left. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** Equality must be transformed on both sides;2x=8 givesx=4. Ask what balances the removed amount and verify in the original.
+**Private reasoning and response:** Equality must be transformed on both sides;2x=8 gives x=4. Ask what balances the removed amount and verify in the original.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -28,7 +28,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Specify variable domain; interpret equality as a condition; distinguish one solution from the complete solution set.
 
-**Distinct worked model — reveal in steps:** Solve 3x=12 over real numbers: division by3 gives the complete solution set{4}; substitution verifies 12=12. If the stated domain instead permits only odd integers, that same candidate is excluded and the solution set is empty. An equation asks which allowed inputs make both sides equal, unlike an expression awaiting evaluation.
+**Distinct worked model — reveal in steps:** Solve 3x=12 over real numbers: division by 3 gives the complete solution set{4}; substitution verifies 12=12. If the stated domain instead permits only odd integers, that same candidate is excluded and the solution set is empty. An equation asks which allowed inputs make both sides equal, unlike an expression awaiting evaluation.
 
 **Misconception response and hint ladder:** If an expression is 'solved' without an equation, ask what equality must hold; next contrast 3x+1 with 3x+1=7.
 
@@ -40,7 +40,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Inverse operations and equivalence
 
-**Diagnostic — ask and wait:** Why may 5 be subtracted from both sides of2x+5=13?
+**Diagnostic — ask and wait:** Why may 5 be subtracted from both sides of 2x+5=13?
 
 **Private diagnostic key:** it preserves equality and is reversible.
 

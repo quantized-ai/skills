@@ -12,9 +12,9 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** A student rewrites 3 L/min as180 L/s and solves p=(a+b)t by division for every a,b. Diagnose both. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** A student rewrites 3 L/min as 180 L/s and solves p=(a+b)t by division for every a,b. Diagnose both. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** A second is1/60 minute, so rate 0.05 L/s; a+b=0 requires original-equation cases. If arithmetic is sound but units fail, revisit unit ratios; if division is automatic, try a=2,b=−2,p=0.
+**Private reasoning and response:** A second is 1/60 minute, so rate 0.05 L/s; a+b=0 requires original-equation cases. If arithmetic is sound but units fail, revisit unit ratios; if division is automatic, try a=2,b=−2,p=0.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 

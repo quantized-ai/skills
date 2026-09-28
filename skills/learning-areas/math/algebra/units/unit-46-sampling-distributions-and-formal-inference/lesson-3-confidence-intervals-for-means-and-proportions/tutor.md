@@ -50,7 +50,7 @@ Reveal the explanation in the sequence below, asking the learner to justify a co
 
 ### Practice progression
 
-Calculate a90% and 95% interval for the same data using supplied z*; next solve a reverse-margin problem with fixed σ; finally reject a z justification when only sample s is known and explain what method information is missing.
+Calculate a 90% and 95% interval for the same data using supplied z*; next solve a reverse-margin problem with fixed σ; finally reject a z justification when only sample s is known and explain what method information is missing.
 
 **Construction and verification controls:** Supply known positive σ, a normal sampling model and exact z* or a quantile tool; retain units and two-sided tails.
 
@@ -101,7 +101,7 @@ Reveal the explanation in the sequence below, asking the learner to justify a co
 
 ### Practice progression
 
-Use valid counts for a full calculation and contextual interpretation; next compare the same proportion at larger n; finally diagnose x=0 or x=n and an interval extending beyond[0,1], without claiming clipping repairs coverage.
+Use valid counts for a full calculation and contextual interpretation; next compare the same proportion at larger n; finally diagnose x=0 or x=n and an interval extending beyond [0,1], without claiming clipping repairs coverage.
 
 **Construction and verification controls:** Choose integer successes 0≤x≤n; alternate valid counts and explicit invalid small-count cases; verify rounding and do not clip a bad interval.
 

@@ -26,7 +26,7 @@ Use the error-analysis activity after its underlying method is accessible, then 
 
 **When to use:** In learn or practice mode after the first relevant method is intelligible. Ask for a justification or counterexample before revealing the key.
 
-**Prompt:** A variable counts successes in ten trials; another counts attempts until first success. Both use p=0.2. Why is one not a renamed version of the other?
+**Prompt:** A variable counts successes in ten trials; another counts trials up to and including the first success. Both use p=0.2. Why is one not a renamed version of the other?
 
 **Agent key and discussion:** Binomial support is 0,…,10 and its mean 2. Geometric trial-count support is 1,2,… and mean 5. The experiment's stopping rule and recorded quantity differ even with identical trial probabilities.
 

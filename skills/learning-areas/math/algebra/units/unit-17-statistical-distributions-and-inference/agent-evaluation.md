@@ -75,7 +75,7 @@ These are manual evaluation specifications, not results of completed student ses
 
 ### Lesson 17.1: reasoning, repair and evidence
 
-**Student probe:** A sample SD is reported as−2 meters because the sample has mostly below-mean values.
+**Student probe:** A sample SD is reported as −2 meters because the sample has mostly below-mean values.
 
 **Required mathematical response:** Deviations may be negative but squared-average-root spread cannot be. Ask the student to calculate each squared deviation; follow by comparing SD units with variance units.
 
@@ -101,7 +101,7 @@ These are manual evaluation specifications, not results of completed student ses
 
 **Student probe:** For four fair tosses with H=4, a student reports 1/16 as a prespecified two-sided tail.
 
-**Required mathematical response:** Two-sided |H−2|≥2 includes H=0 as well as4, giving 2/16. Ask which outcomes are equally far from the null center; retain directional 1/16 only for a direction chosen beforehand.
+**Required mathematical response:** Two-sided |H−2|≥2 includes H=0 as well as 4, giving 2/16. Ask which outcomes are equally far from the null center; retain directional 1/16 only for a direction chosen beforehand.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-4-probability-simulation-and-model-checking](lesson-4-probability-simulation-and-model-checking/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 

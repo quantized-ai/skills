@@ -18,7 +18,7 @@ Keep formal procedure guarantees conditional on stated voting/valuation assumpti
 
 **Prompt:** Three people each receive at least one third by their own values. A learner claims nobody can envy another. Refute the implication.
 
-**Agent-only reasoning:** A person can value their own share.35 and another.40 (third.25), remaining proportional while envious. Use each person’s own valuation row.
+**Agent-only reasoning:** A person can value their own share .35 and another .40 (third .25), remaining proportional while envious. Use each person’s own valuation row.
 
 Ask for the first unjustified step, invite a corrected explanation, and retain correct components of the original response. Then use a different representation or new case for independent evidence.
 

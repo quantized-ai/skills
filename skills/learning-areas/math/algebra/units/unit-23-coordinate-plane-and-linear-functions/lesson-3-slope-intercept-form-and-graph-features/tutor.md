@@ -12,9 +12,9 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** In y=2x−6, the zero is reported as−6. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** In y=2x−6, the zero is reported as −6. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** −6 is y-intercept output; solve 0=2x−6 for zero input 3. Ask which coordinate must be0 for each intercept.
+**Private reasoning and response:** −6 is y-intercept output; solve 0=2x−6 for zero input 3. Ask which coordinate must be 0 for each intercept.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -28,9 +28,9 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Start from rise/run relative to the zero-input point; derive equation; plot an intercept and slope step; verify another point.
 
-**Distinct worked model — reveal in steps:** A line has slope 2 and passes through (0,−4), so y=2x−4. Plot (0,−4), then move 1 right and 2 up to(1,−2); the line crosses the x-axis at2. The slope-intercept equation follows y−(−4)=2(x−0).
+**Distinct worked model — reveal in steps:** A line has slope 2 and passes through (0,−4), so y=2x−4. Plot (0,−4), then move 1 right and 2 up to (1,−2); the line crosses the x-axis at 2. The slope-intercept equation follows y−(−4)=2(x−0).
 
-**Misconception response and hint ladder:** If7 is labeled slope in y=−3x+7, ask which value changes output per added input; next compare x=0 and 1.
+**Misconception response and hint ladder:** If 7 is labeled slope in y=−3x+7, ask which value changes output per added input; next compare x=0 and 1.
 
 **Practice progression:** Read form → derive/graph → convert from a different equation. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -40,7 +40,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Intercepts, zeros, and signs
 
-**Diagnostic — ask and wait:** Find intercepts of2x+3y=12.
+**Diagnostic — ask and wait:** Find intercepts of 2x+3y=12.
 
 **Private diagnostic key:** (6,0),(0,4).
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For y=−2x+6, zero occurs x=3. Outputs are positive for x<3 and negative for x>3. The zero is an input; the x-intercept is the point (3,0). A nonzero constant function has no zero.
 
-**Misconception response and hint ladder:** If intercept coordinates are swapped, ask which axis forces which coordinate to0; next substitute the proposed point.
+**Misconception response and hint ladder:** If intercept coordinates are swapped, ask which axis forces which coordinate to 0; next substitute the proposed point.
 
 **Practice progression:** Intercepts → zero/sign intervals → horizontal and vertical exceptions. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 

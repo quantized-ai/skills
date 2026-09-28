@@ -4,7 +4,7 @@ Read with [the curriculum](lesson.md), [shared interaction rules](../agent-guide
 
 ## Prerequisites and routing
 
-Check signed residual: observed 7 minus predicted 9 is−2. Repair subtraction direction before comparing absolute/squared summaries.
+Check signed residual: observed 7 minus predicted 9 is −2. Repair subtraction direction before comparing absolute/squared summaries.
 
 This lesson can be entered directly when its entry probe is secure; review only demonstrated gaps, not a mandatory sequence of unrelated units.
 
@@ -16,7 +16,7 @@ Keep the named least-squares/absolute-error/median-median models distinct. Do no
 
 **Purpose:** make the student test a consequential claim before accepting a procedure. Use after its relevant concept has been introduced; it is learning/practice evidence, not an unexposed assessment.
 
-**Prompt:** For residuals 0,0,3 versus−1,−1,2, a learner says both absolute and squared criteria prefer the same candidate. Check and repair.
+**Prompt:** For residuals 0,0,3 versus −1,−1,2, a learner says both absolute and squared criteria prefer the same candidate. Check and repair.
 
 **Agent-only reasoning:** Absolute totals 3 versus 4 prefer the first; squared totals 9 versus 6 prefer the second. These are candidate comparisons, not certificates of global optimality.
 
@@ -30,7 +30,7 @@ Curriculum reference: **Transformed lines and absolute versus squared error** in
 
 **Prompt:** A data point has observed y=8 and predicted y=10. Find its signed residual, absolute error and squared error.
 
-**Agent-only key:** Residual−2, absolute 2 and square 4; these are different summaries of the same departure.
+**Agent-only key:** Residual −2, absolute 2 and square 4; these are different summaries of the same departure.
 
 Use the response to choose where to begin the teaching sequence. A correct short diagnostic does not establish the concept’s complete proficiency.
 

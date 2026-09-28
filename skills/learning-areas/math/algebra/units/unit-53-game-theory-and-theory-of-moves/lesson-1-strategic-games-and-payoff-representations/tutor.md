@@ -28,7 +28,7 @@ Curriculum reference: **Games, payoffs, and strategy sets** in [lesson.md](lesso
 
 ### Separate diagnostic
 
-**Prompt:** A cell is labeled(5,−2). Is that zero-sum simply because one payoff is negative?
+**Prompt:** A cell is labeled (5,−2). Is that zero-sum simply because one payoff is negative?
 
 **Agent-only key:** No; their sum is 3. Zero-sum requires opposing payoffs summing to zero in every cell under the stated payoff scale.
 
@@ -103,7 +103,7 @@ Reveal the explanation in the sequence below, asking the learner to justify a co
 
 ### Practice progression
 
-Find responses in a2×2 game with a unique equilibrium; then include ties/multiple equilibria and a no-pure-equilibrium game; finally compare a Nash outcome with a jointly better alternative without changing the unilateral definition.
+Find responses in a 2×2 game with a unique equilibrium; then include ties/multiple equilibria and a no-pure-equilibrium game; finally compare a Nash outcome with a jointly better alternative without changing the unilateral definition.
 
 **Construction and verification controls:** Include strict/weak dominance, ties, multiple or no pure equilibria; enumerate best-response sets before intersections.
 

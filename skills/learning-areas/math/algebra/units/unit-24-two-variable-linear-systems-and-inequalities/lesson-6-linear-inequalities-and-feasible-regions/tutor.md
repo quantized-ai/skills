@@ -58,7 +58,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Formulating contextual feasible sets
 
-**Diagnostic — ask and wait:** A budget allows x items at4 and y at6 for at most 24. What else is needed for counts?
+**Diagnostic — ask and wait:** A budget allows x items at 4 and y at 6 for at most 24. What else is needed for counts?
 
 **Private diagnostic key:** x,y≥0 integers.
 

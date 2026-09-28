@@ -28,7 +28,7 @@ These original prompts and checked reasoning anchors calibrate mathematical accu
 
 **Prompt:** Solve $-1\le2x+3<9$ and compare $x<-2$ or $x\ge4$. A ride costs 5 credits plus 3 per ticket; with at most 20 credits, how many tickets can be bought?
 
-**Checked reasoning:** Compound intersection gives $-2\le x<3$. The union is $(-\infty,-2)\cup[4,\infty)$. Budget $5+3n\le20$ with integer $n\ge0$ permits $0,1,2,3,4,5$.
+**Checked reasoning:** Compound intersection gives $-2\le x<3$. The union is $(-\infty,-2)\cup[4,\infty)$. Budget $5+3n\le20$ with integer $n\ge0$ permits $0,1,2,3,4,5$; answering "up to 5 tickets" is also correct.
 
 **Coverage limit:** Include overlapping/disjoint unions and intersections and contexts with integrality, strict capacity or minimum purchases; distinguish the continuous bound from valid count choices.
 
@@ -41,7 +41,7 @@ The examples above remain private calibration. Generate a new task for each sele
 | 22.1 — Order statements and membership | <,≤,>,≥; boundary inclusion; correct order; solution set versus one value. | [Teaching plan](lesson-1-inequalities-and-solution-set-notation/tutor.md#order-statements-and-membership) |
 | 22.1 — Number lines, intervals, and set-builder notation | Number line, interval and set-builder equivalence; infinity parentheses; empty/all-real cases. | [Teaching plan](lesson-1-inequalities-and-solution-set-notation/tutor.md#number-lines-intervals-and-set-builder-notation) |
 | 22.2 — Equivalent inequality transformations | Correct reversal only under negative scale; strictness retained; equivalent steps; test points. | [Teaching plan](lesson-2-solving-and-classifying-linear-inequalities/tutor.md#equivalent-inequality-transformations) |
-| 22.2 — Constant and symbolic-coefficient cases | Exhaustive sign cases; no division by0; all/empty sets; original relation. | [Teaching plan](lesson-2-solving-and-classifying-linear-inequalities/tutor.md#constant-and-symbolic-coefficient-cases) |
+| 22.2 — Constant and symbolic-coefficient cases | Exhaustive sign cases; no division by 0; all/empty sets; original relation. | [Teaching plan](lesson-2-solving-and-classifying-linear-inequalities/tutor.md#constant-and-symbolic-coefficient-cases) |
 | 22.3 — Intersections and unions of inequalities | AND/OR distinction; open/closed endpoints; empty/all-real outcomes; integer feasibility; original membership checks. | [Teaching plan](lesson-3-compound-inequalities-and-contextual-constraints/tutor.md#intersections-and-unions-of-inequalities) |
 | 22.3 — Contextual bounds and integer choices | At least/at most; nonnegative quantities; explicit minimum-use assumptions; feasible rounding; original contextual verification. | [Teaching plan](lesson-3-compound-inequalities-and-contextual-constraints/tutor.md#contextual-bounds-and-integer-choices) |
 

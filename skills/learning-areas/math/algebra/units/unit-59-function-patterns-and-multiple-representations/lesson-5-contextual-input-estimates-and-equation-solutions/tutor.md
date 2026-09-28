@@ -18,7 +18,7 @@ Use the stated low-degree/family assumptions. Do not infer global identity, deri
 
 **Prompt:** A small cubic residual is called a guaranteed input error bound of the same size. Replace this with valid evidence for t³=2.
 
-**Agent-only reasoning:** A continuous bracket[1.25,1.26] contains the positive root, so midpoint 1.255 has input error at most.005. Output residual and input error are distinct.
+**Agent-only reasoning:** A continuous bracket [1.25,1.26] contains the positive root, so midpoint 1.255 has input error at most .005. Output residual and input error are distinct.
 
 Ask for the first unjustified step, invite a corrected explanation, and retain correct components of the original response. Then use a different representation or new case for independent evidence.
 
@@ -80,7 +80,7 @@ Curriculum reference: **Linear and quadratic contextual solutions** in [lesson.m
 
 ### Separate diagnostic
 
-**Prompt:** A contextual equation has roots 2 and−3. May the negative root always be discarded?
+**Prompt:** A contextual equation has roots 2 and −3. May the negative root always be discarded?
 
 **Agent-only key:** No; feasibility depends on the variable's stated domain. A length excludes it, but a signed coordinate may allow it.
 

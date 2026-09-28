@@ -12,7 +12,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** 2x+3x² is simplified to5x³. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** 2x+3x² is simplified to 5x³. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
 **Private reasoning and response:** Addition combines only identical variable parts. At x=2, originals 16 and claimed 40 differ; ask which operation adds exponents for powers and why it is absent here.
 
@@ -22,7 +22,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Collecting like terms
 
-**Diagnostic — ask and wait:** Can 3x+2x² combine to5x³?
+**Diagnostic — ask and wait:** Can 3x+2x² combine to 5x³?
 
 **Private diagnostic key:** no; unlike powers are different terms.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Separate identity from one-input equality; justify transformations symbolically; select a form that exposes the contextual quantity.
 
-**Distinct worked model — reveal in steps:** A club charge of10 plus 4 per visit is10+4v. For two such memberships,2(10+4v)=20+8v; the factored form shows two identical plans, expanded form shows combined fixed and variable costs. Equality follows distribution for all permitted v.
+**Distinct worked model — reveal in steps:** A club charge of 10 plus 4 per visit is 10+4v. For two such memberships,2(10+4v)=20+8v; the factored form shows two identical plans, expanded form shows combined fixed and variable costs. Equality follows distribution for all permitted v.
 
 **Misconception response and hint ladder:** If a numerical spot-check is called proof, ask whether another input could disagree; next identify the algebraic property that ensures all-input equality.
 

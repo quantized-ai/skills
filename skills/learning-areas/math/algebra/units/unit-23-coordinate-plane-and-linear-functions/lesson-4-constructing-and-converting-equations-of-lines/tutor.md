@@ -24,7 +24,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Diagnostic — ask and wait:** Write the line through (2,1) with slope −3.
 
-**Private diagnostic key:** y−1=−3(x−2).
+**Private diagnostic key:** y−1=−3(x−2), or any equivalent form such as y=−3x+7 or 3x+y=7.
 
 **Teach in this order:** Calculate slope if needed; anchor changes at the given point; retain parentheses; check both data points.
 

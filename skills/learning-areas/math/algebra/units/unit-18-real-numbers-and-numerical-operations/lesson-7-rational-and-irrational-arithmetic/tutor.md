@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** If a/b and c/d are rational, sum=(ad+bc)/(bd), an integer ratio with bd≠0. Their quotient is ad/(bc) only when c≠0. Thus rational division is closed only when the divisor is nonzero.
 
-**Misconception response and hint ladder:** If0/0 is used as a rational example, ask whether its denominator meets the definition; next return to allowed integer ratios.
+**Misconception response and hint ladder:** If 0/0 is used as a rational example, ask whether its denominator meets the definition; next return to allowed integer ratios.
 
 **Practice progression:** Numeric examples → general closure proof → division exception. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Contrast rational–irrational and irrational–irrational pairs; test claims using counterexamples; use closure for contradiction proofs.
 
-**Distinct worked model — reveal in steps:** If r is rational and u irrational, r+u cannot be rational: otherwise u=(r+u)−r would be rational by closure. A nonzero rational multiple ru is also irrational; r=0 is the necessary exception. Two irrationals can sum to0 or multiply to2.
+**Distinct worked model — reveal in steps:** If r is rational and u irrational, r+u cannot be rational: otherwise u=(r+u)−r would be rational by closure. A nonzero rational multiple ru is also irrational; r=0 is the necessary exception. Two irrationals can sum to 0 or multiply to 2.
 
 **Misconception response and hint ladder:** If any expression containing an irrational is called irrational, ask about √2−√2; next simplify before classifying.
 

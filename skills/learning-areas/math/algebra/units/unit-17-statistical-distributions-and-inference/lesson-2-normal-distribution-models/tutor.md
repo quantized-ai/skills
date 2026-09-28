@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Draw and shade the event first; standardize each boundary; choose cumulative/complement/difference; confirm area is between 0 and 1.
 
-**Distinct worked model — reveal in steps:** For X normal with μ=100,σ=15, event 85<X<130 becomes −1<Z<2. Using Φ(2)=0.97725 and Φ(−1)=0.15866 gives 0.81859. Among 200 modeled observations the expected count is163.718, about 164, not a guaranteed total.
+**Distinct worked model — reveal in steps:** For X normal with μ=100,σ=15, event 85<X<130 becomes −1<Z<2. Using Φ(2)=0.97725 and Φ(−1)=0.15866 gives 0.81859. Among 200 modeled observations the expected count is 163.718, about 164, not a guaranteed total.
 
 **Misconception response and hint ladder:** If two cumulative probabilities are added for an interval, ask what each shaded region contains; next remove the overlapping left tail. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
 
@@ -85,7 +85,7 @@ Use the shared guide's session evidence labels. Before declaring this lesson sec
 
 ### Reverse normal-area reasoning
 
-With an explicitly assumed normal model μ=40,σ=6 and a supplied standard-normal90th-percentile value z≈1.2816, the corresponding cutoff is x=μ+zσ≈47.69. Check that it lies above40 and leaves about10% to the right. If the question instead asks the bottom10%, use z≈−1.2816 and obtain32.31. Ask the student to shade the requested region before selecting a table/tool convention; do not infer normality merely from the availability of μ and σ.
+With an explicitly assumed normal model μ=40,σ=6 and a supplied standard-normal90th-percentile value z≈1.2816, the corresponding cutoff is x=μ+zσ≈47.69. Check that it lies above 40 and leaves about 10% to the right. If the question instead asks the bottom 10%, use z≈−1.2816 and obtain 32.31. Ask the student to shade the requested region before selecting a table/tool convention; do not infer normality merely from the availability of μ and σ.
 
 ## Decision model and graduated practice
 

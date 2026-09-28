@@ -69,9 +69,9 @@ These are manual evaluation specifications, not results of completed student ses
 
 ### Lesson 16.1: reasoning, repair and evidence
 
-**Student probe:** A student rewrites 3 L/min as180 L/s and solves p=(a+b)t by division for every a,b. Diagnose both.
+**Student probe:** A student rewrites 3 L/min as 180 L/s and solves p=(a+b)t by division for every a,b. Diagnose both.
 
-**Required mathematical response:** A second is1/60 minute, so rate 0.05 L/s; a+b=0 requires original-equation cases. If arithmetic is sound but units fail, revisit unit ratios; if division is automatic, try a=2,b=−2,p=0.
+**Required mathematical response:** A second is 1/60 minute, so rate 0.05 L/s; a+b=0 requires original-equation cases. If arithmetic is sound but units fail, revisit unit ratios; if division is automatic, try a=2,b=−2,p=0.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-1-quantities-and-formulas](lesson-1-quantities-and-formulas/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 

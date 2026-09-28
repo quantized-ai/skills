@@ -113,7 +113,7 @@ These are specified scenarios for a future evaluator, not a report of executed l
 
 | Actual audit input | Expected judgment |
 | --- | --- |
-| My radius3, height5 open-top cylinder area is48π because $2πrh+2πr^2$. | Credit lateral area, remove the nonexistent top, and report39π for base plus exterior wall. Do not confuse this with volume45π. |
+| My radius 3, height 5 open-top cylinder area is 48π because $2πrh+2πr^2$. | Credit lateral area, remove the nonexistent top, and report 39π for base plus exterior wall. Do not confuse this with volume 45π. |
 | Two solids have equal height and equal base area, so Cavalieri proves their volumes equal. | Reject the insufficient hypothesis; require equal areas at every corresponding height. A cone and cylinder with the same base/height refute the claim. |
 
 After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

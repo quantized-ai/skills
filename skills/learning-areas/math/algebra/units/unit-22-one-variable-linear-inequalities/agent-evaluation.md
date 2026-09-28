@@ -39,7 +39,7 @@ These are manual evaluation specifications, not results of completed student ses
 
 ### Lesson 22.1: reasoning, repair and evidence
 
-**Student probe:** x≤3 is drawn with an open circle at3 and written (−∞,3).
+**Student probe:** x≤3 is drawn with an open circle at 3 and written (−∞,3).
 
 **Required mathematical response:** Equality includes 3, so close the point and bracket the finite endpoint. Ask whether 3≤3 is true, then translate each representation.
 
@@ -47,9 +47,9 @@ These are manual evaluation specifications, not results of completed student ses
 
 ### Lesson 22.2: reasoning, repair and evidence
 
-**Student probe:** −2x≥8 is solved asx≥−4.
+**Student probe:** −2x≥8 is solved as x≥−4.
 
-**Required mathematical response:** Dividing by a negative reverses order: x≤−4. Testx=0 to expose the error; ask for a number-line reflection explanation.
+**Required mathematical response:** Dividing by a negative reverses order: x≤−4. Test x=0 to expose the error; ask for a number-line reflection explanation.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-2-solving-and-classifying-linear-inequalities](lesson-2-solving-and-classifying-linear-inequalities/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 
@@ -57,7 +57,7 @@ These are manual evaluation specifications, not results of completed student ses
 
 **Student probe:** x<0 OR x>2 is shaded only where both hold, producing no solution.
 
-**Required mathematical response:** OR means union, so both rays belong; AND would be empty. Ask whetherx=−1 satisfies at least one condition, then translate into intervals.
+**Required mathematical response:** OR means union, so both rays belong; AND would be empty. Ask whether x=−1 satisfies at least one condition, then translate into intervals.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-3-compound-inequalities-and-contextual-constraints](lesson-3-compound-inequalities-and-contextual-constraints/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 

@@ -44,9 +44,9 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Private diagnostic key:** no; the plug-in model fails to represent unseen failures.
 
-**Teach in this order:** Fit Bernoulli probability to observed pHat; simulate n trials per replicate; form absolute proportion errors; declare percentile and restrict endpoints to[0,1].
+**Teach in this order:** Fit Bernoulli probability to observed pHat; simulate n trials per replicate; form absolute proportion errors; declare percentile and restrict endpoints to [0,1].
 
-**Distinct worked model — reveal in steps:** For n=50, pHat=0.60, suppose a documented simulation's95th percentile absolute error is0.14. Interval[0.46,0.74] has margin 14 percentage points, not 14% of0.60. Its reliability depends on sampling, adequate empirical variation and the approximation.
+**Distinct worked model — reveal in steps:** For n=50, pHat=0.60, suppose a documented simulation's95th percentile absolute error is 0.14. Interval [0.46,0.74] has margin 14 percentage points, not 14% of 0.60. Its reliability depends on sampling, adequate empirical variation and the approximation.
 
 **Misconception response and hint ladder:** If endpoint truncation is said to guarantee coverage, ask whether biased sampling changed; next separate feasible endpoints from calibration validity. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
 

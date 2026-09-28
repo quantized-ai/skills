@@ -110,7 +110,7 @@ Interpret an in-range and extrapolated intercept; next compare equal-correlation
 
 **First conceptual cue:** What shape remains after subtracting the fitted line?
 
-If r=.8 is called a slope of.8, ask which measure has units. If zero r is called no relationship, test the y=x² counterexample and name the restriction to linear association.
+If r=.8 is called a slope of .8, ask which measure has units. If zero r is called no relationship, test the y=x² counterexample and name the restriction to linear association.
 
 Give one relevant cue at a time and wait. If a cue does not help, use the indicated representation/setup before demonstrating the next worked step. Mark any mathematically supported attempt assisted; a later corrected response to the same example remains exposed.
 

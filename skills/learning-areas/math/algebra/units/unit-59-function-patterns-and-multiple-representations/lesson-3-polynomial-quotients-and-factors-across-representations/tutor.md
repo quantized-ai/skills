@@ -18,7 +18,7 @@ Use the stated low-degree/family assumptions. Do not infer global identity, deri
 
 **Prompt:** A polynomial division has remainder 2, but the table is filled using the polynomial quotient alone. Repair its evaluation rule.
 
-**Agent-only reasoning:** Use p/d=q+2/d wherever d≠0. Forx³+1 divided by x−1, at x=2 the ratio 9 differs from q=7 by 2; at x=1 it remains undefined.
+**Agent-only reasoning:** Use p/d=q+2/d wherever d≠0. For x³+1 divided by x−1, at x=2 the ratio 9 differs from q=7 by 2; at x=1 it remains undefined.
 
 Ask for the first unjustified step, invite a corrected explanation, and retain correct components of the original response. Then use a different representation or new case for independent evidence.
 
@@ -82,7 +82,7 @@ Curriculum reference: **Linear factors from zeros and structure** in [lesson.md]
 
 **Prompt:** An exact root is x=−2. Which linear factor follows?
 
-**Agent-only key:** x+2; the factor is x−r, so subtracting−2 gives plus 2.
+**Agent-only key:** x+2; the factor is x−r, so subtracting −2 gives plus 2.
 
 Use the response to choose where to begin the teaching sequence. A correct short diagnostic does not establish the concept’s complete proficiency.
 

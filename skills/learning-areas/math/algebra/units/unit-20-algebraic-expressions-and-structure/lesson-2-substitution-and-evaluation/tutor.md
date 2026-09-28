@@ -12,7 +12,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** A student simplifies x/x to1 and evaluates it at x=0. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** A student simplifies x/x to 1 and evaluates it at x=0. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
 **Private reasoning and response:** Original expression excludes 0. Ask whether 0/0 names one number; the simplification is valid only on x≠0.
 
@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** For a=−2,b=3, $(a-b)^2+a/b=(-5)^2-2/3=73/3$. Insert parentheses around signed substitutions before executing powers and subtraction; a decimal is optional after the exact value.
 
-**Misconception response and hint ladder:** If(−3)² is treated as−9, ask which expression is the base; next expand (−3)(−3).
+**Misconception response and hint ladder:** If (−3)² is treated as −9, ask which expression is the base; next expand (−3)(−3).
 
 **Practice progression:** Single substitution → several variables → negative/fractional values in grouped expressions. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -40,13 +40,13 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Defined and undefined substitutions
 
-**Diagnostic — ask and wait:** Is1/(x−4) defined at x=4?
+**Diagnostic — ask and wait:** Is 1/(x−4) defined at x=4?
 
 **Private diagnostic key:** no; denominator zero.
 
 **Teach in this order:** Inspect denominators and even roots before substitution; combine all restrictions; distinguish zero output from undefined expression.
 
-**Distinct worked model — reveal in steps:** For $E=\sqrt{x+2}/(x-1)$ over reals, require x≥−2 and x≠1. At−2 the numerator 0 is allowed and denominator −3 is not zero, so E=0; at−3 the root is not real.
+**Distinct worked model — reveal in steps:** For $E=\sqrt{x+2}/(x-1)$ over reals, require x≥−2 and x≠1. At −2 the numerator 0 is allowed and denominator −3 is not zero, so E=0; at −3 the root is not real.
 
 **Misconception response and hint ladder:** If simplification erases a restriction, ask what the original expression permits; next evaluate the original denominator at the excluded value.
 

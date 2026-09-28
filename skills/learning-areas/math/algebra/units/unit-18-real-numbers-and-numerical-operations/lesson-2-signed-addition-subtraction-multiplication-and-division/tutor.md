@@ -14,7 +14,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 **Ask:** A student claims −4+(−3)=12 because two negatives make a positive. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** That slogan belongs to multiplication, and this sum is−7. Ask whether quantities are being combined or multiplied; model leftward displacements before repeating a new calculation.
+**Private reasoning and response:** That slogan belongs to multiplication, and this sum is −7. Ask whether quantities are being combined or multiplied; model leftward displacements before repeating a new calculation.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Connect signs to distributive consistency; interpret division as inverse multiplication; separate zero numerator from zero denominator.
 
-**Distinct worked model — reveal in steps:** Distribution gives 0=(−2)(3+(−3))=−6+(−2)(−3), so (−2)(−3)=6. Division asks for a missing factor: 0/5=0 because 5·0=0, but 5/0 has no solution to0q=5.
+**Distinct worked model — reveal in steps:** Distribution gives 0=(−2)(3+(−3))=−6+(−2)(−3), so (−2)(−3)=6. Division asks for a missing factor: 0/5=0 because 5·0=0, but 5/0 has no solution to 0q=5.
 
 **Misconception response and hint ladder:** If two negatives are 'always positive', ask whether the operation is addition or multiplication; next compare −2+(−3) and (−2)(−3).
 

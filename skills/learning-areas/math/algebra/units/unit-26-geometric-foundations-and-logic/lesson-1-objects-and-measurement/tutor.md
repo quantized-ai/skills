@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** State order/interior conditions; apply addition to measures; distinguish congruent objects from equal numerical lengths/angles.
 
-**Distinct worked model — reveal in steps:** Rays OA,OB form a75° angle with OC interior and ∠AOC=28°. Angle addition gives ∠COB=47°. Without the interior-ray condition the subtraction is unjustified. A circle of radius 4 comprises all planar points distance 4 from its center, not its interior disk.
+**Distinct worked model — reveal in steps:** Rays OA,OB form a 75° angle with OC interior and ∠AOC=28°. Angle addition gives ∠COB=47°. Without the interior-ray condition the subtraction is unjustified. A circle of radius 4 comprises all planar points distance 4 from its center, not its interior disk.
 
 **Misconception response and hint ladder:** If a sketch supplies betweenness without a given, ask which premise authorizes addition; next state the missing condition explicitly.
 

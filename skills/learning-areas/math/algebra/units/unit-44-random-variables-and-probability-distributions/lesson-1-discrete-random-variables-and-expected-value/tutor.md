@@ -26,7 +26,7 @@ Use the error-analysis activity after its underlying method is accessible, then 
 
 **Prompt:** X is −1 or 3 with equal probability. A student says expected value 1 is impossible because 1 never occurs. Explain both statements accurately.
 
-**Agent key and discussion:** E(X)=1 is correct as a long-run weighted mean; it is not a possible individual realization. Expected value and support answer different questions. Variance is 4 and SD 2, preserving the distinction between squared and original units.
+**Agent key and discussion:** E(X)=1 is correct as a long-run weighted mean; it is not a possible individual realization. Expected value and support answer different questions. As an optional extension, not required by the prompt, variance is 4 and SD 2, preserving the distinction between squared and original units.
 
 **Respond to the attempt:** Identify which asserted step the student can justify and preserve that evidence. If they only state the final correction, ask them to test the original claim or identify its missing hypothesis. After feedback, let them revise; use a fresh configuration for independent evidence.
 

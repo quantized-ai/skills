@@ -28,7 +28,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Define linked quantities; write each independent constraint; solve; interpret equality and the relevant neighboring cases.
 
-**Distinct worked model — reveal in steps:** Two plans cost A=12+3t and B=4+5t. Equality at12+3t=4+5t gives t=4 and cost 24. For 0≤t<4 B is cheaper; t>4 A is cheaper. The intersection answers equality, not all comparative questions.
+**Distinct worked model — reveal in steps:** Two plans cost A=12+3t and B=4+5t. Equality at 12+3t=4+5t gives t=4 and cost 24. For 0≤t<4 B is cheaper; t>4 A is cheaper. The intersection answers equality, not all comparative questions.
 
 **Misconception response and hint ladder:** If only a total-count equation is written, ask which cost information remains unused; next label units of each term.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Interpret solution in quantity domain; verify every total and unit; distinguish indivisible counts from divisible amounts; report incompatibility rather than round arbitrarily.
 
-**Distinct worked model — reveal in steps:** A mixture uses x liters of20% solution and y liters of50% solution to make 10 liters at32%. x+y=10 and 0.2x+0.5y=3.2 yield y=4,x=6. Solute 0.2·6+0.5·4=3.2 verifies concentration; liters may be continuous.
+**Distinct worked model — reveal in steps:** A mixture uses x liters of 20% solution and y liters of 50% solution to make 10 liters at 32%. x+y=10 and 0.2x+0.5y=3.2 yield y=4,x=6. Solute 0.2·6+0.5·4=3.2 verifies concentration; liters may be continuous.
 
 **Misconception response and hint ladder:** If fractional people are rounded, ask whether rounded values still satisfy both totals; next substitute them to expose conflict.
 

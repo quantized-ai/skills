@@ -16,7 +16,7 @@ Use the stated model regimes and included elementary methods. Do not require cal
 
 **Purpose:** make the student test a consequential claim before accepting a procedure. Use after its relevant concept has been introduced; it is learning/practice evidence, not an unexposed assessment.
 
-**Prompt:** A2×3×4 box changes to 4×3×4; a learner multiplies volume by 8 because one dimension doubled. Repair using dimensions.
+**Prompt:** A 2×3×4 box changes to 4×3×4; a learner multiplies volume by 8 because one dimension doubled. Repair using dimensions.
 
 **Agent-only reasoning:** Original volume 24, new 48, factor 2. Factor 8 requires every linear dimension doubled; recomputation is required for nonuniform changes.
 

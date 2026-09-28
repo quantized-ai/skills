@@ -58,13 +58,13 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Absolute value and numerical distance
 
-**Diagnostic — ask and wait:** What is the distance from −4 to3?
+**Diagnostic — ask and wait:** What is the distance from −4 to 3?
 
 **Private diagnostic key:** |3−(−4)|=7.
 
 **Teach in this order:** Identify reference point; form a difference; take absolute value; show both directions when reconstructing positions.
 
-**Distinct worked model — reveal in steps:** Solve |x−2|=5 by locating points five units from 2: x=−3 or7. Both satisfy the distance condition; |−3−2|=5 and |7−2|=5. Absolute value is a nonnegative distance, not simply deleting any minus sign inside an expression.
+**Distinct worked model — reveal in steps:** Solve |x−2|=5 by locating points five units from 2: x=−3 or 7. Both satisfy the distance condition; |−3−2|=5 and |7−2|=5. Absolute value is a nonnegative distance, not simply deleting any minus sign inside an expression.
 
 **Misconception response and hint ladder:** If |a−b| is replaced by |a|−|b|, test a=−4,b=3; next draw the interval crossing 0.
 

@@ -28,7 +28,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Define median by midpoint; calculate centroid as coordinate average; express position along each median; distinguish median from altitude.
 
-**Distinct worked model — reveal in steps:** For A=(0,0),B=(6,0),C=(0,9), G=(2,3). Midpoint BC=(3,4.5); G is2/3 of the way from A to it. Analogous coordinate averaging places G on the other medians, proving concurrence and the 2:1 ratio.
+**Distinct worked model — reveal in steps:** For A=(0,0),B=(6,0),C=(0,9), G=(2,3). Midpoint BC=(3,4.5); G is 2/3 of the way from A to it. Analogous coordinate averaging places G on the other medians, proving concurrence and the 2:1 ratio.
 
 **Misconception response and hint ladder:** If ratio is reversed, ask which segment is measured from vertex; next mark the 2/3 point from A.
 

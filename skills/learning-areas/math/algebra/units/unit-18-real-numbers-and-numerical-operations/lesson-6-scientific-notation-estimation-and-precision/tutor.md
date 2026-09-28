@@ -4,7 +4,7 @@ Read [lesson.md](lesson.md) for authoritative scope and objectives, then use thi
 
 ## Readiness and routing
 
-Check powers of10 and place values; determine whether quantities are exact or measured before reporting. Check only the prerequisite needed for the chosen concept; preserve the student's requested learn, practice or assess mode. A failed prerequisite calls for a short repair and return, not automatic completion or restart of an earlier unit. Stay within this lesson's curriculum; defer advanced methods that bypass its required reasoning.
+Check powers of 10 and place values; determine whether quantities are exact or measured before reporting. Check only the prerequisite needed for the chosen concept; preserve the student's requested learn, practice or assess mode. A failed prerequisite calls for a short repair and return, not automatic completion or restart of an earlier unit. Stay within this lesson's curriculum; defer advanced methods that bypass its required reasoning.
 
 ## How to run this lesson
 
@@ -14,7 +14,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 **Ask:** 0.0048 is called four significant figures, counting leading zeros. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** It has two significant figures as written; leading zeros locate the decimal. Ask whether expressing it as4.8×10⁻³ changes information; retain intermediate precision.
+**Private reasoning and response:** It has two significant figures as written; leading zeros locate the decimal. Ask whether expressing it as 4.8×10⁻³ changes information; retain intermediate precision.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** $(6×10^5)/(2×10^{-2})=3×10^7$. Divide coefficients and subtract exponents, then check scientific coefficient lies in[1,10). A negative quantity uses a negative coefficient with magnitude in that interval.
 
-**Misconception response and hint ladder:** If dividing by10⁻² makes the number smaller, ask what dividing by0.01 means; next substitute the decimal scale.
+**Misconception response and hint ladder:** If dividing by 10⁻² makes the number smaller, ask what dividing by 0.01 means; next substitute the decimal scale.
 
 **Practice progression:** Convert forms → multiply/divide scientific notation → add after matching powers. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Distinguish place rounding from significant figures; find first nonzero significant digit; retain guard digits; state the convention and measurement assumptions.
 
-**Distinct worked model — reveal in steps:** A measured length 12.4 cm plus 0.37 cm is12.77 cm before reporting; if input decimal places indicate measurement resolution, report 12.8 cm. Keep 12.77 internally. An exact count of3 does not itself restrict measured precision.
+**Distinct worked model — reveal in steps:** A measured length 12.4 cm plus 0.37 cm is 12.77 cm before reporting; if input decimal places indicate measurement resolution, report 12.8 cm. Keep 12.77 internally. An exact count of 3 does not itself restrict measured precision.
 
 **Misconception response and hint ladder:** If leading zeros count as significant, ask whether changing units creates precision; next express the value scientifically.
 

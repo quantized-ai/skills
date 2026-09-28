@@ -53,31 +53,31 @@ These are manual evaluation specifications, not results of completed student ses
 
 **Student probe:** To solve 2x+3=11, a student subtracts 3 only from the left.
 
-**Required mathematical response:** Equality must be transformed on both sides;2x=8 givesx=4. Ask what balances the removed amount and verify in the original.
+**Required mathematical response:** Equality must be transformed on both sides;2x=8 gives x=4. Ask what balances the removed amount and verify in the original.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-1-equality-and-inverse-operations](lesson-1-equality-and-inverse-operations/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 
 ### Lesson 21.2: reasoning, repair and evidence
 
-**Student probe:** 2(x+1)=2x+2 is said to have onlyx=0 because variables cancel.
+**Student probe:** 2(x+1)=2x+2 is said to have only x=0 because variables cancel.
 
-**Required mathematical response:** It reduces 2=2, true for every real x. Ask whetherx=5 also satisfies the original; then contrast 2=3.
+**Required mathematical response:** It reduces 2=2, true for every real x. Ask whether x=5 also satisfies the original; then contrast 2=3.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-2-multistep-linear-equations-and-solution-counts](lesson-2-multistep-linear-equations-and-solution-counts/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 
 ### Lesson 21.3: reasoning, repair and evidence
 
-**Student probe:** Multiplying x/2+1=4 by2 givesx+1=4.
+**Student probe:** Multiplying x/2+1=4 by 2 gives x+1=4.
 
-**Required mathematical response:** Correct scaling givesx+2=8, sox=6. Ask which terms were left unscaled; use original substitution to rejectx=3.
+**Required mathematical response:** Correct scaling gives x+2=8, so x=6. Ask which terms were left unscaled; use original substitution to reject x=3.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-3-fraction-and-decimal-coefficients](lesson-3-fraction-and-decimal-coefficients/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 
 ### Lesson 21.4: reasoning, repair and evidence
 
-**Student probe:** (a−1)x=a−1 is divided by a−1 for every a, yielding onlyx=1.
+**Student probe:** (a−1)x=a−1 is divided by a−1 for every a, yielding only x=1.
 
-**Required mathematical response:** For a=1 the original is0=0, so every x. Ask the student to substitute the excluded coefficient value first; preserve the ordinary branch for a≠1.
+**Required mathematical response:** For a=1 the original is 0=0, so every x. Ask the student to substitute the excluded coefficient value first; preserve the ordinary branch for a≠1.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-4-literal-equations-and-parameter-cases](lesson-4-literal-equations-and-parameter-cases/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 

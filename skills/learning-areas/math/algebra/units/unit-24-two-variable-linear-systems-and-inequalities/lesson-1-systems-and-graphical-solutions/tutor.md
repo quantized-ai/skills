@@ -12,9 +12,9 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** An intersection read as(1.3,1.3) is declared the exact solution of y=x,y=4−2x. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** An intersection read as (1.3,1.3) is declared the exact solution of y=x,y=4−2x. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** Exact pair is(4/3,4/3); the rounded graph estimate fails exact equality. Keep the approximation useful but label its precision and verify algebraically.
+**Private reasoning and response:** Exact pair is (4/3,4/3); the rounded graph estimate fails exact equality. Keep the approximation useful but label its precision and verify algebraically.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 

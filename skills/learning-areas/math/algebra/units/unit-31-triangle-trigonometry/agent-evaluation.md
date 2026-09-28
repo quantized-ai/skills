@@ -98,6 +98,6 @@ These are specified scenarios for a future evaluator, not a report of executed l
 | Actual audit input | Expected judgment |
 | --- | --- |
 | SSA has A=30°, a=5, b=8. I got B≈53.13° and stopped. | Preserve the first triangle work but require the supplementary B≈126.87° with C≈23.13°; both are admissible. A cue supplying the second branch makes the completion assisted. |
-| I used coordinates (0,0),(5,0),(-3/2,3√3/2) for sides 3,5 and included120°, obtaining side7. | Accept the valid coordinate-distance route; do not force the Law of Cosines by name. General-law derivation remains a separate requirement. |
+| I used coordinates (0,0),(5,0),(-3/2,3√3/2) for sides 3,5 and included 120°, obtaining side 7. | Accept the valid coordinate-distance route; do not force the Law of Cosines by name. General-law derivation remains a separate requirement. |
 
 After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

@@ -14,7 +14,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 **Ask:** x<0 OR x>2 is shaded only where both hold, producing no solution. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** OR means union, so both rays belong; AND would be empty. Ask whetherx=−1 satisfies at least one condition, then translate into intervals.
+**Private reasoning and response:** OR means union, so both rays belong; AND would be empty. Ask whether x=−1 satisfies at least one condition, then translate into intervals.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -42,11 +42,11 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Diagnostic — ask and wait:** A bus allows at most 48 passengers and already has 31. How many additional passengers?
 
-**Private diagnostic key:** integer n with 0≤n≤17.
+**Private diagnostic key:** integer n with 0≤n≤17; answering "up to 17" is also correct.
 
 **Teach in this order:** Define the quantity and discrete/continuous domain; translate every minimum/maximum; solve; round in the direction that preserves feasibility and verify the extreme choice.
 
-**Distinct worked model — reveal in steps:** Renting equipment costs 12 plus 7 per hour with a40-credit budget. The bound 12+7h≤40 gives h≤4. If only whole hours can be booked, h∈{0,1,2,3,4}; if at least one hour is required, remove 0. State which booking rule applies.
+**Distinct worked model — reveal in steps:** Renting equipment costs 12 plus 7 per hour with a 40-credit budget. The bound 12+7h≤40 gives h≤4. If only whole hours can be booked, h∈{0,1,2,3,4}; if at least one hour is required, remove 0. State which booking rule applies.
 
 **Misconception response and hint ladder:** If a fractional count is accepted, ask what is being counted; next test the floor and ceiling in the original constraint.
 
@@ -60,7 +60,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Prompt:** Solve $-1\le2x+3<9$ and compare $x<-2$ or $x\ge4$. A ride costs 5 credits plus 3 per ticket; with at most 20 credits, how many tickets can be bought?
 
-**Private worked key:** Compound intersection gives $-2\le x<3$. The union is $(-\infty,-2)\cup[4,\infty)$. Budget $5+3n\le20$ with integer $n\ge0$ permits $0,1,2,3,4,5$.
+**Private worked key:** Compound intersection gives $-2\le x<3$. The union is $(-\infty,-2)\cup[4,\infty)$. Budget $5+3n\le20$ with integer $n\ge0$ permits $0,1,2,3,4,5$; answering "up to 5 tickets" is also correct.
 
 This previously checked composite example can connect concepts after instruction. Split it into manageable turns; it does not replace the distinct diagnostic and worked model for each concept.
 

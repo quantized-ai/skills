@@ -18,7 +18,7 @@ Solve over the reals; complex-root calculation, calculus and higher-degree metho
 
 **Prompt:** A learner substitutes a=2,b=1,c=−4 into the formula but divides only the radical by 4. Repair grouping.
 
-**Agent-only reasoning:** The entire numerator−1±√33 is divided by 4, giving(−1±√33)/4. Check both values in 2x²+x−4.
+**Agent-only reasoning:** The entire numerator −1±√33 is divided by 4, giving (−1±√33)/4. Check both values in 2x²+x−4.
 
 Ask for the first unjustified step, invite a corrected explanation, and retain correct components of the original response. Then use a different representation or new case for independent evidence.
 
@@ -30,7 +30,7 @@ Curriculum reference: **Derivation and use of the quadratic formula** in [lesson
 
 **Prompt:** In ax²+bx+c=0 with a=−2, what is √(a²)?
 
-**Agent-only key:** 2=|a|, not−2. This sign issue matters when deriving the formula.
+**Agent-only key:** 2=|a|, not −2. This sign issue matters when deriving the formula.
 
 Use the response to choose where to begin the teaching sequence. A correct short diagnostic does not establish the concept’s complete proficiency.
 
@@ -82,7 +82,7 @@ Curriculum reference: **Discriminant and solution classification** in [lesson.md
 
 **Prompt:** A rational-coefficient quadratic has D=5. Does positive discriminant mean rational roots?
 
-**Agent-only key:** No; it has two distinct real irrational roots because√5 is irrational.
+**Agent-only key:** No; it has two distinct real irrational roots because √5 is irrational.
 
 Use the response to choose where to begin the teaching sequence. A correct short diagnostic does not establish the concept’s complete proficiency.
 

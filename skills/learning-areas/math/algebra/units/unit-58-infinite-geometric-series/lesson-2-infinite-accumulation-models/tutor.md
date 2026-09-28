@@ -18,7 +18,7 @@ Use ordinary convergence of geometric series. Alternative summation conventions,
 
 **Prompt:** A learner prices a growing stream at d/(i−g) despite g=i and d>0. Explain the missing limit condition.
 
-**Agent-only reasoning:** Discounted ratio(1+g)/(1+i)=1, so positive equal discounted terms accumulate without bound. No finite perpetuity value is justified.
+**Agent-only reasoning:** Discounted ratio (1+g)/(1+i)=1, so positive equal discounted terms accumulate without bound. No finite perpetuity value is justified.
 
 Ask for the first unjustified step, invite a corrected explanation, and retain correct components of the original response. Then use a different representation or new case for independent evidence.
 

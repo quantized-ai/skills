@@ -47,7 +47,7 @@ These are manual evaluation specifications, not results of completed student ses
 
 **Student probe:** Flour:water=5:3 is interpreted as flour being 5/3 of the total.
 
-**Required mathematical response:** Total has 8 ratio parts, so flour is5/8. Draw the two parts of the whole; follow with a unit-rate question to check denominator interpretation in a new setting.
+**Required mathematical response:** Total has 8 ratio parts, so flour is 5/8. Draw the two parts of the whole; follow with a unit-rate question to check denominator interpretation in a new setting.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-1-ratios-and-unit-rates](lesson-1-ratios-and-unit-rates/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 
@@ -61,15 +61,15 @@ These are manual evaluation specifications, not results of completed student ses
 
 ### Lesson 19.3: reasoning, repair and evidence
 
-**Student probe:** A20% rise followed by20% fall is assumed to restore the original price.
+**Student probe:** A 20% rise followed by 20% fall is assumed to restore the original price.
 
-**Required mathematical response:** Multipliers 1.2·0.8=0.96 give a4% net fall. Ask which current whole each percentage uses; label each stage before calculating.
+**Required mathematical response:** Multipliers 1.2·0.8=0.96 give a 4% net fall. Ask which current whole each percentage uses; label each stage before calculating.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-3-percent-relationships-and-change](lesson-3-percent-relationships-and-change/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 
 ### Lesson 19.4: reasoning, repair and evidence
 
-**Student probe:** A1:100 plan's area is multiplied by100 to get actual area.
+**Student probe:** A 1:100 plan's area is multiplied by 100 to get actual area.
 
 **Required mathematical response:** Two linear dimensions each scale 100, so area factor 10000. Ask the student to scale length and width separately and compare with area-unit conversion.
 

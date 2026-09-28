@@ -78,7 +78,7 @@ Use the shared guide's session evidence labels. Before declaring this lesson sec
 
 ### Noisy predictor-transformation activity
 
-Use original pairs $(0,2),(1,4),(4,9),(9,10)$. Transform x to u=√x, producing0,1,2,3, but leave y unchanged. The means are1.5 and6.25; the centered-product sum is14.5 and predictor-square sum5, so b=2.9 and a=1.9. Hence $\hat y=1.9+2.9\sqrt x$. Predictions1.9,4.8,7.7,10.6 give residuals0.1,−0.8,1.3,−0.6 and SSE2.70. Ask for the original-input residual plot and actual transformed-data fitting output. Contrast this with taking logs of y: transforming only the predictor leaves the response error units and minimized SSE scale unchanged.
+Use original pairs $(0,2),(1,4),(4,9),(9,10)$. Transform x to u=√x, producing 0,1,2,3, but leave y unchanged. The means are 1.5 and 6.25; the centered-product sum is 14.5 and predictor-square sum5, so b=2.9 and a=1.9. Hence $\hat y=1.9+2.9\sqrt x$. Predictions 1.9,4.8,7.7,10.6 give residuals 0.1,−0.8,1.3,−0.6 and SSE2.70. Ask for the original-input residual plot and actual transformed-data fitting output. Contrast this with taking logs of y: transforming only the predictor leaves the response error units and minimized SSE scale unchanged.
 
 ## Decision model and graduated practice
 

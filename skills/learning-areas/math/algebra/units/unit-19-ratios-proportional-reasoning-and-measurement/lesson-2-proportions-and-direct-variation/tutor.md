@@ -28,7 +28,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Match corresponding quantities/units; solve through scaling or unit rate; derive cross multiplication by a common nonzero denominator; check original ratios.
 
-**Distinct worked model — reveal in steps:** Solve 4/(x-1)=2/3 with x≠1. Multiplication by3(x−1) gives 12=2(x−1), so x=7. Original ratios 4/6 and 2/3 agree. Equivalently scale 2/3 by2 to4/6; that identifies x−1=6.
+**Distinct worked model — reveal in steps:** Solve 4/(x-1)=2/3 with x≠1. Multiplication by 3(x−1) gives 12=2(x−1), so x=7. Original ratios 4/6 and 2/3 agree. Equivalently scale 2/3 by 2 to 4/6; that identifies x−1=6.
 
 **Misconception response and hint ladder:** If cross multiplication is applied to a sum of fractions, ask whether two ratios are actually equated; next multiply the whole equation by the denominator rather than drawing diagonal arrows.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Translate constant of proportionality into slope and rate; connect scaling in a table to graph movement; distinguish linearity from direct variation.
 
-**Distinct worked model — reveal in steps:** Doubling x in y=4x doubles y; adding 2 to x increases y by8. These are compatible multiplicative/additive views. A graph with constant slope but nonzero intercept is linear, but not direct variation.
+**Distinct worked model — reveal in steps:** Doubling x in y=4x doubles y; adding 2 to x increases y by 8. These are compatible multiplicative/additive views. A graph with constant slope but nonzero intercept is linear, but not direct variation.
 
 **Misconception response and hint ladder:** If all direct variation must increase, ask whether k can be negative in an abstract model; next plot k=−2.
 

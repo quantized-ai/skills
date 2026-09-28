@@ -69,7 +69,7 @@ Curriculum reference: **Transformations of logarithmic graphs** in the [curricul
 
 **Diagnostic prompt:** Find domain, asymptote, and an exact point of $\log_2(3-x)+1$.
 
-**Agent key:** Domain x<3, asymptote x=3; x=2 gives y=1. The inside reflection changes the permitted side.
+**Agent key:** Domain x<3, asymptote x=3; x=2 gives y=1 (any exact point is acceptable, such as $(1,2)$ or $(5/2,0)$). The inside reflection changes the permitted side.
 
 **Worked example:** Find domain and x-intercept of $-2\log_3(x+1)+4$.
 
@@ -102,7 +102,7 @@ Use the [fresh-question policy](../question-generation.md); the two calibration 
 
 Reverse parent exponential points $(0,1),(1,2),(-1,1/2)$ to get points $(1,0),(2,1),(1/2,-1)$ on $\log_2 x$. Swapping coordinates explains the positive input domain, all-real range, and vertical asymptote at zero. For $g(x)=\log_2(3-x)$, the argument must be positive, so $x<3$. The log's increasing dependence on its argument combines with the decreasing argument to make $g$ decrease.
 
-Cue “Which side of $3$ keeps the full argument positive?”; set up $3-x>0$; next show $-x>-3$, leaving reversal and graph direction. Fade with $\log_2(x+2)$ (domain $x>-2$, asymptote $x=-2$, intercept $(-1,0)$). If the intercept is reported at the asymptote, ask which argument produces log output zero.
+Cue “Which side of $3$ keeps the full argument positive?”; set up $3-x>0$; next show $-x>-3$, leaving reversal and graph direction. Fade with $\log_2(x+2)$ (domain $x>-2$, asymptote $x=-2$, intercepts $(-1,0)$ and $(0,1)$). If the intercept is reported at the asymptote, ask which argument produces log output zero.
 
 ## Completion and handoff
 

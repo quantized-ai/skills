@@ -12,7 +12,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** A1:100 plan's area is multiplied by100 to get actual area. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** A 1:100 plan's area is multiplied by 100 to get actual area. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
 **Private reasoning and response:** Two linear dimensions each scale 100, so area factor 10000. Ask the student to scale length and width separately and compare with area-unit conversion.
 
@@ -28,9 +28,9 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Write conversions as equal-valued ratios so unwanted units cancel; convert numerator and denominator independently; estimate magnitude.
 
-**Distinct worked model — reveal in steps:** Density of270 g occupying 100 cm³ is2.7 g/cm³. Since 1 g=0.001 kg and 1 cm³=10⁻⁶ m³, density becomes 2700 kg/m³. Cubic conversion factors must themselves be cubed.
+**Distinct worked model — reveal in steps:** Density of 270 g occupying 100 cm³ is 2.7 g/cm³. Since 1 g=0.001 kg and 1 cm³=10⁻⁶ m³, density becomes 2700 kg/m³. Cubic conversion factors must themselves be cubed.
 
-**Misconception response and hint ladder:** If a volume factor is only multiplied by100, ask how many centimeter edges fit along each cube dimension; next use (100 cm)³.
+**Misconception response and hint ladder:** If a volume factor is only multiplied by 100, ask how many centimeter edges fit along each cube dimension; next use (100 cm)³.
 
 **Practice progression:** Single length → rate → area/volume/density conversion. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -46,9 +46,9 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Track each linear dimension; multiply scale factors once per dimension; distinguish model-to-actual direction before computing.
 
-**Distinct worked model — reveal in steps:** A1:200 plan shows a rectangle 3 cm by5 cm. Actual dimensions 6 m by10 m give area 60 m². Multiplying the 15 cm² plan area by200² gives 600000 cm²=60 m², agreeing.
+**Distinct worked model — reveal in steps:** A 1:200 plan shows a rectangle 3 cm by 5 cm. Actual dimensions 6 m by 10 m give area 60 m². Multiplying the 15 cm² plan area by 200² gives 600000 cm²=60 m², agreeing.
 
-**Misconception response and hint ladder:** If area scales by3, ask how both length and width change; next multiply (3L)(3W).
+**Misconception response and hint ladder:** If area scales by 3, ask how both length and width change; next multiply (3L)(3W).
 
 **Practice progression:** Length scale → area → volume and mixed-unit map check. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 

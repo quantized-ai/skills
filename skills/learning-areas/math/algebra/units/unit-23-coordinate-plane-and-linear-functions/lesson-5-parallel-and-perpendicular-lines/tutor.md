@@ -28,7 +28,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Compare directions through slopes or verticality; distinguish coincident from distinct; use a point to determine the new offset.
 
-**Distinct worked model — reveal in steps:** The line parallel to3x−2y=8 through (0,5) has slope 3/2, so y=(3/2)x+5. The same slope and same intercept would instead be the same line. Distinct vertical lines are also parallel.
+**Distinct worked model — reveal in steps:** The line parallel to 3x−2y=8 through (0,5) has slope 3/2, so y=(3/2)x+5. The same slope and same intercept would instead be the same line. Distinct vertical lines are also parallel.
 
 **Misconception response and hint ladder:** If equal slopes alone prove distinct parallelism, ask whether the intercepts also agree; next compare equations fully.
 
@@ -40,7 +40,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Perpendicular lines
 
-**Diagnostic — ask and wait:** What slope is perpendicular to2/3?
+**Diagnostic — ask and wait:** What slope is perpendicular to 2/3?
 
 **Private diagnostic key:** −3/2.
 

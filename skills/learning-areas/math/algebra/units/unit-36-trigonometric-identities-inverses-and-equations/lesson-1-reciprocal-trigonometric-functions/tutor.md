@@ -43,7 +43,7 @@ Curriculum reference: **Reciprocal and quotient definitions** in [lesson.md](les
 - **Diagnostic prompt:** Is sec(π/2) zero because cos(π/2)=0?
 - **Diagnostic key:** No: its reciprocal is undefined.
 - **Worked-example prompt:** Compare cot x=cos x/sin x with 1/tan x at x=π/2.
-- **Worked model and reasoning:** Cotangent is 0 because sine is 1; $1/\tan x$ is undefined because tangent is undefined there. They agree only where both expressions are defined. Secant requires nonzero cosine and cosecant nonzero sine.
+- **Worked model and reasoning:** Cotangent is 0 because cosine is 0 (sine is 1, so the quotient is defined); $1/\tan x$ is undefined because tangent is undefined there. They agree only where both expressions are defined. Secant requires nonzero cosine and cosecant nonzero sine.
 - **First hint:** What makes a reciprocal expression undefined?
 
 #### Learn
@@ -120,7 +120,7 @@ Curriculum reference: **Transformed reciprocal graphs** in [lesson.md](lesson.md
 - **Diagnostic prompt:** For y=sec(2x), is the period 4π?
 - **Diagnostic key:** No: an input change π advances the argument by 2π.
 - **Worked-example prompt:** Analyze y=2sec(3(x-π/6))-1.
-- **Worked model and reasoning:** Period $2\pi/3$; asymptotes solve $3(x-\pi/6)=\pi/2+k\pi$, giving $x=\pi/3+k\pi/3$. Range $(-\infty,-3]\cup[1,\infty)$. Parent point (0,1) maps to (π/6,1).
+- **Worked model and reasoning:** Period $2\pi/3$; asymptotes solve $3(x-\pi/6)=\pi/2+k\pi$, giving $x=\pi/3+k\pi/3$, equivalently $x=k\pi/3$. Range $(-\infty,-3]\cup[1,\infty)$. Parent point (0,1) maps to (π/6,1).
 - **First hint:** Which parent-function feature creates a secant asymptote?
 
 #### Learn

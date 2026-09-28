@@ -68,7 +68,7 @@ Give this prompt to the tutor as a student request: Before data collection, a ma
 
 Then challenge its reasoning using this misconception: Choosing a one-sided alternative after observing which direction looks significant. The [delivery guidance](lesson-4-hypotheses-and-evidence/tutor.md#null-and-alternative-hypotheses) supplies a targeted hint for practice; the tutor must not leak it in an independent assessment.
 
-Expected mathematical check: H0: μ=500 mL; H1: μ>500 mL for the target production population. Large positive standardized differences support the alternative. The parameter is not the observed sample mean; direction is chosen from the question before inspecting data.
+Expected mathematical check: H0: μ=500 mL (H0: μ≤500 mL is an accepted equivalent); H1: μ>500 mL for the target production population. Large positive standardized differences support the alternative. The parameter is not the observed sample mean; direction is chosen from the question before inspecting data.
 
 ### 46.4: P-values and significance decisions
 

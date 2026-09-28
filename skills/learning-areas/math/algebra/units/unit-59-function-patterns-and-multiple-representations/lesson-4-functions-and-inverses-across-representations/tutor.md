@@ -16,9 +16,9 @@ Use the stated low-degree/family assumptions. Do not infer global identity, deri
 
 **Purpose:** make the student test a consequential claim before accepting a procedure. Use after its relevant concept has been introduced; it is learning/practice evidence, not an unexposed assessment.
 
-**Prompt:** The inverse ofx² on[0,3] is assigned domain[0,3]. Correct the exchanged sets.
+**Prompt:** The inverse of x² on [0,3] is assigned domain [0,3]. Correct the exchanged sets.
 
-**Agent-only reasoning:** The original range is[0,9], which becomes the inverse domain;√x maps[0,9] to[0,3]. Domain and range exchange in full, including endpoints.
+**Agent-only reasoning:** The original range is [0,9], which becomes the inverse domain;√x maps [0,9] to [0,3]. Domain and range exchange in full, including endpoints.
 
 Ask for the first unjustified step, invite a corrected explanation, and retain correct components of the original response. Then use a different representation or new case for independent evidence.
 
@@ -28,7 +28,7 @@ Curriculum reference: **Comparing inverse attributes** in [lesson.md](lesson.md#
 
 ### Separate diagnostic
 
-**Prompt:** Does f(x)=x² on[−2,2] have an inverse function?
+**Prompt:** Does f(x)=x² on [−2,2] have an inverse function?
 
 **Agent-only key:** No; f(−1)=f(1)=1, so one-to-one fails on that domain.
 
@@ -79,7 +79,7 @@ Curriculum reference: **Tabular and graphical inverse verification** in [lesson.
 
 ### Separate diagnostic
 
-**Prompt:** A complete finite table has pairs(1,2),(2,2). Does reversing them produce a function?
+**Prompt:** A complete finite table has pairs (1,2),(2,2). Does reversing them produce a function?
 
 **Agent-only key:** No; reversed input 2 would have two outputs 1 and 2.
 

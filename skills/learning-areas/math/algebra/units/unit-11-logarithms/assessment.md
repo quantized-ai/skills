@@ -56,7 +56,7 @@ Generate new tasks based on the complete curriculum and tutor coverage guidance.
 
 **A — Prompt:** Find domain, asymptote, and an exact point of $\log_2(3-x)+1$.
 
-**Key:** Domain x<3, asymptote x=3; x=2 gives y=1. The inside reflection changes the permitted side.
+**Key:** Domain x<3, asymptote x=3; x=2 gives y=1 (any exact point is acceptable, such as $(1,2)$ or $(5/2,0)$). The inside reflection changes the permitted side.
 
 **B — Prompt:** Find domain and x-intercept of $-2\log_3(x+1)+4$.
 
@@ -102,7 +102,7 @@ Generate new tasks based on the complete curriculum and tutor coverage guidance.
 
 **A — Prompt:** Express $\log_5 7$ using natural logarithms and bound it.
 
-**Key:** $\ln7/\ln5$; it lies between 1 and 2 because 5<7<25.
+**Key:** $\ln7/\ln5$; it lies between 1 and 2 because 5<7<25. Any correct tighter bound is also acceptable, such as $1<\log_5 7<1.5$ because $5^{1.5}\approx11.18$.
 
 **B — Prompt:** Explain why $\ln5/\ln7$ gives a different logarithm.
 
@@ -160,11 +160,11 @@ Generate new tasks based on the complete curriculum and tutor coverage guidance.
 
 [Curriculum](lesson-6-duration-and-reasonableness/lesson.md#concepts) · [Tutor guidance](lesson-6-duration-and-reasonableness/tutor.md#doubling-time-and-half-life)
 
-**A — Prompt:** Find doubling time for $A(t)=A_0e^{0.3t}$, where $A_0>0$ and t is in years.
+**A — Prompt:** Find the exact doubling time for $A(t)=A_0e^{0.3t}$, where $A_0>0$ and t is in years.
 
 **Key:** $e^{0.3T}=2$ gives $T=\ln2/0.3$ years, independent of positive $A_0$.
 
-**B — Prompt:** Find half-life for $A_0e^{-0.2t}$, where $A_0>0$.
+**B — Prompt:** Find the exact half-life for $A_0e^{-0.2t}$, where $A_0>0$.
 
 **Key:** $H=\ln(1/2)/(-0.2)=\ln2/0.2$, a positive duration in the model's time unit.
 

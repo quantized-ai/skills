@@ -16,7 +16,7 @@ Use supplied hypothetical rules and rates only. Tax/legal/product advice, unprov
 
 **Purpose:** make the student test a consequential claim before accepting a procedure. Use after its relevant concept has been introduced; it is learning/practice evidence, not an unexposed assessment.
 
-**Prompt:** A1000 loan at 1% per month receives 600 after month one; a learner demands another 600 at month two and reports balance−185.90 as ordinary debt. Repair payoff handling.
+**Prompt:** A 1000 loan at 1% per month receives 600 after month one; a learner demands another 600 at month two and reports balance −185.90 as ordinary debt. Repair payoff handling.
 
 **Agent-only reasoning:** Month-one balance 410; month-two interest 4.10; adjusted final payoff 414.10 ends at zero. The unadjusted payment overpays 185.90.
 
@@ -30,7 +30,7 @@ Curriculum reference: **Amortization tables** in [lesson.md](lesson.md#concepts)
 
 **Prompt:** A loan starts a month at 500, interest is 1%, and payment is 4. Does the balance decrease?
 
-**Agent-only key:** No; interest 5 exceeds payment 4, so ending balance 501 and principal repayment−1: negative amortization.
+**Agent-only key:** No; interest 5 exceeds payment 4, so ending balance 501 and principal repayment −1: negative amortization.
 
 Use the response to choose where to begin the teaching sequence. A correct short diagnostic does not establish the concept’s complete proficiency.
 

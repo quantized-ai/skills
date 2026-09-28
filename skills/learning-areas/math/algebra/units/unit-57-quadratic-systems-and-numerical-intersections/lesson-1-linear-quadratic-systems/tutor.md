@@ -4,7 +4,7 @@ Read with [the curriculum](lesson.md), [shared interaction rules](../agent-guide
 
 ## Prerequisites and routing
 
-Check substitution with grouping and quadratic solving. For y=x+1, replacing y² requires(x+1)², not x²+1.
+Check substitution with grouping and quadratic solving. For y=x+1, replacing y² requires (x+1)², not x²+1.
 
 This lesson can be entered directly when its entry probe is secure; review only demonstrated gaps, not a mandatory sequence of unrelated units.
 

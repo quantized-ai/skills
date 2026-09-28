@@ -16,9 +16,9 @@ Restrict to nonrotated nondegenerate parabolas with the prescribed focus/directr
 
 **Purpose:** make the student test a consequential claim before accepting a procedure. Use after its relevant concept has been introduced; it is learning/practice evidence, not an unexposed assessment.
 
-**Prompt:** A learner sees(y−2)²=−8(x−1) and calls it a downward parabola/function y(x). Repair both.
+**Prompt:** A learner sees (y−2)²=−8(x−1) and calls it a downward parabola/function y(x). Repair both.
 
-**Agent-only reasoning:** The squared variable is y: it opens left with p=−2,vertex(1,2). At x=−1 it has y=−2,6, so the full relation is not y=f(x).
+**Agent-only reasoning:** The squared variable is y: it opens left with p=−2,vertex (1,2). At x=−1 it has y=−2,6, so the full relation is not y=f(x).
 
 Ask for the first unjustified step, invite a corrected explanation, and retain correct components of the original response. Then use a different representation or new case for independent evidence.
 
@@ -30,7 +30,7 @@ Curriculum reference: **Horizontal focus/directrix equations** in [lesson.md](le
 
 **Prompt:** For y²=8x, how many y-values occur at x=2?
 
-**Agent-only key:** Two: y=4 and−4. The complete horizontal parabola is not y=f(x).
+**Agent-only key:** Two: y=4 and −4. The complete horizontal parabola is not y=f(x).
 
 Use the response to choose where to begin the teaching sequence. A correct short diagnostic does not establish the concept’s complete proficiency.
 
@@ -82,7 +82,7 @@ Curriculum reference: **Recovering parabola attributes by square completion** in
 
 **Prompt:** In y²−6y−4x+5=0, which orientation is expected before completing the square?
 
-**Agent-only key:** Horizontal, because y is squared while x is linear; completion gives(y−3)²=4(x+1).
+**Agent-only key:** Horizontal, because y is squared while x is linear; completion gives (y−3)²=4(x+1).
 
 Use the response to choose where to begin the teaching sequence. A correct short diagnostic does not establish the concept’s complete proficiency.
 

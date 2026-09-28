@@ -14,7 +14,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 **Ask:** For hypotenuse segments 4 and 9, a student gives altitude 13. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** 13 is whole hypotenuse; altitude √(4·9)=6 from small-triangle similarity. Ask which corresponding sides yield the product, then verify legs viaa²=cp,b²=cq.
+**Private reasoning and response:** 13 is whole hypotenuse; altitude √(4·9)=6 from small-triangle similarity. Ask which corresponding sides yield the product, then verify legs via a²=cp,b²=cq.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Identify longest side; check existence; apply or derive a²+b²=c²; prove converse by comparison; recognize scaled integer triples.
 
-**Distinct worked model — reveal in steps:** A right triangle with legs 5 and 12 has hypotenuse 13. For the converse, construct a right triangle with legs 5,12; its hypotenuse is13 by the theorem. Any triangle with sides 5,12,13 is congruent by SSS, hence has the corresponding right angle. This separates theorem from converse.
+**Distinct worked model — reveal in steps:** A right triangle with legs 5 and 12 has hypotenuse 13. For the converse, construct a right triangle with legs 5,12; its hypotenuse is 13 by the theorem. Any triangle with sides 5,12,13 is congruent by SSS, hence has the corresponding right angle. This separates theorem from converse.
 
 **Misconception response and hint ladder:** If the longest side is put among legs, ask which side is opposite 90°; next compare squared magnitudes.
 
@@ -58,7 +58,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Special right triangles
 
-**Diagnostic — ask and wait:** A45°–45°–90° triangle has leg 5. Hypotenuse?
+**Diagnostic — ask and wait:** A 45°–45°–90° triangle has leg 5. Hypotenuse?
 
 **Private diagnostic key:** 5√2.
 

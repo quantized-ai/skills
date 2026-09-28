@@ -97,7 +97,7 @@ These are specified scenarios for a future evaluator, not a report of executed l
 
 | Actual audit input | Expected judgment |
 | --- | --- |
-| Exterior PA=3, interior AB=9, so tangent squared is 27. | Identify exterior-times-interior misuse from the work. Whole PB=12, power36, tangent length6; ask for endpoints before supplying the formula. |
-| Radius6 and minor sweepπ/3 give sector6π and minor segment6π−9√3. The major segment is30π+9√3. | Accept the correct named regions and complement reasoning. If proof was requested, numeric region calculation alone does not demonstrate derivation of the sector formula. |
+| Exterior PA=3, interior AB=9, so tangent squared is 27. | Identify exterior-times-interior misuse from the work. Whole PB=12, power 36, tangent length 6; ask for endpoints before supplying the formula. |
+| Radius 6 and minor sweepπ/3 give sector 6π and minor segment 6π−9√3. The major segment is 30π+9√3. | Accept the correct named regions and complement reasoning. If proof was requested, numeric region calculation alone does not demonstrate derivation of the sector formula. |
 
 After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

@@ -45,7 +45,7 @@ Use the following probes only when the learner needs placement or their work rev
 
 | Lesson | Entry probe and response | Targeted review if needed |
 | --- | --- | --- |
-| [51.1: List scheduling on identical processors](lesson-1-list-scheduling-on-identical-processors/tutor.md) | Check a task timeline and readiness: a3-unit task starting 2 finishes 5, and a successor cannot start before 5. Introduce graph/precedence notation directly if needed. | Only the observed entry gap |
+| [51.1: List scheduling on identical processors](lesson-1-list-scheduling-on-identical-processors/tutor.md) | Check a task timeline and readiness: a 3-unit task starting 2 finishes 5, and a successor cannot start before 5. Introduce graph/precedence notation directly if needed. | Only the observed entry gap |
 | [51.2: Bin packing and capacity models](lesson-2-bin-packing-and-capacity-models/tutor.md) | Check residual capacity:capacity 10 with load 7 leaves 3. Review ceiling division for lower bounds:ceil(21/10)=3. | 51.1 |
 
 ## Evidence specific to this unit

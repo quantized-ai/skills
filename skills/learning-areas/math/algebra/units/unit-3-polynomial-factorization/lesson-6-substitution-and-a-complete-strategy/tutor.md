@@ -34,7 +34,7 @@ Curriculum reference: **Quadratic structure in higher powers** in the [curriculu
 
 **Agent key:** Set $U=x^2$: $(U-1)(U-4)$ restores to $(x-1)(x+1)(x-2)(x+2)$.
 
-**Worked example:** Factor $x^6+3x^3+2$.
+**Worked example:** Factor $x^6+3x^3+2$ completely over the rationals.
 
 **Worked reasoning:** With $U=x^3$, obtain $(U+1)(U+2)$, then $(x+1)(x^2-x+1)(x^3+2)$. The last cubic has no rational root.
 

@@ -14,7 +14,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 **Ask:** The true statement 'square implies rectangle' is used to claim every rectangle is square. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** Converse does not follow. A2×3 rectangle meets the new hypothesis but not conclusion; ask for both directions before accepting a biconditional.
+**Private reasoning and response:** Converse does not follow. A 2×3 rectangle meets the new hypothesis but not conclusion; ask for both directions before accepting a biconditional.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Mark hypothesis/conclusion; reverse or negate deliberately; test each direction with admissible examples.
 
-**Distinct worked model — reveal in steps:** For integer n, 'n divisible by4 implies n even' is true; converse fails at n=6. The inverse 'not divisible by4 implies not even' also fails at6. The contrapositive is equivalent to the original; biconditional would need both directions.
+**Distinct worked model — reveal in steps:** For integer n, 'n divisible by 4 implies n even' is true; converse fails at n=6. The inverse 'not divisible by 4 implies not even' also fails at 6. The contrapositive is equivalent to the original; biconditional would need both directions.
 
 **Misconception response and hint ladder:** If converse and contrapositive are confused, ask whether both clauses were negated; next write p,q and the four symbolic forms.
 
@@ -60,7 +60,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Diagnostic — ask and wait:** Refute 'every rectangle is a square'.
 
-**Private diagnostic key:** a2-by3 rectangle meets hypothesis but not conclusion.
+**Private diagnostic key:** a 2-by-3 rectangle meets hypothesis but not conclusion.
 
 **Teach in this order:** State quantified domain; check all hypotheses; calculate failing conclusion; explain why one counterexample suffices while many successes do not prove universality.
 

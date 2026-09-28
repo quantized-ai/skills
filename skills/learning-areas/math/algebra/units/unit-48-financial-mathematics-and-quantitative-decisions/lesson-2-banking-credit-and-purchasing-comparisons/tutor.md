@@ -16,7 +16,7 @@ Use supplied hypothetical rules and rates only. Tax/legal/product advice, unprov
 
 **Purpose:** make the student test a consequential claim before accepting a procedure. Use after its relevant concept has been introduced; it is learning/practice evidence, not an unexposed assessment.
 
-**Prompt:** A learner applies a100 payment before 1% interest to a1000 balance despite end-of-month-after-interest timing. Compare the results.
+**Prompt:** A learner applies a 100 payment before 1% interest to a 1000 balance despite end-of-month-after-interest timing. Compare the results.
 
 **Agent-only reasoning:** Correct balance 1.01·1000−100=910; the reversed order gives 909. Timing is part of the model, not an interchangeable arithmetic choice.
 
@@ -80,7 +80,7 @@ Curriculum reference: **Retail credit and delayed payment** in [lesson.md](lesso
 
 ### Separate diagnostic
 
-**Prompt:** With balance 200 and monthly interest 2%, a10 payment comes after interest. How much principal is repaid?
+**Prompt:** With balance 200 and monthly interest 2%, a 10 payment comes after interest. How much principal is repaid?
 
 **Agent-only key:** Interest 4, principal 6 and ending balance 194.
 

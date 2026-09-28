@@ -18,7 +18,7 @@ Solve over the reals; complex-root calculation, calculus and higher-degree metho
 
 **Prompt:** A learner rewrites 2x²+4x−1 as 2(x+1)²−2. Expand and repair.
 
-**Agent-only reasoning:** The proposed expression is 2x²+4x, missing−1. Correct form 2(x+1)²−3, because completion adds 2 to the original quadratic/linear terms.
+**Agent-only reasoning:** The proposed expression is 2x²+4x, missing −1. Correct form 2(x+1)²−3, because completion adds 2 to the original quadratic/linear terms.
 
 Ask for the first unjustified step, invite a corrected explanation, and retain correct components of the original response. Then use a different representation or new case for independent evidence.
 
@@ -30,7 +30,7 @@ Curriculum reference: **Monic square completion** in [lesson.md](lesson.md#conce
 
 **Prompt:** What number completes x²−8x to a square?
 
-**Agent-only key:** 16, because half of−8 is−4 and (x−4)²=x²−8x+16.
+**Agent-only key:** 16, because half of −8 is −4 and (x−4)²=x²−8x+16.
 
 Use the response to choose where to begin the teaching sequence. A correct short diagnostic does not establish the concept’s complete proficiency.
 

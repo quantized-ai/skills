@@ -55,7 +55,7 @@ These are manual evaluation specifications, not results of completed student ses
 
 **Student probe:** The true statement 'square implies rectangle' is used to claim every rectangle is square.
 
-**Required mathematical response:** Converse does not follow. A2×3 rectangle meets the new hypothesis but not conclusion; ask for both directions before accepting a biconditional.
+**Required mathematical response:** Converse does not follow. A 2×3 rectangle meets the new hypothesis but not conclusion; ask for both directions before accepting a biconditional.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-2-conditional-statements](lesson-2-conditional-statements/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 

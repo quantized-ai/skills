@@ -14,7 +14,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 **Ask:** For four fair tosses with H=4, a student reports 1/16 as a prespecified two-sided tail. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** Two-sided |H−2|≥2 includes H=0 as well as4, giving 2/16. Ask which outcomes are equally far from the null center; retain directional 1/16 only for a direction chosen beforehand.
+**Private reasoning and response:** Two-sided |H−2|≥2 includes H=0 as well as 4, giving 2/16. Ask which outcomes are equally far from the null center; retain directional 1/16 only for a direction chosen beforehand.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -28,7 +28,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Specify probability map, replacement/dependence and whole trial; record one event indicator per trial; distinguish draws within a trial from repetition count.
 
-**Distinct worked model — reveal in steps:** To model at least one success in two independent p=0.3 trials, one simulation trial contains two digits; record whether either is0,1,2. Exact probability is1−0.7²=0.51, a check on many-trial frequency, not the value every simulation must return.
+**Distinct worked model — reveal in steps:** To model at least one success in two independent p=0.3 trials, one simulation trial contains two digits; record whether either is 0,1,2. Exact probability is 1−0.7²=0.51, a check on many-trial frequency, not the value every simulation must return.
 
 **Misconception response and hint ladder:** If probability is estimated from successes among individual digits, ask what the requested event counts; next box the two draws constituting one trial. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** State model and statistic before examining observations; choose directional/two-sided rule; reproduce sample mechanism; interpret tail conditional on model.
 
-**Distinct worked model — reveal in steps:** Before observing, choose statistic H among 4 tosses and two-sided extremeness |H−2|. Observation H=4 has extremeness 2; outcomes H=0 or4 count. Exact tail 2/16=1/8. Simulations must preserve four tosses and include equality in the tail.
+**Distinct worked model — reveal in steps:** Before observing, choose statistic H among 4 tosses and two-sided extremeness |H−2|. Observation H=4 has extremeness 2; outcomes H=0 or 4 count. Exact tail 2/16=1/8. Simulations must preserve four tosses and include equality in the tail.
 
 **Misconception response and hint ladder:** If 1/8 becomes 'probability the coin is fair', ask what was assumed in generating tosses; next restate P(extreme data | fair model). If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
 

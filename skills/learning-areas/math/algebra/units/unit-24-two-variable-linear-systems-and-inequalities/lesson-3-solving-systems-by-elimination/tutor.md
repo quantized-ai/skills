@@ -14,7 +14,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 **Ask:** After adding x+y=5 and 2x−y=4, only 3x=9 is kept, and any y is accepted. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** The sum is a consequence, not a complete equivalent system alone. Retain x+y=5 to gety=2; explain recovery of the removed equation by subtraction.
+**Private reasoning and response:** The sum is a consequence, not a complete equivalent system alone. Retain x+y=5 to get y=2; explain recovery of the removed equation by subtraction.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -28,7 +28,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Choose coefficients/opposites; scale whole equations by nonzero values; add/subtract; recover eliminated variable from a retained equation.
 
-**Distinct worked model — reveal in steps:** For 2x+3y=12 and 3x−2y=5, multiply first by2 and second by3:4x+6y=24,9x−6y=15; sum 13x=39, x=3,y=2. Verify 6+6=12 and 9−4=5.
+**Distinct worked model — reveal in steps:** For 2x+3y=12 and 3x−2y=5, multiply first by 2 and second by 3:4x+6y=24,9x−6y=15; sum 13x=39, x=3,y=2. Verify 6+6=12 and 9−4=5.
 
 **Misconception response and hint ladder:** If only a variable coefficient is multiplied, ask whether the equation remains equivalent; next scale every term including constant.
 

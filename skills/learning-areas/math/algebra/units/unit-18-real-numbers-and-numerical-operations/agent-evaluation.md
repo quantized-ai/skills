@@ -73,15 +73,15 @@ These are manual evaluation specifications, not results of completed student ses
 
 **Student probe:** A student claims −4+(−3)=12 because two negatives make a positive.
 
-**Required mathematical response:** That slogan belongs to multiplication, and this sum is−7. Ask whether quantities are being combined or multiplied; model leftward displacements before repeating a new calculation.
+**Required mathematical response:** That slogan belongs to multiplication, and this sum is −7. Ask whether quantities are being combined or multiplied; model leftward displacements before repeating a new calculation.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-2-signed-addition-subtraction-multiplication-and-division](lesson-2-signed-addition-subtraction-multiplication-and-division/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 
 ### Lesson 18.3: reasoning, repair and evidence
 
-**Student probe:** A student adds 1/2+1/3 as2/5.
+**Student probe:** A student adds 1/2+1/3 as 2/5.
 
-**Required mathematical response:** Parts differ in size; convert to sixths to get 5/6. Ask whether adding a positive 1/3 to1/2 could produce something less than 1/2; then build the common whole.
+**Required mathematical response:** Parts differ in size; convert to sixths to get 5/6. Ask whether adding a positive 1/3 to 1/2 could produce something less than 1/2; then build the common whole.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-3-factors-multiples-and-fraction-arithmetic](lesson-3-factors-multiples-and-fraction-arithmetic/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 
@@ -105,7 +105,7 @@ These are manual evaluation specifications, not results of completed student ses
 
 **Student probe:** 0.0048 is called four significant figures, counting leading zeros.
 
-**Required mathematical response:** It has two significant figures as written; leading zeros locate the decimal. Ask whether expressing it as4.8×10⁻³ changes information; retain intermediate precision.
+**Required mathematical response:** It has two significant figures as written; leading zeros locate the decimal. Ask whether expressing it as 4.8×10⁻³ changes information; retain intermediate precision.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-6-scientific-notation-estimation-and-precision](lesson-6-scientific-notation-estimation-and-precision/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 

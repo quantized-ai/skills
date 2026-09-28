@@ -18,7 +18,7 @@ Use the stated low-degree/family assumptions. Do not infer global identity, deri
 
 **Prompt:** A finite table fits a quadratic and is declared the only possible function. Construct a countermodel.
 
-**Agent-only reasoning:** Add a nonzero multiple of the product of(x−x_j) over all sampled inputs. It preserves every table entry but changes unobserved values; uniqueness needs a specified degree/family bound.
+**Agent-only reasoning:** Add a nonzero multiple of the product of (x−x_j) over all sampled inputs. It preserves every table entry but changes unobserved values; uniqueness needs a specified degree/family bound.
 
 Ask for the first unjustified step, invite a corrected explanation, and retain correct components of the original response. Then use a different representation or new case for independent evidence.
 

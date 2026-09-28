@@ -4,7 +4,7 @@ Read with [the curriculum](lesson.md), [shared interaction rules](../agent-guide
 
 ## Prerequisites and routing
 
-Check point distance and perpendicular line distance; distance from(2,5) to y=1 is 4. Review square completion only when converting a formula requires it.
+Check point distance and perpendicular line distance; distance from (2,5) to y=1 is 4. Review square completion only when converting a formula requires it.
 
 This lesson can be entered directly when its entry probe is secure; review only demonstrated gaps, not a mandatory sequence of unrelated units.
 
@@ -16,9 +16,9 @@ Restrict to nonrotated nondegenerate parabolas with the prescribed focus/directr
 
 **Purpose:** make the student test a consequential claim before accepting a procedure. Use after its relevant concept has been introduced; it is learning/practice evidence, not an unexposed assessment.
 
-**Prompt:** A learner places the vertex at focus(2,4) when directrix is y=0. Recover it geometrically.
+**Prompt:** A learner places the vertex at focus (2,4) when directrix is y=0. Recover it geometrically.
 
-**Agent-only reasoning:** The perpendicular projection is(2,0), so midpoint vertex(2,2),p=2, and equation(x−2)²=8(y−2).
+**Agent-only reasoning:** The perpendicular projection is (2,0), so midpoint vertex (2,2),p=2, and equation (x−2)²=8(y−2).
 
 Ask for the first unjustified step, invite a corrected explanation, and retain correct components of the original response. Then use a different representation or new case for independent evidence.
 
@@ -28,9 +28,9 @@ Curriculum reference: **A parabola as an equidistance locus** in [lesson.md](les
 
 ### Separate diagnostic
 
-**Prompt:** With focus(0,3) and directrix y=−1, where is the vertex?
+**Prompt:** With focus (0,3) and directrix y=−1, where is the vertex?
 
-**Agent-only key:** (0,1), the midpoint between the focus and its perpendicular projection(0,−1); p=2.
+**Agent-only key:** (0,1), the midpoint between the focus and its perpendicular projection (0,−1); p=2.
 
 Use the response to choose where to begin the teaching sequence. A correct short diagnostic does not establish the concept’s complete proficiency.
 
@@ -45,7 +45,7 @@ Reveal the explanation in the sequence below, asking the learner to justify a co
 ### Teaching sequence
 
 1. Draw the focus and perpendicular projection onto the directrix to identify vertex and axis.
-2. Express point-to-focus distance and perpendicular point-to-line distance for a general(x,y), using an absolute value for the latter.
+2. Express point-to-focus distance and perpendicular point-to-line distance for a general (x,y), using an absolute value for the latter.
 3. Square nonnegative distances, simplify to focal form and verify the signed opening with a known point.
 
 ### Practice progression
@@ -82,7 +82,7 @@ Curriculum reference: **Converting between vertex form and focal attributes** in
 
 **Prompt:** For y=2(x−3)²+1, is p=2?
 
-**Agent-only key:** No; p=1/(4a)=1/8, so focus(3,9/8) and directrix y=7/8.
+**Agent-only key:** No; p=1/(4a)=1/8, so focus (3,9/8) and directrix y=7/8.
 
 Use the response to choose where to begin the teaching sequence. A correct short diagnostic does not establish the concept’s complete proficiency.
 

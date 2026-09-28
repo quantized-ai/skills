@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** From 2x+y=9 write y=9−2x; substitute into 3x−2y=−4:3x−2(9−2x)=−4 gives 7x=14, x=2,y=5. Parentheses preserve the substituted expression; both originals then hold.
 
-**Misconception response and hint ladder:** If−2(9−2x) is mishandled, ask what whole expression equals y; next distribute after inserting parentheses.
+**Misconception response and hint ladder:** If −2(9−2x) is mishandled, ask what whole expression equals y; next distribute after inserting parentheses.
 
 **Practice progression:** Already isolated → isolate first → fractional/signed substitution. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -48,7 +48,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Systems y=2x+1 and 2y=4x+2 are dependent: all (x,2x+1) solve. Replacing the second with 2y=4x+3 yields 2=3 after substitution, so no pair solves. Retain the first relation when parameterizing an identity case.
 
-**Misconception response and hint ladder:** If0=0 means x=y=0, test that pair in the originals; next write one free variable and its linked partner.
+**Misconception response and hint ladder:** If 0=0 means x=y=0, test that pair in the originals; next write one free variable and its linked partner.
 
 **Practice progression:** Unique case → dependent parameterization → inconsistent case. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 

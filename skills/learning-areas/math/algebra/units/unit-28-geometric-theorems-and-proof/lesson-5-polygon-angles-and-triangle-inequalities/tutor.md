@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** A regular nonagon has exterior turn 360°/9=40° and interior 140°. Triangulating from one vertex gives 7 triangles, interior sum 1260°, agreeing 9·140°. For a concave simple polygon triangulation is still valid, but the naive fan may leave the polygon.
 
-**Misconception response and hint ladder:** If(n−2)180° is called each angle, ask how many angles share the sum; next divide only if equality is given.
+**Misconception response and hint ladder:** If (n−2)180° is called each angle, ask how many angles share the sum; next divide only if equality is given.
 
 **Practice progression:** Polygon sums → regular inverse problem → concave/simple conditions and exterior-turn reasoning. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 

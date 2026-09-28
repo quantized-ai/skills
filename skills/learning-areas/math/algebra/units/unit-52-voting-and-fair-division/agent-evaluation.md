@@ -96,7 +96,7 @@ Expected mathematical check: Equal surplus bonus is 10 each. Net payments are A=
 
 ## Adversarial transfer scenario
 
-**Student response to test:** A three-person cake result gives A35% of their own value but A values B’s share at 40%. The tutor calls the allocation envy-free because A got a third.
+**Student response to test:** A three-person cake result gives A 35% of their own value but A values B’s share at 40%. The tutor calls the allocation envy-free because A got a third.
 
 **Required behavior and mathematics:** Expected: A is proportional but envies B. Distinguish criteria, and do not extend the two-person divider-chooser envy-free guarantee to a general three-person proportional procedure.
 

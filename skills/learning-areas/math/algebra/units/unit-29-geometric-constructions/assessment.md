@@ -18,7 +18,7 @@ These original prompts and checked reasoning anchors calibrate mathematical accu
 
 **Prompt:** Construct a perpendicular through a point P on a line and through a point Q off it, then a parallel through Q. Test triangle sides 3,4,8 and 3,4,5 by intersecting circles.
 
-**Checked reasoning:** On-line P: mark equal distances A,B on either side and construct their perpendicular bisector. Off-line Q: draw a circle centered at Q intersecting the line at A,B, then construct AB's perpendicular bisector through Q. A perpendicular to that perpendicular through Q is parallel to the original line. With base length 8 and radii 3,4, circles are externally separated, so no triangle. With base 5 and radii 3,4, two intersections give reflected congruent triangles, since $1<5<7$.
+**Checked reasoning:** On-line P: mark equal distances A,B on either side and construct their perpendicular bisector. Off-line Q: draw a circle centered at Q intersecting the line at A,B, then construct AB's perpendicular bisector through Q. A perpendicular to that perpendicular through Q is parallel to the original line. With base length 8 and radii 3,4, circles are externally separated, so no triangle (with base 3 or 4 instead, one circle lies inside the other; still no triangle). With base 5 and radii 3,4, two intersections give reflected congruent triangles, since $1<5<7$.
 
 **Coverage limit:** Include on/off-line incidence, another exact construction method, circle containment, external/internal tangency and strict triangle bounds; a failed approximate sketch is not evidence of impossibility.
 

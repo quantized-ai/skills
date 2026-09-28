@@ -12,7 +12,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** Means 10 and 20 for groups of2 and 8 are combined as15. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** Means 10 and 20 for groups of 2 and 8 are combined as 15. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
 **Private reasoning and response:** Weighted mean 18 follows total 20+160 over 10. Ask whether each group contributes equal numbers; reconstruct totals before averaging.
 
@@ -22,7 +22,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Arithmetic and weighted means
 
-**Diagnostic — ask and wait:** Groups of2 and 8 have means 10 and 20. Combined mean?
+**Diagnostic — ask and wait:** Groups of 2 and 8 have means 10 and 20. Combined mean?
 
 **Private diagnostic key:** (2·10+8·20)/10=18, not 15.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Sort data; locate middle position (s); count frequencies independently; contrast sensitivity to moving an extreme.
 
-**Distinct worked model — reveal in steps:** Replace 12 by120: median and mode remain 2 while mean becomes 25.6. For 2,3,3,5,5,8 there are two modes 3 and 5; median 4 need not be observed. Report a declared convention for datasets with no repeated values.
+**Distinct worked model — reveal in steps:** Replace 12 by 120: median and mode remain 2 while mean becomes 25.6. For 2,3,3,5,5,8 there are two modes 3 and 5; median 4 need not be observed. Report a declared convention for datasets with no repeated values.
 
 **Misconception response and hint ladder:** If median means 'most frequent', ask which operation found it: position or frequency; next mark positions and counts separately.
 

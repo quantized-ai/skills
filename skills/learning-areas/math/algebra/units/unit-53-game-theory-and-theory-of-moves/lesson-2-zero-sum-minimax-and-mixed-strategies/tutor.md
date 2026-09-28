@@ -155,7 +155,7 @@ Reveal the explanation in the sequence below, asking the learner to justify a co
 
 ### Practice progression
 
-Optimize a2×3 lower envelope; transpose perspective for a3×2 upper envelope; then add an inactive line or a flat optimum and verify the selected mix's payoff against every original pure strategy.
+Optimize a 2×3 lower envelope; transpose perspective for a 3×2 upper envelope; then add an inactive line or a flat optimum and verify the selected mix's payoff against every original pure strategy.
 
 **Construction and verification controls:** Use 2×n and m×2 matrices, compare every feasible intersection/endpoint, include flat optima and irrelevant crossings, verify all pure responses.
 

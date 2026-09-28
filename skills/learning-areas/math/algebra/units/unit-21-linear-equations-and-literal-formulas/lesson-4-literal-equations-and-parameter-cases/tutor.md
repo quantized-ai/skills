@@ -12,9 +12,9 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** (a−1)x=a−1 is divided by a−1 for every a, yielding onlyx=1. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** (a−1)x=a−1 is divided by a−1 for every a, yielding only x=1. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** For a=1 the original is0=0, so every x. Ask the student to substitute the excluded coefficient value first; preserve the ordinary branch for a≠1.
+**Private reasoning and response:** For a=1 the original is 0=0, so every x. Ask the student to substitute the excluded coefficient value first; preserve the ordinary branch for a≠1.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 

@@ -32,7 +32,7 @@ Curriculum reference: **Change-of-base formula** in the [curriculum concept tabl
 
 **Diagnostic prompt:** Express $\log_5 7$ using natural logarithms and bound it.
 
-**Agent key:** $\ln7/\ln5$; it lies between 1 and 2 because 5<7<25.
+**Agent key:** $\ln7/\ln5$; it lies between 1 and 2 because 5<7<25. Any correct tighter bound is also acceptable, such as $1<\log_5 7<1.5$ because $5^{1.5}\approx11.18$.
 
 **Worked example:** Explain why $\ln5/\ln7$ gives a different logarithm.
 

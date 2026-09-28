@@ -81,7 +81,7 @@ These are specified scenarios for a future evaluator, not a report of executed l
 
 | Actual audit input | Expected judgment |
 | --- | --- |
-| I used outside radius0.50 m instead of internal0.48 m for a tank capacity and want to multiply my answer by an arbitrary correction factor. | Use measured wall thickness to revise the geometric input and state assumptions. Internal depth1.20 m gives about869 L; do not invent a fitted repair. |
-| I tested three fence widths and found 50 m² best, so it is the global optimum for20 m on three sides. | Preserve the feasible candidate and sampled comparisons; require a global bound such as $50-2(x-5)^2$ and a feasible equality case before claiming optimality. |
+| I used outside radius 0.50 m instead of internal 0.48 m for a tank capacity and want to multiply my answer by an arbitrary correction factor. | Use measured wall thickness to revise the geometric input and state assumptions. Internal depth 1.20 m gives about 869 L; do not invent a fitted repair. |
+| I tested three fence widths and found 50 m² best, so it is the global optimum for 20 m on three sides. | Preserve the feasible candidate and sampled comparisons; require a global bound such as $50-2(x-5)^2$ and a feasible equality case before claiming optimality. |
 
 After a mathematical hint, request a fresh retry using this unit's checked demand anchors. Pass only if the tutor records which decision was supplied and preserves the already demonstrated portions.

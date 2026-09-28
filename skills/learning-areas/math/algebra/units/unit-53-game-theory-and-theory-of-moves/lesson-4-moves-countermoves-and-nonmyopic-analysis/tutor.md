@@ -28,9 +28,9 @@ Curriculum reference: **Rules of the theory of moves** in [lesson.md](lesson.md#
 
 ### Separate diagnostic
 
-**Prompt:** Starting at(U,L), can Row's unilateral first move reach(U,R)?
+**Prompt:** Starting at (U,L), can Row's unilateral first move reach (U,R)?
 
-**Agent-only key:** No; Row can change only U to D, giving(D,L). Reaching(U,R) is Column's switch.
+**Agent-only key:** No; Row can change only U to D, giving (D,L). Reaching (U,R) is Column's switch.
 
 Use the response to choose where to begin the teaching sequence. A correct short diagnostic does not establish the concept’s complete proficiency.
 

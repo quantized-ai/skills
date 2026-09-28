@@ -47,13 +47,13 @@ These are manual evaluation specifications, not results of completed student ses
 
 **Student probe:** 'Three times the sum of x and 4' becomes 3x+4.
 
-**Required mathematical response:** Grouping requires 3(x+4). Test x=0 to expose 12 versus 4; ask which complete quantity is multiplied by3.
+**Required mathematical response:** Grouping requires 3(x+4). Test x=0 to expose 12 versus 4; ask which complete quantity is multiplied by 3.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-1-variables-and-expression-language](lesson-1-variables-and-expression-language/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 
 ### Lesson 20.2: reasoning, repair and evidence
 
-**Student probe:** A student simplifies x/x to1 and evaluates it at x=0.
+**Student probe:** A student simplifies x/x to 1 and evaluates it at x=0.
 
 **Required mathematical response:** Original expression excludes 0. Ask whether 0/0 names one number; the simplification is valid only on x≠0.
 
@@ -61,15 +61,15 @@ These are manual evaluation specifications, not results of completed student ses
 
 ### Lesson 20.3: reasoning, repair and evidence
 
-**Student probe:** −3(a−2) is expanded as−3a−6.
+**Student probe:** −3(a−2) is expanded as −3a−6.
 
-**Required mathematical response:** Both products must be taken:−3a+6. Ask for the product of−3 and −2, then check at a=0.
+**Required mathematical response:** Both products must be taken:−3a+6. Ask for the product of −3 and −2, then check at a=0.
 
 **Behavior check:** The tutor must first inspect the student's reason, use the lesson's specific hint if needed, and mark the attempt assisted once it teaches. Then request a fresh changed-case task from [lesson-3-properties-and-distributive-structure](lesson-3-properties-and-distributive-structure/tutor.md). Fail if it repeats the exposed worked example as independent assessment, credits an unobserved artifact/tool run, or reports the entire lesson secure while its case checklist still has gaps.
 
 ### Lesson 20.4: reasoning, repair and evidence
 
-**Student probe:** 2x+3x² is simplified to5x³.
+**Student probe:** 2x+3x² is simplified to 5x³.
 
 **Required mathematical response:** Addition combines only identical variable parts. At x=2, originals 16 and claimed 40 differ; ask which operation adds exponents for powers and why it is absent here.
 

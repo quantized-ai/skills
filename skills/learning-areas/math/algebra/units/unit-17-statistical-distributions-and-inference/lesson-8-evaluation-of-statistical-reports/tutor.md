@@ -28,7 +28,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Audit question, population, collection, displays, uncertainty and claim scope in order; identify the most consequential missing evidence before recomputing statistics.
 
-**Distinct worked model — reveal in steps:** A convenience sample of20 gym visitors has 16 supporting longer opening hours. Report 80% of respondents, identify target/frame mismatch and likely selection, and request a representative sampling plan. Do not invent a margin of error or announce 80% of all residents.
+**Distinct worked model — reveal in steps:** A convenience sample of 20 gym visitors has 16 supporting longer opening hours. Report 80% of respondents, identify target/frame mismatch and likely selection, and request a representative sampling plan. Do not invent a margin of error or announce 80% of all residents.
 
 **Misconception response and hint ladder:** If a polished chart is treated as validation, ask who supplied the data; next rewrite one claim with the correct sampled group. If the first prompt is insufficient, use the next indicated representation/setup; only then reveal one calculation or inference. Ask the student to finish the remaining reasoning.
 

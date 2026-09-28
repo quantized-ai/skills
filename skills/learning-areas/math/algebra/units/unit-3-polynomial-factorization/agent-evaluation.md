@@ -99,7 +99,7 @@ These reference probes may be used by reviewers; they are not default student qu
 
 ### Lesson 3.6: Substitution and a complete strategy — Quadratic structure in higher powers
 
-**Probe:** Factor $x^6+3x^3+2$.
+**Probe:** Factor $x^6+3x^3+2$ completely over the rationals.
 
 **Expected reasoning:** With $U=x^3$, obtain $(U+1)(U+2)$, then $(x+1)(x^2-x+1)(x^3+2)$. The last cubic has no rational root.
 

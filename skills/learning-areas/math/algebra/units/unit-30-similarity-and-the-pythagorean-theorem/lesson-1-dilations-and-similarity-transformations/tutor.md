@@ -22,13 +22,13 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Dilation properties
 
-**Diagnostic — ask and wait:** A dilation centered (1,2) has k=2. Image of(3,4)?
+**Diagnostic — ask and wait:** A dilation centered (1,2) has k=2. Image of (3,4)?
 
 **Private diagnostic key:** (5,6).
 
 **Teach in this order:** Use center-relative vectors; distinguish fixed center from invariant line; check length ratios and angle preservation; contrast 0<k<1 with k>1.
 
-**Distinct worked model — reveal in steps:** For C=(−1,1),k=1/2,P=(5,3), vector P −C=(6,2) halves to(3,1), so P′=(2,2). A line through C remains the same set, but P moves unless k=1 or P=C; other lines map to parallel lines.
+**Distinct worked model — reveal in steps:** For C=(−1,1),k=1/2,P=(5,3), vector P −C=(6,2) halves to (3,1), so P′=(2,2). A line through C remains the same set, but P moves unless k=1 or P=C; other lines map to parallel lines.
 
 **Misconception response and hint ladder:** If coordinates are multiplied about a nonorigin center, ask which point must stay fixed; next subtract C first.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Break composition into rigid and dilation steps; track intermediate points; invert in reverse order; test common length scale and angles.
 
-**Distinct worked model — reveal in steps:** Dilate about origin by3 then translate (2,−1): P=(1,2)→(3,6)→(5,5). Invert by subtracting translation then dividing by3. Distances scale 3 despite translation; correspondence determines which side ratios compare.
+**Distinct worked model — reveal in steps:** Dilate about origin by 3 then translate (2,−1): P=(1,2)→(3,6)→(5,5). Invert by subtracting translation then dividing by 3. Distances scale 3 despite translation; correspondence determines which side ratios compare.
 
 **Misconception response and hint ladder:** If inverse translation is divided before being removed, ask which action occurred last; next undo that action first.
 

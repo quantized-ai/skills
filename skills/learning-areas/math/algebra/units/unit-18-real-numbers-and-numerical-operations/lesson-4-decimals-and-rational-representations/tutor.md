@@ -26,11 +26,11 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Private diagnostic key:** 2.73.
 
-**Teach in this order:** Align place values for sums; connect decimal factors to powers of10; estimate magnitude before calculating.
+**Teach in this order:** Align place values for sums; connect decimal factors to powers of 10; estimate magnitude before calculating.
 
-**Distinct worked model — reveal in steps:** $0.24\times 0.5=(24/100)(5/10)=120/1000=0.12$. The result should be half of0.24; decimal placement follows place value, not an arbitrary digit count alone.
+**Distinct worked model — reveal in steps:** $0.24\times 0.5=(24/100)(5/10)=120/1000=0.12$. The result should be half of 0.24; decimal placement follows place value, not an arbitrary digit count alone.
 
-**Misconception response and hint ladder:** If0.24·0.5 becomes 1.2, ask whether multiplying by one-half should enlarge it; next rewrite as fractions.
+**Misconception response and hint ladder:** If 0.24·0.5 becomes 1.2, ask whether multiplying by one-half should enlarge it; next rewrite as fractions.
 
 **Practice progression:** Aligned addition/subtraction → multiplication/division → contextual estimate and exact check. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -44,7 +44,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Private diagnostic key:** yes,3/40=0.075; reduced denominator has only 2 and 5 factors.
 
-**Teach in this order:** Reduce fraction first; factor its denominator; connect powers of10 to2s and 5s; align repeating tails before subtracting.
+**Teach in this order:** Reduce fraction first; factor its denominator; connect powers of 10 to 2s and 5s; align repeating tails before subtracting.
 
 **Distinct worked model — reveal in steps:** Let x=0.\overline{36}. Then 100x=36.\overline{36}; subtract x to get 99x=36, so x=4/11. For 1/6, factor 3 in the reduced denominator prevents termination.
 

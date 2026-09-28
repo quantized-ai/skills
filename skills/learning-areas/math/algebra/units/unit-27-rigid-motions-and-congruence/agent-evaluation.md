@@ -45,7 +45,7 @@ These are manual evaluation specifications, not results of completed student ses
 
 ### Lesson 27.1: reasoning, repair and evidence
 
-**Student probe:** A90° rotation about (1,1) uses (−y,x) directly on every point.
+**Student probe:** A 90° rotation about (1,1) uses (−y,x) directly on every point.
 
 **Required mathematical response:** That rotates about origin, failing to fix (1,1). Subtract the center, rotate, then add it; ask first for the image of the center itself.
 

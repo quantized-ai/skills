@@ -27,3 +27,7 @@ If the host supports the Document environment and no environment is active, acti
 | [Lesson 28.5: Polygon angles and triangle inequalities](lesson-5-polygon-angles-and-triangle-inequalities/lesson.md) | [Tutor](lesson-5-polygon-angles-and-triangle-inequalities/tutor.md) |
 
 The [unit overview](unit.md) summarizes curriculum scope. Read [teaching sources](teaching-sources.md) for provenance; use [agent evaluation](agent-evaluation.md) when testing this tutoring package. Prerequisites outside the unit need a targeted explanation or a separately available curriculum; this skill does not package those units.
+
+## Loading files
+
+Request files with paths relative to this unit folder, which is the skill root. Resolve relative links before calling `retrieve_skill_file`: in a lesson's `tutor.md`, `lesson.md` is that lesson folder's curriculum file, and `../agent-guide.md`, `../assessment.md`, `../question-generation.md` and `../teaching-sources.md` are unit-root files, so request them without `../`. A `#section` link points to a heading inside the file; the whole file is returned.

@@ -72,7 +72,7 @@ Use the [concept teaching plan](lesson-2-solving-and-classifying-linear-inequali
 
 **Progression to vary:** Constant true/false → unknown-sign coefficient → parameter thresholds.
 
-**Reject/repair if these conditions are missing:** Exhaustive sign cases; no division by0; all/empty sets; original relation.
+**Reject/repair if these conditions are missing:** Exhaustive sign cases; no division by 0; all/empty sets; original relation.
 
 Use the [concept teaching plan](lesson-2-solving-and-classifying-linear-inequalities/tutor.md#constant-and-symbolic-coefficient-cases) for a separately keyed diagnostic, worked reasoning and specific misconception response. Choose a new combination of unknown, representation and boundary case; privately solve it before presentation.
 

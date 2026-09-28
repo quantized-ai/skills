@@ -12,7 +12,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** x≤3 is drawn with an open circle at3 and written (−∞,3). Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** x≤3 is drawn with an open circle at 3 and written (−∞,3). Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
 **Private reasoning and response:** Equality includes 3, so close the point and bracket the finite endpoint. Ask whether 3≤3 is true, then translate each representation.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Translate one endpoint at a time; place open/closed markers; verify a boundary input in each representation.
 
-**Distinct worked model — reveal in steps:** For −1≤x<4, interval[−1,4), set-builder{ x∈ℝ:−1≤x<4 }, and number line with closed −1/open 4 describe the same set. Infinity is never an included endpoint.
+**Distinct worked model — reveal in steps:** For −1≤x<4, interval [−1,4), set-builder{ x∈ℝ:−1≤x<4 }, and number line with closed −1/open 4 describe the same set. Infinity is never an included endpoint.
 
 **Misconception response and hint ladder:** If infinity receives a bracket, ask whether infinity is an actual real member; next distinguish unbounded direction from endpoint.
 

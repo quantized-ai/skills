@@ -12,7 +12,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** A90° rotation about (1,1) uses (−y,x) directly on every point. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** A 90° rotation about (1,1) uses (−y,x) directly on every point. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
 **Private reasoning and response:** That rotates about origin, failing to fix (1,1). Subtract the center, rotate, then add it; ask first for the image of the center itself.
 
@@ -30,7 +30,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Distinct worked model — reveal in steps:** Under S(x,y)=(2x,y), directions (1,1),(1,−1) have perpendicular slopes 1 and −1. Their images (2,1),(2,−1) have slopes 1/2 and −1/2, whose product −1/4 is not −1, so the lines are no longer perpendicular. A translation changes neither coordinate differences nor pairwise distances.
 
-**Misconception response and hint ladder:** If same appearance implies isometry, ask whether a unit segment stays unit; next compute the image of(0,0),(1,0).
+**Misconception response and hint ladder:** If same appearance implies isometry, ask whether a unit segment stays unit; next compute the image of (0,0),(1,0).
 
 **Practice progression:** Point images → invariant tests → distinguish rigid, uniform dilation and directional stretch. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Define mirror through perpendicular-bisector condition; compute image geometrically; contrast with common displacement of a translation.
 
-**Distinct worked model — reveal in steps:** Reflect P=(5,1) across vertical line x=2: its horizontal distance 3 is reversed, giving P′=(−1,1). Segment PP′ is horizontal, perpendicular to mirror, and midpoint (2,1) lies on mirror. Translation by(−4,3) instead sends P to(1,4).
+**Distinct worked model — reveal in steps:** Reflect P=(5,1) across vertical line x=2: its horizontal distance 3 is reversed, giving P′=(−1,1). Segment PP′ is horizontal, perpendicular to mirror, and midpoint (2,1) lies on mirror. Translation by (−4,3) instead sends P to (1,4).
 
 **Misconception response and hint ladder:** If reflection changes both signs regardless of mirror, ask where the mirror's fixed points lie; next test a point on that mirror.
 
@@ -64,7 +64,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Translate center to origin; apply directed rotation; translate back; check radius and angle orientation.
 
-**Distinct worked model — reveal in steps:** Rotate P=(4,2)90° counterclockwise about C=(1,1). Relative vector (3,1) becomes (−1,3); adding C gives P′=(0,4). Both radii have length √10 and directed turn is90°.
+**Distinct worked model — reveal in steps:** Rotate P=(4,2)90° counterclockwise about C=(1,1). Relative vector (3,1) becomes (−1,3); adding C gives P′=(0,4). Both radii have length √10 and directed turn is 90°.
 
 **Misconception response and hint ladder:** If origin rules are used without recentering, ask which point must remain fixed; next compute P−C first.
 

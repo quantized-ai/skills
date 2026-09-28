@@ -14,7 +14,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 **Ask:** 'Three times the sum of x and 4' becomes 3x+4. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** Grouping requires 3(x+4). Test x=0 to expose 12 versus 4; ask which complete quantity is multiplied by3.
+**Private reasoning and response:** Grouping requires 3(x+4). Test x=0 to expose 12 versus 4; ask which complete quantity is multiplied by 3.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -28,7 +28,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Read outermost operation first; mark additive terms and multiplicative factors; attach signs to coefficients; distinguish variable from exponent.
 
-**Distinct worked model — reveal in steps:** In2(x+4), the outer structure is a product of2 and (x+4), while inside is a sum. Expanding gives 2x+8, but the unexpanded factors remain useful for interpreting two equal groups.
+**Distinct worked model — reveal in steps:** In2(x+4), the outer structure is a product of 2 and (x+4), while inside is a sum. Expanding gives 2x+8, but the unexpanded factors remain useful for interpreting two equal groups.
 
 **Misconception response and hint ladder:** If x+4 is called two factors, ask what operation joins them; next contrast (x+4) and 4x.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Identify quantity order and grouping words; write a verbal operation tree; test the expression with a simple value.
 
-**Distinct worked model — reveal in steps:** 'Three times the sum of p and 7' is3(p+7). By contrast, 'the sum of three times p and 7' is3p+7. At p=1 they give 24 and 10, exposing the role of grouping.
+**Distinct worked model — reveal in steps:** 'Three times the sum of p and 7' is 3(p+7). By contrast, 'the sum of three times p and 7' is 3p+7. At p=1 they give 24 and 10, exposing the role of grouping.
 
 **Misconception response and hint ladder:** If 'less than' order is reversed, ask what amount is being reduced; next use a concrete n before returning to symbols.
 

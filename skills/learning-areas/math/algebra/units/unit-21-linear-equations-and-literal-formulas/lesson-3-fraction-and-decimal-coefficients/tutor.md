@@ -12,9 +12,9 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 ## Reasoning and error-analysis activity
 
-**Ask:** Multiplying x/2+1=4 by2 givesx+1=4. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
+**Ask:** Multiplying x/2+1=4 by 2 gives x+1=4. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** Correct scaling givesx+2=8, sox=6. Ask which terms were left unscaled; use original substitution to rejectx=3.
+**Private reasoning and response:** Correct scaling gives x+2=8, so x=6. Ask which terms were left unscaled; use original substitution to reject x=3.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -28,7 +28,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Identify LCD; multiply the entire equality; retain grouped numerators; solve and verify with fractions.
 
-**Distinct worked model — reveal in steps:** $(x-1)/4+(x+1)/6=2$ multiplied entirely by12 becomes 3(x−1)+2(x+1)=24, then 5x−1=24 and x=5. Both denominators are fixed nonzero numbers; every term must be scaled.
+**Distinct worked model — reveal in steps:** $(x-1)/4+(x+1)/6=2$ multiplied entirely by 12 becomes 3(x−1)+2(x+1)=24, then 5x−1=24 and x=5. Both denominators are fixed nonzero numbers; every term must be scaled.
 
 **Misconception response and hint ladder:** If only fraction terms are multiplied, ask what happens to the other side; next mark one multiplication over the whole equation.
 
@@ -44,9 +44,9 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Private diagnostic key:** x=7.
 
-**Teach in this order:** Determine decimal place scale; multiply every term by one power of10; solve exact integers; distinguish exact stated decimals from measured approximations.
+**Teach in this order:** Determine decimal place scale; multiply every term by one power of 10; solve exact integers; distinguish exact stated decimals from measured approximations.
 
-**Distinct worked model — reveal in steps:** $0.15x+0.4=1.3$ multiplied by100 gives 15x+40=130, then x=6. These are exact decimal coefficients as stated; rounding 0.15 to0.2 changes the equation.
+**Distinct worked model — reveal in steps:** $0.15x+0.4=1.3$ multiplied by 100 gives 15x+40=130, then x=6. These are exact decimal coefficients as stated; rounding 0.15 to 0.2 changes the equation.
 
 **Misconception response and hint ladder:** If only x's coefficient is scaled, ask whether the equality is unchanged; next rewrite all decimals as fractions over 100.
 

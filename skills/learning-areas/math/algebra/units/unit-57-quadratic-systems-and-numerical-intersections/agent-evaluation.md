@@ -48,7 +48,7 @@ Expected mathematical check: First comparison reduces to 2x=0, so intersection (
 
 ## Adversarial transfer scenario
 
-**Student response to test:** A numerical routine sees opposite signs for 1/x at−1 and 1 and returns 0 as an approximate zero.
+**Student response to test:** A numerical routine sees opposite signs for 1/x at −1 and 1 and returns 0 as an approximate zero.
 
 **Required behavior and mathematics:** Expected: reject the bracket because continuity/domain fail at 0, which is undefined and not a root. Do not present bisection convergence toward a discontinuity as mathematical success.
 

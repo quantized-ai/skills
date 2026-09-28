@@ -80,7 +80,7 @@ Curriculum reference: **Weighted coalitions and Banzhaf power** in [lesson.md](l
 
 ### Separate diagnostic
 
-**Prompt:** In quota[4:3,1,1], is voter A critical in coalition ABC of weight 5?
+**Prompt:** In quota [4:3,1,1], is voter A critical in coalition ABC of weight 5?
 
 **Agent-only key:** Yes; removing A leaves weight 2 below 4. Either smaller voter alone is not critical there because removing it leaves 4.
 

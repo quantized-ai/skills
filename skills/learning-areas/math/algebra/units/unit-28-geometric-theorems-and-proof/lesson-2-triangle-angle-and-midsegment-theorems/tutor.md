@@ -58,7 +58,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 ### Triangle midsegments
 
-**Diagnostic — ask and wait:** A midsegment is7 long. Third side?
+**Diagnostic — ask and wait:** A midsegment is 7 long. Third side?
 
 **Private diagnostic key:** 14, provided both endpoints are side midpoints.
 

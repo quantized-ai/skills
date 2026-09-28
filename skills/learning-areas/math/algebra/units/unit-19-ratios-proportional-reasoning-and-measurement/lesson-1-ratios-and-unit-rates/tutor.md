@@ -14,7 +14,7 @@ In **learn**, honor a direct explanation request immediately with the relevant t
 
 **Ask:** Flour:water=5:3 is interpreted as flour being 5/3 of the total. Ask the student to locate the first invalid inference, repair the reasoning, and explain a check or counterexample.
 
-**Private reasoning and response:** Total has 8 ratio parts, so flour is5/8. Draw the two parts of the whole; follow with a unit-rate question to check denominator interpretation in a new setting.
+**Private reasoning and response:** Total has 8 ratio parts, so flour is 5/8. Draw the two parts of the whole; follow with a unit-rate question to check denominator interpretation in a new setting.
 
 If the student gives only a corrected answer, ask why the original method failed. If the reason is secure, request a different example where the distinction matters. If they remain stuck, use the targeted response below for the relevant concept and mark the attempt assisted.
 
@@ -28,9 +28,9 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Name both ordered quantities; distinguish part-to-part from part-to-whole; scale a ratio table together.
 
-**Distinct worked model — reveal in steps:** A mix uses flour:water=5:3. With 24 cups total, eight ratio parts correspond to3 cups each, so flour 15 and water 9. Check both sum and ratio;5/3 is not the flour fraction of the whole.
+**Distinct worked model — reveal in steps:** A mix uses flour:water=5:3. With 24 cups total, eight ratio parts correspond to 3 cups each, so flour 15 and water 9. Check both sum and ratio;5/3 is not the flour fraction of the whole.
 
-**Misconception response and hint ladder:** If5/3 of the total is used, ask how many ratio parts form the whole; next draw 5+3 equal parts.
+**Misconception response and hint ladder:** If 5/3 of the total is used, ask how many ratio parts form the whole; next draw 5+3 equal parts.
 
 **Practice progression:** Simplify ratios → missing equivalent part → reconstruct a total. Change a meaningful case or representation before increasing arithmetic size. Reuse the student's error as the focus of a new task, not by repeating an exposed answer.
 
@@ -46,7 +46,7 @@ If the student gives only a corrected answer, ask why the original method failed
 
 **Teach in this order:** Choose the desired 'per' quantity; divide with units; compare rates in a common orientation and unit.
 
-**Distinct worked model — reveal in steps:** Travel 150 km in2.5 hours gives 60 km/h. In reciprocal form this is1/60 hour/km, not 60 hours/km. Both unit rates describe the same relationship with different meanings.
+**Distinct worked model — reveal in steps:** Travel 150 km in2.5 hours gives 60 km/h. In reciprocal form this is 1/60 hour/km, not 60 hours/km. Both unit rates describe the same relationship with different meanings.
 
 **Misconception response and hint ladder:** If cheaper package implies cheaper unit cost, ask whether package sizes match; next divide each cost by its own amount.
 

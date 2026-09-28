@@ -19,7 +19,7 @@ For each lesson below, present its reference question as an agent-audit task. Re
 
 **Audit input:** Analyze y=2sec(3(x-π/6))-1.
 
-**Expected mathematical response:** Period $2\pi/3$; asymptotes solve $3(x-\pi/6)=\pi/2+k\pi$, giving $x=\pi/3+k\pi/3$. Range $(-\infty,-3]\cup[1,\infty)$. Parent point (0,1) maps to (π/6,1).
+**Expected mathematical response:** Period $2\pi/3$; asymptotes solve $3(x-\pi/6)=\pi/2+k\pi$, giving $x=\pi/3+k\pi/3$, equivalently $x=k\pi/3$. Range $(-\infty,-3]\cup[1,\infty)$. Parent point (0,1) maps to (π/6,1).
 
 **Stress variation:** Include negative scales and shifted reciprocal graphs; map domains and vertices instead of reading an amplitude for unbounded secant.
 
